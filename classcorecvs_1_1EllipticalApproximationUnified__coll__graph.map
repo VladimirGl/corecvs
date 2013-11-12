@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node6" href="$classcorecvs_1_1AbstractBuffer.html" title="This is a common buffer template." alt="" coords="252,197,345,227"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1Matrix.html" title="corecvs::Matrix" alt="" coords="240,304,357,333"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1AbstractBufferParams.html" title="This is a basis part of the AbstractBuffer template &#45; serializable buffer params." alt="" coords="174,101,393,131"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1ObjectRef.html" title="corecvs::ObjectRef\&lt; uint8_t \&gt;" alt="" coords="417,101,630,131"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1ObjectBlock.html" title="corecvs::ObjectBlock\&lt; uint8_t \&gt;" alt="" coords="410,5,637,35"/>
+</map>

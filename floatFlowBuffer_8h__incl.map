@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="425,1011,497,1040"/>
+<area shape="rect" id="node9" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="1475,701,1565,731"/>
+<area shape="rect" id="node40" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="1500,469,1593,499"/>
+<area shape="rect" id="node53" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="648,547,837,576"/>
+<area shape="rect" id="node100" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="715,392,808,421"/>
+<area shape="rect" id="node113" href="$kltGenerator_8h.html" title="Add Comment Here." alt="" coords="868,83,980,112"/>
+<area shape="rect" id="node157" href="$preciseInterpolationType_8h.html" title="preciseInterpolationType.h" alt="" coords="2752,856,2939,885"/>
+<area shape="rect" id="node159" href="$makePreciseParameters_8h.html" title="makePreciseParameters.h" alt="" coords="2295,779,2484,808"/>
+<area shape="rect" id="node16" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="1840,779,1944,808"/>
+<area shape="rect" id="node20" href="$vectorOperations_8h.html" title="This file holds the operations that are commonly used with continuous linear data structures such as ..." alt="" coords="1696,856,1840,885"/>
+<area shape="rect" id="node27" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="2067,933,2160,963"/>
+<area shape="rect" id="node45" href="$punchedBufferOperations_8h.html" title="Add Comment Here." alt="" coords="1448,624,1645,653"/>
+<area shape="rect" id="node85" href="$flowVector_8h.html" title="a header for FlowVector.c" alt="" coords="1923,624,2021,653"/>
+<area shape="rect" id="node89" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="1840,547,1931,576"/>
+<area shape="rect" id="node49" href="$tbbWrapper_8h.html" title="This is a class that provides common TBB interface." alt="" coords="1589,701,1696,731"/>
+<area shape="rect" id="node56" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="1016,624,1139,653"/>
+<area shape="rect" id="node66" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="663,856,841,885"/>
+<area shape="rect" id="node77" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="535,856,631,885"/>
+<area shape="rect" id="node74" href="$atomicOps_8h.html" title="atomicOps.h" alt="" coords="691,933,792,963"/>
+<area shape="rect" id="node95" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="1232,624,1323,653"/>
+<area shape="rect" id="node106" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="789,469,939,499"/>
+<area shape="rect" id="node115" href="$mipmapPyramid_8h.html" title="a header for MidmapPyramid.cpp" alt="" coords="283,392,421,421"/>
+<area shape="rect" id="node127" href="$integralBuffer_8h.html" title="А header for IntergalBuffer.c." alt="" coords="968,237,1085,267"/>
+<area shape="rect" id="node144" href="$interpolator_8h.html" title="Add Comment Here." alt="" coords="465,315,572,344"/>
+<area shape="rect" id="node148" href="$spatialGradient_8h.html" title="Add Comment Here." alt="" coords="961,160,1092,189"/>
+<area shape="rect" id="node120" href="$gaussian_8h.html" title="Add Comment Here." alt="" coords="245,469,336,499"/>
+<area shape="rect" id="node123" href="$abstractKernel_8h.html" title="This class holds a convolution kernel." alt="" coords="296,547,421,576"/>
+<area shape="rect" id="node133" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="984,315,1069,344"/>
+<area shape="rect" id="node162" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="2117,856,2235,885"/>
+<area shape="rect" id="node167" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="2309,856,2424,885"/>
+<area shape="rect" id="node171" href="$makePreciseAlgorithm_8h.html" title="makePreciseAlgorithm.h" alt="" coords="2448,856,2627,885"/>
+</map>

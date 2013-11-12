@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classHistogramWidget.html#a7d5f2c4cb5b5594a26809f59ac78e71a" title="HistogramWidget::drawGrid" alt="" coords="284,5,479,35"/>
+<area shape="rect" id="node5" href="$classHistogramWidget.html#a1107cd1925b6a5302216d799ae70fcff" title="HistogramWidget::toRelative" alt="" coords="549,32,752,61"/>
+<area shape="rect" id="node7" href="$classHistogramWidget.html#afcdd018cda85774fbfa6e60c24553342" title="HistogramWidget::getBarByX" alt="" coords="279,109,484,139"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Histogram.html#a5968f605f6d1bfdde72a2d6282b14524" title="corecvs::Histogram::getData" alt="" coords="279,163,484,192"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Histogram.html#aa6217aa4007d26703e8aa70b034ca4dc" title="corecvs::Histogram::getMaximum" alt="" coords="263,216,500,245"/>
+<area shape="rect" id="node13" href="$classHistogramWidget.html#addc53e0ea50fa0624999a9f04e7aa93d" title="HistogramWidget::toAbsolute" alt="" coords="277,269,485,299"/>
+</map>

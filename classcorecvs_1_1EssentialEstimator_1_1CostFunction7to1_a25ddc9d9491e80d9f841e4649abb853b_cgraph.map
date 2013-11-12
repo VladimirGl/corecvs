@@ -1,0 +1,45 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="2365,493,2597,523"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1EssentialMatrix.html#ae342cbde213342e31537d48ed0103f93" title="The inliers calculation is as follows: ." alt="" coords="829,59,1120,88"/>
+<area shape="rect" id="node24" href="$classcorecvs_1_1EssentialEstimator.html#a511285b5cc9ef98ccb7becda5087d008" title="corecvs::EssentialEstimator::getEssential" alt="" coords="455,795,737,824"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Matrix33.html#a9eb3a36d48aa0b715f5302febf79ea06" title="corecvs::Matrix33::mulBy2dLeft" alt="" coords="1304,163,1525,192"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1Line2d.html#aaa37e276ada53bd9ba9a91d08d3cc0dd" title="corecvs::Line2d::distanceTo" alt="" coords="1317,59,1512,88"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="1768,163,1917,192"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="1768,216,1917,245"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1VectorOperationsBase.html#acfcd4bcc60d1d076b00afcfeba9f9e8b" title="Euclidean distance." alt="" coords="1703,376,1983,405"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Line2d.html#af2129b77f7bfa024b387a8d958deb1b3" title="corecvs::Line2d::normal" alt="" coords="2105,59,2279,88"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1Line2d.html#a3b0cea19b23ecca90c69a7efe83ceb4c" title="corecvs::Line2d::pointWeight" alt="" coords="1741,7,1944,36"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1Line2d.html#a04ce9e0c5d9195027ec0fcc8093b8289" title="corecvs::Line2d::last" alt="" coords="2116,5,2268,35"/>
+<area shape="rect" id="node26" href="$classcorecvs_1_1EssentialEstimator.html#ab0284e0fa94b60b6ac5835b9366ada1a" title="corecvs::EssentialEstimator::getEssentialGrad" alt="" coords="817,901,1132,931"/>
+<area shape="rect" id="node71" href="$classcorecvs_1_1EssentialEstimator.html#ae87186f8c55a91f772c812853fcade62" title="corecvs::EssentialEstimator::getEssentialLM" alt="" coords="824,848,1125,877"/>
+<area shape="rect" id="node90" href="$classcorecvs_1_1EssentialEstimator.html#a1db17322c1ac1d75389f5321c3795c61" title="Both essential and fundamental matrices can be searched with 8 point algorithm." alt="" coords="1261,296,1568,325"/>
+<area shape="rect" id="node102" href="$classcorecvs_1_1EssentialEstimator.html#aaf2843585a01f38d26a4ff1dde226ddd" title="corecvs::EssentialEstimator::getEssentialSimpleKalman" alt="" coords="787,795,1163,824"/>
+<area shape="rect" id="node28" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunctionBase.html#a160b8efefc233e2ab31c7795f966ae00" title="corecvs::EssentialEstimator::CostFunctionBase::getEssential" alt="" coords="1212,848,1617,877"/>
+<area shape="rect" id="node42" href="$classcorecvs_1_1GradientDescent.html#af871aeaa7efc3f6dde9ff8925d1f7cf2" title="corecvs::GradientDescent::minimise" alt="" coords="1288,769,1541,799"/>
+<area shape="rect" id="node54" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunctionBase.html#a0b00036a507b64f23da94e458e14614a" title="corecvs::EssentialEstimator::CostFunctionBase::packState" alt="" coords="1219,927,1611,956"/>
+<area shape="rect" id="node67" href="$classcorecvs_1_1GenericQuaternion.html#aa76740d91bfbad4bba1d0f5019c3f251" title="corecvs::GenericQuaternion::RotationIdentity" alt="" coords="1261,980,1568,1009"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1EssentialMatrix.html#a4dcc90bc82b49e6288587a6c1e420eed" title="Returns the essential matrix based on the rotation and the shift of the camera ." alt="" coords="1721,848,1964,877"/>
+<area shape="rect" id="node32" href="$classcorecvs_1_1Matrix33.html#abb6059469c451723cc7ddb58fcfcfb0c" title="Produce matrix that is equal to vector product with the given vector to the left." alt="" coords="2067,981,2317,1011"/>
+<area shape="rect" id="node34" href="$classcorecvs_1_1Matrix33.html#a47c909b671a7ae90b386b56c8706d3a5" title="corecvs::Matrix33::Matrix33" alt="" coords="2383,981,2580,1011"/>
+<area shape="rect" id="node36" href="$classcorecvs_1_1Vector3d.html#aec83d9ad04107cd9c2bb11abf33128c0" title="Helper functions to access elements." alt="" coords="2407,1204,2556,1233"/>
+<area shape="rect" id="node38" href="$classcorecvs_1_1Vector3d.html#a940d88447f20fac800d1fa510c981275" title="corecvs::Vector3d::y" alt="" coords="2407,909,2556,939"/>
+<area shape="rect" id="node40" href="$classcorecvs_1_1Vector3d.html#a4587f5d4984576c5c4c2d44a4140ce3f" title="corecvs::Vector3d::z" alt="" coords="2407,1073,2556,1103"/>
+<area shape="rect" id="node44" href="$classcorecvs_1_1Matrix.html#a5b8b00c8bfc66549652e6c0610457254" title="The element getter for a matrix that is used like vector (i.e has height or width of 1)..." alt="" coords="2125,493,2259,523"/>
+<area shape="rect" id="node47" href="$classcorecvs_1_1FunctionArgs.html#a0e1d36ff216147d20b3bc81e4d2a0143" title="This function computes Jacobian ." alt="" coords="1721,637,1964,667"/>
+<area shape="rect" id="node52" href="$classcorecvs_1_1FixedArrayBase.html#abea4ed304b5caa5355e5707cbe408468" title="corecvs::FixedArrayBase::size" alt="" coords="1737,744,1948,773"/>
+<area shape="rect" id="node50" href="$classcorecvs_1_1FunctionArgs.html#a241e7a53fb4c98f8181db1a6d94765a6" title="Operator that computes funсtion." alt="" coords="2075,637,2309,667"/>
+<area shape="rect" id="node56" href="$classcorecvs_1_1GenericQuaternion.html#a050eb3f5c915b00c484f06d7565475c8" title="corecvs::GenericQuaternion::x" alt="" coords="1736,952,1949,981"/>
+<area shape="rect" id="node58" href="$classcorecvs_1_1GenericQuaternion.html#a700b900b3421d779243e9fba7db5b3b0" title="corecvs::GenericQuaternion::y" alt="" coords="1736,1005,1949,1035"/>
+<area shape="rect" id="node60" href="$classcorecvs_1_1GenericQuaternion.html#a276bb5600f5b8111a459b85aad641d6d" title="corecvs::GenericQuaternion::z" alt="" coords="1736,1059,1949,1088"/>
+<area shape="rect" id="node62" href="$classcorecvs_1_1GenericQuaternion.html#a1425fc56ee78d718b584f902e120251c" title="corecvs::GenericQuaternion::t" alt="" coords="1737,1112,1948,1141"/>
+<area shape="rect" id="node69" href="$classcorecvs_1_1GenericQuaternion.html#aafa4edb6b3a03bdaff1a0c43142d01f5" title="corecvs::GenericQuaternion::GenericQuaternion" alt="" coords="1680,1267,2005,1296"/>
+<area shape="rect" id="node73" href="$classcorecvs_1_1LevenbergMarquardt.html#aaf1a9f35927ce33827590ca21895aa34" title="Marquardt&#45;Levenberg algoritim is a fast optimisation algorithm." alt="" coords="1299,637,1531,667"/>
+<area shape="rect" id="node77" href="$classcorecvs_1_1Matrix.html#aeb56de4494cc7520a587548b3c330084" title="This function returns an inverse of the matrix." alt="" coords="1771,533,1915,563"/>
+<area shape="rect" id="node82" href="$classcorecvs_1_1VectorOperationsBase.html#a986cf0226b5fb2db721bde532685b66e" title="Sum of the squares of element of the vector." alt="" coords="1668,691,2017,720"/>
+<area shape="rect" id="node84" href="$classcorecvs_1_1Matrix.html#ae23aa5c2e50e7913de6aa4c703d4efa4" title="corecvs::Matrix::t" alt="" coords="1777,480,1908,509"/>
+<area shape="rect" id="node92" href="$classcorecvs_1_1Matrix33.html#a8596ffc77b92da2876c22900c02e9bec" title="Geting Matrix element functions block." alt="" coords="1768,323,1917,352"/>
+<area shape="rect" id="node95" href="$classcorecvs_1_1Matrix.html#ab00a85b071aab144f3a2860189150e7f" title="This method contains SVD implementation." alt="" coords="1769,269,1916,299"/>
+<area shape="rect" id="node98" href="$classcorecvs_1_1Vector2d.html#ab49b551bd23cad02283d6506884bef72" title="corecvs::Vector2d::getLengthStable" alt="" coords="2067,269,2317,299"/>
+<area shape="rect" id="node106" href="$classcorecvs_1_1ClassicKalman.html#ab4a5c11dce15f84d542b3d0dbb082c96" title="Prediction for Kalman." alt="" coords="1304,531,1525,560"/>
+<area shape="rect" id="node111" href="$classcorecvs_1_1ClassicKalman.html#adf82f377b2c9f234a4b606e5b4c564d8" title="Innovation for Kalman." alt="" coords="1303,584,1527,613"/>
+</map>

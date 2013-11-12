@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1StrPair.html#aa6d8998efceba41d87ec2300c70a6085" title="tinyxml2::StrPair::ParseName" alt="" coords="312,5,520,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1StrPair.html#ad90521f188e9606a8fbafe5d86fb2246" title="tinyxml2::StrPair::ParseText" alt="" coords="319,59,513,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLUtil.html#a9333d20f2a34325b5115ca45849c4b2a" title="tinyxml2::XMLUtil::SkipWhiteSpace" alt="" coords="296,112,536,141"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLUtil.html#a24ba87b1d22528167a3d16c4f52096bf" title="tinyxml2::XMLUtil::IsUTF8Continuation" alt="" coords="584,112,845,141"/>
+</map>

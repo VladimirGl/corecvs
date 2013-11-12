@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLElement.html#aaf46b0799ea419e5d070ac9a357de48f" title="Query a specific attribute in the list." alt="" coords="281,57,532,87"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="583,5,793,35"/>
+<area shape="rect" id="node12" href="$classtinyxml2_1_1XMLAttribute.html#adf884db24f469f8a99a14ae786d4ddd7" title="The value of the attribute." alt="" coords="303,111,511,140"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLAttribute.html#a631990ac0d176e38fc291b17b295a62d" title="The name of the attribute." alt="" coords="581,59,795,88"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="843,85,1019,115"/>
+</map>

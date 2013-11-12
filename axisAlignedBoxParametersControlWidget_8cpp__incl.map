@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$axisAlignedBoxParametersControlWidget_8h.html" title="axisAlignedBoxParametersControlWidget.h" alt="" coords="411,83,704,112"/>
+<area shape="rect" id="node45" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="916,237,1097,267"/>
+<area shape="rect" id="node61" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="1121,237,1305,267"/>
+<area shape="rect" id="node7" href="$axisAlignedBoxParameters_8h.html" title="generated/axisAlignedBoxParameters.h" alt="" coords="144,160,419,189"/>
+<area shape="rect" id="node39" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="443,160,672,189"/>
+<area shape="rect" id="node9" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="412,315,505,344"/>
+<area shape="rect" id="node27" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="23,237,140,267"/>
+<area shape="rect" id="node33" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="164,237,279,267"/>
+<area shape="rect" id="node23" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="189,392,261,421"/>
+<area shape="rect" id="node55" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="748,237,892,267"/>
+<area shape="rect" id="node67" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="577,237,724,267"/>
+<area shape="rect" id="node49" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="852,315,983,344"/>
+</map>

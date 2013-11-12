@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseHostDialog.html#a34dae5e98b718534256d2728db0a7517" title="BaseHostDialog::camerasParamsChanged" alt="" coords="381,32,675,61"/>
+<area shape="rect" id="node15" href="$classDistortionWidget.html#a79577eb6f6044f9a7c6f4b3bfcb83aae" title="DistortionWidget::distortionCorrectionTransform" alt="" coords="367,85,689,115"/>
+<area shape="rect" id="node17" href="$classFrames.html#a574575a77ec087df67dd270caa832edc" title="Frames::getCurrentFrame" alt="" coords="435,139,621,168"/>
+<area shape="rect" id="node5" href="$classBaseHostDialog.html#a948845662aec80c962ab678a65933635" title="BaseHostDialog::camerasParametersChanged" alt="" coords="740,5,1057,35"/>
+<area shape="rect" id="node7" href="$classBaseHostDialog.html#a1a861685bf1ca4f0908455ccd5708b89" title="BaseHostDialog::getAdditionalParams" alt="" coords="767,59,1031,88"/>
+<area shape="rect" id="node9" href="$classCamerasConfigParameters.html#a0df22efe1bdbe8d27451ac4c2935f90b" title="CamerasConfigParameters::setInputsN" alt="" coords="1145,5,1415,35"/>
+<area shape="rect" id="node11" href="$classCamerasConfigParameters.html#a890e5fb11deace781510efc7ef7460e5" title="CamerasConfigParameters::setRectifierData" alt="" coords="1129,59,1431,88"/>
+<area shape="rect" id="node13" href="$classCamerasConfigParameters.html#a94ebef3c7cf7693491aba2e149c33c6b" title="CamerasConfigParameters::setDistortionTransform" alt="" coords="1107,112,1453,141"/>
+</map>

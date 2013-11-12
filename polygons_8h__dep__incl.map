@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$polygons_8cpp.html" title="Add Comment Here." alt="" coords="5,83,208,112"/>
+<area shape="rect" id="node5" href="$homographyReconstructor_8h.html" title="Add Comment Here." alt="" coords="232,83,549,112"/>
+<area shape="rect" id="node9" href="$paintImageWidget_8h.html" title="utils/uis/paintImageWidget.h" alt="" coords="580,83,780,112"/>
+<area shape="rect" id="node7" href="$homographyReconstructor_8cpp.html" title="Add Comment Here." alt="" coords="217,160,548,189"/>
+<area shape="rect" id="node11" href="$paintImageWidget_8cpp.html" title="utils/uis/paintImageWidget.cpp" alt="" coords="572,160,788,189"/>
+<area shape="rect" id="node13" href="$pointsRectificationWidget_8h.html" title="utils/uis/pointsRectificationWidget.h" alt="" coords="812,160,1055,189"/>
+<area shape="rect" id="node15" href="$pointsRectificationWidget_8cpp.html" title="utils/uis/pointsRectificationWidget.cpp" alt="" coords="664,237,923,267"/>
+<area shape="rect" id="node17" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="947,237,1197,267"/>
+<area shape="rect" id="node19" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="695,315,959,344"/>
+<area shape="rect" id="node21" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="759,392,1001,421"/>
+<area shape="rect" id="node23" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="1033,315,1260,344"/>
+<area shape="rect" id="node30" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="1303,315,1569,344"/>
+<area shape="rect" id="node26" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="1025,392,1268,421"/>
+<area shape="rect" id="node28" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="1292,392,1580,421"/>
+<area shape="rect" id="node33" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="1604,392,1884,421"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$openCVFilterParametersControlWidget_8h.html" title="openCVFilterParametersControlWidget.h" alt="" coords="979,83,1256,112"/>
+<area shape="rect" id="node52" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="213,315,395,344"/>
+<area shape="rect" id="node68" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="5,315,189,344"/>
+<area shape="rect" id="node7" href="$openCVFilterParameters_8h.html" title="generated/openCVFilterParameters.h" alt="" coords="1133,237,1392,267"/>
+<area shape="rect" id="node41" href="$filterParametersControlWidgetBase_8h.html" title="filterParametersControlWidgetBase.h" alt="" coords="780,160,1036,189"/>
+<area shape="rect" id="node9" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="759,392,852,421"/>
+<area shape="rect" id="node27" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="1477,315,1595,344"/>
+<area shape="rect" id="node33" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="1133,315,1248,344"/>
+<area shape="rect" id="node37" href="$openCVBinaryFilterType_8h.html" title="openCVBinaryFilterType.h" alt="" coords="1272,315,1453,344"/>
+<area shape="rect" id="node23" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1052,469,1124,499"/>
+<area shape="rect" id="node47" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="593,237,823,267"/>
+<area shape="rect" id="node62" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="419,315,563,344"/>
+<area shape="rect" id="node74" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="587,315,733,344"/>
+<area shape="rect" id="node56" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="281,392,412,421"/>
+</map>

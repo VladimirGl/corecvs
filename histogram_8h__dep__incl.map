@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$histogram_8cpp.html" title="Add Comment Here." alt="" coords="1303,83,1564,112"/>
+<area shape="rect" id="node5" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="1588,83,1817,112"/>
+<area shape="rect" id="node101" href="$imagerControl_8h.html" title="Add Comment Here." alt="" coords="2980,83,3209,112"/>
+<area shape="rect" id="node105" href="$tileGrid_8h.html" title="Add Comment Here." alt="" coords="3240,83,3443,112"/>
+<area shape="rect" id="node111" href="$histogramdialog_8h.html" title="utils/corestructs/histogramdialog.h" alt="" coords="3507,83,3749,112"/>
+<area shape="rect" id="node115" href="$histogramwidget_8h.html" title="utils/corestructs/histogramwidget.h" alt="" coords="3852,83,4097,112"/>
+<area shape="rect" id="node119" href="$histogramdepthdialog_8h.html" title="utils/uis/histogramdepthdialog.h" alt="" coords="4279,83,4505,112"/>
+<area shape="rect" id="node7" href="$vjPattern_8h.html" title="This file holds data for Viola&#45;Jones pattern features." alt="" coords="983,160,1164,189"/>
+<area shape="rect" id="node11" href="$rgb24Buffer_8cpp.html" title="Add Comment Here." alt="" coords="1188,160,1431,189"/>
+<area shape="rect" id="node13" href="$bmpLoader_8h.html" title="Add Comment Here." alt="" coords="1455,160,1665,189"/>
+<area shape="rect" id="node19" href="$universalRectifier_8cpp.html" title="Add Comment Here." alt="" coords="1441,237,1679,267"/>
+<area shape="rect" id="node21" href="$g12Image_8h.html" title="utils/corestructs/g12Image.h" alt="" coords="1703,237,1905,267"/>
+<area shape="rect" id="node25" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="1652,315,1956,344"/>
+<area shape="rect" id="node45" href="$qtFileLoader_8h.html" title="utils/fileformats/qtFileLoader.h" alt="" coords="191,237,401,267"/>
+<area shape="rect" id="node52" href="$imageCaptureInterface_8h.html" title="utils/framesources/imageCaptureInterface.h" alt="" coords="2620,160,2921,189"/>
+<area shape="rect" id="node56" href="$V4L2Capture_8h.html" title="Add Comment Here." alt="" coords="2356,315,2625,344"/>
+<area shape="rect" id="node95" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="639,160,908,189"/>
+<area shape="rect" id="node97" href="$testbedMainWindow_8h.html" title="applications/testbed/testbedMainWindow.h" alt="" coords="425,237,716,267"/>
+<area shape="rect" id="node9" href="$vjPattern_8cpp.html" title="This file hold implementation of function for Viola&#45;Jones optimised patterns." alt="" coords="740,237,935,267"/>
+<area shape="rect" id="node15" href="$bufferFactory_8cpp.html" title="Holds the implementation of the factory for the loadable buffer." alt="" coords="1207,237,1417,267"/>
+<area shape="rect" id="node17" href="$bmpLoader_8cpp.html" title="Add Comment Here." alt="" coords="959,237,1183,267"/>
+<area shape="rect" id="node23" href="$g12Image_8cpp.html" title="utils/corestructs/g12Image.cpp" alt="" coords="975,315,1193,344"/>
+<area shape="rect" id="node27" href="$pointsRectificationWidget_8cpp.html" title="utils/uis/pointsRectificationWidget.cpp" alt="" coords="1268,315,1527,344"/>
+<area shape="rect" id="node29" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="1827,392,2136,421"/>
+<area shape="rect" id="node31" href="$imageResultLayer_8h.html" title="applications/base/layers/imageResultLayer.h" alt="" coords="1980,315,2281,344"/>
+<area shape="rect" id="node34" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="1453,392,1739,421"/>
+<area shape="rect" id="node36" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="2193,392,2444,421"/>
+<area shape="rect" id="node38" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="1643,469,1907,499"/>
+<area shape="rect" id="node42" href="$testbedMainWindow_8cpp.html" title="applications/testbed/testbedMainWindow.cpp" alt="" coords="549,315,856,344"/>
+<area shape="rect" id="node47" href="$qtFileLoader_8cpp.html" title="utils/fileformats/qtFileLoader.cpp" alt="" coords="5,315,232,344"/>
+<area shape="rect" id="node49" href="$main__testbed_8cpp.html" title="applications/testbed/main_testbed.cpp" alt="" coords="256,315,525,344"/>
+<area shape="rect" id="node54" href="$frames_8h.html" title="Add Comment Here." alt="" coords="2217,237,2327,267"/>
+<area shape="rect" id="node58" href="$V4L2CaptureDecouple_8h.html" title="utils/framesources/v4l2/V4L2CaptureDecouple.h" alt="" coords="2960,392,3288,421"/>
+<area shape="rect" id="node61" href="$imageFileCaptureInterface_8h.html" title="utils/framesources/imageFileCaptureInterface.h" alt="" coords="2884,237,3207,267"/>
+<area shape="rect" id="node63" href="$abstractFileCaptureSpinThread_8h.html" title="utils/framesources/abstractFileCaptureSpinThread.h" alt="" coords="3231,237,3583,267"/>
+<area shape="rect" id="node65" href="$cameraControlParameters_8h.html" title="utils/framesources/cameraControlParameters.h" alt="" coords="3607,237,3932,267"/>
+<area shape="rect" id="node67" href="$directShow_8h.html" title="utils/framesources/directShow/directShow.h" alt="" coords="3620,315,3919,344"/>
+<area shape="rect" id="node69" href="$directShowCapture_8h.html" title="Capture camera video stream using OpenCV library." alt="" coords="3595,392,3944,421"/>
+<area shape="rect" id="node72" href="$imageCaptureInterface_8cpp.html" title="utils/framesources/imageCaptureInterface.cpp" alt="" coords="3943,315,4260,344"/>
+<area shape="rect" id="node74" href="$uEyeCapture_8h.html" title="utils/framesources/uEyeCapture.h" alt="" coords="3257,315,3495,344"/>
+<area shape="rect" id="node78" href="$capSettingsDialog_8h.html" title="utils/uis/capSettingsDialog.h" alt="" coords="2649,315,2852,344"/>
+<area shape="rect" id="node81" href="$decoupleYUYV_8h.html" title="utils/framesources/decoders/decoupleYUYV.h" alt="" coords="2876,315,3183,344"/>
+<area shape="rect" id="node87" href="$openCVCapture_8h.html" title="utils/framesources/openCVCapture.h" alt="" coords="2351,237,2607,267"/>
+<area shape="rect" id="node103" href="$imagerControl_8cpp.html" title="Add Comment Here." alt="" coords="2945,160,3188,189"/>
+<area shape="rect" id="node107" href="$meanShiftWindow_8h.html" title="Add Comment Here." alt="" coords="3455,160,3700,189"/>
+<area shape="rect" id="node109" href="$tileGrid_8cpp.html" title="Add Comment Here." alt="" coords="3212,160,3431,189"/>
+<area shape="rect" id="node113" href="$histogramdialog_8cpp.html" title="utils/corestructs/histogramdialog.cpp" alt="" coords="3724,160,3983,189"/>
+<area shape="rect" id="node117" href="$histogramwidget_8cpp.html" title="utils/corestructs/histogramwidget.cpp" alt="" coords="4007,160,4268,189"/>
+<area shape="rect" id="node121" href="$histogramdepthdialog_8cpp.html" title="utils/uis/histogramdepthdialog.cpp" alt="" coords="4292,160,4532,189"/>
+</map>

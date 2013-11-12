@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1EllipticalApproximation.html#a919283f3b1bd70699bd26d4814acbc97" title="Length of the axis are in fact square roots of the eigenvalues of the covariance matrix." alt="" coords="393,60,756,89"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1EllipticalApproximation.html#a742ab54a7a28b619a9dc7639cd8b7937" title="corecvs::EllipticalApproximation::getPerAxisDeviationSquare" alt="" coords="805,8,1211,37"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1EllipticalApproximation.html#ab175a05083269eb8e8348d31060cea5a" title="this function computes " alt="" coords="875,112,1141,141"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="1351,165,1500,195"/>
+<area shape="rect" id="node16" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="1351,112,1500,141"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1EllipticalApproximation.html#adb02d31a88acbeca21b8517e9ce059b0" title="Position of input points center." alt="" coords="1283,59,1568,88"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1EllipticalApproximation.html#a1b57876ca04df6425373d909fa6dc2a2" title="corecvs::EllipticalApproximation::getMeanSquare" alt="" coords="1259,5,1592,35"/>
+</map>

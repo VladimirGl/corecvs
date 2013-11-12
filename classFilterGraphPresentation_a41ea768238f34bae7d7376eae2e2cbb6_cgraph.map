@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classFilterBlockPresentation.html#a8d2fc7d451ae70951066dc6edf5864de" title="*&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;* | | |&lt; &gt;| | Type | |&lt; &gt;| | Name | | &gt;| | | *&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;..." alt="" coords="357,59,563,88"/>
+<area shape="rect" id="node16" href="$classFilterGraphPresentation.html#a54bd7f04a9ff3e7c713a50ce593726ad" title="FilterGraphPresentation::presentationByBlock" alt="" coords="305,112,615,141"/>
+<area shape="rect" id="node18" href="$classcorecvs_1_1FilterGraph.html#a3e108219a4cbb78c9849ba3af7af5f25" title="corecvs::FilterGraph::topologicSort" alt="" coords="340,165,580,195"/>
+<area shape="rect" id="node5" href="$classFilterBlockPresentation.html#af6f1626a761a22fb58726093d2cc1fae" title="FilterBlockPresentation::drawBlock" alt="" coords="683,5,920,35"/>
+<area shape="rect" id="node9" href="$classFilterBlockPresentation.html#a28ce80ed70461e1b0f584b9a598a5e36" title="FilterBlockPresentation::drawInputPins" alt="" coords="671,59,932,88"/>
+<area shape="rect" id="node13" href="$classFilterBlockPresentation.html#aaacb34a3720491173b54e709688dbc37" title="FilterBlockPresentation::drawOutputPins" alt="" coords="664,112,939,141"/>
+<area shape="rect" id="node7" href="$classDiagramScene.html#a48991d2fb5ae136cfefa7489aa3c8b6c" title="DiagramScene::itemColor" alt="" coords="987,5,1173,35"/>
+<area shape="rect" id="node11" href="$classDiagramItem.html#a483cb2a13c9035090ef55bfa148fc93c" title="DiagramItem::polygon" alt="" coords="999,85,1161,115"/>
+</map>

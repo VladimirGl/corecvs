@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseHostDialog.html#afe4221a6e1a6142daeaa543eb823d250" title="BaseHostDialog::dockWidget" alt="" coords="348,5,553,35"/>
+<area shape="rect" id="node5" href="$classRecorderDialog.html#af5fed4176ad4a3b7bd69cc891028a16e" title="RecorderDialog::openPathSelectDialog" alt="" coords="317,59,584,88"/>
+<area shape="rect" id="node7" href="$classRecorderControlWidget.html#abb831508a937ef55c4839dbdd40fbe36" title="RecorderControlWidget::ui" alt="" coords="661,84,848,113"/>
+<area shape="rect" id="node9" href="$classRecorderDialog.html#a595676c3bbfef7f259b1e80284981611" title="RecorderDialog::toggleRecording" alt="" coords="337,163,564,192"/>
+<area shape="rect" id="node11" href="$classRecorderDialog.html#a7e584e362ef6c0ac73045e1ae9360c9b" title="RecorderDialog::recordingTriggered" alt="" coords="633,163,876,192"/>
+</map>

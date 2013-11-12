@@ -1,0 +1,36 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMjpegDecoderLazy.html#a698eadc7519b779d223170f53d3a1e34" title="MjpegDecoderLazy::decode" alt="" coords="605,1009,803,1039"/>
+<area shape="rect" id="node41" href="$classV4L2CaptureInterface.html#a0e042ee29d3a868647a273a8c555ca20" title="V4L2CaptureInterface::decodeMjpeg" alt="" coords="303,540,556,569"/>
+<area shape="rect" id="node5" href="$classMjpegDecoderLazy.html#a08e2db34da8a454b9b3ea67ca30000a3" title="MjpegDecoderLazy::dec_checkmarker" alt="" coords="852,851,1113,880"/>
+<area shape="rect" id="node7" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a48169e0640aeb24526c660f612f0b057" title="MjpegDecoderLazy::HuffmanParser::readMarker" alt="" coords="1164,879,1489,908"/>
+<area shape="rect" id="node11" href="$classMjpegDecoderLazy.html#a63111152a99892f35885c880990df7de" title="This functions decodes JPEG Minimum Coded Unit form huffman compressed stream." alt="" coords="864,797,1101,827"/>
+<area shape="rect" id="node19" href="$classMjpegDecoderLazy_1_1StreamParser.html#a38092f508a89784e2493064cb81c3b60" title="MjpegDecoderLazy::StreamParser::getbyte" alt="" coords="1180,1121,1473,1151"/>
+<area shape="rect" id="node21" href="$classMjpegDecoderLazy_1_1StreamParser.html#abd5c0a33a08c8f62c6fee34399cb9cdb" title="MjpegDecoderLazy::StreamParser::getword" alt="" coords="1179,1199,1475,1228"/>
+<area shape="rect" id="node23" href="$classMjpegDecoderLazy.html#a6a189db2953db21e04b10c4d84a2b826" title="MjpegDecoderLazy::huffman_init" alt="" coords="868,1269,1097,1299"/>
+<area shape="rect" id="node27" href="$classMjpegDecoderLazy.html#a38db3c3867e904c667e7666faa122ab6" title="MjpegDecoderLazy::idct" alt="" coords="896,904,1069,933"/>
+<area shape="rect" id="node29" href="$classMjpegDecoderLazy.html#a6c7875c2a7f800884032bf74e0262057" title="MjpegDecoderLazy::idctqtab" alt="" coords="881,957,1084,987"/>
+<area shape="rect" id="node32" href="$classMjpegDecoderLazy.html#a4b406fb6bc6617ab6748f22a4bfc380b" title="MjpegDecoderLazy::readtables" alt="" coords="873,1165,1092,1195"/>
+<area shape="rect" id="node37" href="$classMjpegDecoderLazy.html#a3d7afe1765359dba91043f730746ae5d" title="MjpegDecoderLazy::yuv422ptoG12" alt="" coords="861,1061,1104,1091"/>
+<area shape="rect" id="node9" href="$mjpegDecoder_8cpp.html#a6ab3e694b9bdf6bf8e039a027c2cccad" title="fillbits" alt="" coords="1539,799,1597,828"/>
+<area shape="rect" id="node13" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a9b89ee3402fc70bd2c695971ba546a19" title="MjpegDecoderLazy::HuffmanParser::getBits" alt="" coords="1177,772,1476,801"/>
+<area shape="rect" id="node16" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a239a417f89985a1b7f15f93fd659da23" title="MjpegDecoderLazy::HuffmanParser::getValue" alt="" coords="1172,825,1481,855"/>
+<area shape="rect" id="node25" href="$classMjpegDecoderLazy.html#a30a98c2cc798d9b7ed6766920b9028d5" title="Construct the huffman lookup tables form the length and values." alt="" coords="1207,1264,1447,1293"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="1211,1061,1443,1091"/>
+<area shape="rect" id="node43" href="$classMjpegDecoder.html#ab6901ed403484724f48f1428813445b6" title="MjpegDecoder::decode" alt="" coords="620,400,788,429"/>
+<area shape="rect" id="node45" href="$mjpegDecoder_8cpp.html#a49c66c14156641198b2ad1b5e18dfa03" title="dec_checkmarker" alt="" coords="916,693,1049,723"/>
+<area shape="rect" id="node47" href="$mjpegDecoder_8cpp.html#ac41a55c8cc37d44a58708bee12ac69fb" title="dec_readmarker" alt="" coords="1264,719,1389,748"/>
+<area shape="rect" id="node50" href="$mjpegDecoder_8cpp.html#afa10b7c8e4539f90f4699f82a3edc993" title="dec_initscans" alt="" coords="929,5,1036,35"/>
+<area shape="rect" id="node53" href="$mjpegDecoder_8cpp.html#a141b14aa6483ed98c69bd0ee9ff70c33" title="decode_mcus" alt="" coords="928,59,1037,88"/>
+<area shape="rect" id="node55" href="$mjpegDecoder_8cpp.html#a9ccd30504f2252152b525acc1629d45b" title="getbyte" alt="" coords="1292,124,1361,153"/>
+<area shape="rect" id="node57" href="$mjpegDecoder_8cpp.html#a44f65b66f842d6b74e85b117130ea0df" title="getword" alt="" coords="1291,201,1363,231"/>
+<area shape="rect" id="node59" href="$mjpegDecoder_8cpp.html#a886790df723e585b6261982edf7e5daa" title="huffman_init" alt="" coords="932,267,1033,296"/>
+<area shape="rect" id="node63" href="$mjpegDecoder_8cpp.html#a0ceaae71da222f4c43c65327ed5205c9" title="idct" alt="" coords="960,320,1005,349"/>
+<area shape="rect" id="node65" href="$mjpegDecoder_8cpp.html#a3911e422b937ec08aafbc3dd47767bdf" title="idctqtab" alt="" coords="945,373,1020,403"/>
+<area shape="rect" id="node67" href="$mjpegDecoder_8cpp.html#a63047e52f30f4d86309767a3646184e1" title="readtables" alt="" coords="937,213,1028,243"/>
+<area shape="rect" id="node72" href="$mjpegDecoder_8cpp.html#a65081aac1b59f346779f69c8e0475c81" title="setinput" alt="" coords="945,427,1020,456"/>
+<area shape="rect" id="node74" href="$mjpegDecoder_8cpp.html#a7649928c378f14629232e14f706c65c3" title="yuv400pto422" alt="" coords="927,480,1039,509"/>
+<area shape="rect" id="node76" href="$mjpegDecoder_8cpp.html#ae427b03bf2dc4987535c5a842413bb59" title="yuv420pto422" alt="" coords="927,533,1039,563"/>
+<area shape="rect" id="node78" href="$mjpegDecoder_8cpp.html#a33e6512c441557cc5523f39ba1e77cc4" title="yuv422pto422" alt="" coords="927,587,1039,616"/>
+<area shape="rect" id="node80" href="$mjpegDecoder_8cpp.html#a72dc082526b8197cabb5a1af75cf43ec" title="yuv444pto422" alt="" coords="927,640,1039,669"/>
+<area shape="rect" id="node61" href="$mjpegDecoder_8cpp.html#ae7f61ac1c86418c3164c0e020e1ea619" title="dec_makehuff" alt="" coords="1271,261,1383,291"/>
+</map>

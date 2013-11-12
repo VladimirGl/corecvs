@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$buffer3d_8h.html" title="core/buffers/buffer3d.h" alt="" coords="235,547,400,576"/>
+<area shape="rect" id="node11" href="$depthBuffer_8h.html" title="core/buffers/flow/depthBuffer.h" alt="" coords="840,83,1056,112"/>
+<area shape="rect" id="node33" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="1936,83,2139,112"/>
+<area shape="rect" id="node39" href="$sixDBuffer_8h.html" title="A header for sixDBuffer.cpp." alt="" coords="997,315,1203,344"/>
+<area shape="rect" id="node5" href="$buffer3d_8cpp.html" title="core/buffers/buffer3d.cpp" alt="" coords="5,624,187,653"/>
+<area shape="rect" id="node7" href="$clustering3d_8h.html" title="core/clustering3d/clustering3d.h" alt="" coords="211,624,437,653"/>
+<area shape="rect" id="node9" href="$clustering3d_8cpp.html" title="core/clustering3d/clustering3d.cpp" alt="" coords="204,701,444,731"/>
+<area shape="rect" id="node13" href="$depthBuffer_8cpp.html" title="core/buffers/flow/depthBuffer.cpp" alt="" coords="833,160,1063,189"/>
+<area shape="rect" id="node15" href="$triangulator_8h.html" title="Add Comment Here." alt="" coords="739,469,955,499"/>
+<area shape="rect" id="node18" href="$g12Buffer3d_8h.html" title="core/buffers/g12Buffer3d.h" alt="" coords="1008,547,1200,576"/>
+<area shape="rect" id="node20" href="$triangulator_8cpp.html" title="Add Comment Here." alt="" coords="752,547,984,576"/>
+<area shape="rect" id="node22" href="$universalRectifier_8h.html" title="Add Comment Here." alt="" coords="1275,547,1496,576"/>
+<area shape="rect" id="node26" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="475,547,728,576"/>
+<area shape="rect" id="node30" href="$scene3DMouse_8h.html" title="Add Comment Here." alt="" coords="467,624,712,653"/>
+<area shape="rect" id="node24" href="$universalRectifier_8cpp.html" title="Add Comment Here." alt="" coords="1725,624,1963,653"/>
+<area shape="rect" id="node28" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="1097,624,1367,653"/>
+<area shape="rect" id="node35" href="$element6D_8h.html" title="Add Comment Here." alt="" coords="1408,160,1621,189"/>
+<area shape="rect" id="node44" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="1920,237,2155,267"/>
+<area shape="rect" id="node53" href="$flowBuffer_8cpp.html" title="Add Comment Here." alt="" coords="1377,315,1596,344"/>
+<area shape="rect" id="node56" href="$correspondanceList_8h.html" title="Add Comment Here." alt="" coords="1620,315,1889,344"/>
+<area shape="rect" id="node58" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="2584,469,2813,499"/>
+<area shape="rect" id="node111" href="$kltGenerator_8h.html" title="Add Comment Here." alt="" coords="2219,160,2405,189"/>
+<area shape="rect" id="node117" href="$meanShiftWindow_8h.html" title="Add Comment Here." alt="" coords="2971,160,3216,189"/>
+<area shape="rect" id="node124" href="$flowDrawer_8h.html" title="utils/flowDrawer.h" alt="" coords="3240,160,3371,189"/>
+<area shape="rect" id="node37" href="$element6D_8cpp.html" title="Add Comment Here." alt="" coords="1401,237,1628,267"/>
+<area shape="rect" id="node41" href="$sixDBuffer_8cpp.html" title="Add Comment Here." alt="" coords="884,392,1105,421"/>
+<area shape="rect" id="node46" href="$FCostFunction_8h.html" title="This file holds the data primitives for compensated flow cost function." alt="" coords="2185,315,2417,344"/>
+<area shape="rect" id="node48" href="$flowVectorInformation_8h.html" title="This header holds the data structures that hold classification of flow vectors." alt="" coords="2612,392,2892,421"/>
+<area shape="rect" id="node51" href="$floatFlowBuffer_8cpp.html" title="Add Comment Here." alt="" coords="1913,315,2161,344"/>
+<area shape="rect" id="node83" href="$homographyReconstructor_8h.html" title="Add Comment Here." alt="" coords="1596,392,1913,421"/>
+<area shape="rect" id="node85" href="$correspondanceList_8cpp.html" title="Add Comment Here." alt="" coords="2305,392,2588,421"/>
+<area shape="rect" id="node87" href="$essentialEstimator_8h.html" title="Add Comment Here." alt="" coords="1545,469,1807,499"/>
+<area shape="rect" id="node89" href="$ransacEstimator_8cpp.html" title="Add Comment Here." alt="" coords="1520,547,1781,576"/>
+<area shape="rect" id="node92" href="$essentialMatrix_8h.html" title="Add Comment Here." alt="" coords="1180,392,1420,421"/>
+<area shape="rect" id="node98" href="$ransacEstimator_8h.html" title="a header for ransacEstimator.c" alt="" coords="1831,469,2079,499"/>
+<area shape="rect" id="node103" href="$stereoAligner_8h.html" title="Add Comment Here." alt="" coords="1045,469,1272,499"/>
+<area shape="rect" id="node107" href="$pointsRectificationWidget_8h.html" title="utils/uis/pointsRectificationWidget.h" alt="" coords="1988,392,2231,421"/>
+<area shape="rect" id="node60" href="$vjPattern_8h.html" title="This file holds data for Viola&#45;Jones pattern features." alt="" coords="2608,547,2789,576"/>
+<area shape="rect" id="node62" href="$rgb24Buffer_8cpp.html" title="Add Comment Here." alt="" coords="2813,547,3056,576"/>
+<area shape="rect" id="node64" href="$bmpLoader_8h.html" title="Add Comment Here." alt="" coords="1957,547,2168,576"/>
+<area shape="rect" id="node67" href="$g12Image_8h.html" title="utils/corestructs/g12Image.h" alt="" coords="3080,547,3283,576"/>
+<area shape="rect" id="node69" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="2567,624,2871,653"/>
+<area shape="rect" id="node72" href="$qtFileLoader_8h.html" title="utils/fileformats/qtFileLoader.h" alt="" coords="3307,547,3517,576"/>
+<area shape="rect" id="node74" href="$imageCaptureInterface_8h.html" title="utils/framesources/imageCaptureInterface.h" alt="" coords="3541,547,3843,576"/>
+<area shape="rect" id="node76" href="$V4L2Capture_8h.html" title="Add Comment Here." alt="" coords="3651,624,3920,653"/>
+<area shape="rect" id="node81" href="$testbedMainWindow_8h.html" title="applications/testbed/testbedMainWindow.h" alt="" coords="2293,547,2584,576"/>
+<area shape="rect" id="node114" href="$kltGenerator_8cpp.html" title="Add Comment Here." alt="" coords="2492,237,2695,267"/>
+<area shape="rect" id="node119" href="$meanShiftCalculator_8h.html" title="Add Comment Here." alt="" coords="3252,237,3513,267"/>
+<area shape="rect" id="node121" href="$meanShiftWindow_8cpp.html" title="Add Comment Here." alt="" coords="2967,237,3228,267"/>
+</map>

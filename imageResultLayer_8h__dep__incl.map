@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="5,83,315,112"/>
+<area shape="rect" id="node5" href="$imageResultLayer_8cpp.html" title="applications/base/layers/imageResultLayer.cpp" alt="" coords="339,83,656,112"/>
+<area shape="rect" id="node7" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="680,83,965,112"/>
+</map>

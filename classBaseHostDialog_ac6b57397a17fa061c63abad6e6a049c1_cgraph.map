@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classAbstractCalculationThread.html#a64d2f2e8f290eb5a0f7416112081ea10" title="AbstractCalculationThread::getCalculationState" alt="" coords="215,5,537,35"/>
+<area shape="rect" id="node5" href="$classImageCaptureInterface.html#ad32df954948a3aea746d0c68563ee81d" title="ImageCaptureInterface::nextFrame" alt="" coords="253,59,499,88"/>
+<area shape="rect" id="node7" href="$classImageCaptureInterface.html#a7fc33056e6eaeb63da269573ec59ab62" title="ImageCaptureInterface::startCapture" alt="" coords="247,112,505,141"/>
+<area shape="rect" id="node9" href="$classBaseHostDialog.html#a9c9951b19762eaa127db683f3179c87e" title="Slot for swapping framesources &#45;&#45;&#45; right frame becomes left and left frame becomes right..." alt="" coords="265,165,487,195"/>
+<area shape="rect" id="node11" href="$classFrames.html#a82d642f30f1b9b57ba9d62f4cd8e7903" title="Swaps the frame sources so, for example, left camera becomes right, and right camera becomes left..." alt="" coords="588,165,788,195"/>
+</map>

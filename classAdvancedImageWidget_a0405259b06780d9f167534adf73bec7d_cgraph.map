@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classAdvancedImageWidget.html#a76399c7dd7880ecee11412dbfffb89d8" title="AdvancedImageWidget::zoomChanged" alt="" coords="317,32,587,61"/>
+<area shape="rect" id="node5" href="$classAdvancedImageWidget.html#abcb3c522dc8c1488f4e186afce66b06c" title="AdvancedImageWidget::notifyZoomChanged" alt="" coords="635,5,941,35"/>
+<area shape="rect" id="node7" href="$classAdvancedImageWidget.html#a09b13f3339f391764bd57dd8d06f3d4f" title="AdvancedImageWidget::recomputeRects" alt="" coords="648,59,928,88"/>
+<area shape="rect" id="node9" href="$classAdvancedImageWidget.html#ab3c658a5e253eeef3929028a1e2e3082" title="AdvancedImageWidget::computeInputRect" alt="" coords="991,59,1281,88"/>
+</map>

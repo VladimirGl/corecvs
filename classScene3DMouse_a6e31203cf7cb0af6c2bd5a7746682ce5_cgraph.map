@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDraw3dViMouseParametersControlWidget.html#a8af978d9e18e006b67314bf74fcc0a4c" title="Draw3dViMouseParametersControlWidget::setParameters" alt="" coords="288,139,677,168"/>
+<area shape="rect" id="node5" href="$classDraw3dViMouseParameters.html#a5bbe6dfb0308ae7cc5224d7d364bcd00" title="Draw3dViMouseParameters::blueDist" alt="" coords="797,5,1056,35"/>
+<area shape="rect" id="node7" href="$classDraw3dViMouseParameters.html#a8fa8d331ded64c99fe1ac4946523e764" title="Draw3dViMouseParameters::flowColorType" alt="" coords="781,59,1072,88"/>
+<area shape="rect" id="node9" href="$classDraw3dViMouseParameters.html#ad6bc820df10b37b833b6b1dc08ccf254" title="Draw3dViMouseParameters::flowZoom" alt="" coords="792,112,1061,141"/>
+<area shape="rect" id="node11" href="$classDraw3dViMouseParametersControlWidget.html#af2791abbdcca82be0f5c798217a02153" title="Draw3dViMouseParametersControlWidget::paramsChanged" alt="" coords="727,165,1127,195"/>
+<area shape="rect" id="node13" href="$classDraw3dViMouseParameters.html#a87183314302196f974984bd096b39bf8" title="Draw3dViMouseParameters::pointColorType" alt="" coords="777,219,1076,248"/>
+<area shape="rect" id="node15" href="$classDraw3dViMouseParameters.html#a1c51284fdb0fff02cc9898e24e9c3445" title="Draw3dViMouseParameters::redDist" alt="" coords="801,272,1052,301"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMakePreciseParametersControlWidget.html#a893df6a594390634cf0ded4cae30d268" title="MakePreciseParametersControlWidget::setParameters" alt="" coords="463,192,828,221"/>
+<area shape="rect" id="node5" href="$classMakePreciseParameters.html#ab09e5a02398fb6db7899877ec26172fd" title="MakePreciseParameters::algorithm" alt="" coords="944,5,1189,35"/>
+<area shape="rect" id="node7" href="$classMakePreciseParameters.html#ad034d2e0db268f80aed0c91c74483c93" title="MakePreciseParameters::interpolation" alt="" coords="935,59,1199,88"/>
+<area shape="rect" id="node9" href="$classMakePreciseParameters.html#a04dd81648f798d4579e7493d7b540763" title="MakePreciseParameters::kLTIterations" alt="" coords="936,112,1197,141"/>
+<area shape="rect" id="node11" href="$classMakePreciseParameters.html#aa2b5ed562a568a29570d581d836321d3" title="MakePreciseParameters::kLTRadiusH" alt="" coords="940,165,1193,195"/>
+<area shape="rect" id="node13" href="$classMakePreciseParameters.html#af4c44e98fb2b68482427a03c4951fe3c" title="MakePreciseParameters::kLTRadiusW" alt="" coords="939,219,1195,248"/>
+<area shape="rect" id="node15" href="$classMakePreciseParameters.html#a7ca94b032561cd9ab9393f890ff4492a" title="MakePreciseParameters::kLTThreshold" alt="" coords="935,272,1199,301"/>
+<area shape="rect" id="node17" href="$classMakePreciseParametersControlWidget.html#a26033e3c2a4acf0b7f14a26a781d312b" title="MakePreciseParametersControlWidget::paramsChanged" alt="" coords="877,325,1256,355"/>
+<area shape="rect" id="node19" href="$classMakePreciseParameters.html#a9e98849e746299448af0c2a8ad2b674c" title="MakePreciseParameters::shouldMakePrecise" alt="" coords="913,379,1220,408"/>
+</map>

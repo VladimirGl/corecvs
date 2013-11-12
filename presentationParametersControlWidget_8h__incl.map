@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$presentationParameters_8h.html" title="generatedParameters/presentationParameters.h" alt="" coords="291,83,624,112"/>
+<area shape="rect" id="node45" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="968,83,1197,112"/>
+<area shape="rect" id="node9" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="812,237,905,267"/>
+<area shape="rect" id="node27" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="55,160,172,189"/>
+<area shape="rect" id="node33" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="196,160,311,189"/>
+<area shape="rect" id="node37" href="$stereoStyle_8h.html" title="stereoStyle.h" alt="" coords="335,160,441,189"/>
+<area shape="rect" id="node39" href="$flowStyle_8h.html" title="flowStyle.h" alt="" coords="465,160,556,189"/>
+<area shape="rect" id="node41" href="$outputStyle_8h.html" title="outputStyle.h" alt="" coords="580,160,687,189"/>
+<area shape="rect" id="node23" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="592,315,664,344"/>
+<area shape="rect" id="node51" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="1324,160,1505,189"/>
+<area shape="rect" id="node61" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="1156,160,1300,189"/>
+<area shape="rect" id="node67" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="1529,160,1713,189"/>
+<area shape="rect" id="node73" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="863,160,1009,189"/>
+<area shape="rect" id="node55" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="1252,237,1383,267"/>
+</map>

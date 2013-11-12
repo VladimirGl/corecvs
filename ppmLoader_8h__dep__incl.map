@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$bufferFactory_8cpp.html" title="Holds the implementation of the factory for the loadable buffer." alt="" coords="5,83,216,112"/>
+<area shape="rect" id="node5" href="$ppmLoader_8cpp.html" title="Add Comment Here." alt="" coords="240,83,464,112"/>
+<area shape="rect" id="node7" href="$recorderThread_8h.html" title="applications/recorder/recorderThread.h" alt="" coords="488,83,757,112"/>
+<area shape="rect" id="node9" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="339,160,605,189"/>
+<area shape="rect" id="node15" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="629,160,915,189"/>
+<area shape="rect" id="node11" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="175,237,463,267"/>
+<area shape="rect" id="node13" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="487,237,767,267"/>
+</map>

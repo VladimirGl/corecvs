@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="169,83,436,112"/>
+<area shape="rect" id="node9" href="$parametersMapperRecorder_8h.html" title="applications/recorder/parametersMapper/parametersMapperRecorder.h" alt="" coords="460,83,937,112"/>
+<area shape="rect" id="node14" href="$recorderControlWidget_8cpp.html" title="applications/recorder/recorderControlWidget.cpp" alt="" coords="961,83,1292,112"/>
+<area shape="rect" id="node5" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="5,160,293,189"/>
+<area shape="rect" id="node7" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="317,160,597,189"/>
+<area shape="rect" id="node11" href="$parametersMapperRecorder_8cpp.html" title="applications/recorder/parametersMapper/parametersMapperRecorder.cpp" alt="" coords="621,160,1112,189"/>
+</map>

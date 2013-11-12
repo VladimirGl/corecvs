@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$openCVSGMParametersControlWidget_8h.html" title="openCVSGMParametersControlWidget.h" alt="" coords="387,83,664,112"/>
+<area shape="rect" id="node45" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="899,237,1080,267"/>
+<area shape="rect" id="node61" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="1104,237,1288,267"/>
+<area shape="rect" id="node7" href="$openCVSGMParameters_8h.html" title="openCVSGMParameters.h" alt="" coords="200,160,387,189"/>
+<area shape="rect" id="node39" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="411,160,640,189"/>
+<area shape="rect" id="node9" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="395,315,488,344"/>
+<area shape="rect" id="node27" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="5,237,123,267"/>
+<area shape="rect" id="node33" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="147,237,261,267"/>
+<area shape="rect" id="node23" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="172,392,244,421"/>
+<area shape="rect" id="node55" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="731,237,875,267"/>
+<area shape="rect" id="node67" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="560,237,707,267"/>
+<area shape="rect" id="node49" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="835,315,965,344"/>
+</map>

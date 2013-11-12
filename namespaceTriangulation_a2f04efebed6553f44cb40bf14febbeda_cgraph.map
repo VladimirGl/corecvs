@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespaceTriangulation.html#a6a73b792348995b70f3668e272850db7" title="Triangulation::hullEdge" alt="" coords="505,5,668,35"/>
+<area shape="rect" id="node15" href="$namespaceTriangulation.html#a9ef1039efb177f4f7bb19ae4b6c46968" title="Searches for the the closest point on the right of the edge." alt="" coords="261,163,405,192"/>
+<area shape="rect" id="node31" href="$namespaceTriangulation.html#ab5d4d0b6773086cbf0228416e496b47d" title="Triangulation::updateFrontier" alt="" coords="232,267,435,296"/>
+<area shape="rect" id="node5" href="$namespaceTriangulation.html#a6bacdcc5b47e8f998db5e880477c5614" title="Triangulation::classify" alt="" coords="991,83,1145,112"/>
+<area shape="rect" id="node7" href="$classTriangulation_1_1Point.html#ac51a33cef7462faf25a03a5f8eaa127c" title="Triangulation::Point::length" alt="" coords="1201,83,1391,112"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="1221,215,1371,244"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="1221,161,1371,191"/>
+<area shape="rect" id="node9" href="$algebra_8c.html#ac35612b9ebd9e49d567a4ec9041d998c" title="getLengthStable" alt="" coords="1440,83,1568,112"/>
+<area shape="rect" id="node17" href="$classTriangulation_1_1Edge.html#a5298d42797c519d6b1a25e9f89a7a218" title="Triangulation::Edge::classify" alt="" coords="740,57,935,87"/>
+<area shape="rect" id="node20" href="$classTriangulation_1_1Edge.html#ab4563d6b741e983ef600d340595f3cfc" title="Triangulation::Edge::intersect" alt="" coords="484,111,689,140"/>
+<area shape="rect" id="node25" href="$classTriangulation_1_1Edge.html#ae3343789172457cb14ddbfed53864658" title="Having the edge rotated 90deg around the center." alt="" coords="984,213,1152,243"/>
+<area shape="rect" id="node22" href="$namespaceTriangulation.html#a7a00d0364de4be64bf16fcf9452d31d2" title="comparison precise up to epsilon" alt="" coords="744,111,931,140"/>
+<area shape="rect" id="node33" href="$classTriangulation_1_1Edge.html#aa51ad578e520456695eb0afa20ccb3a9" title="Triangulation::Edge::flip" alt="" coords="503,317,671,347"/>
+</map>

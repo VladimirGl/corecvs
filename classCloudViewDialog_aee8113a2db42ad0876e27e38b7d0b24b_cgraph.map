@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCloudViewDialog.html#a3d1ced33446a9df09178854d51fe0166" title="CloudViewDialog::zoom" alt="" coords="237,173,408,202"/>
+<area shape="rect" id="node5" href="$classCloudViewDialog.html#aa0e690216fa07139c8030ad79f5adab2" title="CloudViewDialog::resetCamera" alt="" coords="456,146,675,176"/>
+<area shape="rect" id="node32" href="$classCloudViewDialog.html#aed3e64963933f572b2d740add6df8778" title="CloudViewDialog::setZoom" alt="" coords="468,200,663,229"/>
+<area shape="rect" id="node7" href="$classOpenGLTools.html#a990fb295ace9f68c82ab058add581835" title="OpenGLTools::glMultMatrixMatrix44" alt="" coords="1008,40,1251,69"/>
+<area shape="rect" id="node15" href="$classOpenGLTools.html#abf0b2767139d28cd65092d95306d812d" title="Equivalent to old function gluPerspective." alt="" coords="740,93,943,122"/>
+<area shape="rect" id="node20" href="$classOpenGLTools.html#a92e6202f71c554b0b85619dd8ff04b73" title="Same as above except for looking in positive Z direction." alt="" coords="724,40,959,69"/>
+<area shape="rect" id="node24" href="$namespacecorecvs.html#a319a0d46c2f53180fd1c9c477718d8b1" title="Useful radian to degrees and back conversions." alt="" coords="772,146,911,176"/>
+<area shape="rect" id="node26" href="$classcorecvs_1_1Vector3d.html#aec83d9ad04107cd9c2bb11abf33128c0" title="Helper functions to access elements." alt="" coords="767,200,916,229"/>
+<area shape="rect" id="node28" href="$classcorecvs_1_1Vector3d.html#a940d88447f20fac800d1fa510c981275" title="corecvs::Vector3d::y" alt="" coords="767,253,916,282"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1Vector3d.html#a4587f5d4984576c5c4c2d44a4140ce3f" title="corecvs::Vector3d::z" alt="" coords="767,306,916,336"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Matrix44.html#a2b2199727e0ea9264105937c9aca9a1f" title="Returning transposed matrix." alt="" coords="1300,40,1513,69"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Matrix44.html#acf5e18b2333c493522c2d32ae8719541" title="corecvs::Matrix44::Matrix44" alt="" coords="1563,13,1760,42"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1Matrix44.html#ad53e6a4c5f30ed13b1bd0946f0e66a06" title="Geting Matrix element functions block." alt="" coords="1587,66,1736,96"/>
+<area shape="rect" id="node17" href="$namespacecorecvs.html#a232d61cca5a815cc01f2eaa73604a48c" title="corecvs::degToRad" alt="" coords="1060,93,1199,122"/>
+</map>

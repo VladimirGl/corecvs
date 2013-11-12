@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseParameters.html#a01891a7234e9b0331e60ff673f55627a" title="BaseParameters::autoH" alt="" coords="452,5,625,35"/>
+<area shape="rect" id="node5" href="$classBaseParameters.html#aa2f2d1eaaf5a0740f41e41f483eae5f4" title="BaseParameters::autoW" alt="" coords="451,59,627,88"/>
+<area shape="rect" id="node7" href="$classBaseParameters.html#a821f0bb143dc31faa841149fbe8d1b3e" title="BaseParameters::downsample" alt="" coords="431,112,647,141"/>
+<area shape="rect" id="node9" href="$classBaseParameters.html#a6519b2080e6a0f0c2952c67d27fd97d7" title="BaseParameters::enableFilterGraph" alt="" coords="415,165,663,195"/>
+<area shape="rect" id="node11" href="$classBaseParameters.html#adc970d6bf7f8d424a8877ed861cac2de" title="BaseParameters::filterLock" alt="" coords="443,219,635,248"/>
+<area shape="rect" id="node13" href="$classBaseParameters.html#ae8c86de6d7950578aa0d1eb4cb8c526d" title="BaseParameters::h" alt="" coords="467,272,611,301"/>
+<area shape="rect" id="node15" href="$classBaseParameters.html#af7811e4e75676d26efbe908cce114e58" title="BaseParameters::interpolationType" alt="" coords="417,325,660,355"/>
+<area shape="rect" id="node17" href="$classBaseParameters.html#a8f560f0abfcb2a9b040d0a7e63303dd4" title="BaseParameters::mirror" alt="" coords="452,379,625,408"/>
+<area shape="rect" id="node19" href="$classBaseParametersControlWidget.html#a6f3a72ae56c8f9b252a356afc644454f" title="BaseParametersControlWidget::paramsChanged" alt="" coords="373,432,704,461"/>
+<area shape="rect" id="node21" href="$classBaseParameters.html#ac44db8b50fe6948348b8cd01fa0655e2" title="BaseParameters::rotation" alt="" coords="445,485,632,515"/>
+<area shape="rect" id="node23" href="$classBaseParameters.html#a310f633fb8e46dcca17506823b64b80b" title="BaseParameters::swapCameras" alt="" coords="425,539,652,568"/>
+<area shape="rect" id="node25" href="$classBaseParameters.html#a40aba9fe6544c215ea530bea394ca81a" title="BaseParameters::w" alt="" coords="467,592,611,621"/>
+<area shape="rect" id="node27" href="$classBaseParameters.html#a0835df6069fb7d8cb0e3d6ec02d9a80d" title="BaseParameters::x" alt="" coords="468,645,609,675"/>
+<area shape="rect" id="node29" href="$classBaseParameters.html#a5008a3c93ff6e0199b8b0b325ee303d1" title="BaseParameters::y" alt="" coords="468,699,609,728"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1RGBColor.html#a28d1778710e5ade8ab275f8ef03cdaec" title="corecvs::RGBColor::b" alt="" coords="375,5,529,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="336,59,568,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1RGBColor.html#a61bb42ad3c5af64582ba22408e8bc5c4" title="corecvs::RGBColor::g" alt="" coords="375,112,529,141"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1AbstractBuffer.html#af38950daefa219f81a0e89ee186075f1" title="Checks if coordinate lies within the buffer area." alt="" coords="324,165,580,195"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1RGBColor.html#a551378cc4e40775286d1200a21e3dfbc" title="corecvs::RGBColor::r" alt="" coords="376,219,528,248"/>
+<area shape="rect" id="node13" href="$classAdvancedImageWidget.html#a365f213bdb320f2392d2693d6931abdd" title="AdvancedImageWidget::setImage" alt="" coords="335,272,569,301"/>
+<area shape="rect" id="node15" href="$classAdvancedImageWidget.html#aa69ecf8afc2c52de22ef54bef616c92a" title="AdvancedImageWidget::drawResized" alt="" coords="667,192,920,221"/>
+<area shape="rect" id="node17" href="$classAdvancedImageWidget.html#a94f67b5bfc0bcf0c119c4e6011236faf" title="AdvancedImageWidget::recalculateZoomCenter" alt="" coords="629,245,957,275"/>
+<area shape="rect" id="node21" href="$classAdvancedImageWidget.html#a09b13f3339f391764bd57dd8d06f3d4f" title="AdvancedImageWidget::recomputeRects" alt="" coords="653,299,933,328"/>
+<area shape="rect" id="node25" href="$classAdvancedImageWidget.html#a722b91642b8f0f37a390edc76c3e645b" title="AdvancedImageWidget::saveFlowImage" alt="" coords="657,352,929,381"/>
+<area shape="rect" id="node19" href="$classAdvancedImageWidget.html#a0660da1dfe71d556c2c97ca4759404d5" title="AdvancedImageWidget::notifyCenterPointChanged" alt="" coords="1007,245,1348,275"/>
+<area shape="rect" id="node23" href="$classAdvancedImageWidget.html#ab3c658a5e253eeef3929028a1e2e3082" title="AdvancedImageWidget::computeInputRect" alt="" coords="1032,299,1323,328"/>
+</map>

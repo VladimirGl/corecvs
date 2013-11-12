@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$rgbColorParameters_8cpp.html" title="core/xml/generated/rgbColorParameters.cpp" alt="" coords="697,83,1004,112"/>
+<area shape="rect" id="node5" href="$draw3dParameters_8h.html" title="utils/3d/generated/draw3dParameters.h" alt="" coords="1028,83,1303,112"/>
+<area shape="rect" id="node47" href="$draw3dCameraParameters_8h.html" title="utils/3d/generated/draw3dCameraParameters.h" alt="" coords="1332,160,1657,189"/>
+<area shape="rect" id="node61" href="$rgbColorParametersControlWidget_8h.html" title="utils/corestructs/coreWidgets/rgbColorParametersControlWidget.h" alt="" coords="1853,160,2291,189"/>
+<area shape="rect" id="node7" href="$scene3D_8h.html" title="utils/3d/scene3D.h" alt="" coords="409,160,548,189"/>
+<area shape="rect" id="node15" href="$mesh3DScene_8h.html" title="utils/3d/mesh3DScene.h" alt="" coords="843,469,1021,499"/>
+<area shape="rect" id="node17" href="$mesh3DScene_8cpp.html" title="utils/3d/mesh3DScene.cpp" alt="" coords="1104,547,1296,576"/>
+<area shape="rect" id="node40" href="$draw3dParametersControlWidget_8h.html" title="utils/3d/draw3dParametersControlWidget.h" alt="" coords="601,160,895,189"/>
+<area shape="rect" id="node56" href="$draw3dParameters_8cpp.html" title="utils/3d/generated/draw3dParameters.cpp" alt="" coords="969,160,1257,189"/>
+<area shape="rect" id="node9" href="$coordinateFrame_8h.html" title="utils/3d/coordinateFrame.h" alt="" coords="487,237,679,267"/>
+<area shape="rect" id="node13" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="437,392,691,421"/>
+<area shape="rect" id="node21" href="$scene3D_8cpp.html" title="Add Comment Here." alt="" coords="5,469,160,499"/>
+<area shape="rect" id="node31" href="$treeSceneController_8h.html" title="utils/uis/cloudview/treeSceneController.h" alt="" coords="135,315,412,344"/>
+<area shape="rect" id="node11" href="$coordinateFrame_8cpp.html" title="utils/3d/coordinateFrame.cpp" alt="" coords="537,315,743,344"/>
+<area shape="rect" id="node19" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="699,547,968,576"/>
+<area shape="rect" id="node24" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="504,469,768,499"/>
+<area shape="rect" id="node26" href="$scene3DMouse_8h.html" title="Add Comment Here." alt="" coords="235,469,480,499"/>
+<area shape="rect" id="node28" href="$scene3DMouse_8cpp.html" title="applications/base/scene3DMouse.cpp" alt="" coords="147,547,408,576"/>
+<area shape="rect" id="node34" href="$treeSceneController_8cpp.html" title="utils/uis/cloudview/treeSceneController.cpp" alt="" coords="120,392,413,421"/>
+<area shape="rect" id="node43" href="$draw3dParametersControlWidget_8cpp.html" title="utils/3d/generated/draw3dParametersControlWidget.cpp" alt="" coords="1661,237,2040,267"/>
+<area shape="rect" id="node49" href="$draw3dCameraParametersControlWidget_8h.html" title="utils/3d/draw3dCameraParametersControlWidget.h" alt="" coords="1293,237,1637,267"/>
+<area shape="rect" id="node54" href="$draw3dCameraParameters_8cpp.html" title="utils/3d/generated/draw3dCameraParameters.cpp" alt="" coords="2064,237,2403,267"/>
+<area shape="rect" id="node51" href="$draw3dCameraParametersControlWidget_8cpp.html" title="utils/3d/generated/draw3dCameraParametersControlWidget.cpp" alt="" coords="1784,315,2213,344"/>
+<area shape="rect" id="node65" href="$rgbColorParametersControlWidget_8cpp.html" title="utils/corestructs/coreWidgets/rgbColorParametersControlWidget.cpp" alt="" coords="2477,237,2931,267"/>
+</map>

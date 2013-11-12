@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classFilterBlockPresentation.html#aaacb34a3720491173b54e709688dbc37" title="FilterBlockPresentation::drawOutputPins" alt="" coords="385,5,660,35"/>
+<area shape="rect" id="node7" href="$classCompoundBlockPresentation.html#af8608783ec2a8a151b727653c80dce7d" title="CompoundBlockPresentation::removePin" alt="" coords="381,59,664,88"/>
+<area shape="rect" id="node5" href="$classDiagramItem.html#a483cb2a13c9035090ef55bfa148fc93c" title="DiagramItem::polygon" alt="" coords="752,5,915,35"/>
+<area shape="rect" id="node9" href="$classDiagramScene.html#a257ca225f17da914a100cda881b2ea62" title="DiagramScene::diagramItemByPin" alt="" coords="712,59,955,88"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="179,237,251,267"/>
+<area shape="rect" id="node7" href="$baseAlgebra_8h.html" title="a header for BaseAlgebra.c" alt="" coords="111,160,225,189"/>
+<area shape="rect" id="node10" href="$scalarAlgebra_8h.html" title="a header for ScalarAlgebra.c" alt="" coords="203,83,323,112"/>
+<area shape="rect" id="node14" href="$genericMath_8h.html" title="genericMath.h" alt="" coords="300,160,412,189"/>
+</map>

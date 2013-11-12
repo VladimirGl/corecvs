@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classThickeningParametersControlWidget.html#a7da9a180f4a81064041faee980f7b8d2" title="ThickeningParametersControlWidget::createParameters" alt="" coords="425,5,799,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="503,59,721,88"/>
+<area shape="rect" id="node9" href="$classThickeningParametersControlWidget.html#abe976aba10b48bc37ad286fd2c7be50b" title="ThickeningParametersControlWidget::setParameters" alt="" coords="435,112,789,141"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="945,59,1119,88"/>
+<area shape="rect" id="node11" href="$classThickeningParameters.html#a429404b6944e8a5189acb912cb928b6f" title="ThickeningParameters::power" alt="" coords="928,112,1136,141"/>
+<area shape="rect" id="node13" href="$classThickeningParametersControlWidget.html#ab9edcf8ce66c7f3f71cd3e9d1d7c7e49" title="ThickeningParametersControlWidget::paramsChanged" alt="" coords="849,165,1215,195"/>
+</map>

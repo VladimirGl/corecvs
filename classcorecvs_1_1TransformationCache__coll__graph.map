@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1DisplacementBuffer.html" title="This buffer stores a buffer deformation &#45; a shift of the buffer pixels." alt="" coords="2172,139,2377,168"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="1795,85,1973,115"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1AbstractBuffer.html" title="This is a common buffer template." alt="" coords="1239,108,1591,137"/>
+<area shape="rect" id="node22" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="1799,192,1969,221"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1AbstractBufferParams.html" title="This is a basis part of the AbstractBuffer template &#45; serializable buffer params." alt="" coords="740,59,959,88"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1ObjectRef.html" title="corecvs::ObjectRef\&lt; uint8_t \&gt;" alt="" coords="743,165,956,195"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1ObjectBlock.html" title="corecvs::ObjectBlock\&lt; uint8_t \&gt;" alt="" coords="289,165,516,195"/>
+<area shape="rect" id="node18" href="$classcorecvs_1_1DeformMap.html" title="corecvs::DeformMap\&lt; int32_t, double \&gt;" alt="" coords="1745,139,2023,168"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1FixedPointDisplace.html" title="corecvs::FixedPointDisplace" alt="" coords="2176,192,2373,221"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1DirectRemapper.html" title="TODO: rewrite this based on AbstractBuffer This class caches the image transformation." alt="" coords="2184,245,2365,275"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1Vector2d.html" title="corecvs::Vector2d\&lt; int32_t \&gt;" alt="" coords="1779,245,1989,275"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector2d\&lt; int32_t \&gt;, int32_t, 2 \&gt;" alt="" coords="1208,232,1621,261"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector2d\&lt; int32_t \&gt;, int32_t \&gt;" alt="" coords="632,232,1067,261"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1Reflection.html" title="corecvs::Reflection" alt="" coords="1345,313,1484,343"/>
+<area shape="rect" id="node44" href="$classcorecvs_1_1EmbedSubclass.html" title="corecvs::EmbedSubclass" alt="" coords="1793,385,1975,415"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1BaseField.html" title="This class is a core class for the reflection." alt="" coords="333,288,472,317"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1ReflectionNaming.html" title="We have several styles of nameing." alt="" coords="7,340,196,369"/>
+<area shape="rect" id="node50" href="$structcorecvs_1_1EmbedSubclass_1_1EmbedMap.html" title="corecvs::EmbedSubclass::EmbedMap" alt="" coords="719,457,980,487"/>
+</map>

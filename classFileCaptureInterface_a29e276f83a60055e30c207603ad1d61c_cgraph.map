@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classImageFileCaptureInterface.html#a6fb954edaf57b32485cc9c92b50fa605" title="Aux function to get an image file name, which path name is given by additional parameters." alt="" coords="295,5,612,35"/>
+<area shape="rect" id="node5" href="$classImageFileCaptureInterface.html#a146d1f4013c86b627dcd2813f3d43c9f" title="ImageFileCaptureInterface::increaseImageFileCounter" alt="" coords="272,59,635,88"/>
+<area shape="rect" id="node7" href="$classImageFileCaptureInterface.html#a724f4f027cb5b1b4990db8e40f95f8cd" title="ImageFileCaptureInterface::resetImageFileCounter" alt="" coords="283,112,624,141"/>
+</map>

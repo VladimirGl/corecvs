@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDraw3dParameters.html#a5c833963f4b9b36ce3e7648f4a5a901f" title="Draw3dParameters::color" alt="" coords="433,5,615,35"/>
+<area shape="rect" id="node5" href="$classDraw3dParameters.html#a906711a978ad0e6812137d127f8440c1" title="Draw3dParameters::decalLeftAlpha" alt="" coords="401,59,647,88"/>
+<area shape="rect" id="node7" href="$classDraw3dParameters.html#afee5bbe4f89307b91fee544c03151fbd" title="Draw3dParameters::decalLeftCam" alt="" coords="404,112,644,141"/>
+<area shape="rect" id="node9" href="$classDraw3dParameters.html#af81a04a61abba3640d888e121e3c4f4c" title="Draw3dParameters::decalMatrixType" alt="" coords="397,165,651,195"/>
+<area shape="rect" id="node11" href="$classDraw3dParameters.html#aa64f1a231d397ed0d7b9fe9a3cea1efa" title="Draw3dParameters::decalRightAlpha" alt="" coords="397,219,651,248"/>
+<area shape="rect" id="node13" href="$classDraw3dParameters.html#ad7d221b0caa355d14c2b5c2e9bcaa0b8" title="Draw3dParameters::decalRightCam" alt="" coords="400,272,648,301"/>
+<area shape="rect" id="node15" href="$classDraw3dParameters.html#aa04119ab6f6f7080a3fe0c674ee1d18d" title="Draw3dParameters::secondaryColor" alt="" coords="399,325,649,355"/>
+<area shape="rect" id="node17" href="$classDraw3dParameters.html#a8a72b5514e9f892c0255c276c5491f0e" title="Draw3dParameters::style" alt="" coords="433,379,615,408"/>
+<area shape="rect" id="node19" href="$classDraw3dParameters.html#a0ff2e78739545e90ed14f2f7717e8c1e" title="Draw3dParameters::textureAlpha" alt="" coords="407,432,641,461"/>
+<area shape="rect" id="node21" href="$classDraw3dParameters.html#ad3cd20efc1c9bbd1ea6f9ba3ed73c9dc" title="Draw3dParameters::textureCorrodinates" alt="" coords="384,485,664,515"/>
+<area shape="rect" id="node23" href="$classDraw3dParameters.html#acb49e53484211e3a8d0379e4e31d9907" title="Draw3dParameters::textureScale" alt="" coords="408,539,640,568"/>
+</map>

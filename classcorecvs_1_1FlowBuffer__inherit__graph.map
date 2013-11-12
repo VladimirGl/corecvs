@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="903,5,1020,35"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1AbstractBuffer.html" title="This is a common buffer template." alt="" coords="272,5,624,35"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1AbstractBufferParams.html" title="This is a basis part of the AbstractBuffer template &#45; serializable buffer params." alt="" coords="5,5,224,35"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1PunchedBufferOperations.html" title="corecvs::PunchedBufferOperations\&lt; FlowBuffer, FlowBufferBase::InternalElementType \&gt;" alt="" coords="672,59,1251,88"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$filtersCollection_8h.html" title="filtersCollection.h" alt="" coords="2499,237,2629,267"/>
+<area shape="rect" id="node48" href="$sobelFilter_8h.html" title="Add Comment Here." alt="" coords="2392,160,2488,189"/>
+<area shape="rect" id="node56" href="$gainOffsetFilter_8h.html" title="Add Comment Here." alt="" coords="1819,160,1947,189"/>
+<area shape="rect" id="node64" href="$bitSelectorFilter_8h.html" title="Add Comment Here." alt="" coords="2937,160,3068,189"/>
+<area shape="rect" id="node71" href="$cannyFilter_8h.html" title="Add Comment Here." alt="" coords="2139,160,2240,189"/>
+<area shape="rect" id="node79" href="$backgroundFilter_8h.html" title="Add Comment Here." alt="" coords="2717,160,2856,189"/>
+<area shape="rect" id="node86" href="$operationFilter_8h.html" title="operationFilter.h" alt="" coords="301,160,424,189"/>
+<area shape="rect" id="node106" href="$inputFilter_8h.html" title="inputFilter.h" alt="" coords="2021,160,2115,189"/>
+<area shape="rect" id="node114" href="$outputFilter_8h.html" title="outputFilter.h" alt="" coords="2264,160,2368,189"/>
+<area shape="rect" id="node122" href="$txtFilter_8h.html" title="TODO." alt="" coords="2613,160,2693,189"/>
+<area shape="rect" id="node126" href="$binarizeBlock_8h.html" title="Add Comment Here." alt="" coords="2053,237,2171,267"/>
+<area shape="rect" id="node132" href="$thickeningBlock_8h.html" title="Add Comment Here." alt="" coords="1325,237,1459,267"/>
+<area shape="rect" id="node138" href="$maskFilterBlock_8h.html" title="Add Comment Here." alt="" coords="1584,237,1717,267"/>
+<area shape="rect" id="node144" href="$compoundFilter_8h.html" title="compoundFilter.h" alt="" coords="3071,83,3201,112"/>
+<area shape="rect" id="node5" href="$filterBlock_8h.html" title="filterBlock.h" alt="" coords="2696,315,2792,344"/>
+<area shape="rect" id="node29" href="$tinyxml2_8h.html" title="tinyxml2.h" alt="" coords="3316,469,3404,499"/>
+<area shape="rect" id="node15" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="293,547,365,576"/>
+<area shape="rect" id="node17" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="2047,392,2140,421"/>
+<area shape="rect" id="node22" href="$pins_8h.html" title="TODO." alt="" coords="2748,392,2807,421"/>
+<area shape="rect" id="node24" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="443,469,536,499"/>
+<area shape="rect" id="node52" href="$sobelParameters_8h.html" title="../xml/generated/sobelParameters.h" alt="" coords="2421,315,2672,344"/>
+<area shape="rect" id="node60" href="$gainOffsetParameters_8h.html" title="../xml/generated/gainOffsetParameters.h" alt="" coords="845,315,1128,344"/>
+<area shape="rect" id="node67" href="$bitSelectorParameters_8h.html" title="../xml/generated/bitSelectorParameters.h" alt="" coords="3253,237,3539,267"/>
+<area shape="rect" id="node74" href="$cannyParameters_8h.html" title="../xml/generated/cannyParameters.h" alt="" coords="1509,315,1763,344"/>
+<area shape="rect" id="node82" href="$backgroundFilterParameters_8h.html" title="../xml/generated/backgroundFilterParameters.h" alt="" coords="2755,237,3077,267"/>
+<area shape="rect" id="node90" href="$baseAlgebra_8h.html" title="a header for BaseAlgebra.c" alt="" coords="272,469,387,499"/>
+<area shape="rect" id="node93" href="$fastKernel_8h.html" title="Add Comment Here." alt="" coords="5,392,101,421"/>
+<area shape="rect" id="node96" href="$vectorTraits_8h.html" title="vectorTraits.h" alt="" coords="91,469,197,499"/>
+<area shape="rect" id="node99" href="$arithmetic_8h.html" title="a header for Arithmetic.c" alt="" coords="176,392,275,421"/>
+<area shape="rect" id="node103" href="$operationParameters_8h.html" title="operationParameters.h" alt="" coords="603,315,771,344"/>
+<area shape="rect" id="node110" href="$inputFilterParameters_8h.html" title="../xml/generated/inputFilterParameters.h" alt="" coords="1024,237,1301,267"/>
+<area shape="rect" id="node118" href="$outputFilterParameters_8h.html" title="../xml/generated/outputFilterParameters.h" alt="" coords="1741,237,2029,267"/>
+<area shape="rect" id="node129" href="$binarizeParameters_8h.html" title="../xml/generated/binarizeParameters.h" alt="" coords="2131,315,2397,344"/>
+<area shape="rect" id="node135" href="$thickeningParameters_8h.html" title="../xml/generated/thickeningParameters.h" alt="" coords="1203,315,1485,344"/>
+<area shape="rect" id="node141" href="$maskingParameters_8h.html" title="../xml/generated/maskingParameters.h" alt="" coords="1787,315,2056,344"/>
+<area shape="rect" id="node147" href="$filterGraph_8h.html" title="filterGraph.h" alt="" coords="3525,160,3627,189"/>
+</map>

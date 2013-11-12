@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classFilterPresentationsCollection.html#a5b57affbe52129334dc4adb3db376835" title="FilterPresentationsCollection::filterIsEdited" alt="" coords="339,59,627,88"/>
+<area shape="rect" id="node5" href="$classFilterGraphPresentation.html#a4484e7fbb1ffd5a64f224ef844eeed83" title="FilterGraphPresentation::restoreFromGraph" alt="" coords="335,112,631,141"/>
+<area shape="rect" id="node7" href="$classFilterPresentationsCollection.html#a79f80f5b9a2545160eff56db2bdba583" title="FilterPresentationsCollection::presentationByName" alt="" coords="703,5,1049,35"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1FiltersCollection.html#a07bead84edfbffcd9e6693ca6f243de9" title="corecvs::FiltersCollection::getRowByName" alt="" coords="733,59,1019,88"/>
+<area shape="rect" id="node13" href="$classFilterParametersControlWidgetBase.html#ad5b8b27fbb1bb733d5ac002b9cc180fe" title="FilterParametersControlWidgetBase::setParametersVirtual" alt="" coords="681,112,1071,141"/>
+<area shape="rect" id="node15" href="$classFilterGraphPresentation.html#ab58cc579d8c8543c3689bced9d71846a" title="FilterGraphPresentation::graphChangedSlot" alt="" coords="727,165,1025,195"/>
+<area shape="rect" id="node21" href="$classFilterBlockPresentation.html#a8d2fc7d451ae70951066dc6edf5864de" title="*&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;* | | |&lt; &gt;| | Type | |&lt; &gt;| | Name | | &gt;| | | *&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;..." alt="" coords="773,245,979,275"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1FiltersCollection.html#a11dae77aca1656bd1bf8f2dd84831aa2" title="corecvs::FiltersCollection::numberOfFilterTypes" alt="" coords="1120,59,1435,88"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1FilterGraph.html#a3ba7f7a7192ad0661728dffbd4316b32" title="corecvs::FilterGraph::serialize" alt="" coords="1173,112,1381,141"/>
+<area shape="rect" id="node19" href="$classFilterGraphPresentation.html#a742e19b33cb16af2bce687a035b12b82" title="FilterGraphPresentation::graphChanged" alt="" coords="1140,165,1415,195"/>
+<area shape="rect" id="node23" href="$classFilterBlockPresentation.html#af6f1626a761a22fb58726093d2cc1fae" title="FilterBlockPresentation::drawBlock" alt="" coords="1159,219,1396,248"/>
+<area shape="rect" id="node27" href="$classFilterBlockPresentation.html#a28ce80ed70461e1b0f584b9a598a5e36" title="FilterBlockPresentation::drawInputPins" alt="" coords="1147,272,1408,301"/>
+<area shape="rect" id="node31" href="$classFilterBlockPresentation.html#aaacb34a3720491173b54e709688dbc37" title="FilterBlockPresentation::drawOutputPins" alt="" coords="1140,325,1415,355"/>
+<area shape="rect" id="node25" href="$classDiagramScene.html#a48991d2fb5ae136cfefa7489aa3c8b6c" title="DiagramScene::itemColor" alt="" coords="1483,219,1669,248"/>
+<area shape="rect" id="node29" href="$classDiagramItem.html#a483cb2a13c9035090ef55bfa148fc93c" title="DiagramItem::polygon" alt="" coords="1495,299,1657,328"/>
+</map>

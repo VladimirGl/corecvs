@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="680,5,912,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1FloatFlowBuffer.html#a3eb641a3bc0f225c658fb6345e6a50c9" title="corecvs::FloatFlowBuffer::FloatFlowBuffer" alt="" coords="337,205,615,235"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1FlowBuffer.html#ab3e0bc7a8cd0eb01fd86f20de3aa5a99" title="corecvs::FlowBuffer::isElementKnown" alt="" coords="348,101,604,131"/>
+<area shape="rect" id="node10" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="721,71,871,100"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="721,148,871,177"/>
+<area shape="rect" id="node14" href="$classMakePreciseParameters.html#a04dd81648f798d4579e7493d7b540763" title="MakePreciseParameters::kLTIterations" alt="" coords="345,259,607,288"/>
+<area shape="rect" id="node16" href="$classMakePreciseParameters.html#aa2b5ed562a568a29570d581d836321d3" title="MakePreciseParameters::kLTRadiusH" alt="" coords="349,312,603,341"/>
+<area shape="rect" id="node18" href="$classMakePreciseParameters.html#af4c44e98fb2b68482427a03c4951fe3c" title="MakePreciseParameters::kLTRadiusW" alt="" coords="348,365,604,395"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1FloatFlowBuffer.html#a9c6e0c51bbfe9c5c623c8999176b1e68" title="corecvs::FloatFlowBuffer::preciseFlow" alt="" coords="348,419,604,448"/>
+<area shape="rect" id="node22" href="$classMakePreciseParameters.html#ad034d2e0db268f80aed0c91c74483c93" title="MakePreciseParameters::interpolation" alt="" coords="664,419,928,448"/>
+</map>

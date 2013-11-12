@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classMemoryUsageCalculator.html" title="Class that gets memory usage info from OS and checks if it is within allowed range or not..." alt="" coords="5,59,184,88"/>
+<area shape="rect" id="node3" href="$classLinuxMemoryUsageCalculator.html" title="LinuxMemoryUsageCalculator" alt="" coords="244,5,455,35"/>
+<area shape="rect" id="node5" href="$classMacMemoryUsageCalculator.html" title="MacMemoryUsageCalculator" alt="" coords="247,59,452,88"/>
+<area shape="rect" id="node7" href="$classWindowsMemoryUsageCalculator.html" title="WindowsMemoryUsageCalculator" alt="" coords="233,112,465,141"/>
+</map>

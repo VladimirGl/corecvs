@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="3657,83,3915,112"/>
+<area shape="rect" id="node5" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="2354,237,2557,267"/>
+<area shape="rect" id="node109" href="$memoryBlock_8cpp.html" title="Add Comment Here." alt="" coords="3823,160,4098,189"/>
+<area shape="rect" id="node111" href="$voxelBuffer_8h.html" title="Add Comment Here." alt="" coords="4122,160,4349,189"/>
+<area shape="rect" id="node113" href="$fixedArray_8h.html" title="a header for fixedArray.c" alt="" coords="919,160,1130,189"/>
+<area shape="rect" id="node121" href="$log_8h.html" title="This class will be used for logging." alt="" coords="3534,856,3649,885"/>
+<area shape="rect" id="node7" href="$distortionCorrectTransform_8h.html" title="core/alignment/distortionCorrectTransform.h" alt="" coords="2731,701,3035,731"/>
+<area shape="rect" id="node26" href="$assignmentOptimal_8h.html" title="a header for assignmentOptimal.c" alt="" coords="2053,315,2322,344"/>
+<area shape="rect" id="node30" href="$abstractBuffer_8cpp.html" title="TODO." alt="" coords="2346,315,2565,344"/>
+<area shape="rect" id="node32" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="742,392,1011,421"/>
+<area shape="rect" id="node36" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="415,624,581,653"/>
+<area shape="rect" id="node39" href="$integralBuffer_8h.html" title="А header for IntergalBuffer.c." alt="" coords="1327,701,1525,731"/>
+<area shape="rect" id="node41" href="$spatialGradient_8h.html" title="Add Comment Here." alt="" coords="2283,779,2545,808"/>
+<area shape="rect" id="node47" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="1365,547,1538,576"/>
+<area shape="rect" id="node50" href="$commonMappers_8h.html" title="a header for CommonMappers.cpp" alt="" coords="1514,624,1741,653"/>
+<area shape="rect" id="node52" href="$derivativeBuffer_8h.html" title="Add Comment Here." alt="" coords="1765,624,1978,653"/>
+<area shape="rect" id="node62" href="$segmentator_8h.html" title="Add Comment Here." alt="" coords="2491,624,2731,653"/>
+<area shape="rect" id="node89" href="$abstractKernel_8h.html" title="This class holds a convolution kernel." alt="" coords="2589,315,2794,344"/>
+<area shape="rect" id="node99" href="$mipmapPyramid_8h.html" title="a header for MidmapPyramid.cpp" alt="" coords="2818,315,3037,344"/>
+<area shape="rect" id="node101" href="$sphericalCorrectionLUT_8h.html" title="Add Comment Here." alt="" coords="3061,315,3343,344"/>
+<area shape="rect" id="node103" href="$math_2matrix_2matrix_8h.html" title="core/math/matrix/matrix.h" alt="" coords="691,315,881,344"/>
+<area shape="rect" id="node106" href="$projectiveTransform_8h.html" title="Add Comment Here." alt="" coords="3367,315,3597,344"/>
+<area shape="rect" id="node9" href="$displacementBuffer_8h.html" title="This file hold the class DisplacementBuffer." alt="" coords="2022,779,2259,808"/>
+<area shape="rect" id="node13" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="2246,856,2534,885"/>
+<area shape="rect" id="node16" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="2591,933,2842,963"/>
+<area shape="rect" id="node20" href="$camerasConfigParameters_8h.html" title="applications/base/camerasConfigParameters.h" alt="" coords="2558,856,2875,885"/>
+<area shape="rect" id="node11" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="2125,933,2429,963"/>
+<area shape="rect" id="node18" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="2981,1011,3245,1040"/>
+<area shape="rect" id="node28" href="$assignmentOptimal_8cpp.html" title="This file contains the implementations of fast assignment problem solution." alt="" coords="2053,392,2338,421"/>
+<area shape="rect" id="node34" href="$booleanBuffer_8h.html" title="core/buffers/booleanBuffer.h" alt="" coords="39,701,242,731"/>
+<area shape="rect" id="node44" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="482,701,711,731"/>
+<area shape="rect" id="node55" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="655,624,890,653"/>
+<area shape="rect" id="node57" href="$sixDBuffer_8h.html" title="A header for sixDBuffer.cpp." alt="" coords="735,701,941,731"/>
+<area shape="rect" id="node64" href="$tileGrid_8h.html" title="Add Comment Here." alt="" coords="2211,701,2414,731"/>
+<area shape="rect" id="node67" href="$buffer3d_8h.html" title="core/buffers/buffer3d.h" alt="" coords="1066,469,1231,499"/>
+<area shape="rect" id="node69" href="$disparityBuffer_8h.html" title="Add Comment Here." alt="" coords="1255,469,1461,499"/>
+<area shape="rect" id="node72" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="1485,469,1775,499"/>
+<area shape="rect" id="node75" href="$depthBuffer_8h.html" title="core/buffers/flow/depthBuffer.h" alt="" coords="63,469,279,499"/>
+<area shape="rect" id="node77" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="637,547,839,576"/>
+<area shape="rect" id="node83" href="$g12Buffer3d_8h.html" title="core/buffers/g12Buffer3d.h" alt="" coords="303,469,495,499"/>
+<area shape="rect" id="node86" href="$energyBuffer_8h.html" title="Add Comment Here." alt="" coords="519,469,738,499"/>
+<area shape="rect" id="node91" href="$copyKernel_8h.html" title="Add Comment Here." alt="" coords="2575,392,2807,421"/>
+<area shape="rect" id="node115" href="$diagonalMatrix_8h.html" title="Add Comment Here." alt="" coords="665,237,907,267"/>
+<area shape="rect" id="node118" href="$vector_8h.html" title="a header for vector.c" alt="" coords="931,237,1118,267"/>
+<area shape="rect" id="node123" href="$iterativeEstimator_8cpp.html" title="Add Comment Here." alt="" coords="3546,933,3818,963"/>
+<area shape="rect" id="node125" href="$log_8cpp.html" title="core/utils/log.cpp" alt="" coords="3842,933,3973,963"/>
+<area shape="rect" id="node128" href="$loggerWidget_8h.html" title="utils/widgets/loggerWidget.h" alt="" coords="3997,933,4194,963"/>
+<area shape="rect" id="node130" href="$parameterSelector_8cpp.html" title="utils/widgets/parameterSelector.cpp" alt="" coords="2866,933,3117,963"/>
+<area shape="rect" id="node132" href="$abstractCalculationThread_8cpp.html" title="Implements an abstract calculation thread capable of fetching frames from an ImageCaptureInterface in..." alt="" coords="3141,933,3471,963"/>
+</map>

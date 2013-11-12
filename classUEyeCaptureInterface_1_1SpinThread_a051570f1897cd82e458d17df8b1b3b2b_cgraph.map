@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classUEyeCameraDescriptor.html#a6eeaf02244f8be56f9b254071d5b3c76" title="UEyeCameraDescriptor::getDescriptorByAddress" alt="" coords="327,5,660,35"/>
+<area shape="rect" id="node5" href="$classImageCaptureInterface.html#a7e0ae4d6cacdcc46f10d5edbfdfe7fe5" title="Internal function to trigger frame notify signal." alt="" coords="335,59,652,88"/>
+<area shape="rect" id="node11" href="$classUEyeCaptureInterface.html#af120d5c393933f5ec4bb4251c0f016e2" title="UEyeCaptureInterface::ueyeTrace" alt="" coords="376,112,611,141"/>
+<area shape="rect" id="node13" href="$classBufferDescriptorType.html#a0380af10d6a37d55c31ecafa01c99384" title="BufferDescriptorType::usecsTimeStamp" alt="" coords="357,165,629,195"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1PreciseTimer.html#aeefca9626ed0efb419d7479f5d758966" title="corecvs::PreciseTimer::usecsTo" alt="" coords="740,216,959,245"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1PreciseTimer.html#af4f2392d369963a6786d28754d626d1b" title="corecvs::PreciseTimer::usecsToNow" alt="" coords="371,269,616,299"/>
+<area shape="rect" id="node26" href="$classUEyeCameraDescriptor.html#ae0caea3b11ad124929b7decf47d013ed" title="This functions fixes the difference in windows and linux uEye API." alt="" coords="336,323,651,352"/>
+<area shape="rect" id="node7" href="$classImageCaptureInterface.html#ad345e61b1b9e5837ef7ef788a09f1089" title="ImageCaptureInterface::newFrameReady" alt="" coords="709,32,989,61"/>
+<area shape="rect" id="node9" href="$classImageCaptureInterface.html#a89acb8d07aef913b8bb7d7971fa8c7e7" title="ImageCaptureInterface::newImageReady" alt="" coords="709,85,989,115"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1PreciseTimer.html#ab6fc71ad27d7bb8ed8fed6b837ac3065" title="corecvs::PreciseTimer::isCorrect" alt="" coords="736,269,963,299"/>
+<area shape="rect" id="node22" href="$classcorecvs_1_1PreciseTimer.html#ab96fc33330e59dc25e1965d692dcb3f9" title="corecvs::PreciseTimer::currentTime" alt="" coords="727,323,972,352"/>
+<area shape="rect" id="node24" href="$classcorecvs_1_1PreciseTimer.html#a8426a1a35d70c5da82bf027bfb1bee69" title="corecvs::PreciseTimer::setTime" alt="" coords="1039,323,1257,352"/>
+</map>

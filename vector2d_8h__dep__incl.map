@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$radialCorrection_8h.html" title="Header file for the radial lens distortion correction primitives." alt="" coords="383,160,617,189"/>
+<area shape="rect" id="node7" href="$distPointsFunction_8h.html" title="core/alignment/distPointsFunction.h" alt="" coords="5,315,253,344"/>
+<area shape="rect" id="node19" href="$displacementBuffer_8h.html" title="This file hold the class DisplacementBuffer." alt="" coords="1955,237,2192,267"/>
+<area shape="rect" id="node27" href="$ellipticalApproximation_8h.html" title="Add Comment Here." alt="" coords="807,160,1081,189"/>
+<area shape="rect" id="node36" href="$detectedObject_8h.html" title="Add Comment Here." alt="" coords="4245,160,4467,189"/>
+<area shape="rect" id="node40" href="$vjPattern_8h.html" title="This file holds data for Viola&#45;Jones pattern features." alt="" coords="4499,160,4680,189"/>
+<area shape="rect" id="node44" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="2388,83,2591,112"/>
+<area shape="rect" id="node57" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="3929,237,4132,267"/>
+<area shape="rect" id="node59" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="3775,392,4009,421"/>
+<area shape="rect" id="node61" href="$correspondanceList_8h.html" title="Add Comment Here." alt="" coords="3835,469,4104,499"/>
+<area shape="rect" id="node63" href="$homographyReconstructor_8h.html" title="Add Comment Here." alt="" coords="3811,547,4128,576"/>
+<area shape="rect" id="node65" href="$kltGenerator_8h.html" title="Add Comment Here." alt="" coords="4631,315,4817,344"/>
+<area shape="rect" id="node68" href="$kltGenerator_8cpp.html" title="Add Comment Here." alt="" coords="5009,392,5212,421"/>
+<area shape="rect" id="node73" href="$derivativeBuffer_8h.html" title="Add Comment Here." alt="" coords="1564,160,1777,189"/>
+<area shape="rect" id="node75" href="$sphericalCorrectionLUT_8h.html" title="Add Comment Here." alt="" coords="2959,160,3241,189"/>
+<area shape="rect" id="node77" href="$projectiveTransform_8h.html" title="Add Comment Here." alt="" coords="3367,160,3596,189"/>
+<area shape="rect" id="node80" href="$segmentator_8h.html" title="Add Comment Here." alt="" coords="1105,160,1345,189"/>
+<area shape="rect" id="node85" href="$punchedBufferOperations_8h.html" title="Add Comment Here." alt="" coords="4015,83,4319,112"/>
+<area shape="rect" id="node90" href="$math_2levenmarq_8h.html" title="core/math/levenmarq.h" alt="" coords="1369,160,1540,189"/>
+<area shape="rect" id="node95" href="$flowVector_8h.html" title="a header for FlowVector.c" alt="" coords="3735,83,3940,112"/>
+<area shape="rect" id="node99" href="$cameraParameters_8h.html" title="a header for cameraParameters.c" alt="" coords="4444,83,4705,112"/>
+<area shape="rect" id="node102" href="$clegacy_2math_2levenmarq_8h.html" title="core/clegacy/math/levenmarq.h" alt="" coords="4729,83,4953,112"/>
+<area shape="rect" id="node104" href="$swarmPoint_8h.html" title="core/clustering3d/swarmPoint.h" alt="" coords="4863,160,5084,189"/>
+<area shape="rect" id="node106" href="$line_8h.html" title="a header for line.c" alt="" coords="5969,160,6124,189"/>
+<area shape="rect" id="node109" href="$stereoAligner_8cpp.html" title="Add Comment Here." alt="" coords="5919,237,6161,267"/>
+<area shape="rect" id="node111" href="$rectangle_8h.html" title="Add Comment Here." alt="" coords="3468,83,3660,112"/>
+<area shape="rect" id="node113" href="$painterHelpers_8h.html" title="Add Comment Here." alt="" coords="3620,160,3855,189"/>
+<area shape="rect" id="node115" href="$triangulation_8h.html" title="Add Comment Here." alt="" coords="5108,160,5319,189"/>
+<area shape="rect" id="node120" href="$neon_2int32x8_8h.html" title="core/math/neon/int32x8.h" alt="" coords="5457,83,5644,112"/>
+<area shape="rect" id="node123" href="$sse_2int32x8_8h.html" title="core/math/sse/int32x8.h" alt="" coords="5668,83,5844,112"/>
+<area shape="rect" id="node125" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="5028,83,5231,112"/>
+<area shape="rect" id="node134" href="$qtHelper_8h.html" title="utils/qtHelper.h" alt="" coords="5343,160,5460,189"/>
+<area shape="rect" id="node140" href="$distortionParameters_8h.html" title="utils/distortioncorrector/distortionParameters.h" alt="" coords="667,237,987,267"/>
+<area shape="rect" id="node143" href="$abstractFlowColorer_8h.html" title="utils/flowcolorers/abstractFlowColorer.h" alt="" coords="6020,83,6287,112"/>
+<area shape="rect" id="node5" href="$radialFunc_8h.html" title="core/alignment/radialFunc.h" alt="" coords="344,237,541,267"/>
+<area shape="rect" id="node13" href="$radialFunc_8cpp.html" title="core/alignment/radialFunc.cpp" alt="" coords="277,315,491,344"/>
+<area shape="rect" id="node16" href="$radialCorrection_8cpp.html" title="This file contains the radial lens distortion correction primitives." alt="" coords="69,237,320,267"/>
+<area shape="rect" id="node22" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="1584,315,1872,344"/>
+<area shape="rect" id="node11" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="1065,392,1369,421"/>
+<area shape="rect" id="node9" href="$distPointsFunction_8cpp.html" title="core/alignment/distPointsFunction.cpp" alt="" coords="268,392,532,421"/>
+<area shape="rect" id="node30" href="$cloudCluster_8h.html" title="core/clustering3d/cloudCluster.h" alt="" coords="1325,237,1552,267"/>
+<area shape="rect" id="node32" href="$ellipticalApproximation_8cpp.html" title="Add Comment Here." alt="" coords="1011,237,1301,267"/>
+<area shape="rect" id="node34" href="$tileGrid_8h.html" title="Add Comment Here." alt="" coords="1627,237,1829,267"/>
+<area shape="rect" id="node38" href="$detectedObject_8cpp.html" title="Add Comment Here." alt="" coords="4231,237,4468,267"/>
+<area shape="rect" id="node42" href="$vjPattern_8cpp.html" title="This file hold implementation of function for Viola&#45;Jones optimised patterns." alt="" coords="4492,237,4687,267"/>
+<area shape="rect" id="node46" href="$distortionCorrectTransform_8h.html" title="core/alignment/distortionCorrectTransform.h" alt="" coords="2337,160,2641,189"/>
+<area shape="rect" id="node50" href="$assignmentOptimal_8h.html" title="a header for assignmentOptimal.c" alt="" coords="1801,160,2071,189"/>
+<area shape="rect" id="node52" href="$abstractBuffer_8cpp.html" title="TODO." alt="" coords="2095,160,2313,189"/>
+<area shape="rect" id="node54" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="2665,160,2935,189"/>
+</map>

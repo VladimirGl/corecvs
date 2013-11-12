@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$arrow_8h.html" title="utils/filters/graph/arrow.h" alt="" coords="864,160,1043,189"/>
+<area shape="rect" id="node7" href="$diagramitem_8cpp.html" title="utils/filters/graph/diagramitem.cpp" alt="" coords="1027,237,1267,267"/>
+<area shape="rect" id="node33" href="$diagramscene_8h.html" title="utils/filters/graph/diagramscene.h" alt="" coords="1259,83,1493,112"/>
+<area shape="rect" id="node5" href="$arrow_8cpp.html" title="utils/filters/graph/arrow.cpp" alt="" coords="811,237,1003,267"/>
+<area shape="rect" id="node9" href="$filterGraphPresentation_8h.html" title="utils/filters/graph/filterGraphPresentation.h" alt="" coords="288,469,579,499"/>
+<area shape="rect" id="node11" href="$diagramscene_8cpp.html" title="utils/filters/graph/diagramscene.cpp" alt="" coords="5,547,256,576"/>
+<area shape="rect" id="node13" href="$filterGraphPresentation_8cpp.html" title="utils/filters/graph/filterGraphPresentation.cpp" alt="" coords="280,547,587,576"/>
+<area shape="rect" id="node15" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="611,547,861,576"/>
+<area shape="rect" id="node17" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="359,624,623,653"/>
+<area shape="rect" id="node19" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="423,701,665,731"/>
+<area shape="rect" id="node21" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="697,624,924,653"/>
+<area shape="rect" id="node28" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="967,624,1233,653"/>
+<area shape="rect" id="node24" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="689,701,932,731"/>
+<area shape="rect" id="node26" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="956,701,1244,731"/>
+<area shape="rect" id="node31" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="1268,701,1548,731"/>
+<area shape="rect" id="node35" href="$filterPinPresentation_8h.html" title="utils/filters/graph/filterPinPresentation.h" alt="" coords="1240,160,1512,189"/>
+<area shape="rect" id="node74" href="$diagramtextitem_8cpp.html" title="utils/filters/graph/diagramtextitem.cpp" alt="" coords="1536,160,1803,189"/>
+<area shape="rect" id="node37" href="$filterBlockPresentation_8h.html" title="utils/filters/graph/filterBlockPresentation.h" alt="" coords="1291,237,1576,267"/>
+<area shape="rect" id="node53" href="$filterPinPresentation_8cpp.html" title="utils/filters/graph/filterPinPresentation.cpp" alt="" coords="2328,392,2613,421"/>
+<area shape="rect" id="node39" href="$compoundBlockPresentation_8h.html" title="utils/filters/graph/compoundBlockPresentation.h" alt="" coords="552,315,877,344"/>
+<area shape="rect" id="node43" href="$filterPresentationsCollection_8h.html" title="utils/filters/graph/filterPresentationsCollection.h" alt="" coords="553,392,876,421"/>
+<area shape="rect" id="node49" href="$filterBlockPresentation_8cpp.html" title="utils/filters/graph/filterBlockPresentation.cpp" alt="" coords="1893,315,2195,344"/>
+<area shape="rect" id="node51" href="$g12PinPresentation_8h.html" title="utils/filters/graph/g12PinPresentation.h" alt="" coords="2219,315,2485,344"/>
+<area shape="rect" id="node57" href="$txtPinPresentation_8h.html" title="utils/filters/graph/txtPinPresentation.h" alt="" coords="1608,315,1869,344"/>
+<area shape="rect" id="node62" href="$inputBlockPresentation_8h.html" title="utils/filters/graph/inputBlockPresentation.h" alt="" coords="968,315,1259,344"/>
+<area shape="rect" id="node67" href="$outputBlockPresentation_8h.html" title="utils/filters/graph/outputBlockPresentation.h" alt="" coords="1283,315,1584,344"/>
+<area shape="rect" id="node41" href="$compoundBlockPresentation_8cpp.html" title="utils/filters/graph/compoundBlockPresentation.cpp" alt="" coords="188,392,529,421"/>
+<area shape="rect" id="node46" href="$filterPresentationsCollection_8cpp.html" title="utils/filters/graph/filterPresentationsCollection.cpp" alt="" coords="1076,469,1412,499"/>
+<area shape="rect" id="node55" href="$g12PinPresentation_8cpp.html" title="utils/filters/graph/g12PinPresentation.cpp" alt="" coords="2021,392,2304,421"/>
+<area shape="rect" id="node60" href="$txtPinPresentation_8cpp.html" title="utils/filters/graph/txtPinPresentation.cpp" alt="" coords="1671,392,1945,421"/>
+<area shape="rect" id="node65" href="$inputBlockPresentation_8cpp.html" title="utils/filters/graph/inputBlockPresentation.cpp" alt="" coords="900,392,1207,421"/>
+<area shape="rect" id="node70" href="$outputBlockPresentation_8cpp.html" title="utils/filters/graph/outputBlockPresentation.cpp" alt="" coords="1281,392,1596,421"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDistortionWidget.html#abe7f163ecb22928af447159edf53ab5a" title="DistortionWidget::addPointPair" alt="" coords="296,139,509,168"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1SpatialGradient.html#adcf1483d0b6c36500a5e7d6f8361f316" title="corecvs::SpatialGradient::findCornerPoints" alt="" coords="573,219,864,248"/>
+<area shape="rect" id="node28" href="$classcorecvs_1_1CornerSegment.html#a333f97137ca4902783b34af30ce0e2dd" title="corecvs::CornerSegment::getMean" alt="" coords="280,243,525,272"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1Segmentator.html#a75082d72fa057adfd0702143e39fc98f" title="corecvs::Segmentator::segment" alt="" coords="288,296,517,325"/>
+<area shape="rect" id="node5" href="$classDistortionWidget.html#ac3994ee1565dbdee8d23e08367355774" title="DistortionWidget::printVectorPair" alt="" coords="605,139,832,168"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="980,5,1129,35"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="980,59,1129,88"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Vector3d.html#aec83d9ad04107cd9c2bb11abf33128c0" title="Helper functions to access elements." alt="" coords="980,112,1129,141"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1Vector3d.html#a940d88447f20fac800d1fa510c981275" title="corecvs::Vector3d::y" alt="" coords="980,165,1129,195"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Vector3d.html#a4587f5d4984576c5c4c2d44a4140ce3f" title="corecvs::Vector3d::z" alt="" coords="980,219,1129,248"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1SpatialGradient.html#a5cea347bc7927345c90c3e749e5e6c27" title="corecvs::SpatialGradient::SpatialGradient" alt="" coords="912,272,1197,301"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1BufferProcessor.html#af3a29d68393c0c9935b24e4070f9bd2f" title="corecvs::BufferProcessor::process" alt="" coords="936,325,1173,355"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="939,379,1171,408"/>
+</map>

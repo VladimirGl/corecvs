@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classFilterBlockPresentation.html#ac171d8578a2fb4ce6f198bcfc5a5ef1a" title="FilterBlockPresentation::createPinPresentations" alt="" coords="373,109,696,139"/>
+<area shape="rect" id="node19" href="$classDiagramItem.html#a10b8d32f96044e78fabe17c7b57d5abc" title="DiagramItem::finishInit" alt="" coords="1417,347,1583,376"/>
+<area shape="rect" id="node29" href="$classFilterBlockPresentation.html#a4130950e64a893af36740c8d4aa6451d" title="FilterBlockPresentation::drawBlockName" alt="" coords="396,240,673,269"/>
+<area shape="rect" id="node36" href="$classcorecvs_1_1FilterBlock.html#ad95cef58c19a86f9058b3e7139049b89" title="corecvs::FilterBlock::getFullName" alt="" coords="420,320,649,349"/>
+<area shape="rect" id="node41" href="$classcorecvs_1_1FilterBlock.html#af30e50bee1bfaa8ca7182f2e70629291" title="corecvs::FilterBlock::getInstanceName" alt="" coords="403,424,667,453"/>
+<area shape="rect" id="node43" href="$classcorecvs_1_1FilterBlock.html#a1705879f007b5963183d3148f2931c65" title="corecvs::FilterBlock::setInstanceName" alt="" coords="403,477,667,507"/>
+<area shape="rect" id="node5" href="$classFilterPinPresentation.html#a9309012b23c9b715cd5046fe0948ee6b" title="FilterPinPresentation::getPinByType" alt="" coords="745,5,988,35"/>
+<area shape="rect" id="node7" href="$classFilterPinPresentation.html#aa2ed0ebb00f6df4db1082a3abb513de1" title="FilterPinPresentation::FilterPinPresentation" alt="" coords="1037,163,1328,192"/>
+<area shape="rect" id="node9" href="$classFilterPinPresentation.html#a7c2ccb09a8445198a21dacae6436e319" title="FilterPinPresentation::drawPinName" alt="" coords="1376,109,1624,139"/>
+<area shape="rect" id="node21" href="$classDiagramScene.html#a257ca225f17da914a100cda881b2ea62" title="DiagramScene::diagramItemByPin" alt="" coords="1379,163,1621,192"/>
+<area shape="rect" id="node23" href="$classDiagramScene.html#ac4ecc61a6914932ec2694857a7e69e1e" title="DiagramScene::addArrow" alt="" coords="1408,268,1592,297"/>
+<area shape="rect" id="node11" href="$classDiagramScene.html#a73367ec3d54a2a01c927b8f9432e3d45" title="DiagramScene::font" alt="" coords="1744,55,1893,84"/>
+<area shape="rect" id="node13" href="$classDiagramScene.html#a09373ee7015d49ce7ccd3cd9983193a7" title="DiagramScene::textColor" alt="" coords="1728,215,1909,244"/>
+<area shape="rect" id="node15" href="$classFilterPinPresentation.html#ae56bd86978f21f5e9b3d4f8f88bbe174" title="FilterPinPresentation::drawInputPinName" alt="" coords="1679,108,1959,137"/>
+<area shape="rect" id="node17" href="$classFilterPinPresentation.html#a406936d4261879e338233d85662a98b1" title="FilterPinPresentation::drawOutputPinName" alt="" coords="1673,161,1964,191"/>
+<area shape="rect" id="node25" href="$classDiagramItem.html#a7eea98dfc6ec8956e0fb0e6e440fdcb0" title="DiagramItem::addArrow" alt="" coords="1732,268,1905,297"/>
+<area shape="rect" id="node27" href="$classArrow.html#ab7e7333a213b0eb310496b6f815e1824" title="Arrow::setColor" alt="" coords="1760,321,1877,351"/>
+<area shape="rect" id="node32" href="$classcorecvs_1_1FilterBlock.html#ad92b1d273b91fd68b9b9b84d5f818df8" title="corecvs::FilterBlock::getTypeName" alt="" coords="748,267,985,296"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1FilterBlock.html#a23839246f21e11f0fccf0b2b40ebd11f" title="corecvs::FilterBlock::getInstanceId" alt="" coords="748,320,985,349"/>
+</map>

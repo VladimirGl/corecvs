@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMjpegDecoderLazy.html#a08e2db34da8a454b9b3ea67ca30000a3" title="MjpegDecoderLazy::dec_checkmarker" alt="" coords="252,119,513,148"/>
+<area shape="rect" id="node5" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a48169e0640aeb24526c660f612f0b057" title="MjpegDecoderLazy::HuffmanParser::readMarker" alt="" coords="564,112,889,141"/>
+<area shape="rect" id="node9" href="$classMjpegDecoderLazy.html#a63111152a99892f35885c880990df7de" title="This functions decodes JPEG Minimum Coded Unit form huffman compressed stream." alt="" coords="264,15,501,44"/>
+<area shape="rect" id="node17" href="$classMjpegDecoderLazy_1_1StreamParser.html#a38092f508a89784e2493064cb81c3b60" title="MjpegDecoderLazy::StreamParser::getbyte" alt="" coords="580,177,873,207"/>
+<area shape="rect" id="node19" href="$classMjpegDecoderLazy_1_1StreamParser.html#abd5c0a33a08c8f62c6fee34399cb9cdb" title="MjpegDecoderLazy::StreamParser::getword" alt="" coords="579,255,875,284"/>
+<area shape="rect" id="node21" href="$classMjpegDecoderLazy.html#a6a189db2953db21e04b10c4d84a2b826" title="MjpegDecoderLazy::huffman_init" alt="" coords="268,327,497,356"/>
+<area shape="rect" id="node25" href="$classMjpegDecoderLazy.html#a38db3c3867e904c667e7666faa122ab6" title="MjpegDecoderLazy::idct" alt="" coords="296,380,469,409"/>
+<area shape="rect" id="node27" href="$classMjpegDecoderLazy.html#a6c7875c2a7f800884032bf74e0262057" title="MjpegDecoderLazy::idctqtab" alt="" coords="281,433,484,463"/>
+<area shape="rect" id="node30" href="$classMjpegDecoderLazy.html#a4b406fb6bc6617ab6748f22a4bfc380b" title="MjpegDecoderLazy::readtables" alt="" coords="273,223,492,252"/>
+<area shape="rect" id="node35" href="$classMjpegDecoderLazy.html#a3d7afe1765359dba91043f730746ae5d" title="MjpegDecoderLazy::yuv422ptoG12" alt="" coords="261,487,504,516"/>
+<area shape="rect" id="node7" href="$mjpegDecoder_8cpp.html#a6ab3e694b9bdf6bf8e039a027c2cccad" title="fillbits" alt="" coords="939,59,997,88"/>
+<area shape="rect" id="node11" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a239a417f89985a1b7f15f93fd659da23" title="MjpegDecoderLazy::HuffmanParser::getValue" alt="" coords="572,59,881,88"/>
+<area shape="rect" id="node14" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a9b89ee3402fc70bd2c695971ba546a19" title="MjpegDecoderLazy::HuffmanParser::getBits" alt="" coords="577,5,876,35"/>
+<area shape="rect" id="node23" href="$classMjpegDecoderLazy.html#a30a98c2cc798d9b7ed6766920b9028d5" title="Construct the huffman lookup tables form the length and values." alt="" coords="607,317,847,347"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="611,487,843,516"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$distortionCorrectTransform_8h.html" title="core/alignment/distortionCorrectTransform.h" alt="" coords="5,469,309,499"/>
+<area shape="rect" id="node17" href="$assignmentOptimal_8h.html" title="a header for assignmentOptimal.c" alt="" coords="3596,83,3865,112"/>
+<area shape="rect" id="node21" href="$abstractBuffer_8cpp.html" title="TODO." alt="" coords="3889,83,4108,112"/>
+<area shape="rect" id="node23" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="2047,160,2316,189"/>
+<area shape="rect" id="node27" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="763,392,928,421"/>
+<area shape="rect" id="node32" href="$integralBuffer_8h.html" title="А header for IntergalBuffer.c." alt="" coords="712,469,909,499"/>
+<area shape="rect" id="node36" href="$spatialGradient_8h.html" title="Add Comment Here." alt="" coords="619,547,880,576"/>
+<area shape="rect" id="node45" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="1972,315,2145,344"/>
+<area shape="rect" id="node56" href="$commonMappers_8h.html" title="a header for CommonMappers.cpp" alt="" coords="2349,392,2576,421"/>
+<area shape="rect" id="node68" href="$derivativeBuffer_8h.html" title="Add Comment Here." alt="" coords="3584,392,3797,421"/>
+<area shape="rect" id="node90" href="$segmentator_8h.html" title="Add Comment Here." alt="" coords="2752,392,2992,421"/>
+<area shape="rect" id="node116" href="$abstractKernel_8h.html" title="This class holds a convolution kernel." alt="" coords="3069,83,3275,112"/>
+<area shape="rect" id="node122" href="$mipmapPyramid_8h.html" title="a header for MidmapPyramid.cpp" alt="" coords="3177,237,3396,267"/>
+<area shape="rect" id="node134" href="$sphericalCorrectionLUT_8h.html" title="Add Comment Here." alt="" coords="4132,83,4415,112"/>
+<area shape="rect" id="node136" href="$math_2matrix_2matrix_8h.html" title="core/math/matrix/matrix.h" alt="" coords="2133,83,2323,112"/>
+<area shape="rect" id="node139" href="$projectiveTransform_8h.html" title="Add Comment Here." alt="" coords="4439,83,4668,112"/>
+<area shape="rect" id="node5" href="$displacementBuffer_8h.html" title="This file hold the class DisplacementBuffer." alt="" coords="353,547,591,576"/>
+<area shape="rect" id="node7" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="589,624,877,653"/>
+<area shape="rect" id="node9" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="264,701,515,731"/>
+<area shape="rect" id="node11" href="$camerasConfigParameters_8h.html" title="applications/base/camerasConfigParameters.h" alt="" coords="231,624,548,653"/>
+<area shape="rect" id="node19" href="$assignmentOptimal_8cpp.html" title="This file contains the implementations of fast assignment problem solution." alt="" coords="3728,160,4013,189"/>
+<area shape="rect" id="node25" href="$booleanBuffer_8h.html" title="core/buffers/booleanBuffer.h" alt="" coords="435,469,637,499"/>
+<area shape="rect" id="node41" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="2003,547,2232,576"/>
+<area shape="rect" id="node65" href="$tileGrid_8h.html" title="Add Comment Here." alt="" coords="2765,547,2968,576"/>
+<area shape="rect" id="node71" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="3016,392,3251,421"/>
+<area shape="rect" id="node73" href="$sixDBuffer_8h.html" title="A header for sixDBuffer.cpp." alt="" coords="3249,469,3455,499"/>
+<area shape="rect" id="node94" href="$buffer3d_8h.html" title="core/buffers/buffer3d.h" alt="" coords="1197,237,1363,267"/>
+<area shape="rect" id="node96" href="$disparityBuffer_8h.html" title="Add Comment Here." alt="" coords="1387,237,1592,267"/>
+<area shape="rect" id="node99" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="883,237,1173,267"/>
+<area shape="rect" id="node102" href="$depthBuffer_8h.html" title="core/buffers/flow/depthBuffer.h" alt="" coords="1616,237,1832,267"/>
+<area shape="rect" id="node104" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="2531,315,2733,344"/>
+<area shape="rect" id="node110" href="$g12Buffer3d_8h.html" title="core/buffers/g12Buffer3d.h" alt="" coords="1856,237,2048,267"/>
+<area shape="rect" id="node113" href="$energyBuffer_8h.html" title="Add Comment Here." alt="" coords="2072,237,2291,267"/>
+<area shape="rect" id="node30" href="$g8Buffer_8cpp.html" title="Add Comment Here." alt="" coords="984,469,1165,499"/>
+<area shape="rect" id="node39" href="$morphological_8h.html" title="Add Comment Here." alt="" coords="1539,469,1837,499"/>
+<area shape="rect" id="node34" href="$blurProcessor_8h.html" title="Add Comment Here." alt="" coords="1427,547,1677,576"/>
+<area shape="rect" id="node43" href="$bmpLoader_8h.html" title="Add Comment Here." alt="" coords="1936,624,2147,653"/>
+<area shape="rect" id="node47" href="$radialCorrection_8h.html" title="Header file for the radial lens distortion correction primitives." alt="" coords="1240,469,1475,499"/>
+<area shape="rect" id="node51" href="$cascadeClassifier_8h.html" title="This file should hold the header for cascade classifier." alt="" coords="3275,392,3509,421"/>
+<area shape="rect" id="node54" href="$bufferFactory_8h.html" title="This file contains the expendable interface for loading bitmaps from files and/or streams..." alt="" coords="1104,392,1299,421"/>
+<area shape="rect" id="node58" href="$commonMappers_8cpp.html" title="core/buffers/commonMappers.cpp" alt="" coords="2104,469,2344,499"/>
+<area shape="rect" id="node60" href="$g12Buffer_8cpp.html" title="Add Comment Here." alt="" coords="2368,469,2557,499"/>
+<area shape="rect" id="node62" href="$histogram_8h.html" title="The histogram of the integer based buffers." alt="" coords="2581,469,2829,499"/>
+<area shape="rect" id="node79" href="$interpolator_8h.html" title="Add Comment Here." alt="" coords="1323,392,1509,421"/>
+<area shape="rect" id="node86" href="$ppmLoader_8h.html" title="This is a header for PPM file format reader." alt="" coords="1533,392,1744,421"/>
+<area shape="rect" id="node88" href="$rawLoader_8h.html" title="Add Comment Here." alt="" coords="1768,392,1971,421"/>
+<area shape="rect" id="node118" href="$copyKernel_8h.html" title="Add Comment Here." alt="" coords="3421,160,3653,189"/>
+<area shape="rect" id="node120" href="$gaussian_8h.html" title="Add Comment Here." alt="" coords="3176,160,3397,189"/>
+<area shape="rect" id="node125" href="$sobel_8h.html" title="This file contains Sobel filters." alt="" coords="2955,160,3152,189"/>
+</map>

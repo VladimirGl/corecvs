@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseHostDialog.html#a701b8667f5671ad33033d6ec0312c260" title="BaseHostDialog::calculationStateChanged" alt="" coords="287,5,577,35"/>
+<area shape="rect" id="node5" href="$classBaseHostDialog.html#a948845662aec80c962ab678a65933635" title="BaseHostDialog::camerasParametersChanged" alt="" coords="1544,55,1861,84"/>
+<area shape="rect" id="node7" href="$classBaseHostDialog.html#a2d22427c17f7caa5226ca93abb6c41ee" title="BaseHostDialog::connectFinishedRecalculation" alt="" coords="273,216,591,245"/>
+<area shape="rect" id="node25" href="$classBaseHostDialog.html#acbbd80a78a766633988f0fffb8830097" title="In this function calculator is created and connected to parameter Widgets Normally you should overloa..." alt="" coords="313,269,551,299"/>
+<area shape="rect" id="node61" href="$classAbstractCalculationThread.html#a165e9c3a97101c8ca445c995889ac6f3" title="AbstractCalculationThread::getFramesHolder" alt="" coords="279,323,585,352"/>
+<area shape="rect" id="node63" href="$classBaseHostDialog.html#ae1c73651dbeebba56135bff02928bb6e" title="BaseHostDialog::pauseCalculator" alt="" coords="315,376,549,405"/>
+<area shape="rect" id="node65" href="$classBaseHostDialog.html#a1f2b9099ae70e6c047d6fe3138edbd62" title="BaseHostDialog::resumeCalculator" alt="" coords="309,429,555,459"/>
+<area shape="rect" id="node67" href="$classBaseHostDialog.html#a8d4d63459bf702ccfe0bff2b2113769c" title="BaseHostDialog::updatePauseCalculationAction" alt="" coords="269,483,595,512"/>
+<area shape="rect" id="node9" href="$classBaseHostDialog.html#aea3474a92a3c3437f565acf4326b8eec" title="Add all events to the list, and if we are not still collecting them &#45; process the whole list..." alt="" coords="735,216,999,245"/>
+<area shape="rect" id="node11" href="$classBaseHostDialog.html#a2f72b69c229d0eebafdce8e0028a5250" title="BaseHostDialog::processResult" alt="" coords="1176,268,1395,297"/>
+<area shape="rect" id="node21" href="$classBaseHostDialog.html#a9c9951b19762eaa127db683f3179c87e" title="Slot for swapping framesources &#45;&#45;&#45; right frame becomes left and left frame becomes right..." alt="" coords="1175,163,1396,192"/>
+<area shape="rect" id="node13" href="$classResultImage.html#a235b1c6d3576cd68390fe7d939e072fb" title="ResultImage::drawImage" alt="" coords="1613,215,1792,244"/>
+<area shape="rect" id="node15" href="$classResultImage.html#aef6f554a6c7827429bb06ce3f3079886" title="ResultImage::height" alt="" coords="1629,268,1776,297"/>
+<area shape="rect" id="node17" href="$classBaseHostDialog.html#a40d226c9a7ef643221631a52f31922b5" title="BaseHostDialog::updateWidgets" alt="" coords="1589,321,1816,351"/>
+<area shape="rect" id="node19" href="$classResultImage.html#a08c6666d5f1866c8d7c821638a5d6752" title="ResultImage::width" alt="" coords="1632,375,1773,404"/>
+<area shape="rect" id="node23" href="$classFrames.html#a82d642f30f1b9b57ba9d62f4cd8e7903" title="Swaps the frame sources so, for example, left camera becomes right, and right camera becomes left..." alt="" coords="1603,161,1803,191"/>
+<area shape="rect" id="node27" href="$classBaseHostDialog.html#a96883713db78002ae06fe87a57f30202" title="BaseHostDialog::baseControlParametersChanged" alt="" coords="697,163,1036,192"/>
+<area shape="rect" id="node41" href="$classBaseHostDialog.html#a02be94fee9da21ad43e1c02f7f5d7411" title="BaseHostDialog::filterControlParametersChanged" alt="" coords="699,269,1035,299"/>
+<area shape="rect" id="node43" href="$classParametersMapperBase.html#a6e5ba500880ff5c4a7e78bd7e3a25796" title="ParametersMapperBase::paramsChanged" alt="" coords="1140,428,1431,457"/>
+<area shape="rect" id="node53" href="$classBaseHostDialog.html#adcdcc9bca5e162072d8b3b0a43141e0d" title="BaseHostDialog::presentationControlParametersChanged" alt="" coords="672,480,1061,509"/>
+<area shape="rect" id="node55" href="$classParametersMapperBase.html#a490ec5723d523333ff3fdd901072a5f6" title="ParametersMapperBase::setBaseParametersControlWidget" alt="" coords="668,373,1065,403"/>
+<area shape="rect" id="node58" href="$classParametersMapperBase.html#a37c7bacefb5150dca04f521daab5cb68" title="ParametersMapperBase::setPresentationParametersControlWidget" alt="" coords="643,427,1091,456"/>
+<area shape="rect" id="node29" href="$classBaseHostDialog.html#a34dae5e98b718534256d2728db0a7517" title="BaseHostDialog::camerasParamsChanged" alt="" coords="1139,109,1432,139"/>
+<area shape="rect" id="node32" href="$classBaseHostDialog.html#a1a861685bf1ca4f0908455ccd5708b89" title="BaseHostDialog::getAdditionalParams" alt="" coords="1571,108,1835,137"/>
+<area shape="rect" id="node34" href="$classCamerasConfigParameters.html#a94ebef3c7cf7693491aba2e149c33c6b" title="CamerasConfigParameters::setDistortionTransform" alt="" coords="1973,55,2320,84"/>
+<area shape="rect" id="node36" href="$classCamerasConfigParameters.html#a0df22efe1bdbe8d27451ac4c2935f90b" title="CamerasConfigParameters::setInputsN" alt="" coords="2012,108,2281,137"/>
+<area shape="rect" id="node38" href="$classCamerasConfigParameters.html#a890e5fb11deace781510efc7ef7460e5" title="CamerasConfigParameters::setRectifierData" alt="" coords="1996,161,2297,191"/>
+<area shape="rect" id="node45" href="$classParametersMapperBase.html#ad4f24c68a41c6c875de49b42f8af0f17" title="ParametersMapperBase::baseParametersParamsChanged" alt="" coords="1505,428,1900,457"/>
+<area shape="rect" id="node47" href="$classPresentationParametersControlWidget.html#a01c57bfad35e1d77e5a86ba34504111a" title="PresentationParametersControlWidget::createParameters" alt="" coords="1508,481,1897,511"/>
+<area shape="rect" id="node49" href="$classBaseParametersControlWidget.html#a5c0b1ba7a11bfea38673cd30bc4a590a" title="BaseParametersControlWidget::createParameters" alt="" coords="1533,535,1872,564"/>
+<area shape="rect" id="node51" href="$classParametersMapperBase.html#aa15a5a08a75bb2fe157ded5832045675" title="ParametersMapperBase::presentationParametersParamsChanged" alt="" coords="1481,588,1924,617"/>
+</map>

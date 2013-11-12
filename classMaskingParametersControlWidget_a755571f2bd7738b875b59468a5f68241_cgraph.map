@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMaskingParametersControlWidget.html#a99f8fae1f136e22ae9935bd50d98a419" title="MaskingParametersControlWidget::createParameters" alt="" coords="411,5,771,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="481,59,700,88"/>
+<area shape="rect" id="node9" href="$classMaskingParametersControlWidget.html#a7b58d50d0ae098f5ac4f2f1647ec62ce" title="MaskingParametersControlWidget::setParameters" alt="" coords="421,112,760,141"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="908,59,1081,88"/>
+<area shape="rect" id="node11" href="$classMaskingParameters.html#a7722f2fff7adad1a26c95cde519c4f3a" title="MaskingParameters::invert" alt="" coords="899,112,1091,141"/>
+<area shape="rect" id="node13" href="$classMaskingParametersControlWidget.html#abbadcf3f6497408b8589fd5b8d7316df" title="MaskingParametersControlWidget::paramsChanged" alt="" coords="820,165,1169,195"/>
+</map>

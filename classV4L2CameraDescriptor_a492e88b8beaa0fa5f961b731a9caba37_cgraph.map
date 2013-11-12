@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classV4L2CameraDescriptor.html#a9d86faa0c6c5e6d49070906392de93ca" title="V4L2CameraDescriptor::deinitBuffers" alt="" coords="396,5,655,35"/>
+<area shape="rect" id="node5" href="$classV4L2CameraDescriptor.html#a0970c8e997bb1c7d186aab7c041cff3d" title="V4L2CameraDescriptor::deinitCamera" alt="" coords="393,59,657,88"/>
+<area shape="rect" id="node7" href="$classV4L2CameraDescriptor.html#a679d072b7a4a9a5391a8d28ac15eb9e0" title="V4L2CameraDescriptor::stop" alt="" coords="423,112,628,141"/>
+</map>

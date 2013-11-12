@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backgroundFilter_8h.html" title="Add Comment Here." alt="" coords="497,160,705,189"/>
+<area shape="rect" id="node11" href="$filtersCollection_8h.html" title="core/filters/filtersCollection.h" alt="" coords="1788,83,1991,112"/>
+<area shape="rect" id="node14" href="$bitSelectorFilter_8h.html" title="Add Comment Here." alt="" coords="1052,160,1255,189"/>
+<area shape="rect" id="node20" href="$filterGraph_8h.html" title="core/filters/blocks/filterGraph.h" alt="" coords="3636,160,3852,189"/>
+<area shape="rect" id="node22" href="$compoundFilter_8h.html" title="core/filters/blocks/compoundFilter.h" alt="" coords="1624,237,1869,267"/>
+<area shape="rect" id="node38" href="$pins_8cpp.html" title="core/filters/blocks/pins.cpp" alt="" coords="3757,237,3947,267"/>
+<area shape="rect" id="node50" href="$cannyFilter_8h.html" title="Add Comment Here." alt="" coords="303,160,473,189"/>
+<area shape="rect" id="node57" href="$sobelFilter_8h.html" title="Add Comment Here." alt="" coords="1279,160,1447,189"/>
+<area shape="rect" id="node63" href="$gainOffsetFilter_8h.html" title="Add Comment Here." alt="" coords="1471,160,1668,189"/>
+<area shape="rect" id="node69" href="$operationFilter_8h.html" title="core/filters/operationFilter.h" alt="" coords="1991,160,2185,189"/>
+<area shape="rect" id="node74" href="$inputFilter_8h.html" title="core/filters/inputFilter.h" alt="" coords="2583,160,2748,189"/>
+<area shape="rect" id="node80" href="$outputFilter_8h.html" title="core/filters/outputFilter.h" alt="" coords="2209,160,2385,189"/>
+<area shape="rect" id="node86" href="$txtFilter_8h.html" title="TODO." alt="" coords="2409,160,2559,189"/>
+<area shape="rect" id="node92" href="$binarizeBlock_8h.html" title="Add Comment Here." alt="" coords="2691,83,2880,112"/>
+<area shape="rect" id="node100" href="$filterBlock_8cpp.html" title="core/filters/blocks/filterBlock.cpp" alt="" coords="4177,83,4404,112"/>
+<area shape="rect" id="node110" href="$thickeningBlock_8h.html" title="Add Comment Here." alt="" coords="2961,83,3164,112"/>
+<area shape="rect" id="node115" href="$maskFilterBlock_8h.html" title="Add Comment Here." alt="" coords="3255,83,3457,112"/>
+<area shape="rect" id="node120" href="$openCVFilter_8h.html" title="utils/filters/openCVFilter.h" alt="" coords="924,83,1105,112"/>
+<area shape="rect" id="node125" href="$diagramitem_8h.html" title="utils/filters/graph/diagramitem.h" alt="" coords="3927,83,4153,112"/>
+<area shape="rect" id="node133" href="$filterBlockPresentation_8cpp.html" title="utils/filters/graph/filterBlockPresentation.cpp" alt="" coords="4428,83,4729,112"/>
+<area shape="rect" id="node135" href="$graphInterface_8h.html" title="utils/filters/graph/graphInterface.h" alt="" coords="4753,83,4991,112"/>
+<area shape="rect" id="node5" href="$backgroundFilter_8cpp.html" title="Add Comment Here." alt="" coords="267,237,491,267"/>
+<area shape="rect" id="node7" href="$filtersCollection_8cpp.html" title="core/filters/filtersCollection.cpp" alt="" coords="2051,315,2267,344"/>
+<area shape="rect" id="node9" href="$filterSelector_8cpp.html" title="utils/filters/filterSelector.cpp" alt="" coords="565,237,763,267"/>
+<area shape="rect" id="node35" href="$filterPresentationsCollection_8cpp.html" title="utils/filters/graph/filterPresentationsCollection.cpp" alt="" coords="1309,469,1645,499"/>
+<area shape="rect" id="node16" href="$bitSelectorFilter_8cpp.html" title="Add Comment Here." alt="" coords="787,237,1005,267"/>
+<area shape="rect" id="node26" href="$filterGraph_8cpp.html" title="core/filters/blocks/filterGraph.cpp" alt="" coords="2291,315,2520,344"/>
+<area shape="rect" id="node40" href="$diagramscene_8h.html" title="utils/filters/graph/diagramscene.h" alt="" coords="3971,237,4205,267"/>
+<area shape="rect" id="node42" href="$abstractCalculationThread_8h.html" title="applications/base/abstractCalculationThread.h" alt="" coords="3368,237,3683,267"/>
+<area shape="rect" id="node44" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="3379,315,3672,344"/>
+<area shape="rect" id="node24" href="$compoundFilter_8cpp.html" title="core/filters/blocks/compoundFilter.cpp" alt="" coords="1765,315,2027,344"/>
+<area shape="rect" id="node29" href="$compoundBlockPresentation_8h.html" title="utils/filters/graph/compoundBlockPresentation.h" alt="" coords="1416,315,1741,344"/>
+<area shape="rect" id="node31" href="$compoundBlockPresentation_8cpp.html" title="utils/filters/graph/compoundBlockPresentation.cpp" alt="" coords="1763,392,2104,421"/>
+<area shape="rect" id="node33" href="$filterPresentationsCollection_8h.html" title="utils/filters/graph/filterPresentationsCollection.h" alt="" coords="1416,392,1739,421"/>
+<area shape="rect" id="node46" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="3000,392,3309,421"/>
+<area shape="rect" id="node52" href="$cannyFilter_8cpp.html" title="Add Comment Here." alt="" coords="5,237,192,267"/>
+<area shape="rect" id="node60" href="$sobelFilter_8cpp.html" title="Add Comment Here." alt="" coords="1080,237,1261,267"/>
+<area shape="rect" id="node66" href="$gainOffsetFilter_8cpp.html" title="Add Comment Here." alt="" coords="1336,237,1549,267"/>
+<area shape="rect" id="node72" href="$operationFilter_8cpp.html" title="core/filters/operationFilter.cpp" alt="" coords="2045,237,2256,267"/>
+<area shape="rect" id="node77" href="$inputFilter_8cpp.html" title="core/filters/inputFilter.cpp" alt="" coords="2885,237,3067,267"/>
+<area shape="rect" id="node83" href="$outputFilter_8cpp.html" title="core/filters/outputFilter.cpp" alt="" coords="2331,237,2520,267"/>
+<area shape="rect" id="node89" href="$txtFilter_8cpp.html" title="core/filters/txtFilter.cpp" alt="" coords="2595,237,2760,267"/>
+<area shape="rect" id="node94" href="$binarizeBlock_8cpp.html" title="Add Comment Here." alt="" coords="2823,160,3025,189"/>
+<area shape="rect" id="node113" href="$thickeningBlock_8cpp.html" title="Add Comment Here." alt="" coords="3100,160,3319,189"/>
+<area shape="rect" id="node118" href="$maskFilterBlock_8cpp.html" title="Add Comment Here." alt="" coords="3393,160,3612,189"/>
+<area shape="rect" id="node123" href="$openCVFilter_8cpp.html" title="utils/filters/openCVFilter.cpp" alt="" coords="780,160,977,189"/>
+<area shape="rect" id="node127" href="$arrow_8h.html" title="utils/filters/graph/arrow.h" alt="" coords="4117,160,4296,189"/>
+<area shape="rect" id="node129" href="$diagramitem_8cpp.html" title="utils/filters/graph/diagramitem.cpp" alt="" coords="4229,237,4469,267"/>
+<area shape="rect" id="node137" href="$graphInterface_8cpp.html" title="utils/filters/graph/graphInterface.cpp" alt="" coords="4747,160,4997,189"/>
+</map>

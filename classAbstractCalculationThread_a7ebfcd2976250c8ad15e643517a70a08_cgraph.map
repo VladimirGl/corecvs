@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classAbstractCalculationThread.html#accff9f3bbf936d31d194b17756aa8ebc" title="AbstractCalculationThread::calculationStateChanged" alt="" coords="356,5,713,35"/>
+<area shape="rect" id="node5" href="$classFrames.html#a7456fca6f6756fe65dee67dd8287411e" title="Frames::fetchNewFrames" alt="" coords="444,59,625,88"/>
+<area shape="rect" id="node11" href="$classFrames.html#a574575a77ec087df67dd270caa832edc" title="Frames::getCurrentFrame" alt="" coords="441,112,628,141"/>
+<area shape="rect" id="node13" href="$classAbstractCalculationThread.html#ac58abb000054cad2dbd74475277dcc3d" title="AbstractCalculationThread::processingFinished" alt="" coords="376,165,693,195"/>
+<area shape="rect" id="node15" href="$classAbstractCalculationThread.html#a7e6948d0d2093157fc18acfdf36d35ae" title="This is the main calculation routine called when a new frame is received." alt="" coords="381,219,688,248"/>
+<area shape="rect" id="node17" href="$classFrames.html#a281e40269cffff48d34c1da9cdeb4506" title="Frames::timestamp" alt="" coords="461,272,608,301"/>
+<area shape="rect" id="node7" href="$classImageCaptureInterface.html#a169ed60a449a8ad05b014cd6b8cd6dc3" title="Main function to request frames from image interface." alt="" coords="785,32,1023,61"/>
+<area shape="rect" id="node9" href="$classImageCaptureInterface.html#a6c5cc0ef779d73551a893e661dad2c9f" title="ImageCaptureInterface::getFrameRGB24" alt="" coords="764,85,1044,115"/>
+</map>

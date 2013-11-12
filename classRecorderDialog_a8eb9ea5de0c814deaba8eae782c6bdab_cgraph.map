@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseHostDialog.html#aea3474a92a3c3437f565acf4326b8eec" title="Add all events to the list, and if we are not still collecting them &#45; process the whole list..." alt="" coords="365,192,629,221"/>
+<area shape="rect" id="node19" href="$classBaseHostDialog.html#ac6b57397a17fa061c63abad6e6a049c1" title="Starts both capture and processing." alt="" coords="419,245,576,275"/>
+<area shape="rect" id="node5" href="$classBaseHostDialog.html#a2f72b69c229d0eebafdce8e0028a5250" title="BaseHostDialog::processResult" alt="" coords="731,112,949,141"/>
+<area shape="rect" id="node15" href="$classBaseHostDialog.html#a9c9951b19762eaa127db683f3179c87e" title="Slot for swapping framesources &#45;&#45;&#45; right frame becomes left and left frame becomes right..." alt="" coords="729,192,951,221"/>
+<area shape="rect" id="node7" href="$classResultImage.html#a235b1c6d3576cd68390fe7d939e072fb" title="ResultImage::drawImage" alt="" coords="1075,5,1253,35"/>
+<area shape="rect" id="node9" href="$classResultImage.html#aef6f554a6c7827429bb06ce3f3079886" title="ResultImage::height" alt="" coords="1091,59,1237,88"/>
+<area shape="rect" id="node11" href="$classBaseHostDialog.html#a40d226c9a7ef643221631a52f31922b5" title="BaseHostDialog::updateWidgets" alt="" coords="1051,112,1277,141"/>
+<area shape="rect" id="node13" href="$classResultImage.html#a08c6666d5f1866c8d7c821638a5d6752" title="ResultImage::width" alt="" coords="1093,165,1235,195"/>
+<area shape="rect" id="node17" href="$classFrames.html#a82d642f30f1b9b57ba9d62f4cd8e7903" title="Swaps the frame sources so, for example, left camera becomes right, and right camera becomes left..." alt="" coords="1064,219,1264,248"/>
+<area shape="rect" id="node21" href="$classAbstractCalculationThread.html#a64d2f2e8f290eb5a0f7416112081ea10" title="AbstractCalculationThread::getCalculationState" alt="" coords="679,245,1001,275"/>
+<area shape="rect" id="node23" href="$classImageCaptureInterface.html#ad32df954948a3aea746d0c68563ee81d" title="ImageCaptureInterface::nextFrame" alt="" coords="717,299,963,328"/>
+<area shape="rect" id="node25" href="$classImageCaptureInterface.html#a7fc33056e6eaeb63da269573ec59ab62" title="ImageCaptureInterface::startCapture" alt="" coords="711,352,969,381"/>
+</map>

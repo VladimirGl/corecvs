@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$operationFilter_8h.html" title="core/filters/operationFilter.h" alt="" coords="253,83,448,112"/>
+<area shape="rect" id="node9" href="$operationParameters_8cpp.html" title="core/xml/generated/operationParameters.cpp" alt="" coords="476,83,788,112"/>
+<area shape="rect" id="node11" href="$operationParametersControlWidget_8h.html" title="utils/filters/ui/operationParametersControlWidget.h" alt="" coords="820,83,1161,112"/>
+<area shape="rect" id="node5" href="$filtersCollection_8cpp.html" title="core/filters/filtersCollection.cpp" alt="" coords="5,160,221,189"/>
+<area shape="rect" id="node7" href="$operationFilter_8cpp.html" title="core/filters/operationFilter.cpp" alt="" coords="245,160,456,189"/>
+<area shape="rect" id="node13" href="$filterPresentationsCollection_8cpp.html" title="utils/filters/graph/filterPresentationsCollection.cpp" alt="" coords="480,160,816,189"/>
+<area shape="rect" id="node15" href="$operationFilterControlWidget_8cpp.html" title="utils/filters/ui/operationFilterControlWidget.cpp" alt="" coords="840,160,1152,189"/>
+<area shape="rect" id="node17" href="$operationParametersControlWidget_8cpp.html" title="utils/filters/ui/operationParametersControlWidget.cpp" alt="" coords="1176,160,1533,189"/>
+</map>

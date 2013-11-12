@@ -1,0 +1,31 @@
+<map id="G" name="G">
+<area shape="rect" id="node13" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="516,392,588,421"/>
+<area shape="rect" id="node17" href="$utils_8h.html" title="This calss conatins CPP helper functions." alt="" coords="43,160,101,189"/>
+<area shape="rect" id="node20" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="451,83,579,112"/>
+<area shape="rect" id="node132" href="$mainWindow_8h.html" title="mainWindow.h" alt="" coords="2708,83,2820,112"/>
+<area shape="rect" id="node25" href="$baseHostDialog_8h.html" title="baseHostDialog.h" alt="" coords="2615,160,2748,189"/>
+<area shape="rect" id="node119" href="$recorderThread_8h.html" title="recorderThread.h" alt="" coords="235,160,365,189"/>
+<area shape="rect" id="node130" href="$recorderControlWidget_8h.html" title="recorderControlWidget.h" alt="" coords="389,160,565,189"/>
+<area shape="rect" id="node46" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="1720,392,1811,421"/>
+<area shape="rect" id="node51" href="$propertyList_8h.html" title="Add Comment Here." alt="" coords="947,315,1056,344"/>
+<area shape="rect" id="node58" href="$aboutDialog_8h.html" title="aboutDialog.h" alt="" coords="2280,237,2389,267"/>
+<area shape="rect" id="node60" href="$capSettingsDialog_8h.html" title="capSettingsDialog.h" alt="" coords="1592,237,1741,267"/>
+<area shape="rect" id="node66" href="$baseCalculationThread_8h.html" title="baseCalculationThread.h" alt="" coords="896,237,1075,267"/>
+<area shape="rect" id="node72" href="$baseParameters_8h.html" title="generatedParameters/baseParameters.h" alt="" coords="1357,315,1640,344"/>
+<area shape="rect" id="node74" href="$camerasConfigParameters_8h.html" title="camerasConfigParameters.h" alt="" coords="1664,315,1867,344"/>
+<area shape="rect" id="node79" href="$distortionCorrectTransform_8h.html" title="distortionCorrectTransform.h" alt="" coords="4557,392,4760,421"/>
+<area shape="rect" id="node81" href="$filterSelector_8h.html" title="filters/filterSelector.h" alt="" coords="1181,315,1333,344"/>
+<area shape="rect" id="node83" href="$statisticsDialog_8h.html" title="statisticsDialog.h" alt="" coords="691,237,821,267"/>
+<area shape="rect" id="node87" href="$baseParametersControlWidget_8h.html" title="baseParametersControlWidget.h" alt="" coords="1200,237,1427,267"/>
+<area shape="rect" id="node90" href="$presentationParametersControlWidget_8h.html" title="presentationParametersControlWidget.h" alt="" coords="2413,237,2691,267"/>
+<area shape="rect" id="node92" href="$rectifyParametersControlWidget_8h.html" title="rectifyParametersControlWidget.h" alt="" coords="3976,237,4211,267"/>
+<area shape="rect" id="node95" href="$pointsRectificationWidget_8h.html" title="pointsRectificationWidget.h" alt="" coords="2715,237,2907,267"/>
+<area shape="rect" id="node97" href="$distortionWidget_8h.html" title="distortioncorrector/distortionWidget.h" alt="" coords="4523,237,4781,267"/>
+<area shape="rect" id="node99" href="$advancedImageWidget_8h.html" title="advancedImageWidget.h" alt="" coords="4472,315,4651,344"/>
+<area shape="rect" id="node104" href="$cameraCalculatorWidget_8h.html" title="cameraCalculatorWidget.h" alt="" coords="2931,237,3120,267"/>
+<area shape="rect" id="node109" href="$g12Image_8h.html" title="g12Image.h" alt="" coords="3144,237,3243,267"/>
+<area shape="rect" id="node112" href="$memoryUsageCalculator_8h.html" title="memoryUsageCalculator.h" alt="" coords="3267,237,3459,267"/>
+<area shape="rect" id="node114" href="$inputSelectorWidget_8h.html" title="inputSelectorWidget.h" alt="" coords="3483,237,3645,267"/>
+<area shape="rect" id="node117" href="$filterGraphPresentation_8h.html" title="filterGraphPresentation.h" alt="" coords="3669,237,3851,267"/>
+<area shape="rect" id="node63" href="$imageCaptureInterface_8h.html" title="imageCaptureInterface.h" alt="" coords="691,315,872,344"/>
+</map>

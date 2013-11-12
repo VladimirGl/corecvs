@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1457,856,1529,885"/>
+<area shape="rect" id="node13" href="$abstractCalculationThread_8h.html" title="abstractCalculationThread.h" alt="" coords="1313,83,1513,112"/>
+<area shape="rect" id="node150" href="$log_8h.html" title="This class will be used for logging." alt="" coords="620,469,673,499"/>
+<area shape="rect" id="node25" href="$frames_8h.html" title="Add Comment Here." alt="" coords="1028,160,1105,189"/>
+<area shape="rect" id="node62" href="$imageCaptureInterface_8h.html" title="imageCaptureInterface.h" alt="" coords="1083,237,1264,267"/>
+<area shape="rect" id="node107" href="$filterGraph_8h.html" title="filterGraph.h" alt="" coords="2181,160,2283,189"/>
+<area shape="rect" id="node30" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="1056,469,1149,499"/>
+<area shape="rect" id="node34" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="776,701,899,731"/>
+<area shape="rect" id="node53" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="1064,624,1253,653"/>
+<area shape="rect" id="node57" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="1165,547,1315,576"/>
+<area shape="rect" id="node44" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="109,779,288,808"/>
+<area shape="rect" id="node51" href="$atomicOps_8h.html" title="atomicOps.h" alt="" coords="131,856,232,885"/>
+<area shape="rect" id="node68" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="1269,315,1376,344"/>
+<area shape="rect" id="node74" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="912,392,997,421"/>
+<area shape="rect" id="node80" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="1541,547,1635,576"/>
+<area shape="rect" id="node87" href="$histogram_8h.html" title="The histogram of the integer based buffers." alt="" coords="1600,392,1699,421"/>
+<area shape="rect" id="node92" href="$rectangle_8h.html" title="Add Comment Here." alt="" coords="1261,469,1355,499"/>
+<area shape="rect" id="node95" href="$rgbColor_8h.html" title="a header for rgbColor.c" alt="" coords="181,701,267,731"/>
+<area shape="rect" id="node98" href="$function_8h.html" title="a header that contains generic function" alt="" coords="1861,547,1947,576"/>
+<area shape="rect" id="node102" href="$correspondanceList_8h.html" title="Add Comment Here." alt="" coords="1480,469,1637,499"/>
+<area shape="rect" id="node116" href="$filterBlock_8h.html" title="filterBlock.h" alt="" coords="2133,315,2229,344"/>
+<area shape="rect" id="node139" href="$filtersCollection_8h.html" title="filtersCollection.h" alt="" coords="2219,237,2349,267"/>
+<area shape="rect" id="node143" href="$calculationStats_8h.html" title="Add Comment Here." alt="" coords="2389,547,2525,576"/>
+<area shape="rect" id="node123" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="2072,547,2165,576"/>
+<area shape="rect" id="node132" href="$pins_8h.html" title="TODO." alt="" coords="1984,392,2043,421"/>
+<area shape="rect" id="node135" href="$tinyxml2_8h.html" title="tinyxml2.h" alt="" coords="2123,469,2211,499"/>
+</map>

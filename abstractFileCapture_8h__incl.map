@@ -1,0 +1,32 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$imageFileCaptureInterface_8h.html" title="imageFileCaptureInterface.h" alt="" coords="291,83,491,112"/>
+<area shape="rect" id="node164" href="$abstractFileCaptureSpinThread_8h.html" title="abstractFileCaptureSpinThread.h" alt="" coords="515,83,744,112"/>
+<area shape="rect" id="node11" href="$imageCaptureInterface_8h.html" title="imageCaptureInterface.h" alt="" coords="449,160,631,189"/>
+<area shape="rect" id="node16" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="667,469,760,499"/>
+<area shape="rect" id="node88" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="852,237,959,267"/>
+<area shape="rect" id="node20" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="683,856,755,885"/>
+<area shape="rect" id="node24" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="887,701,1009,731"/>
+<area shape="rect" id="node64" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="751,624,940,653"/>
+<area shape="rect" id="node70" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="903,547,1052,576"/>
+<area shape="rect" id="node36" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="1713,779,1804,808"/>
+<area shape="rect" id="node45" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="1007,779,1185,808"/>
+<area shape="rect" id="node55" href="$tbbWrapper_8h.html" title="This is a class that provides common TBB interface." alt="" coords="1380,779,1487,808"/>
+<area shape="rect" id="node59" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="1260,779,1356,808"/>
+<area shape="rect" id="node42" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="2267,856,2371,885"/>
+<area shape="rect" id="node53" href="$atomicOps_8h.html" title="atomicOps.h" alt="" coords="1064,856,1165,885"/>
+<area shape="rect" id="node75" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="1993,624,2084,653"/>
+<area shape="rect" id="node83" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="2191,701,2281,731"/>
+<area shape="rect" id="node94" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="863,392,948,421"/>
+<area shape="rect" id="node100" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="1444,547,1537,576"/>
+<area shape="rect" id="node118" href="$histogram_8h.html" title="The histogram of the integer based buffers." alt="" coords="628,315,727,344"/>
+<area shape="rect" id="node129" href="$rectangle_8h.html" title="Add Comment Here." alt="" coords="1876,624,1969,653"/>
+<area shape="rect" id="node133" href="$rgbColor_8h.html" title="a header for rgbColor.c" alt="" coords="2383,624,2468,653"/>
+<area shape="rect" id="node139" href="$function_8h.html" title="a header that contains generic function" alt="" coords="1279,547,1364,576"/>
+<area shape="rect" id="node146" href="$correspondanceList_8h.html" title="Add Comment Here." alt="" coords="1544,315,1701,344"/>
+<area shape="rect" id="node106" href="$punchedBufferOperations_8h.html" title="Add Comment Here." alt="" coords="1233,701,1431,731"/>
+<area shape="rect" id="node113" href="$flowVector_8h.html" title="a header for FlowVector.c" alt="" coords="1601,624,1700,653"/>
+<area shape="rect" id="node123" href="$commonMappers_8h.html" title="a header for CommonMappers.cpp" alt="" coords="371,392,517,421"/>
+<area shape="rect" id="node144" href="$vector_8h.html" title="a header for vector.c" alt="" coords="1252,624,1324,653"/>
+<area shape="rect" id="node151" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="1428,392,1553,421"/>
+<area shape="rect" id="node159" href="$projectiveTransform_8h.html" title="Add Comment Here." alt="" coords="1825,547,1983,576"/>
+</map>

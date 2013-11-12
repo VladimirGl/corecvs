@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classV4L2CaptureDecoupleInterface.html" title="V4L2CaptureDecoupleInterface" alt="" coords="1128,153,1349,183"/>
+<area shape="rect" id="node4" href="$classImageCaptureInterface.html" title="ImageCaptureInterface" alt="" coords="747,73,915,103"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1PreciseTimer.html" title="corecvs::PreciseTimer" alt="" coords="751,127,911,156"/>
+<area shape="rect" id="node8" href="$classV4L2CameraDescriptor.html" title="A wrapper over V4L2 to access the camera." alt="" coords="745,180,916,209"/>
+<area shape="rect" id="node10" href="$structV4L2CameraDescriptor_1_1ParamIdMapStruct.html" title="V4L2CameraDescriptor::ParamIdMapStruct" alt="" coords="241,108,537,137"/>
+<area shape="rect" id="node12" href="$classV4L2UsersideBuffer.html" title="This structure describes V4L2 user side buffer." alt="" coords="316,161,463,191"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="347,233,432,263"/>
+<area shape="rect" id="node16" title="STL class." alt="" coords="5,233,189,263"/>
+<area shape="rect" id="node18" href="$classV4L2CameraMode.html" title="V4L2CameraMode" alt="" coords="761,316,900,345"/>
+<area shape="rect" id="node22" href="$classV4L2BufferDescriptor.html" title="Buffer descriptor type is a wrapper around the Video 4 Linux v4l2_buffer structure." alt="" coords="752,369,909,399"/>
+</map>

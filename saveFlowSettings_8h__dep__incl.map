@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$saveFlowSettings_8cpp.html" title="utils/corestructs/saveFlowSettings.cpp" alt="" coords="5,83,269,112"/>
+<area shape="rect" id="node5" href="$advancedImageWidget_8h.html" title="utils/uis/advancedImageWidget.h" alt="" coords="504,83,733,112"/>
+<area shape="rect" id="node29" href="$advancedImageWidget_8cpp.html" title="utils/uis/advancedImageWidget.cpp" alt="" coords="24,160,269,189"/>
+<area shape="rect" id="node7" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="293,160,581,189"/>
+<area shape="rect" id="node11" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="493,315,744,344"/>
+<area shape="rect" id="node31" href="$paintImageWidget_8h.html" title="utils/uis/paintImageWidget.h" alt="" coords="664,160,864,189"/>
+<area shape="rect" id="node41" href="$testbedMainWindow_8h.html" title="applications/testbed/testbedMainWindow.h" alt="" coords="1152,160,1443,189"/>
+<area shape="rect" id="node45" href="$testbedMainWindow_8cpp.html" title="applications/testbed/testbedMainWindow.cpp" alt="" coords="1456,237,1763,267"/>
+<area shape="rect" id="node9" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="227,237,531,267"/>
+<area shape="rect" id="node13" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="243,392,507,421"/>
+<area shape="rect" id="node15" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="307,469,549,499"/>
+<area shape="rect" id="node17" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="581,392,808,421"/>
+<area shape="rect" id="node24" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="851,392,1117,421"/>
+<area shape="rect" id="node20" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="573,469,816,499"/>
+<area shape="rect" id="node22" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="840,469,1128,499"/>
+<area shape="rect" id="node27" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="1152,469,1432,499"/>
+<area shape="rect" id="node33" href="$paintImageWidget_8cpp.html" title="utils/uis/paintImageWidget.cpp" alt="" coords="656,237,872,267"/>
+<area shape="rect" id="node35" href="$pointsRectificationWidget_8h.html" title="utils/uis/pointsRectificationWidget.h" alt="" coords="896,237,1139,267"/>
+<area shape="rect" id="node37" href="$pointsRectificationWidget_8cpp.html" title="utils/uis/pointsRectificationWidget.cpp" alt="" coords="888,315,1147,344"/>
+<area shape="rect" id="node43" href="$main__testbed_8cpp.html" title="applications/testbed/main_testbed.cpp" alt="" coords="1163,237,1432,267"/>
+</map>

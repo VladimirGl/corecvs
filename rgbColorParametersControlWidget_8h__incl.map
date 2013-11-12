@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$rgbColorParameters_8h.html" title="generated/rgbColorParameters.h" alt="" coords="136,315,368,344"/>
+<area shape="rect" id="node37" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="757,315,987,344"/>
+<area shape="rect" id="node72" href="$rgbColor_8h.html" title="a header for rgbColor.c" alt="" coords="1493,83,1579,112"/>
+<area shape="rect" id="node7" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="509,469,603,499"/>
+<area shape="rect" id="node25" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="5,392,123,421"/>
+<area shape="rect" id="node31" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="147,392,261,421"/>
+<area shape="rect" id="node21" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1239,547,1311,576"/>
+<area shape="rect" id="node43" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="595,392,776,421"/>
+<area shape="rect" id="node53" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="800,392,944,421"/>
+<area shape="rect" id="node59" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="387,392,571,421"/>
+<area shape="rect" id="node65" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="968,392,1115,421"/>
+<area shape="rect" id="node47" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="784,469,915,499"/>
+<area shape="rect" id="node75" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="1484,315,1588,344"/>
+<area shape="rect" id="node87" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="1395,160,1485,189"/>
+<area shape="rect" id="node96" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="1632,392,1728,421"/>
+<area shape="rect" id="node78" href="$vectorOperations_8h.html" title="This file holds the operations that are commonly used with continuous linear data structures such as ..." alt="" coords="1464,392,1608,421"/>
+<area shape="rect" id="node90" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="1395,237,1485,267"/>
+</map>

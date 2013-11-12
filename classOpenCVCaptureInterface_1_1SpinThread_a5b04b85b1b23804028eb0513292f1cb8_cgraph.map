@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classOpenCvHelper.html#a310025fec0e1bf6bb97ca4beef0fa729" title="OpenCvHelper::captureImageCopyToBuffer" alt="" coords="356,5,649,35"/>
+<area shape="rect" id="node5" href="$classImageCaptureInterface.html#a7e0ae4d6cacdcc46f10d5edbfdfe7fe5" title="Internal function to trigger frame notify signal." alt="" coords="344,59,661,88"/>
+<area shape="rect" id="node7" href="$classImageCaptureInterface.html#ad345e61b1b9e5837ef7ef788a09f1089" title="ImageCaptureInterface::newFrameReady" alt="" coords="709,32,989,61"/>
+<area shape="rect" id="node9" href="$classImageCaptureInterface.html#a89acb8d07aef913b8bb7d7971fa8c7e7" title="ImageCaptureInterface::newImageReady" alt="" coords="709,85,989,115"/>
+</map>

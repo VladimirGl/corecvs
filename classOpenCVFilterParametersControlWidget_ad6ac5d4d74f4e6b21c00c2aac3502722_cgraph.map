@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classOpenCVFilterParametersControlWidget.html#a6a04cbc1cbc262ab65401d3a12aa9d7b" title="OpenCVFilterParametersControlWidget::createParameters" alt="" coords="441,5,831,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="527,59,745,88"/>
+<area shape="rect" id="node9" href="$classOpenCVFilterParametersControlWidget.html#a7e8056f9cffec86da5f5f9c8e282e296" title="OpenCVFilterParametersControlWidget::setParameters" alt="" coords="452,139,820,168"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="984,32,1157,61"/>
+<area shape="rect" id="node11" href="$classOpenCVFilterParameters.html#ae9b89822f0a0156c1fc5ef7f87b4397e" title="OpenCVFilterParameters::openCVFilter" alt="" coords="937,85,1204,115"/>
+<area shape="rect" id="node13" href="$classOpenCVFilterParameters.html#a3b4653ac0701f5c8acbe9f441343e47d" title="OpenCVFilterParameters::param1" alt="" coords="953,139,1188,168"/>
+<area shape="rect" id="node15" href="$classOpenCVFilterParameters.html#a5ab270577a1d1c06652d16f77a347110" title="OpenCVFilterParameters::param2" alt="" coords="953,192,1188,221"/>
+<area shape="rect" id="node17" href="$classOpenCVFilterParametersControlWidget.html#ada1b24f70c1ac59cc726ab89a305f062" title="OpenCVFilterParametersControlWidget::paramsChanged" alt="" coords="880,245,1261,275"/>
+</map>

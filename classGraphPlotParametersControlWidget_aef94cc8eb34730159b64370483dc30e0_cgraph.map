@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classGraphPlotParametersControlWidget.html#acd9066fc3dabda9ba6595dd3447af01a" title="GraphPlotParametersControlWidget::createParameters" alt="" coords="421,85,792,115"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="497,139,716,168"/>
+<area shape="rect" id="node9" href="$classGraphPlotParametersControlWidget.html#ae61159895a4af16e8383bec19a24ce10" title="GraphPlotParametersControlWidget::setParameters" alt="" coords="432,325,781,355"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="935,5,1108,35"/>
+<area shape="rect" id="node11" href="$classGraphPlotParameters.html#ab8badf26241b8015ffc6d5d97cc64711" title="GraphPlotParameters::graphStyle" alt="" coords="904,59,1139,88"/>
+<area shape="rect" id="node13" href="$classGraphPlotParameters.html#a697c97c8c4b06cfec8ab9aebf6a9cbc8" title="GraphPlotParameters::width" alt="" coords="921,112,1121,141"/>
+<area shape="rect" id="node15" href="$classGraphPlotParameters.html#a1782d80685409b44b0bf953c71b5fd74" title="GraphPlotParameters::centerAt" alt="" coords="911,165,1132,195"/>
+<area shape="rect" id="node17" href="$classGraphPlotParameters.html#a146daba3d8ae8788648d65263dc53b6a" title="GraphPlotParameters::xGrid" alt="" coords="921,219,1121,248"/>
+<area shape="rect" id="node19" href="$classGraphPlotParameters.html#aa42f9bcd5e10357e2c897ffe18a4f636" title="GraphPlotParameters::yGrid" alt="" coords="921,272,1121,301"/>
+<area shape="rect" id="node21" href="$classGraphPlotParameters.html#af96bd43a6849685a5b44f4192a4566aa" title="GraphPlotParameters::xScale" alt="" coords="917,325,1125,355"/>
+<area shape="rect" id="node23" href="$classGraphPlotParameters.html#ab3582c26b6568ab65bb93822a619a71c" title="GraphPlotParameters::yScale" alt="" coords="917,379,1125,408"/>
+<area shape="rect" id="node25" href="$classGraphPlotParameters.html#a83afc5e52ab6ebedca773132a50c3677" title="GraphPlotParameters::contrast" alt="" coords="912,432,1131,461"/>
+<area shape="rect" id="node27" href="$classGraphPlotParameters.html#af3c9d830e5fb062ac2c88f3e2f4fe39f" title="GraphPlotParameters::selectGraph" alt="" coords="900,485,1143,515"/>
+<area shape="rect" id="node29" href="$classGraphPlotParameters.html#a0c9b5296bad8a620d5f5f9d170612388" title="GraphPlotParameters::fixTimeValue" alt="" coords="899,539,1144,568"/>
+<area shape="rect" id="node31" href="$classGraphPlotParameters.html#a38f8625e466ed15550148dab797e84f2" title="GraphPlotParameters::fixGridValue" alt="" coords="900,592,1143,621"/>
+<area shape="rect" id="node33" href="$classGraphPlotParametersControlWidget.html#a9b5ca2113cc1980626b5105f601fbf99" title="GraphPlotParametersControlWidget::paramsChanged" alt="" coords="840,645,1203,675"/>
+</map>

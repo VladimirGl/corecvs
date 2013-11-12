@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="267,5,499,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1BMPLoader.html#a8e42cacff31470eed3bb2fe242d21ba3" title="corecvs::BMPLoader::parseBMP" alt="" coords="272,59,493,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1BMPHeader.html#acaa4242ad483a164c16f27d143d3ca35" title="corecvs::BMPHeader::parseHeader" alt="" coords="547,59,792,88"/>
+</map>

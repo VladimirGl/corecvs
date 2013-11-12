@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classGraphPlotDialog.html#aa9919d91a1219eb290eded597c3f230a" title="GraphPlotDialog::addGraphPoint" alt="" coords="355,59,581,88"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1RGB24Buffer.html#af1eea99d617a211ad0e57c9f32153d7d" title="corecvs::RGB24Buffer::drawIsolines" alt="" coords="345,165,591,195"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1VectorOperationsBase.html#acfcd4bcc60d1d076b00afcfeba9f9e8b" title="Euclidean distance." alt="" coords="328,219,608,248"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1RadialCorrection.html#a0390787ab3d7567171a68f9cf0d2d0e4" title="corecvs::RadialCorrection::radialScale" alt="" coords="337,272,599,301"/>
+<area shape="rect" id="node23" href="$classAdvancedImageWidget.html#a365f213bdb320f2392d2693d6931abdd" title="AdvancedImageWidget::setImage" alt="" coords="351,325,585,355"/>
+<area shape="rect" id="node37" href="$classGraphPlotDialog.html#a7ac2613d55686a6e35815b667c77d9fd" title="GraphPlotDialog::update" alt="" coords="379,379,557,408"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="393,432,543,461"/>
+<area shape="rect" id="node41" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="393,485,543,515"/>
+<area shape="rect" id="node5" href="$classGraphPlotDialog.html#a52061b0779f3a0909505d1b9713827e7" title="GraphPlotDialog::setItemColor" alt="" coords="713,5,927,35"/>
+<area shape="rect" id="node7" href="$namespacecorecvs.html#a807eb76b7544bcb930b1700a58a780bd" title="Useful round* stuff." alt="" coords="760,59,880,88"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1AbstractBuffer.html#a6be5a0969d374904dc4ff6cd576c9332" title="Buffer size getter." alt="" coords="707,112,933,141"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="704,165,936,195"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1RGBColor.html#af71af180c1a4aa8058e56383d5cd49dd" title="corecvs::RGBColor::gray" alt="" coords="733,219,907,248"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1RGBColor.html#a5e8d5fe160db4c66478a86f84bfc70de" title="corecvs::RGBColor::RGBColor" alt="" coords="1101,219,1307,248"/>
+<area shape="rect" id="node25" href="$classAdvancedImageWidget.html#aa69ecf8afc2c52de22ef54bef616c92a" title="AdvancedImageWidget::drawResized" alt="" coords="693,272,947,301"/>
+<area shape="rect" id="node27" href="$classAdvancedImageWidget.html#a94f67b5bfc0bcf0c119c4e6011236faf" title="AdvancedImageWidget::recalculateZoomCenter" alt="" coords="656,325,984,355"/>
+<area shape="rect" id="node31" href="$classAdvancedImageWidget.html#a09b13f3339f391764bd57dd8d06f3d4f" title="AdvancedImageWidget::recomputeRects" alt="" coords="680,379,960,408"/>
+<area shape="rect" id="node35" href="$classAdvancedImageWidget.html#a722b91642b8f0f37a390edc76c3e645b" title="AdvancedImageWidget::saveFlowImage" alt="" coords="684,432,956,461"/>
+<area shape="rect" id="node29" href="$classAdvancedImageWidget.html#a0660da1dfe71d556c2c97ca4759404d5" title="AdvancedImageWidget::notifyCenterPointChanged" alt="" coords="1033,325,1375,355"/>
+<area shape="rect" id="node33" href="$classAdvancedImageWidget.html#ab3c658a5e253eeef3929028a1e2e3082" title="AdvancedImageWidget::computeInputRect" alt="" coords="1059,379,1349,408"/>
+</map>

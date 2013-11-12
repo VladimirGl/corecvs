@@ -1,0 +1,29 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="547,392,619,421"/>
+<area shape="rect" id="node15" href="$utils_8h.html" title="This calss conatins CPP helper functions." alt="" coords="397,160,456,189"/>
+<area shape="rect" id="node18" href="$baseHostDialog_8h.html" title="baseHostDialog.h" alt="" coords="1856,160,1989,189"/>
+<area shape="rect" id="node137" href="$mainWindow_8h.html" title="mainWindow.h" alt="" coords="1867,83,1979,112"/>
+<area shape="rect" id="node39" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="647,392,737,421"/>
+<area shape="rect" id="node53" href="$propertyList_8h.html" title="Add Comment Here." alt="" coords="160,315,269,344"/>
+<area shape="rect" id="node67" href="$aboutDialog_8h.html" title="aboutDialog.h" alt="" coords="2792,315,2901,344"/>
+<area shape="rect" id="node71" href="$capSettingsDialog_8h.html" title="capSettingsDialog.h" alt="" coords="2587,237,2736,267"/>
+<area shape="rect" id="node75" href="$baseCalculationThread_8h.html" title="baseCalculationThread.h" alt="" coords="1253,237,1432,267"/>
+<area shape="rect" id="node80" href="$baseParameters_8h.html" title="generatedParameters/baseParameters.h" alt="" coords="1603,315,1885,344"/>
+<area shape="rect" id="node82" href="$camerasConfigParameters_8h.html" title="camerasConfigParameters.h" alt="" coords="729,315,932,344"/>
+<area shape="rect" id="node87" href="$distortionCorrectTransform_8h.html" title="distortionCorrectTransform.h" alt="" coords="1797,392,2000,421"/>
+<area shape="rect" id="node89" href="$filterSelector_8h.html" title="filters/filterSelector.h" alt="" coords="1427,315,1579,344"/>
+<area shape="rect" id="node92" href="$statisticsDialog_8h.html" title="statisticsDialog.h" alt="" coords="1272,315,1403,344"/>
+<area shape="rect" id="node96" href="$baseParametersControlWidget_8h.html" title="baseParametersControlWidget.h" alt="" coords="1659,237,1885,267"/>
+<area shape="rect" id="node100" href="$presentationParametersControlWidget_8h.html" title="presentationParametersControlWidget.h" alt="" coords="2197,315,2475,344"/>
+<area shape="rect" id="node103" href="$rectifyParametersControlWidget_8h.html" title="rectifyParametersControlWidget.h" alt="" coords="2011,237,2245,267"/>
+<area shape="rect" id="node107" href="$pointsRectificationWidget_8h.html" title="pointsRectificationWidget.h" alt="" coords="2320,237,2512,267"/>
+<area shape="rect" id="node109" href="$distortionWidget_8h.html" title="distortioncorrector/distortionWidget.h" alt="" coords="3077,237,3336,267"/>
+<area shape="rect" id="node112" href="$advancedImageWidget_8h.html" title="advancedImageWidget.h" alt="" coords="2925,315,3104,344"/>
+<area shape="rect" id="node119" href="$cameraCalculatorWidget_8h.html" title="cameraCalculatorWidget.h" alt="" coords="3221,315,3411,344"/>
+<area shape="rect" id="node125" href="$g12Image_8h.html" title="g12Image.h" alt="" coords="3468,315,3567,344"/>
+<area shape="rect" id="node129" href="$memoryUsageCalculator_8h.html" title="memoryUsageCalculator.h" alt="" coords="2861,237,3053,267"/>
+<area shape="rect" id="node131" href="$inputSelectorWidget_8h.html" title="inputSelectorWidget.h" alt="" coords="3608,315,3771,344"/>
+<area shape="rect" id="node135" href="$filterGraphPresentation_8h.html" title="filterGraphPresentation.h" alt="" coords="3360,237,3541,267"/>
+<area shape="rect" id="node48" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="1767,469,1857,499"/>
+<area shape="rect" id="node51" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="643,469,747,499"/>
+</map>

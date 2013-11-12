@@ -1,0 +1,45 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html" title="corecvs::AbstractBuffer\&lt; CloudCluster * \&gt;" alt="" coords="333,5,627,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1AbstractBuffer.html" title="corecvs::AbstractBuffer\&lt; ConvElementType, ConvIndexType \&gt;" alt="" coords="272,59,688,88"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1AbstractBuffer.html" title="corecvs::AbstractBuffer\&lt; double, int \&gt;" alt="" coords="347,112,613,141"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1AbstractBuffer.html" title="corecvs::AbstractBuffer\&lt; double, int32_t \&gt;" alt="" coords="332,165,628,195"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1AbstractBuffer.html" title="corecvs::AbstractBuffer\&lt; int32_t, uint32_t \&gt;" alt="" coords="328,219,632,248"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1AbstractBuffer.html" title="corecvs::AbstractBuffer\&lt; SegmentType * \&gt;" alt="" coords="331,272,629,301"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1AbstractBuffer.html" title="corecvs::AbstractBuffer\&lt; uint32_t, int32_t \&gt;" alt="" coords="328,325,632,355"/>
+<area shape="rect" id="node45" href="$classcorecvs_1_1AbstractBuffer.html" title="corecvs::AbstractBuffer\&lt; Vector3dd, uint32_t \&gt;" alt="" coords="317,405,643,435"/>
+<area shape="rect" id="node49" href="$classcorecvs_1_1AbstractBuffer.html" title="This is a common buffer template." alt="" coords="304,805,656,835"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1AbstractKernel.html" title="corecvs::AbstractKernel\&lt; ConvElementType, ConvIndexType \&gt;" alt="" coords="783,59,1199,88"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="corecvs::AbstractContiniousBuffer\&lt; double, int \&gt;" alt="" coords="824,112,1157,141"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1EnergyBuffer.html" title="corecvs::EnergyBuffer" alt="" coords="1407,59,1567,88"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1AbstractKernel.html" title="corecvs::AbstractKernel\&lt; double, int32_t \&gt;" alt="" coords="843,165,1139,195"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1Gaussian3x3.html" title="corecvs::Gaussian3x3" alt="" coords="1407,112,1567,141"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1AbstractKernel.html" title="corecvs::AbstractKernel\&lt; int32_t, uint32_t \&gt;" alt="" coords="837,219,1144,248"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1SobelHorInt.html" title="Old style (AbstractKernel style) Kernel for Horizontal Sobel operator for integer buffers..." alt="" coords="1409,165,1564,195"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1SobelVertInt.html" title="Old style (AbstractKernel style) Kernel for Vertical Sobel operator for integer buffers." alt="" coords="1408,219,1565,248"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1AbstractKernel.html" title="corecvs::AbstractKernel\&lt; uint32_t, int32_t \&gt;" alt="" coords="837,272,1144,301"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1IntegralBuffer.html" title="corecvs::IntegralBuffer\&lt; uint32_t, G12Buffer::InternalElementType, int32_t \&gt;" alt="" coords="737,325,1244,355"/>
+<area shape="rect" id="node41" href="$classcorecvs_1_1IntegralBuffer.html" title="corecvs::IntegralBuffer\&lt; uint32_t, G8Buffer::InternalElementType, int32_t \&gt;" alt="" coords="741,379,1240,408"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1Gaussian3x3int.html" title="corecvs::Gaussian3x3int" alt="" coords="1399,272,1575,301"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1G12IntegralBuffer.html" title="corecvs::G12IntegralBuffer" alt="" coords="1392,325,1581,355"/>
+<area shape="rect" id="node43" href="$classcorecvs_1_1G8IntegralBuffer.html" title="corecvs::G8IntegralBuffer" alt="" coords="1396,379,1577,408"/>
+<area shape="rect" id="node47" href="$classcorecvs_1_1SpatialGradient.html" title="This class holds the spatial gradient matrix square elements." alt="" coords="901,432,1080,461"/>
+<area shape="rect" id="node51" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="781,725,1200,755"/>
+<area shape="rect" id="node81" href="$classcorecvs_1_1AbstractKernel.html" title="Template class that holds the convolution kernel." alt="" coords="815,779,1167,808"/>
+<area shape="rect" id="node83" href="$classcorecvs_1_1DerivativeBuffer.html" title="corecvs::DerivativeBuffer\&lt; Vector2d\&lt; int16_t \&gt; \&gt;" alt="" coords="820,832,1161,861"/>
+<area shape="rect" id="node85" href="$classcorecvs_1_1IntegralBuffer.html" title="So each element of the integral buffer will hold the sum of the elements in a rectangle." alt="" coords="817,885,1164,915"/>
+<area shape="rect" id="node87" href="$classcorecvs_1_1Matrix.html" title="corecvs::Matrix\&lt; double, int32_t \&gt;" alt="" coords="869,939,1112,968"/>
+<area shape="rect" id="node53" href="$classcorecvs_1_1BooleanBuffer.html" title="corecvs::BooleanBuffer\&lt; uint8_t, int32_t \&gt;" alt="" coords="1340,432,1633,461"/>
+<area shape="rect" id="node55" href="$classcorecvs_1_1Buffer3d.html" title="corecvs::Buffer3d\&lt; SwarmPoint *, int32_t \&gt;" alt="" coords="1336,485,1637,515"/>
+<area shape="rect" id="node57" href="$classcorecvs_1_1DepthBuffer.html" title="corecvs::DepthBuffer\&lt; double, int32_t \&gt;" alt="" coords="1347,539,1627,568"/>
+<area shape="rect" id="node59" href="$classcorecvs_1_1DisparityBuffer.html" title="corecvs::DisparityBuffer\&lt; DisparityElement, int32_t \&gt;" alt="" coords="1305,592,1668,621"/>
+<area shape="rect" id="node61" href="$classcorecvs_1_1DisplacementBuffer.html" title="This buffer stores a buffer deformation &#45; a shift of the buffer pixels." alt="" coords="1311,645,1663,675"/>
+<area shape="rect" id="node63" href="$classcorecvs_1_1FixedPointDisplace.html" title="corecvs::FixedPointDisplace\&lt; BilinearMapPoint, int32_t \&gt;" alt="" coords="1295,699,1679,728"/>
+<area shape="rect" id="node65" href="$classcorecvs_1_1FloatFlowBuffer.html" title="corecvs::FloatFlowBuffer\&lt; FloatFlow, int32_t \&gt;" alt="" coords="1329,752,1644,781"/>
+<area shape="rect" id="node67" href="$classcorecvs_1_1FlowBuffer.html" title="This is actually a version of Displacement Buffer." alt="" coords="1333,805,1640,835"/>
+<area shape="rect" id="node69" href="$classcorecvs_1_1G12Buffer.html" title="TODO: Add consts where it should go." alt="" coords="1348,859,1625,888"/>
+<area shape="rect" id="node73" href="$classcorecvs_1_1G8Buffer.html" title="corecvs::G8Buffer\&lt; uint8_t, int32_t \&gt;" alt="" coords="1356,912,1617,941"/>
+<area shape="rect" id="node75" href="$classcorecvs_1_1RGB24Buffer.html" title="corecvs::RGB24Buffer\&lt; RGBColor, int32_t \&gt;" alt="" coords="1336,965,1637,995"/>
+<area shape="rect" id="node77" href="$classcorecvs_1_1SixDBuffer.html" title="6D buffer that hold all the information extracted form the images" alt="" coords="1337,1019,1636,1048"/>
+<area shape="rect" id="node79" href="$classcorecvs_1_1TileGrid.html" title="corecvs::TileGrid\&lt; ClusteringTile \&gt;" alt="" coords="1367,1072,1607,1101"/>
+<area shape="rect" id="node71" href="$classcorecvs_1_1G12Buffer3d.html" title="corecvs::G12Buffer3d" alt="" coords="1729,859,1887,888"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="864,315,957,344"/>
+<area shape="rect" id="node25" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="1592,237,1709,267"/>
+<area shape="rect" id="node30" href="$baseParametersControlWidget_8h.html" title="baseParametersControlWidget.h" alt="" coords="1553,83,1780,112"/>
+<area shape="rect" id="node85" href="$recorderControlWidget_8h.html" title="recorderControlWidget.h" alt="" coords="717,83,893,112"/>
+<area shape="rect" id="node98" href="$presentationParametersControlWidget_8h.html" title="presentationParametersControlWidget.h" alt="" coords="1872,83,2149,112"/>
+<area shape="rect" id="node21" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1105,392,1177,421"/>
+<area shape="rect" id="node36" href="$baseParameters_8h.html" title="generatedParameters/baseParameters.h" alt="" coords="981,160,1264,189"/>
+<area shape="rect" id="node50" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="677,160,907,189"/>
+<area shape="rect" id="node40" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="1453,237,1568,267"/>
+<area shape="rect" id="node44" href="$rotationPresets_8h.html" title="rotationPresets.h" alt="" coords="1083,237,1213,267"/>
+<area shape="rect" id="node46" href="$interpolationType_8h.html" title="interpolationType.h" alt="" coords="1237,237,1379,267"/>
+<area shape="rect" id="node56" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="5,237,187,267"/>
+<area shape="rect" id="node66" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="419,237,563,267"/>
+<area shape="rect" id="node72" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="211,237,395,267"/>
+<area shape="rect" id="node78" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="709,237,856,267"/>
+<area shape="rect" id="node60" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="387,315,517,344"/>
+<area shape="rect" id="node90" href="$recorder_8h.html" title="generatedParameters/recorder.h" alt="" coords="1288,160,1517,189"/>
+<area shape="rect" id="node102" href="$presentationParameters_8h.html" title="generatedParameters/presentationParameters.h" alt="" coords="2467,160,2800,189"/>
+<area shape="rect" id="node107" href="$stereoStyle_8h.html" title="stereoStyle.h" alt="" coords="2693,237,2800,267"/>
+<area shape="rect" id="node109" href="$flowStyle_8h.html" title="flowStyle.h" alt="" coords="2448,237,2539,267"/>
+<area shape="rect" id="node111" href="$outputStyle_8h.html" title="outputStyle.h" alt="" coords="2563,237,2669,267"/>
+</map>

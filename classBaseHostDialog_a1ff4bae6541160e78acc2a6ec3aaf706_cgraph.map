@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseHostDialog.html#adaf8d0780c4b3611196602733aad1b2b" title="BaseHostDialog::loadParams" alt="" coords="281,32,487,61"/>
+<area shape="rect" id="node5" href="$classConfigManager.html#a92f4e39dff236df8bab3b6d5697420c0" title="ConfigManager::camConfigName" alt="" coords="537,32,769,61"/>
+<area shape="rect" id="node7" href="$classConfigManager.html#a312ba1a2255b5af878f5dbb7c441d1ef" title="ConfigManager::camName" alt="" coords="820,5,1012,35"/>
+<area shape="rect" id="node9" href="$classConfigManager.html#ae428a00b007e47c5d496539e25b05bcf" title="ConfigManager::instance" alt="" coords="827,59,1005,88"/>
+<area shape="rect" id="node11" href="$classConfigManager.html#a7d3d7c10423d969f7544509f6fcca32f" title="ConfigManager::ConfigManager" alt="" coords="1063,59,1284,88"/>
+</map>

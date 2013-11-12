@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLDocument.html#a386df0befd06aadb5e0cd21381aa955a" title="Create a new Comment associated with this Document." alt="" coords="321,59,596,88"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1XMLNode.html#a7682be117e3b2b4ebfd517c1acaaadbf" title="The meaning of &#39;value&#39; changes for the specific type." alt="" coords="365,112,552,141"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1MemPoolT.html#aa9d785a48ffe6ea1be679bab13464486" title="tinyxml2::MemPoolT::Alloc" alt="" coords="657,5,844,35"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLNode.html#a09dd68cf9eae137579f6e50f36487513" title="Set the Value of an XML node." alt="" coords="647,59,855,88"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1StrPair.html#a2baf6230e18333e02ab65d0897ee3941" title="tinyxml2::StrPair::SetInternedStr" alt="" coords="905,32,1132,61"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1StrPair.html#a1f82ec6b5bee35ee7466d8565e43b1de" title="tinyxml2::StrPair::SetStr" alt="" coords="932,85,1105,115"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1StrPair.html#a80c1b3bd99bf62ae85c94a29ce537125" title="tinyxml2::StrPair::Reset" alt="" coords="1183,32,1351,61"/>
+<area shape="rect" id="node17" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="663,112,839,141"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classParametersMapperRecorder.html#a362210c821614fe527580135e032704d" title="ParametersMapperRecorder::paramsChanged" alt="" coords="525,139,840,168"/>
+<area shape="rect" id="node5" href="$classParametersMapperRecorder.html#afa77f9bcf94386bca0babfda14de9644" title="ParametersMapperRecorder::baseParametersParamsChanged" alt="" coords="913,5,1332,35"/>
+<area shape="rect" id="node7" href="$classPresentationParametersControlWidget.html#a01c57bfad35e1d77e5a86ba34504111a" title="PresentationParametersControlWidget::createParameters" alt="" coords="928,59,1317,88"/>
+<area shape="rect" id="node9" href="$classBaseParametersControlWidget.html#a5c0b1ba7a11bfea38673cd30bc4a590a" title="BaseParametersControlWidget::createParameters" alt="" coords="953,112,1292,141"/>
+<area shape="rect" id="node11" href="$classRecorderControlWidget.html#ac2b2cc0e80869e9ccc9d99e2510e7695" title="RecorderControlWidget::createParameters" alt="" coords="977,165,1268,195"/>
+<area shape="rect" id="node13" href="$classParametersMapperRecorder.html#a71be83684e2844125af3afb00a8852c5" title="ParametersMapperRecorder::presentationParametersParamsChanged" alt="" coords="889,219,1356,248"/>
+<area shape="rect" id="node15" href="$classParametersMapperRecorder.html#a50c990d0728d2d5c6dafc6926e80e30e" title="ParametersMapperRecorder::recorderParamsChanged" alt="" coords="940,272,1305,301"/>
+</map>

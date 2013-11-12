@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classGainOffset.html#af3a2cef2cb894359a9b43d1b18156405" title="GainOffset::updateGainSlider" alt="" coords="224,5,429,35"/>
+<area shape="rect" id="node7" href="$classGainOffset.html#a89ae3a69026f7422e6cf4d3b6a6a797c" title="GainOffset::updateGainText" alt="" coords="229,59,424,88"/>
+<area shape="rect" id="node10" href="$classGainOffset.html#a592a52b0d0e853c9f911218261297d84" title="GainOffset::updateOffsetSlider" alt="" coords="219,112,435,141"/>
+<area shape="rect" id="node13" href="$classGainOffset.html#a662c529593dabc9da6e28222818422e4" title="GainOffset::updateOffsetText" alt="" coords="224,165,429,195"/>
+<area shape="rect" id="node5" href="$classBaseFilter.html#a5f6ff60d8ce8d12ca475d4ca1a644460" title="BaseFilter::parametersChanged" alt="" coords="483,85,707,115"/>
+</map>

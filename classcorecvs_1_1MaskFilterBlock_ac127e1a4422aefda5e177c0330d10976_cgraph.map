@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMaskingParameters.html#a9b4159494983a298264b5eb7047cc097" title="MaskingParameters::accept" alt="" coords="317,5,515,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLNode.html#a6088246532b02895beb0e6fa561a7f3b" title="Get the last child node, or null if none exists." alt="" coords="311,59,521,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLNode.html#aab516e699567f75cc9ab2ef2eee501e8" title="Safely cast to an Element, or null." alt="" coords="307,112,525,141"/>
+</map>

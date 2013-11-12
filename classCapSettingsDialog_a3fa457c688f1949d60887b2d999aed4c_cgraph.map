@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCaptureParameter.html#a78517c84a35419cd0840911c7229bf67" title="CaptureParameter::active" alt="" coords="364,5,551,35"/>
+<area shape="rect" id="node5" href="$classCaptureParameter.html#a9d862a8183de4660684533e2289d60e7" title="CaptureParameter::autoSupported" alt="" coords="336,59,579,88"/>
+<area shape="rect" id="node7" href="$classImageCaptureInterface.html#a4bacce84d648eb69221b341631309cd2" title="ImageCaptureInterface::getCaptureProperty" alt="" coords="307,112,608,141"/>
+<area shape="rect" id="node9" href="$classCaptureParameter.html#ab4f35eb27ed22bb4ac92d4984e0b0c64" title="CaptureParameter::getMenuItem" alt="" coords="341,165,573,195"/>
+<area shape="rect" id="node11" href="$classCaptureParameter.html#a3b2981f5b49fb4d08c44696d0e4add37" title="CaptureParameter::getMenuItemNumber" alt="" coords="684,271,969,300"/>
+<area shape="rect" id="node13" href="$classCaptureParameter.html#ac3e08bb02fb3d477a0d60f17062bf8de" title="CaptureParameter::getMenuValue" alt="" coords="339,269,576,299"/>
+<area shape="rect" id="node15" href="$classCaptureParameter.html#a0ace3cdc70cfd1ce6abea1ee624cb5fb" title="CaptureParameter::hasMenuItems" alt="" coords="336,323,579,352"/>
+<area shape="rect" id="node18" href="$classCaptureParameter.html#ad4d13b6b6bc4ab5b8ad1dd406a5bfced" title="CaptureParameter::isMenu" alt="" coords="361,376,553,405"/>
+<area shape="rect" id="node20" href="$classCaptureParameter.html#ae8e96136a9ec0d75c254595976c55dd1" title="CaptureParameter::maximum" alt="" coords="351,429,564,459"/>
+<area shape="rect" id="node22" href="$classCaptureParameter.html#a5f3b87a3528b27b3b9976a7741b89a21" title="CaptureParameter::minimum" alt="" coords="353,483,561,512"/>
+<area shape="rect" id="node24" href="$classCapSettingsDialog.html#a0a8aca1183ae692737fc95f268290dc9" title="CapSettingsDialog::parameterChanged" alt="" coords="321,536,593,565"/>
+<area shape="rect" id="node28" href="$classParameterSelector.html#aed6d0edf39204e6ffe990433858f5fb0" title="ParameterSelector::pushOption" alt="" coords="347,589,568,619"/>
+<area shape="rect" id="node30" href="$classImageCaptureInterface.html#a9467a742cfcddc805679e239b65d3ddf" title="Check if a specific property can be set/read and what values it can take." alt="" coords="288,643,627,672"/>
+<area shape="rect" id="node32" href="$classCapSettingsDialog.html#ad72fb116ce3a64e396ec2718c686f161" title="CapSettingsDialog::resetPressed" alt="" coords="341,696,573,725"/>
+<area shape="rect" id="node37" href="$classParameterEditorWidget.html#a1b82fa3f3f40474b728ae1c08cf90232" title="ParameterEditorWidget::setAutoSupported" alt="" coords="311,749,604,779"/>
+<area shape="rect" id="node39" href="$classParameterSlider.html#a6825ea3c5da79ff93b254a0074d1df78" title="ParameterSlider::setMaximum" alt="" coords="349,803,565,832"/>
+<area shape="rect" id="node41" href="$classParameterSlider.html#aa1c895b6e0705ac08b18861a9b2690ed" title="ParameterSlider::setMinimum" alt="" coords="352,856,563,885"/>
+<area shape="rect" id="node43" href="$classParameterEditorWidget.html#a580d29a2dd4495f4e1b2cee8d5e568c9" title="ParameterEditorWidget::setName" alt="" coords="340,909,575,939"/>
+<area shape="rect" id="node45" href="$classParameterEditorWidget.html#a1509907e1e432ca5e1518808458596e3" title="ParameterEditorWidget::setValue" alt="" coords="341,963,573,992"/>
+<area shape="rect" id="node26" href="$classImageCaptureInterface.html#a34f11075f10c69633b08ec0156322be1" title="ImageCaptureInterface::setCaptureProperty" alt="" coords="676,589,977,619"/>
+<area shape="rect" id="node35" href="$classCaptureParameter.html#a0848010609c9a68579d1a00d4f7c1abb" title="CaptureParameter::defaultValue" alt="" coords="713,696,940,725"/>
+</map>

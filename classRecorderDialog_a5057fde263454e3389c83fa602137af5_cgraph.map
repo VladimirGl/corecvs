@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classStatisticsDialog.html#ad38887b466605d4cfff7dd1b8ac81b03" title="StatisticsDialog::addStats" alt="" coords="289,32,476,61"/>
+<area shape="rect" id="node15" href="$classResultImage.html#a235b1c6d3576cd68390fe7d939e072fb" title="ResultImage::drawImage" alt="" coords="293,85,472,115"/>
+<area shape="rect" id="node17" href="$classResultImage.html#aef6f554a6c7827429bb06ce3f3079886" title="ResultImage::height" alt="" coords="309,139,456,168"/>
+<area shape="rect" id="node19" href="$classRecorderControlWidget.html#abb831508a937ef55c4839dbdd40fbe36" title="RecorderControlWidget::ui" alt="" coords="289,192,476,221"/>
+<area shape="rect" id="node21" href="$classBaseHostDialog.html#a40d226c9a7ef643221631a52f31922b5" title="BaseHostDialog::updateWidgets" alt="" coords="269,245,496,275"/>
+<area shape="rect" id="node23" href="$classResultImage.html#a08c6666d5f1866c8d7c821638a5d6752" title="ResultImage::width" alt="" coords="312,299,453,328"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1BaseTimeStatisticsCollector.html#ac5aeeb5ae7675a9fe855fb3ea6e6580e" title="corecvs::BaseTimeStatisticsCollector::addStatistics" alt="" coords="545,5,892,35"/>
+<area shape="rect" id="node11" href="$classStatisticsDialog.html#a813431dc2e4f3bdcc215b0756fe8c547" title="StatisticsDialog::redrawStats" alt="" coords="616,59,821,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1BaseTimeStatisticsCollector.html#addc80bf2d53643d7fd4a39c8428c5d81" title="corecvs::BaseTimeStatisticsCollector::addSingleStat" alt="" coords="941,5,1296,35"/>
+<area shape="rect" id="node9" href="$structcorecvs_1_1UnitedStat.html#a3a0c1b8de9bb15adc250e3a372b527e6" title="corecvs::UnitedStat::addValue" alt="" coords="1345,5,1559,35"/>
+<area shape="rect" id="node13" href="$classQtStatisticsCollector.html#ac8189d8a53ba3d8897c3f1a8a851a578" title="QtStatisticsCollector::printForQT" alt="" coords="1005,59,1232,88"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classTestbedMainWindow.html#a1afcbb918ef36a79cc494acd3a16d989" title="TestbedMainWindow::loadImage" alt="" coords="317,260,539,289"/>
+<area shape="rect" id="node19" href="$classTestbedMainWindow.html#ad8dc73893e9c50a4113b22a429af6109" title="TestbedMainWindow::updateViewImage" alt="" coords="600,471,869,500"/>
+<area shape="rect" id="node44" href="$classTestbedMainWindow.html#a93c554e31601c6753e64070941c2c73c" title="TestbedMainWindow::pointSelected" alt="" coords="307,367,549,396"/>
+<area shape="rect" id="node65" href="$classTestbedMainWindow.html#a8d7bb7dc72efbce9f04b34ade8e1deab" title="TestbedMainWindow::resetMask" alt="" coords="317,313,539,343"/>
+<area shape="rect" id="node69" href="$classTestbedMainWindow.html#a72ad5d52b4e6e06f32e4e9a4cf177508" title="TestbedMainWindow::toggleMask" alt="" coords="315,471,541,500"/>
+<area shape="rect" id="node72" href="$classTestbedMainWindow.html#a41c09172ed04cfa49ff891f471b10759" title="TestbedMainWindow::undoMask" alt="" coords="319,524,537,553"/>
+<area shape="rect" id="node5" href="$classQTFileLoader.html#a226d0a4ec05f907b5980159b3645803e" title="QTFileLoader::RGB24BufferFromQImage" alt="" coords="597,185,872,215"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1AbstractBuffer.html#a6be5a0969d374904dc4ff6cd576c9332" title="Buffer size getter." alt="" coords="621,260,848,289"/>
+<area shape="rect" id="node11" href="$painterHelpers_8cpp.html#a780900a5b9c323ccddc2ae68a7b10cc2" title="drawCircle" alt="" coords="692,85,777,115"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="1291,293,1523,323"/>
+<area shape="rect" id="node13" href="$namespacecorecvs.html#a807eb76b7544bcb930b1700a58a780bd" title="Useful round* stuff." alt="" coords="997,5,1117,35"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="983,59,1132,88"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="983,112,1132,141"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1AbstractBuffer.html#af38950daefa219f81a0e89ee186075f1" title="Checks if coordinate lies within the buffer area." alt="" coords="1279,445,1535,475"/>
+<area shape="rect" id="node24" href="$classcorecvs_1_1RGBColor.html#a551378cc4e40775286d1200a21e3dfbc" title="corecvs::RGBColor::r" alt="" coords="1331,576,1483,605"/>
+<area shape="rect" id="node26" href="$classcorecvs_1_1RGBColor.html#a61bb42ad3c5af64582ba22408e8bc5c4" title="corecvs::RGBColor::g" alt="" coords="1329,629,1484,659"/>
+<area shape="rect" id="node28" href="$classcorecvs_1_1RGBColor.html#a28d1778710e5ade8ab275f8ef03cdaec" title="corecvs::RGBColor::b" alt="" coords="1329,523,1484,552"/>
+<area shape="rect" id="node30" href="$classAdvancedImageWidget.html#a365f213bdb320f2392d2693d6931abdd" title="AdvancedImageWidget::setImage" alt="" coords="940,736,1175,765"/>
+<area shape="rect" id="node32" href="$classAdvancedImageWidget.html#aa69ecf8afc2c52de22ef54bef616c92a" title="AdvancedImageWidget::drawResized" alt="" coords="1280,843,1533,872"/>
+<area shape="rect" id="node34" href="$classAdvancedImageWidget.html#a94f67b5bfc0bcf0c119c4e6011236faf" title="AdvancedImageWidget::recalculateZoomCenter" alt="" coords="1243,683,1571,712"/>
+<area shape="rect" id="node38" href="$classAdvancedImageWidget.html#a09b13f3339f391764bd57dd8d06f3d4f" title="AdvancedImageWidget::recomputeRects" alt="" coords="1267,736,1547,765"/>
+<area shape="rect" id="node42" href="$classAdvancedImageWidget.html#a722b91642b8f0f37a390edc76c3e645b" title="AdvancedImageWidget::saveFlowImage" alt="" coords="1271,789,1543,819"/>
+<area shape="rect" id="node36" href="$classAdvancedImageWidget.html#a0660da1dfe71d556c2c97ca4759404d5" title="AdvancedImageWidget::notifyCenterPointChanged" alt="" coords="1620,683,1961,712"/>
+<area shape="rect" id="node40" href="$classAdvancedImageWidget.html#ab3c658a5e253eeef3929028a1e2e3082" title="AdvancedImageWidget::computeInputRect" alt="" coords="1645,736,1936,765"/>
+<area shape="rect" id="node46" href="$classTestbedMainWindow.html#a1a6ed54b7978301b73e37f7f9ab01e08" title="TestbedMainWindow::maskHue" alt="" coords="627,313,843,343"/>
+<area shape="rect" id="node49" href="$classTestbedMainWindow.html#a16a7a2234bc2d8032942dbe3db250a53" title="TestbedMainWindow::maskTolerance" alt="" coords="609,417,860,447"/>
+<area shape="rect" id="node60" href="$classTestbedMainWindow.html#a9c5eca66653c87773c2fc9f5a06384a3" title="TestbedMainWindow::maskTolerance1" alt="" coords="928,267,1187,296"/>
+<area shape="rect" id="node53" href="$classTestbedMainWindow.html#a725cba6e8284a4bbc3e1a3c94915e6e0" title="TestbedMainWindow::recursiveTolerance" alt="" coords="921,523,1193,552"/>
+</map>

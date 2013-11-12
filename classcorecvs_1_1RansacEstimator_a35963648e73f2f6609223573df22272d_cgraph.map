@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1RansacEstimator.html#a519ff9dfd47483f7e3540ab78d48c1f1" title="corecvs::RansacEstimator::getFundamentalRansac" alt="" coords="409,137,753,167"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1Model8Point.html#a85e9eb6122a2d6245c734b6f61cae6c4" title="corecvs::Model8Point::fits" alt="" coords="831,111,1015,140"/>
+<area shape="rect" id="node26" href="$classcorecvs_1_1Ransac.html#a1855da6856f6daea47ccba5aa5d1b7e7" title="corecvs::Ransac::getModelRansac" alt="" coords="804,164,1041,193"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1EssentialMatrix.html#ae342cbde213342e31537d48ed0103f93" title="The inliers calculation is as follows: ." alt="" coords="1091,111,1381,140"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Line2d.html#aaa37e276ada53bd9ba9a91d08d3cc0dd" title="corecvs::Line2d::distanceTo" alt="" coords="1444,84,1639,113"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1Matrix33.html#a9eb3a36d48aa0b715f5302febf79ea06" title="corecvs::Matrix33::mulBy2dLeft" alt="" coords="1431,163,1652,192"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1VectorOperationsBase.html#acfcd4bcc60d1d076b00afcfeba9f9e8b" title="Euclidean distance." alt="" coords="1701,5,1981,35"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1Line2d.html#af2129b77f7bfa024b387a8d958deb1b3" title="corecvs::Line2d::normal" alt="" coords="2031,57,2204,87"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Line2d.html#a3b0cea19b23ecca90c69a7efe83ceb4c" title="corecvs::Line2d::pointWeight" alt="" coords="1740,109,1943,139"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Line2d.html#a04ce9e0c5d9195027ec0fcc8093b8289" title="corecvs::Line2d::last" alt="" coords="2041,111,2193,140"/>
+<area shape="rect" id="node22" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="1767,163,1916,192"/>
+<area shape="rect" id="node24" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="1767,216,1916,245"/>
+<area shape="rect" id="node28" href="$classcorecvs_1_1Ransac.html#ae136c0f09e9bee82acbc796e2005b479" title="corecvs::Ransac::randomSelect" alt="" coords="1125,164,1347,193"/>
+</map>

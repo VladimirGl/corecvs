@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$basefilter_8cpp.html" title="utils/filters/legacy/basefilter.cpp" alt="" coords="509,160,731,189"/>
+<area shape="rect" id="node5" href="$gainoffset_8h.html" title="utils/filters/legacy/gainoffset.h" alt="" coords="135,83,345,112"/>
+<area shape="rect" id="node10" href="$bitselector_8h.html" title="utils/filters/legacy/bitselector.h" alt="" coords="369,83,583,112"/>
+<area shape="rect" id="node15" href="$sobelfilter_8h.html" title="utils/filters/legacy/sobelfilter.h" alt="" coords="657,83,865,112"/>
+<area shape="rect" id="node20" href="$scalefilter_8h.html" title="utils/filters/legacy/scalefilter.h" alt="" coords="889,83,1097,112"/>
+<area shape="rect" id="node8" href="$gainoffset_8cpp.html" title="utils/filters/legacy/gainoffset.cpp" alt="" coords="5,160,232,189"/>
+<area shape="rect" id="node13" href="$bitselector_8cpp.html" title="utils/filters/legacy/bitselector.cpp" alt="" coords="256,160,485,189"/>
+<area shape="rect" id="node18" href="$sobelfilter_8cpp.html" title="utils/filters/legacy/sobelfilter.cpp" alt="" coords="755,160,979,189"/>
+<area shape="rect" id="node23" href="$scalefilter_8cpp.html" title="utils/filters/legacy/scalefilter.cpp" alt="" coords="1003,160,1224,189"/>
+</map>

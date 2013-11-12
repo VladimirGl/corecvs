@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLText.html#a125574fe49da80efbae1349f20d02d41" title="Returns true if this is a CDATA text element." alt="" coords="320,5,501,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1StrPair.html#ad90521f188e9606a8fbafe5d86fb2246" title="tinyxml2::StrPair::ParseText" alt="" coords="313,59,508,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLDocument.html#adfcff7d0599cd520e9fcbb8891e1b678" title="tinyxml2::XMLDocument::ProcessEntities" alt="" coords="269,112,552,141"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLDocument.html#ae38d194e47336e4c96677ac77e2ac5d4" title="tinyxml2::XMLDocument::SetError" alt="" coords="292,165,529,195"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLDocument.html#a94b3ea2f77c9ac831723984df5a02d01" title="tinyxml2::XMLDocument::WhitespaceMode" alt="" coords="264,219,557,248"/>
+</map>

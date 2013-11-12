@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1Line2d.html#a2bc37f087a7499fa6b28bc870fb5fd85" title="Normalizes the normal vector without changing the line itself." alt="" coords="253,59,445,88"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1VectorOperationsBase.html#acfcd4bcc60d1d076b00afcfeba9f9e8b" title="Euclidean distance." alt="" coords="647,5,927,35"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Line2d.html#af2129b77f7bfa024b387a8d958deb1b3" title="corecvs::Line2d::normal" alt="" coords="700,59,873,88"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1VectorOperationsBase.html#aab7561ae71642d8763c871ad184b3a53" title="corecvs::VectorOperationsBase\&lt; Vector3d\&lt; ElementType \&gt;, ElementType \&gt;::operator/=" alt="" coords="493,112,1080,141"/>
+</map>

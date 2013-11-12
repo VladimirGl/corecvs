@@ -1,0 +1,38 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classFilterGraphPresentation.html#ab58cc579d8c8543c3689bced9d71846a" title="FilterGraphPresentation::graphChangedSlot" alt="" coords="719,85,1017,115"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1FilterGraph.html#ab1344a22fc153d0da002cbd1428cec14" title="corecvs::FilterGraph::loadFromFile" alt="" coords="357,272,592,301"/>
+<area shape="rect" id="node55" href="$classFilterGraphPresentation.html#a4484e7fbb1ffd5a64f224ef844eeed83" title="FilterGraphPresentation::restoreFromGraph" alt="" coords="327,219,623,248"/>
+<area shape="rect" id="node79" href="$classBaseParametersControlWidget.html#aa5757f9a33aa157de400596d88913cb1" title="BaseParametersControlWidget::ui" alt="" coords="357,325,592,355"/>
+<area shape="rect" id="node5" href="$classFilterGraphPresentation.html#a742e19b33cb16af2bce687a035b12b82" title="FilterGraphPresentation::graphChanged" alt="" coords="1132,5,1407,35"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1FilterGraph.html#a3ba7f7a7192ad0661728dffbd4316b32" title="corecvs::FilterGraph::serialize" alt="" coords="1165,59,1373,88"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLDocument.html#a2ebd4647a8af5fc6831b294ac26a150a" title="Load an XML file from disk." alt="" coords="751,431,985,460"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1XMLNode.html#a0360085cc54df5bff85d5c5da13afdce" title="Delete all the children of this node." alt="" coords="1147,325,1392,355"/>
+<area shape="rect" id="node17" href="$classtinyxml2_1_1XMLDocument.html#adfc0e55c21a87d8a03d06b6be66d2172" title="tinyxml2::XMLDocument::InitDocument" alt="" coords="1135,379,1404,408"/>
+<area shape="rect" id="node19" href="$classtinyxml2_1_1XMLDocument.html#ae38d194e47336e4c96677ac77e2ac5d4" title="tinyxml2::XMLDocument::SetError" alt="" coords="1487,288,1724,317"/>
+<area shape="rect" id="node21" href="$classtinyxml2_1_1XMLUtil.html#a9333d20f2a34325b5115ca45849c4b2a" title="tinyxml2::XMLUtil::SkipWhiteSpace" alt="" coords="1149,560,1389,589"/>
+<area shape="rect" id="node25" href="$classtinyxml2_1_1XMLUtil.html#ae9bcb2bc3cd6475fdc644c8c17790555" title="tinyxml2::XMLUtil::ReadBOM" alt="" coords="1171,613,1368,643"/>
+<area shape="rect" id="node27" href="$classtinyxml2_1_1XMLNode.html#a7610d0f603e8b603d2078521811a23c1" title="tinyxml2::XMLNode::ParseDeep" alt="" coords="1159,507,1380,536"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1XMLNode.html#a9546e242b6a4f232415befb1cfe0fdd4" title="tinyxml2::XMLNode::Unlink" alt="" coords="1511,235,1700,264"/>
+<area shape="rect" id="node23" href="$classtinyxml2_1_1XMLUtil.html#a24ba87b1d22528167a3d16c4f52096bf" title="tinyxml2::XMLUtil::IsUTF8Continuation" alt="" coords="1475,869,1736,899"/>
+<area shape="rect" id="node29" href="$classtinyxml2_1_1XMLDocument.html#a25827d1bec509ad566a107e5853ed040" title="tinyxml2::XMLDocument::Identify" alt="" coords="1491,341,1720,371"/>
+<area shape="rect" id="node34" href="$classtinyxml2_1_1XMLDocument.html#abf0f9ac4c3aa5698a785937f71f7a69f" title="Return true if there was an error parsing the document." alt="" coords="1497,395,1713,424"/>
+<area shape="rect" id="node37" href="$classtinyxml2_1_1XMLNode.html#aab516e699567f75cc9ab2ef2eee501e8" title="Safely cast to an Element, or null." alt="" coords="1496,448,1715,477"/>
+<area shape="rect" id="node39" href="$classtinyxml2_1_1XMLElement.html#a2e3d9f938307a05963d7c4b8cd55754e" title="tinyxml2::XMLElement::ClosingType" alt="" coords="1483,501,1728,531"/>
+<area shape="rect" id="node41" href="$classtinyxml2_1_1MemPool.html#ac5804dd1387b2e4de5eef710076a0db1" title="tinyxml2::MemPool::SetTracked" alt="" coords="1784,580,2005,609"/>
+<area shape="rect" id="node43" href="$classtinyxml2_1_1StrPair.html#affa1043e73a18f05d5d2faec055725a7" title="tinyxml2::StrPair::Empty" alt="" coords="1519,659,1692,688"/>
+<area shape="rect" id="node45" href="$classtinyxml2_1_1XMLNode.html#a7682be117e3b2b4ebfd517c1acaaadbf" title="The meaning of &#39;value&#39; changes for the specific type." alt="" coords="1512,763,1699,792"/>
+<area shape="rect" id="node47" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="1807,736,1983,765"/>
+<area shape="rect" id="node49" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="1500,816,1711,845"/>
+<area shape="rect" id="node52" href="$classtinyxml2_1_1XMLNode.html#ae3b422e98914d6002ca99bb1d2837103" title="Add a child node as the last (right) child." alt="" coords="1484,605,1727,635"/>
+<area shape="rect" id="node31" href="$classtinyxml2_1_1XMLText.html#ad080357d76ab7cc59d7651249949329d" title="Declare whether this should be CDATA or standard text." alt="" coords="1793,341,1996,371"/>
+<area shape="rect" id="node57" href="$classFilterBlockPresentation.html#a8d2fc7d451ae70951066dc6edf5864de" title="*&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;* | | |&lt; &gt;| | Type | |&lt; &gt;| | Name | | &gt;| | | *&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;..." alt="" coords="765,165,971,195"/>
+<area shape="rect" id="node70" href="$classcorecvs_1_1FiltersCollection.html#a07bead84edfbffcd9e6693ca6f243de9" title="corecvs::FiltersCollection::getRowByName" alt="" coords="725,219,1011,248"/>
+<area shape="rect" id="node75" href="$classFilterPresentationsCollection.html#a79f80f5b9a2545160eff56db2bdba583" title="FilterPresentationsCollection::presentationByName" alt="" coords="695,272,1041,301"/>
+<area shape="rect" id="node77" href="$classFilterParametersControlWidgetBase.html#ad5b8b27fbb1bb733d5ac002b9cc180fe" title="FilterParametersControlWidgetBase::setParametersVirtual" alt="" coords="673,325,1063,355"/>
+<area shape="rect" id="node59" href="$classFilterBlockPresentation.html#af6f1626a761a22fb58726093d2cc1fae" title="FilterBlockPresentation::drawBlock" alt="" coords="1151,112,1388,141"/>
+<area shape="rect" id="node63" href="$classFilterBlockPresentation.html#a28ce80ed70461e1b0f584b9a598a5e36" title="FilterBlockPresentation::drawInputPins" alt="" coords="1139,165,1400,195"/>
+<area shape="rect" id="node67" href="$classFilterBlockPresentation.html#aaacb34a3720491173b54e709688dbc37" title="FilterBlockPresentation::drawOutputPins" alt="" coords="1132,219,1407,248"/>
+<area shape="rect" id="node61" href="$classDiagramScene.html#a48991d2fb5ae136cfefa7489aa3c8b6c" title="DiagramScene::itemColor" alt="" coords="1512,112,1699,141"/>
+<area shape="rect" id="node65" href="$classDiagramItem.html#a483cb2a13c9035090ef55bfa148fc93c" title="DiagramItem::polygon" alt="" coords="1524,171,1687,200"/>
+<area shape="rect" id="node72" href="$classcorecvs_1_1FiltersCollection.html#a11dae77aca1656bd1bf8f2dd84831aa2" title="corecvs::FiltersCollection::numberOfFilterTypes" alt="" coords="1112,272,1427,301"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classOpenCVSGMParametersControlWidget.html#ac5c53c386e07db9343b2c75dfe6941a9" title="OpenCVSGMParametersControlWidget::setParameters" alt="" coords="465,272,833,301"/>
+<area shape="rect" id="node5" href="$classOpenCVSGMParameters.html#ac7697b7c957b5f951dc66d785184026f" title="OpenCVSGMParameters::disp12MaxDiff" alt="" coords="936,5,1211,35"/>
+<area shape="rect" id="node7" href="$classOpenCVSGMParameters.html#acc43a1d1cf5b3f8dbb9d161da00e2b80" title="OpenCVSGMParameters::fullDP" alt="" coords="963,59,1184,88"/>
+<area shape="rect" id="node9" href="$classOpenCVSGMParameters.html#af7ea24e66c7c2fe26948cb98b2a4bd97" title="OpenCVSGMParameters::minDisparity" alt="" coords="940,112,1207,141"/>
+<area shape="rect" id="node11" href="$classOpenCVSGMParameters.html#a0030f4dda9ba169d2ccf7c1c6a62ba36" title="OpenCVSGMParameters::p1Multiplier" alt="" coords="944,165,1203,195"/>
+<area shape="rect" id="node13" href="$classOpenCVSGMParameters.html#acfc77bd066105829db5fed08b176d279" title="OpenCVSGMParameters::p2Multiplier" alt="" coords="944,219,1203,248"/>
+<area shape="rect" id="node15" href="$classOpenCVSGMParametersControlWidget.html#ae850957bc5e45fd19611c8a3d5201a45" title="OpenCVSGMParametersControlWidget::paramsChanged" alt="" coords="883,272,1264,301"/>
+<area shape="rect" id="node17" href="$classOpenCVSGMParameters.html#ad02e8bd33420f53148c1cc55c752ecb5" title="OpenCVSGMParameters::preFilterCap" alt="" coords="943,325,1204,355"/>
+<area shape="rect" id="node19" href="$classOpenCVSGMParameters.html#a805aac1cc6998078919ddb8744e17a19" title="OpenCVSGMParameters::sADWindowSize" alt="" coords="931,379,1216,408"/>
+<area shape="rect" id="node21" href="$classOpenCVSGMParameters.html#a8f777af012df1ce0ed23d9c6f1783a16" title="OpenCVSGMParameters::speckleRange" alt="" coords="936,432,1211,461"/>
+<area shape="rect" id="node23" href="$classOpenCVSGMParameters.html#a35d59c99a0561bd586a18676276d7d1c" title="OpenCVSGMParameters::speckleWindowSize" alt="" coords="920,485,1227,515"/>
+<area shape="rect" id="node25" href="$classOpenCVSGMParameters.html#a1f22b4c1ce5995aa048b4d1b2799d49e" title="OpenCVSGMParameters::uniquenessRatio" alt="" coords="928,539,1219,568"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1Matrix.html#a5b8b00c8bfc66549652e6c0610457254" title="The element getter for a matrix that is used like vector (i.e has height or width of 1)..." alt="" coords="933,64,1067,93"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1AbstractBuffer.html#ad4c21551df215fd88dc991b7135068ec" title="corecvs::AbstractBuffer::fillLineWithArgs" alt="" coords="312,37,587,66"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Matrix.html#a67ff682212801703e75602acf3859d1f" title="corecvs::Matrix::invSVD" alt="" coords="364,90,535,120"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="375,144,524,173"/>
+<area shape="rect" id="node22" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="375,197,524,226"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="1173,64,1405,93"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1Matrix.html#ab00a85b071aab144f3a2860189150e7f" title="This method contains SVD implementation." alt="" coords="657,142,804,172"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Matrix.html#a592174ecffa431b0f6b2a47aeee2ad23" title="corecvs::Matrix::transpose" alt="" coords="636,89,825,118"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Vector2d.html#ab49b551bd23cad02283d6506884bef72" title="corecvs::Vector2d::getLengthStable" alt="" coords="875,142,1125,172"/>
+</map>

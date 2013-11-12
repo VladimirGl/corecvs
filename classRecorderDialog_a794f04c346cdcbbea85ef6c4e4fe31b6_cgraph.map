@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseHostDialog.html#a1e0bdb42454af68e366bf0c349a838c9" title="BaseHostDialog::cleanupEventQueue" alt="" coords="289,5,548,35"/>
+<area shape="rect" id="node5" href="$classBaseHostDialog.html#ad5da01a76fa570a1f52b46e28489f519" title="during the process of the destruction you need to make sure that the thread object is killed before d..." alt="" coords="289,59,548,88"/>
+</map>

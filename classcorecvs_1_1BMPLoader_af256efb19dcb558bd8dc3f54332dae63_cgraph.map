@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="240,19,472,48"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1RGBColor.html#a59193fc5d024a6b6461eb6756a9af316" title="corecvs::RGBColor::luma12" alt="" coords="259,72,453,101"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1BMPLoader.html#a8e42cacff31470eed3bb2fe242d21ba3" title="corecvs::BMPLoader::parseBMP" alt="" coords="245,139,467,168"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1RGBColor.html#a28d1778710e5ade8ab275f8ef03cdaec" title="corecvs::RGBColor::b" alt="" coords="565,5,720,35"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1RGBColor.html#a61bb42ad3c5af64582ba22408e8bc5c4" title="corecvs::RGBColor::g" alt="" coords="565,59,720,88"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1RGBColor.html#a551378cc4e40775286d1200a21e3dfbc" title="corecvs::RGBColor::r" alt="" coords="567,112,719,141"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1BMPHeader.html#acaa4242ad483a164c16f27d143d3ca35" title="corecvs::BMPHeader::parseHeader" alt="" coords="520,165,765,195"/>
+</map>

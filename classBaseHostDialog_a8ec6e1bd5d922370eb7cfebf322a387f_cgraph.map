@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseHostDialog.html#acf45dad8e32ff848d0a5b8f213f3d4d7" title="BaseHostDialog::loadTransformFromFile" alt="" coords="296,112,571,141"/>
+<area shape="rect" id="node5" href="$classBaseHostDialog.html#a34dae5e98b718534256d2728db0a7517" title="BaseHostDialog::camerasParamsChanged" alt="" coords="619,59,912,88"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1PropertyList.html#a660a10b293fdc95ba23a844f0ccb2d0f" title="corecvs::PropertyList::load" alt="" coords="671,112,860,141"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1PropertyListReaderVisitor.html#ab8398751af5db14a85f833bdf9223b41" title="corecvs::PropertyListReaderVisitor::visit" alt="" coords="629,165,901,195"/>
+<area shape="rect" id="node7" href="$classBaseHostDialog.html#a948845662aec80c962ab678a65933635" title="BaseHostDialog::camerasParametersChanged" alt="" coords="961,5,1279,35"/>
+<area shape="rect" id="node9" href="$classBaseHostDialog.html#a1a861685bf1ca4f0908455ccd5708b89" title="BaseHostDialog::getAdditionalParams" alt="" coords="988,59,1252,88"/>
+<area shape="rect" id="node11" href="$classCamerasConfigParameters.html#a94ebef3c7cf7693491aba2e149c33c6b" title="CamerasConfigParameters::setDistortionTransform" alt="" coords="1328,5,1675,35"/>
+<area shape="rect" id="node13" href="$classCamerasConfigParameters.html#a0df22efe1bdbe8d27451ac4c2935f90b" title="CamerasConfigParameters::setInputsN" alt="" coords="1367,59,1636,88"/>
+<area shape="rect" id="node15" href="$classCamerasConfigParameters.html#a890e5fb11deace781510efc7ef7460e5" title="CamerasConfigParameters::setRectifierData" alt="" coords="1351,112,1652,141"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1BasePathVisitor.html#acc7d21eccf1ce557097eb3456ed09b95" title="corecvs::BasePathVisitor::pushChild" alt="" coords="996,165,1244,195"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1BasePathVisitor.html#a3e5d72693bcf8e234af9efab7d8b120a" title="corecvs::BasePathVisitor::popChild" alt="" coords="999,219,1241,248"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1BasePathVisitor.html#aeb1bcdf72f162b088e581709d12add10" title="corecvs::BasePathVisitor::getChildPath" alt="" coords="1368,165,1635,195"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1BasePathVisitor.html#a0a3e9c12139f603cab2f551b1c70e0f5" title="corecvs::BasePathVisitor::getCurrentPath" alt="" coords="1724,165,2007,195"/>
+</map>

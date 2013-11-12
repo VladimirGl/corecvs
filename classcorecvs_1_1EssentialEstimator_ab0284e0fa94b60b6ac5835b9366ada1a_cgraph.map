@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunctionBase.html#a160b8efefc233e2ab31c7795f966ae00" title="corecvs::EssentialEstimator::CostFunctionBase::getEssential" alt="" coords="369,133,775,163"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1GradientDescent.html#af871aeaa7efc3f6dde9ff8925d1f7cf2" title="corecvs::GradientDescent::minimise" alt="" coords="445,291,699,320"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunctionBase.html#a0b00036a507b64f23da94e458e14614a" title="corecvs::EssentialEstimator::CostFunctionBase::packState" alt="" coords="1201,212,1593,241"/>
+<area shape="rect" id="node43" href="$classcorecvs_1_1GenericQuaternion.html#aa76740d91bfbad4bba1d0f5019c3f251" title="corecvs::GenericQuaternion::RotationIdentity" alt="" coords="419,371,725,400"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1EssentialMatrix.html#a4dcc90bc82b49e6288587a6c1e420eed" title="Returns the essential matrix based on the rotation and the shift of the camera ." alt="" coords="867,125,1109,155"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Matrix33.html#abb6059469c451723cc7ddb58fcfcfb0c" title="Produce matrix that is equal to vector product with the given vector to the left." alt="" coords="1272,112,1523,141"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Matrix33.html#a47c909b671a7ae90b386b56c8706d3a5" title="corecvs::Matrix33::Matrix33" alt="" coords="1652,5,1849,35"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Vector3d.html#aec83d9ad04107cd9c2bb11abf33128c0" title="Helper functions to access elements." alt="" coords="1676,59,1825,88"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1Vector3d.html#a940d88447f20fac800d1fa510c981275" title="corecvs::Vector3d::y" alt="" coords="1676,112,1825,141"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Vector3d.html#a4587f5d4984576c5c4c2d44a4140ce3f" title="corecvs::Vector3d::z" alt="" coords="1676,165,1825,195"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1Matrix.html#a5b8b00c8bfc66549652e6c0610457254" title="The element getter for a matrix that is used like vector (i.e has height or width of 1)..." alt="" coords="921,264,1055,293"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1FunctionArgs.html#a0e1d36ff216147d20b3bc81e4d2a0143" title="This function computes Jacobian ." alt="" coords="867,317,1109,347"/>
+<area shape="rect" id="node28" href="$classcorecvs_1_1FixedArrayBase.html#abea4ed304b5caa5355e5707cbe408468" title="corecvs::FixedArrayBase::size" alt="" coords="883,371,1093,400"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="1281,265,1513,295"/>
+<area shape="rect" id="node26" href="$classcorecvs_1_1FunctionArgs.html#a241e7a53fb4c98f8181db1a6d94765a6" title="Operator that computes funсtion." alt="" coords="1280,319,1515,348"/>
+<area shape="rect" id="node32" href="$classcorecvs_1_1GenericQuaternion.html#a050eb3f5c915b00c484f06d7565475c8" title="corecvs::GenericQuaternion::x" alt="" coords="1644,219,1857,248"/>
+<area shape="rect" id="node34" href="$classcorecvs_1_1GenericQuaternion.html#a700b900b3421d779243e9fba7db5b3b0" title="corecvs::GenericQuaternion::y" alt="" coords="1644,272,1857,301"/>
+<area shape="rect" id="node36" href="$classcorecvs_1_1GenericQuaternion.html#a276bb5600f5b8111a459b85aad641d6d" title="corecvs::GenericQuaternion::z" alt="" coords="1644,325,1857,355"/>
+<area shape="rect" id="node38" href="$classcorecvs_1_1GenericQuaternion.html#a1425fc56ee78d718b584f902e120251c" title="corecvs::GenericQuaternion::t" alt="" coords="1645,379,1856,408"/>
+<area shape="rect" id="node45" href="$classcorecvs_1_1GenericQuaternion.html#aafa4edb6b3a03bdaff1a0c43142d01f5" title="corecvs::GenericQuaternion::GenericQuaternion" alt="" coords="825,424,1151,453"/>
+</map>

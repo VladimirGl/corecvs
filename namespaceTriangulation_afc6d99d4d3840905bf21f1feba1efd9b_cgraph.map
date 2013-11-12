@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespaceTriangulation.html#a87109ee46722d00232c89bb3bd713f79" title="Triangulation::triangulate4" alt="" coords="280,112,467,141"/>
+<area shape="rect" id="node19" href="$namespaceTriangulation.html#a575d16383c40ca9fefa14b5abfa8fae2" title="Triangulation::vertexHullFromTriangulation" alt="" coords="231,165,516,195"/>
+<area shape="rect" id="node5" href="$namespaceTriangulation.html#a80f248d30ab0a769a04a9bbbabc262bf" title="Triangulation::findTriangleCenter" alt="" coords="565,59,789,88"/>
+<area shape="rect" id="node11" href="$namespaceTriangulation.html#a7ccdc1b0b225bde006f9e12fbcf0ab16" title="Triangulation::splitPoints" alt="" coords="591,112,764,141"/>
+<area shape="rect" id="node7" href="$classTriangulation_1_1Point.html#ab63e6a647f1d56e24d8c29a1e2baea03" title="Triangulation::Point::color" alt="" coords="876,5,1057,35"/>
+<area shape="rect" id="node9" href="$classTriangulation_1_1Point.html#a13970d34eb34ff97506cf453283d3ea9" title="Triangulation::Point::remoteness" alt="" coords="853,59,1080,88"/>
+<area shape="rect" id="node13" href="$structTriangulation_1_1PointGroup.html#ab8dd015760c56150aef572d9dfe90b98" title="Triangulation::PointGroup::push_back" alt="" coords="839,112,1095,141"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="1145,85,1295,115"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="1145,139,1295,168"/>
+<area shape="rect" id="node21" href="$classTriangulation_1_1Edge.html#a730bfe3d681de1b86180b19deb1676a8" title="Triangulation::Edge::cosAngle" alt="" coords="573,165,781,195"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1Vector2d.html#a393c79aff6e42d8d3c2238e031f720f2" title="corecvs::Vector2d::cosineTo" alt="" coords="868,165,1065,195"/>
+</map>

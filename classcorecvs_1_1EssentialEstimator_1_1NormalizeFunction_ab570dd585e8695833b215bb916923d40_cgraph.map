@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunctionBase.html#ad4765d72f55a4fb7c1859fb76eb98216" title="corecvs::EssentialEstimator::CostFunctionBase::getRotationQ" alt="" coords="455,5,865,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunctionBase.html#a22028c81a090ed114426ed58b2a773b3" title="corecvs::EssentialEstimator::CostFunctionBase::getTranslation" alt="" coords="452,59,868,88"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1VectorOperationsBase.html#a50159d0c078f4a02f61712d47116cac9" title="Normalize a vector length to 1 without changing the direction." alt="" coords="513,112,807,141"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunctionBase.html#a0b00036a507b64f23da94e458e14614a" title="corecvs::EssentialEstimator::CostFunctionBase::packState" alt="" coords="464,219,856,248"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1VectorOperationsBase.html#a8abdcdd0819e6c08bfba71b93d0fbea8" title="Return a normalized copy of vector." alt="" coords="917,32,1219,61"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1GenericQuaternion.html#a1425fc56ee78d718b584f902e120251c" title="corecvs::GenericQuaternion::t" alt="" coords="963,85,1173,115"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1GenericQuaternion.html#a050eb3f5c915b00c484f06d7565475c8" title="corecvs::GenericQuaternion::x" alt="" coords="961,139,1175,168"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Vector3d.html#aec83d9ad04107cd9c2bb11abf33128c0" title="Helper functions to access elements." alt="" coords="993,192,1143,221"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1GenericQuaternion.html#a700b900b3421d779243e9fba7db5b3b0" title="corecvs::GenericQuaternion::y" alt="" coords="961,245,1175,275"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1Vector3d.html#a940d88447f20fac800d1fa510c981275" title="corecvs::Vector3d::y" alt="" coords="993,299,1143,328"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1GenericQuaternion.html#a276bb5600f5b8111a459b85aad641d6d" title="corecvs::GenericQuaternion::z" alt="" coords="961,352,1175,381"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1Vector3d.html#a4587f5d4984576c5c4c2d44a4140ce3f" title="corecvs::Vector3d::z" alt="" coords="993,405,1143,435"/>
+</map>

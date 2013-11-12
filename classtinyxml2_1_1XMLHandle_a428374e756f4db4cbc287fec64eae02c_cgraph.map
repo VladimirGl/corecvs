@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLNode.html#a4cb1bf63e9de55129d21a7be60685fd4" title="Get the previous (left) sibling node of this node." alt="" coords="312,5,560,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLHandle.html#a9c240a35c18f053509b4b97ddccd9793" title="Create a handle from any node (at any depth of the tree.) This can be a null pointer." alt="" coords="319,59,553,88"/>
+</map>

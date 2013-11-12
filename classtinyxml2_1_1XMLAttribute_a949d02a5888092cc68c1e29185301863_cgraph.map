@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLAttribute.html#ad510a83c4ff2755844bb250b125d28ff" title="QueryIntAttribute interprets the attribute as an integer, and returns the value in the provided parem..." alt="" coords="281,32,543,61"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLUtil.html#ad4df4023d11ee3fca9689c49b9707323" title="tinyxml2::XMLUtil::ToInt" alt="" coords="615,5,780,35"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLAttribute.html#adf884db24f469f8a99a14ae786d4ddd7" title="The value of the attribute." alt="" coords="593,59,801,88"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="851,59,1027,88"/>
+</map>

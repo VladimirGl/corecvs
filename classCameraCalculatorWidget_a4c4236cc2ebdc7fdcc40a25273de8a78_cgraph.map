@@ -1,0 +1,29 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCameraCalculatorWidget.html#a71deced531dcdc6269ca7775dd2a69e4" title="CameraCalculatorWidget::aspectChanged" alt="" coords="452,647,740,676"/>
+<area shape="rect" id="node5" href="$classCameraCalculatorWidget.html#afc2eb525d99b59661ce9749eb131052c" title="CameraCalculatorWidget::sensorDiagonalChanged" alt="" coords="840,699,1184,728"/>
+<area shape="rect" id="node15" href="$classCameraCalculatorWidget.html#aebb8121d93bafd382dd5383ed7ea1a30" title="CameraCalculatorWidget::lensFocalChanged" alt="" coords="444,593,748,623"/>
+<area shape="rect" id="node20" href="$classCameraCalculatorWidget.html#a13ec88e9f650eb4a541c654a3687d24e" title="CameraCalculatorWidget::lensNominalAngleChanged" alt="" coords="416,855,776,884"/>
+<area shape="rect" id="node25" href="$classCameraCalculatorWidget.html#acd43d268562186859559caf059c08ae5" title="Block corresponding to lens." alt="" coords="1240,76,1552,105"/>
+<area shape="rect" id="node28" href="$classCameraCalculatorWidget.html#a524d38320af65d5b2d7c1633c2159a4d" title="CameraCalculatorWidget::lensRealAngleChanged" alt="" coords="429,908,763,937"/>
+<area shape="rect" id="node32" href="$classCameraCalculatorWidget.html#a39a4819b5092dba111f4f7c230e3b478" title="CameraCalculatorWidget::setDisparity" alt="" coords="880,803,1144,832"/>
+<area shape="rect" id="node35" href="$classCameraCalculatorWidget.html#abdffc44c7fb50d4e7ee719d59ff81830" title="CameraCalculatorWidget::objectDistanceChanged" alt="" coords="427,235,765,264"/>
+<area shape="rect" id="node45" href="$classCameraCalculatorWidget.html#a36f195eff29bbf4a910a4900db8e2627" title="CameraCalculatorWidget::objectPxSizeChanged" alt="" coords="849,336,1175,365"/>
+<area shape="rect" id="node49" href="$classCameraCalculatorWidget.html#a98187a46144262cc86d3b07be77058e8" title="CameraCalculatorWidget::objectSizeChanged" alt="" coords="857,283,1167,312"/>
+<area shape="rect" id="node53" href="$classCameraCalculatorWidget.html#a5c70fd766869b06bb2072684cd5a1b60" title="CameraCalculatorWidget::resolutionChanged" alt="" coords="443,751,749,780"/>
+<area shape="rect" id="node58" href="$classCameraCalculatorWidget.html#a9993e32c9ab05d9b518c9104a75dbfb3" title="CameraCalculatorWidget::sensorHorizontalChanged" alt="" coords="420,540,772,569"/>
+<area shape="rect" id="node66" href="$classCameraCalculatorWidget.html#a874a1f3227cb121180c7cefea1c7aa10" title="Block corresponding to sensor." alt="" coords="432,433,760,463"/>
+<area shape="rect" id="node70" href="$classCameraCalculatorWidget.html#a051559fb67fcf27ea1fb0d77316ce2e9" title="CameraCalculatorWidget::sensorVerticalChanged" alt="" coords="429,487,763,516"/>
+<area shape="rect" id="node75" href="$classCameraCalculatorWidget.html#a472c6a2a33e05fef81abe9af31eae7f5" title="CameraCalculatorWidget::stereoAlgorithPrecisionChanged" alt="" coords="400,181,792,211"/>
+<area shape="rect" id="node78" href="$classCameraCalculatorWidget.html#aa03000c672793514578d9bd98d92ff2a" title="CameraCalculatorWidget::stereoBaseLineChanged" alt="" coords="424,128,768,157"/>
+<area shape="rect" id="node7" href="$classCameraCalculatorWidget.html#a3a7f053f25db9a46230ad4e123f3a4eb" title="CameraCalculatorWidget::setNewValue" alt="" coords="1261,543,1531,572"/>
+<area shape="rect" id="node9" href="$classCameraCalculatorWidget.html#ab41489389279916f1657ad1f0f97aaf5" title="CameraCalculatorWidget::setValueBlocking" alt="" coords="1608,569,1904,599"/>
+<area shape="rect" id="node11" href="$classCameraCalculatorWidget.html#a03b4aa47cd739b4828067343e5402f1d" title="CameraCalculatorWidget::startTimer" alt="" coords="1629,516,1883,545"/>
+<area shape="rect" id="node13" href="$classCameraCalculatorWidget.html#ab03fc7676689c8aa9ee47c36471e39fa" title="CameraCalculatorWidget::setColor" alt="" coords="1953,516,2193,545"/>
+<area shape="rect" id="node18" href="$namespacecorecvs.html#a319a0d46c2f53180fd1c9c477718d8b1" title="Useful radian to degrees and back conversions." alt="" coords="943,595,1081,624"/>
+<area shape="rect" id="node22" href="$namespacecorecvs.html#a232d61cca5a815cc01f2eaa73604a48c" title="corecvs::degToRad" alt="" coords="943,907,1081,936"/>
+<area shape="rect" id="node37" href="$classCameraCalculatorWidget.html#a28b8b0ab4b6e03529df4052196f4ad4c" title="CameraCalculatorWidget::getPixelWidth" alt="" coords="1260,283,1532,312"/>
+<area shape="rect" id="node40" href="$classCameraCalculatorWidget.html#a6d1ea01407cd4510f091c4c50a93c72a" title="CameraCalculatorWidget::updateStereoStats" alt="" coords="857,128,1167,157"/>
+<area shape="rect" id="node42" href="$classCameraCalculatorWidget.html#a229b1ccedfa1f8ffb4cb1aece58f7022" title="CameraCalculatorWidget::getAlgorithmPrecision" alt="" coords="1232,129,1560,159"/>
+<area shape="rect" id="node61" href="$classCameraCalculatorWidget.html#a4c5fb7b861fc5b03a3bd7122298dec4e" title="CameraCalculatorWidget::updateSensorStats" alt="" coords="856,440,1168,469"/>
+<area shape="rect" id="node64" href="$classCameraCalculatorWidget.html#a43d07f718f2e2207d4d7bc7ea353361e" title="CameraCalculatorWidget::getPixelHeight" alt="" coords="1256,440,1536,469"/>
+</map>

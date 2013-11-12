@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classOpenCVBMParameters.html#a2ed60688b1e407e59736b249d7a1726a" title="OpenCVBMParameters::blockSize" alt="" coords="481,5,716,35"/>
+<area shape="rect" id="node5" href="$classOpenCVBMParameters.html#afba3024b7633da9e601ff20c172ec735" title="OpenCVBMParameters::disp12MaxDiff" alt="" coords="467,59,731,88"/>
+<area shape="rect" id="node7" href="$classOpenCVBMParameters.html#a235fcdc8bddbaef17082024d6101429d" title="OpenCVBMParameters::disparitySearch" alt="" coords="461,112,736,141"/>
+<area shape="rect" id="node9" href="$classOpenCVBMParameters.html#ae5bd57d304d9bafad7fc69404bf5171e" title="OpenCVBMParameters::minDisparity" alt="" coords="471,165,727,195"/>
+<area shape="rect" id="node11" href="$classOpenCVBMParametersControlWidget.html#a040cbb619f09f38325d256931fb8ec3d" title="OpenCVBMParametersControlWidget::paramsChanged" alt="" coords="413,219,784,248"/>
+<area shape="rect" id="node13" href="$classOpenCVBMParameters.html#adb921a21e66978f6113676c974bd5fa6" title="OpenCVBMParameters::preFilterCap" alt="" coords="473,272,724,301"/>
+<area shape="rect" id="node15" href="$classOpenCVBMParameters.html#ae0bbcf51bc7fc1aabf24ddcb749a8585" title="OpenCVBMParameters::speckleRange" alt="" coords="467,325,731,355"/>
+<area shape="rect" id="node17" href="$classOpenCVBMParameters.html#a81bee4b8bdb02050540920616e31b13a" title="OpenCVBMParameters::speckleWindowSize" alt="" coords="449,379,748,408"/>
+<area shape="rect" id="node19" href="$classOpenCVBMParameters.html#ad02cef28942bfb2e4afef32a8de13efb" title="OpenCVBMParameters::textureThreshold" alt="" coords="457,432,740,461"/>
+<area shape="rect" id="node21" href="$classOpenCVBMParameters.html#abf8b39bbc5d7daa67957ed9eec3f1552" title="OpenCVBMParameters::uniquenessRatio" alt="" coords="459,485,739,515"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="825,779,897,808"/>
+<area shape="rect" id="node13" href="$capSettingsDialog_8h.html" title="capSettingsDialog.h" alt="" coords="1549,83,1699,112"/>
+<area shape="rect" id="node146" href="$parameterSelector_8h.html" title="parameterSelector.h" alt="" coords="2201,160,2356,189"/>
+<area shape="rect" id="node21" href="$cameraControlParameters_8h.html" title="cameraControlParameters.h" alt="" coords="957,160,1160,189"/>
+<area shape="rect" id="node25" href="$imageCaptureInterface_8h.html" title="imageCaptureInterface.h" alt="" coords="968,237,1149,267"/>
+<area shape="rect" id="node97" href="$parameterSlider_8h.html" title="parameterSlider.h" alt="" coords="1661,160,1797,189"/>
+<area shape="rect" id="node105" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="1683,392,1912,421"/>
+<area shape="rect" id="node31" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="931,469,1024,499"/>
+<area shape="rect" id="node57" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="871,315,977,344"/>
+<area shape="rect" id="node36" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="1443,701,1565,731"/>
+<area shape="rect" id="node48" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="899,624,1088,653"/>
+<area shape="rect" id="node52" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="1067,547,1216,576"/>
+<area shape="rect" id="node63" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="1312,392,1397,421"/>
+<area shape="rect" id="node69" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="645,547,739,576"/>
+<area shape="rect" id="node75" href="$histogram_8h.html" title="The histogram of the integer based buffers." alt="" coords="559,392,657,421"/>
+<area shape="rect" id="node80" href="$rectangle_8h.html" title="Add Comment Here." alt="" coords="877,392,971,421"/>
+<area shape="rect" id="node83" href="$rgbColor_8h.html" title="a header for rgbColor.c" alt="" coords="1232,701,1317,731"/>
+<area shape="rect" id="node86" href="$function_8h.html" title="a header that contains generic function" alt="" coords="333,547,419,576"/>
+<area shape="rect" id="node90" href="$correspondanceList_8h.html" title="Add Comment Here." alt="" coords="595,469,752,499"/>
+<area shape="rect" id="node102" href="$parameterEditorWidget_8h.html" title="parameterEditorWidget.h" alt="" coords="2188,237,2369,267"/>
+<area shape="rect" id="node110" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="1811,547,1904,576"/>
+<area shape="rect" id="node120" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="1515,469,1696,499"/>
+<area shape="rect" id="node127" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="2101,469,2245,499"/>
+<area shape="rect" id="node133" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="1771,469,1955,499"/>
+<area shape="rect" id="node139" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="2269,469,2416,499"/>
+<area shape="rect" id="node123" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="1928,547,2059,576"/>
+</map>

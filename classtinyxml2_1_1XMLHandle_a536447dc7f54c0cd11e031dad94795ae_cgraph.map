@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLNode.html#a60e923d13d7dc01f45ab90a2f948b02a" title="Get the first child node, or null if none exists." alt="" coords="288,5,496,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLHandle.html#a9c240a35c18f053509b4b97ddccd9793" title="Create a handle from any node (at any depth of the tree.) This can be a null pointer." alt="" coords="275,59,509,88"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLNode.html#a1a46cc01ece2216acf1e6294d1aff79d" title="Get the last child element or optionally the last child element with the specified name..." alt="" coords="329,59,591,88"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1XMLHandle.html#a9c240a35c18f053509b4b97ddccd9793" title="Create a handle from any node (at any depth of the tree.) This can be a null pointer." alt="" coords="343,112,577,141"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLElement.html#a8bff355472bce2c60d4b50a212bf7f5f" title="Get the name of an element (which is the Value() of the node.)" alt="" coords="653,5,864,35"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="653,59,864,88"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1XMLElement.html#ad9ff5c2dbc15df36cf664ce1b0ea0a5d" title="Safely cast to an Element, or null." alt="" coords="640,112,877,141"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLNode.html#a7682be117e3b2b4ebfd517c1acaaadbf" title="The meaning of &#39;value&#39; changes for the specific type." alt="" coords="925,5,1112,35"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="1160,5,1336,35"/>
+</map>

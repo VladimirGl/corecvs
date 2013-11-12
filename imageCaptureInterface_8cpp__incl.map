@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="node13" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1765,1011,1837,1040"/>
+<area shape="rect" id="node17" href="$imageCaptureInterface_8h.html" title="imageCaptureInterface.h" alt="" coords="1067,315,1248,344"/>
+<area shape="rect" id="node156" href="$cameraControlParameters_8h.html" title="cameraControlParameters.h" alt="" coords="1195,237,1397,267"/>
+<area shape="rect" id="node160" href="$fileCapture_8h.html" title="fileCapture.h" alt="" coords="496,83,597,112"/>
+<area shape="rect" id="node22" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="1683,624,1776,653"/>
+<area shape="rect" id="node80" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="1439,392,1545,421"/>
+<area shape="rect" id="node26" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="1392,856,1515,885"/>
+<area shape="rect" id="node60" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="1861,779,2051,808"/>
+<area shape="rect" id="node66" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="1733,701,1883,731"/>
+<area shape="rect" id="node37" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="511,933,601,963"/>
+<area shape="rect" id="node46" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="1180,933,1359,963"/>
+<area shape="rect" id="node53" href="$tbbWrapper_8h.html" title="This is a class that provides common TBB interface." alt="" coords="948,933,1055,963"/>
+<area shape="rect" id="node55" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="676,933,772,963"/>
+<area shape="rect" id="node43" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="299,1011,403,1040"/>
+<area shape="rect" id="node71" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="272,779,363,808"/>
+<area shape="rect" id="node75" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="397,856,488,885"/>
+<area shape="rect" id="node86" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="1803,547,1888,576"/>
+<area shape="rect" id="node92" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="1092,701,1185,731"/>
+<area shape="rect" id="node110" href="$histogram_8h.html" title="The histogram of the integer based buffers." alt="" coords="1504,469,1603,499"/>
+<area shape="rect" id="node121" href="$rectangle_8h.html" title="Add Comment Here." alt="" coords="496,779,589,808"/>
+<area shape="rect" id="node125" href="$rgbColor_8h.html" title="a header for rgbColor.c" alt="" coords="387,779,472,808"/>
+<area shape="rect" id="node131" href="$function_8h.html" title="a header that contains generic function" alt="" coords="2261,701,2347,731"/>
+<area shape="rect" id="node138" href="$correspondanceList_8h.html" title="Add Comment Here." alt="" coords="944,469,1101,499"/>
+<area shape="rect" id="node98" href="$punchedBufferOperations_8h.html" title="Add Comment Here." alt="" coords="1069,856,1267,885"/>
+<area shape="rect" id="node105" href="$flowVector_8h.html" title="a header for FlowVector.c" alt="" coords="867,779,965,808"/>
+<area shape="rect" id="node115" href="$commonMappers_8h.html" title="a header for CommonMappers.cpp" alt="" coords="1480,547,1627,576"/>
+<area shape="rect" id="node136" href="$vector_8h.html" title="a header for vector.c" alt="" coords="2312,779,2384,808"/>
+<area shape="rect" id="node143" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="1177,547,1303,576"/>
+<area shape="rect" id="node151" href="$projectiveTransform_8h.html" title="Add Comment Here." alt="" coords="533,701,691,731"/>
+<area shape="rect" id="node166" href="$imageFileCaptureInterface_8h.html" title="imageFileCaptureInterface.h" alt="" coords="381,237,581,267"/>
+<area shape="rect" id="node170" href="$abstractFileCaptureSpinThread_8h.html" title="abstractFileCaptureSpinThread.h" alt="" coords="891,237,1120,267"/>
+<area shape="rect" id="node174" href="$abstractFileCapture_8h.html" title="abstractFileCapture.h" alt="" coords="587,160,744,189"/>
+</map>

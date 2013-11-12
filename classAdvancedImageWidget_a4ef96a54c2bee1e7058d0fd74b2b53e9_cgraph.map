@@ -1,0 +1,32 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classViAreaWidget.html#a8e55af8a2192c79706c2ae276d1c3b27" title="ViAreaWidget::askParentRepaint" alt="" coords="416,111,640,140"/>
+<area shape="rect" id="node5" href="$classAdvancedImageWidget.html#aca53bcddfb9300729048ceb4dad94d2f" title="AdvancedImageWidget::childMouseMoved" alt="" coords="384,164,672,193"/>
+<area shape="rect" id="node23" href="$classAdvancedImageWidget.html#a8198ac755c9395f0cccfe9895f6d9487" title="AdvancedImageWidget::childMousePressed" alt="" coords="379,269,677,299"/>
+<area shape="rect" id="node25" href="$classAdvancedImageWidget.html#a873269bb6fccf1c1f0e203149b702b27" title="AdvancedImageWidget::childMouseReleased" alt="" coords="376,323,680,352"/>
+<area shape="rect" id="node35" href="$classAdvancedImageWidget.html#a07fc679185993e412ac902f3789cfcd3" title="AdvancedImageWidget::childRepaint" alt="" coords="403,428,653,457"/>
+<area shape="rect" id="node39" href="$classAdvancedImageWidget.html#a6a70d29586b039c5eedbd172166316fe" title="AdvancedImageWidget::childResized" alt="" coords="401,535,655,564"/>
+<area shape="rect" id="node44" href="$classAdvancedImageWidget.html#ac79f43c3a97599ff639bae891d627e1d" title="AdvancedImageWidget::childWheelEvent" alt="" coords="389,481,667,511"/>
+<area shape="rect" id="node54" href="$classSaveFlowSettings.html#a8bdddcfa219cd714b8d1406517c86277" title="SaveFlowSettings::getUi" alt="" coords="812,851,988,880"/>
+<area shape="rect" id="node56" href="$classViAreaWidget.html#abcd18e02253aa4189ababdaaab219886" title="ViAreaWidget::notifyParentMouseMove" alt="" coords="395,641,661,671"/>
+<area shape="rect" id="node58" href="$classViAreaWidget.html#ac3535248a073363bea3f58cc012bef1e" title="ViAreaWidget::notifyParentMousePress" alt="" coords="395,695,661,724"/>
+<area shape="rect" id="node60" href="$classViAreaWidget.html#a393dc91f8115bc713af7d6b8c792ee66" title="ViAreaWidget::notifyParentMouseRelease" alt="" coords="387,748,669,777"/>
+<area shape="rect" id="node62" href="$classViAreaWidget.html#a540ea784f62f0c7a17feb94895bd3714" title="ViAreaWidget::notifyParentResize" alt="" coords="413,801,643,831"/>
+<area shape="rect" id="node64" href="$classViAreaWidget.html#ab2431471d37bfa872936f4b0f096a719" title="ViAreaWidget::notifyParentWheelEvent" alt="" coords="396,855,660,884"/>
+<area shape="rect" id="node66" href="$classAdvancedImageWidget.html#a6904ff13fbb89cbdd97ba3ace2c33961" title="AdvancedImageWidget::startSaveFlow" alt="" coords="396,588,660,617"/>
+<area shape="rect" id="node69" href="$classAdvancedImageWidget.html#a9c20a1b3ebb931d906d689fbc243d48e" title="This could be reimplemented to add additional tools." alt="" coords="379,959,677,988"/>
+<area shape="rect" id="node7" href="$classAdvancedImageWidget.html#a6e8e9e2abdc3e3852a575596b45a24a9" title="AdvancedImageWidget::widgetToImage" alt="" coords="765,112,1035,141"/>
+<area shape="rect" id="node13" href="$classAdvancedImageWidget.html#aa77e18f515fc59fd569bec871d489010" title="AdvancedImageWidget::setInfoValueLabel" alt="" coords="756,59,1044,88"/>
+<area shape="rect" id="node15" href="$classAdvancedImageWidget.html#a09b13f3339f391764bd57dd8d06f3d4f" title="AdvancedImageWidget::recomputeRects" alt="" coords="1120,689,1400,719"/>
+<area shape="rect" id="node19" href="$classAdvancedImageWidget.html#a0660da1dfe71d556c2c97ca4759404d5" title="AdvancedImageWidget::notifyCenterPointChanged" alt="" coords="729,323,1071,352"/>
+<area shape="rect" id="node21" href="$classAdvancedImageWidget.html#af1b0658d7988e8862a6ad7f6ab02953f" title="AdvancedImageWidget::pointToolMoved" alt="" coords="763,5,1037,35"/>
+<area shape="rect" id="node9" href="$classAdvancedImageWidget.html#aad0a7fa94488db2084f9135d3721dfb7" title="AdvancedImageWidget::widgetToImageF" alt="" coords="1121,204,1399,233"/>
+<area shape="rect" id="node11" href="$namespacecorecvs.html#a807eb76b7544bcb930b1700a58a780bd" title="Useful round* stuff." alt="" coords="1200,440,1320,469"/>
+<area shape="rect" id="node17" href="$classAdvancedImageWidget.html#ab3c658a5e253eeef3929028a1e2e3082" title="AdvancedImageWidget::computeInputRect" alt="" coords="1449,689,1740,719"/>
+<area shape="rect" id="node29" href="$classAdvancedImageWidget.html#a00fc3f1a03aa5c116f263c95462a7988" title="AdvancedImageWidget::newAreaSelected" alt="" coords="757,216,1043,245"/>
+<area shape="rect" id="node31" href="$classAdvancedImageWidget.html#aca8a0b41abf473a94c31776eadf0c1cc" title="AdvancedImageWidget::newLineSelected" alt="" coords="759,269,1041,299"/>
+<area shape="rect" id="node33" href="$classAdvancedImageWidget.html#a9f5256a64d8eed61140f17ae811f719f" title="AdvancedImageWidget::newPointSelected" alt="" coords="756,376,1044,405"/>
+<area shape="rect" id="node37" href="$classAdvancedImageWidget.html#aa69ecf8afc2c52de22ef54bef616c92a" title="AdvancedImageWidget::drawResized" alt="" coords="773,429,1027,459"/>
+<area shape="rect" id="node41" href="$classAdvancedImageWidget.html#a1134ed8730a49a6f459dcf9db9af4214" title="AdvancedImageWidget::fitToggled" alt="" coords="783,741,1017,771"/>
+<area shape="rect" id="node47" href="$classAdvancedImageWidget.html#a1a0035476869ad024fc271042e36f9e2" title="AdvancedImageWidget::zoomIn" alt="" coords="789,637,1011,667"/>
+<area shape="rect" id="node49" href="$classAdvancedImageWidget.html#afa45a302554ddb6594f87a79cbfb103b" title="AdvancedImageWidget::zoomOut" alt="" coords="783,584,1017,613"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMainWindow.html#a780e10d5b52eb423310b43adcc25dcbe" title="MainWindow::connectActions" alt="" coords="259,120,461,149"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#a2d9c09767c5ced9e9613bb86b4f45c1a" title="MainWindow::createAdditionalMenu" alt="" coords="237,620,483,649"/>
+<area shape="rect" id="node21" href="$classBaseHostDialog.html#a89b1bdae31233d871b1f7e96b203fed6" title="This method will do the following and need to be called once!" alt="" coords="285,881,435,911"/>
+<area shape="rect" id="node58" href="$classBaseHostDialog.html#a51485389534ca7abe54a024d4c4022c1" title="BaseHostDialog::initCapture" alt="" coords="1316,1147,1519,1176"/>
+<area shape="rect" id="node114" href="$classBaseHostDialog.html#a4d98a6b91917efdd7bef0b91416db651" title="BaseHostDialog::windowTitle" alt="" coords="259,1245,461,1275"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#acd36af096f4b699d85ef6b27daa0048e" title="MainWindow::updateCalculationStatus" alt="" coords="555,147,816,176"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#ab85f1fbcbac4addda6c3dcb5668abfd8" title="MainWindow::pauseCalculation" alt="" coords="944,147,1157,176"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#adf151bc38ca8fb7fee0efb3df7514cc7" title="MainWindow::resumeCalculation" alt="" coords="939,41,1163,71"/>
+<area shape="rect" id="node11" href="$classMainWindow.html#ace3e53c4007c6615527eba7832e91e18" title="MainWindow::updateCaptureStatus" alt="" coords="564,40,807,69"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#a8f0e14351ec99aefb38aceb8eecafda9" title="MainWindow::updateSingleStateStatus" alt="" coords="552,93,819,123"/>
+<area shape="rect" id="node19" href="$classBaseHostDialog.html#aaba02a49b4531165570a614351801c5b" title="BaseHostDialog::additionalMenus" alt="" coords="568,387,803,416"/>
+<area shape="rect" id="node23" href="$classConfigManager.html#a1d08d5d83a55f715c118a19aeb41cee8" title="ConfigManager::configName" alt="" coords="584,1141,787,1171"/>
+<area shape="rect" id="node29" href="$classBaseHostDialog.html#a574f2ef5f6b3df42653edf4fbad1d020" title="Calculation initialization procedures." alt="" coords="579,440,792,469"/>
+<area shape="rect" id="node47" href="$classBaseHostDialog.html#a06886842c5aec80eef2ee28d89d09788" title="Initialization steps that are likely, however not mandatory to be used in specific application dialog..." alt="" coords="580,935,791,964"/>
+<area shape="rect" id="node91" href="$classBaseHostDialog.html#a4040da6d85e9dcc1fe9451c525417bfb" title="BaseHostDialog::initGraphPresentation" alt="" coords="551,775,820,804"/>
+<area shape="rect" id="node102" href="$classBaseHostDialog.html#ab1318ea9e83b667c67f5edac75bee767" title="Creates mMemoryCalculator and connects mMemoryTimer signal to getMemoryUsage() slot." alt="" coords="532,828,839,857"/>
+<area shape="rect" id="node104" href="$classBaseHostDialog.html#a91cb18919177cb81fa8aba6080ea7f1b" title="Initialize widgets that should be in BaseHostDialog." alt="" coords="552,881,819,911"/>
+<area shape="rect" id="node107" href="$classBaseHostDialog.html#adaf8d0780c4b3611196602733aad1b2b" title="BaseHostDialog::loadParams" alt="" coords="1315,1359,1520,1388"/>
+<area shape="rect" id="node110" href="$classBaseHostDialog.html#acf45dad8e32ff848d0a5b8f213f3d4d7" title="BaseHostDialog::loadTransformFromFile" alt="" coords="1280,649,1555,679"/>
+<area shape="rect" id="node25" href="$classConfigManager.html#ae428a00b007e47c5d496539e25b05bcf" title="ConfigManager::instance" alt="" coords="2105,1543,2284,1572"/>
+<area shape="rect" id="node27" href="$classConfigManager.html#a0813cd21566579f5bdc87e317eff30a5" title="ConfigManager::name" alt="" coords="969,1141,1132,1171"/>
+<area shape="rect" id="node31" href="$classBaseHostDialog.html#a701b8667f5671ad33033d6ec0312c260" title="BaseHostDialog::calculationStateChanged" alt="" coords="905,467,1196,496"/>
+<area shape="rect" id="node33" href="$classBaseHostDialog.html#a948845662aec80c962ab678a65933635" title="BaseHostDialog::camerasParametersChanged" alt="" coords="2036,611,2353,640"/>
+<area shape="rect" id="node35" href="$classBaseHostDialog.html#a2d22427c17f7caa5226ca93abb6c41ee" title="BaseHostDialog::connectFinishedRecalculation" alt="" coords="892,520,1209,549"/>
+<area shape="rect" id="node37" href="$classBaseHostDialog.html#acbbd80a78a766633988f0fffb8830097" title="In this function calculator is created and connected to parameter Widgets Normally you should overloa..." alt="" coords="932,200,1169,229"/>
+<area shape="rect" id="node39" href="$classAbstractCalculationThread.html#a165e9c3a97101c8ca445c995889ac6f3" title="AbstractCalculationThread::getFramesHolder" alt="" coords="897,253,1204,283"/>
+<area shape="rect" id="node41" href="$classBaseHostDialog.html#ae1c73651dbeebba56135bff02928bb6e" title="BaseHostDialog::pauseCalculator" alt="" coords="933,307,1168,336"/>
+<area shape="rect" id="node43" href="$classBaseHostDialog.html#a1f2b9099ae70e6c047d6fe3138edbd62" title="BaseHostDialog::resumeCalculator" alt="" coords="928,360,1173,389"/>
+<area shape="rect" id="node45" href="$classBaseHostDialog.html#a8d4d63459bf702ccfe0bff2b2113769c" title="BaseHostDialog::updatePauseCalculationAction" alt="" coords="888,413,1213,443"/>
+<area shape="rect" id="node49" href="$classBaseHostDialog.html#a85d4ed7db972cc69a32a233504d3406c" title="BaseHostDialog::captureStatusUpdated" alt="" coords="2056,1200,2333,1229"/>
+<area shape="rect" id="node51" href="$classBaseHostDialog.html#ab3e1ad63f828e9244919d2402b6be10f" title="BaseHostDialog::distortionEstimationFinished" alt="" coords="1263,807,1572,836"/>
+<area shape="rect" id="node56" href="$classBaseHostDialog.html#a968ecf7b53f4acb163501b623945313a" title="BaseHostDialog::doOpenInput" alt="" coords="944,987,1157,1016"/>
+<area shape="rect" id="node53" href="$classBaseHostDialog.html#a34dae5e98b718534256d2728db0a7517" title="BaseHostDialog::camerasParamsChanged" alt="" coords="1657,649,1951,679"/>
+<area shape="rect" id="node85" href="$classBaseHostDialog.html#aec79f621b3603c99163feb14109f01c4" title="BaseHostDialog::stopCapture" alt="" coords="1699,832,1909,861"/>
+<area shape="rect" id="node60" href="$classConfigManager.html#a92f4e39dff236df8bab3b6d5697420c0" title="ConfigManager::camConfigName" alt="" coords="1688,1517,1920,1547"/>
+<area shape="rect" id="node65" href="$classBaseHostDialog.html#a7c08caa008fa8965093ea089dba05fee" title="BaseHostDialog::deinitCamera" alt="" coords="1695,1200,1913,1229"/>
+<area shape="rect" id="node68" href="$classBaseHostDialog.html#ad54d962cb8cdbaf3d7bab622ec67a287" title="BaseHostDialog::emptyString" alt="" coords="1699,1040,1909,1069"/>
+<area shape="rect" id="node70" href="$classImageCaptureInterface.html#a0c12358188ad7245399180ae60b87ea0" title="Fabric to create particular implementation of the capturer." alt="" coords="1699,1093,1909,1123"/>
+<area shape="rect" id="node73" href="$classImageCaptureInterface.html#ab5351441261f3a5bf5c6fee480a4bc41" title="ImageCaptureInterface::initCapture" alt="" coords="1681,1147,1927,1176"/>
+<area shape="rect" id="node75" href="$classCapSettingsDialog.html#a359b523bd201f7bc90306a57621f3a22" title="CapSettingsDialog::loadFromQSettings" alt="" coords="1669,1304,1939,1333"/>
+<area shape="rect" id="node77" href="$classBaseHostDialog.html#a11eacdcaeee28f805fd2ea2c0e7c70a7" title="BaseHostDialog::setCaptureStats" alt="" coords="1685,1357,1923,1387"/>
+<area shape="rect" id="node79" href="$classAbstractCalculationThread.html#a1b793a97bb171d37d3258bda7fbf404a" title="AbstractCalculationThread::setImageCaptureInterface" alt="" coords="1621,1411,1987,1440"/>
+<area shape="rect" id="node81" href="$classInputSelectorWidget.html#aabf000426e1ad95d155d6bc2050e9f7c" title="InputSelectorWidget::setInputString" alt="" coords="1680,1464,1928,1493"/>
+<area shape="rect" id="node83" href="$classBaseHostDialog.html#aa884ed91b29e7dce01c4601e47358c40" title="BaseHostDialog::singleStepStatusUpdated" alt="" coords="2047,859,2343,888"/>
+<area shape="rect" id="node88" href="$classPresentationParametersControlWidget.html#a487cac5c3f68455b48e23feb74fd5be9" title="PresentationParametersControlWidget::ui" alt="" coords="1661,987,1947,1016"/>
+<area shape="rect" id="node93" href="$classFilterGraphPresentation.html#ab58cc579d8c8543c3689bced9d71846a" title="FilterGraphPresentation::graphChangedSlot" alt="" coords="1268,729,1567,759"/>
+<area shape="rect" id="node95" href="$classcorecvs_1_1FilterGraph.html#ab1344a22fc153d0da002cbd1428cec14" title="corecvs::FilterGraph::loadFromFile" alt="" coords="933,728,1168,757"/>
+<area shape="rect" id="node97" href="$classFilterGraphPresentation.html#a4484e7fbb1ffd5a64f224ef844eeed83" title="FilterGraphPresentation::restoreFromGraph" alt="" coords="903,675,1199,704"/>
+<area shape="rect" id="node100" href="$classBaseParametersControlWidget.html#aa5757f9a33aa157de400596d88913cb1" title="BaseParametersControlWidget::ui" alt="" coords="933,832,1168,861"/>
+</map>

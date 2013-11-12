@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classAdvancedImageWidget.html#aa69ecf8afc2c52de22ef54bef616c92a" title="AdvancedImageWidget::drawResized" alt="" coords="328,5,581,35"/>
+<area shape="rect" id="node5" href="$classAdvancedImageWidget.html#a94f67b5bfc0bcf0c119c4e6011236faf" title="AdvancedImageWidget::recalculateZoomCenter" alt="" coords="291,59,619,88"/>
+<area shape="rect" id="node9" href="$classAdvancedImageWidget.html#a09b13f3339f391764bd57dd8d06f3d4f" title="AdvancedImageWidget::recomputeRects" alt="" coords="315,112,595,141"/>
+<area shape="rect" id="node13" href="$classAdvancedImageWidget.html#a722b91642b8f0f37a390edc76c3e645b" title="AdvancedImageWidget::saveFlowImage" alt="" coords="319,165,591,195"/>
+<area shape="rect" id="node7" href="$classAdvancedImageWidget.html#a0660da1dfe71d556c2c97ca4759404d5" title="AdvancedImageWidget::notifyCenterPointChanged" alt="" coords="668,59,1009,88"/>
+<area shape="rect" id="node11" href="$classAdvancedImageWidget.html#ab3c658a5e253eeef3929028a1e2e3082" title="AdvancedImageWidget::computeInputRect" alt="" coords="693,112,984,141"/>
+</map>

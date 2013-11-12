@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDistortionWidget.html#abe7f163ecb22928af447159edf53ab5a" title="DistortionWidget::addPointPair" alt="" coords="275,112,488,141"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="833,5,983,35"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="833,219,983,248"/>
+<area shape="rect" id="node17" href="$classPaintImageWidget.html#a7d3e0eee6e65817b8d55c1e80a1719b1" title="PaintImageWidget::addVertex" alt="" coords="277,216,485,245"/>
+<area shape="rect" id="node19" href="$classPaintImageWidget.html#a570ccd098d1ab60c3b6d923ea2a7320f" title="PaintImageWidget::addVertexToPath" alt="" coords="256,269,507,299"/>
+<area shape="rect" id="node5" href="$classDistortionWidget.html#ac3994ee1565dbdee8d23e08367355774" title="DistortionWidget::printVectorPair" alt="" coords="556,112,783,141"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Vector3d.html#aec83d9ad04107cd9c2bb11abf33128c0" title="Helper functions to access elements." alt="" coords="833,59,983,88"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1Vector3d.html#a940d88447f20fac800d1fa510c981275" title="corecvs::Vector3d::y" alt="" coords="833,112,983,141"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Vector3d.html#a4587f5d4984576c5c4c2d44a4140ce3f" title="corecvs::Vector3d::z" alt="" coords="833,165,983,195"/>
+</map>

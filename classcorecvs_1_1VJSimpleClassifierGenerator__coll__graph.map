@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1WeakHypothesisGenerator.html" title="corecvs::WeakHypothesisGenerator\&lt; VJSimpleClassifier \&gt;" alt="" coords="2665,5,3055,35"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1VJPatternGenerator.html" title="Base class for pattern generator." alt="" coords="2343,59,2545,88"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1VJPattern.html" title="Viola&#45;Jones generic Haar wavelet." alt="" coords="2792,112,2928,141"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1PatternCorner.html" title="A part of the pattern." alt="" coords="2004,112,2172,141"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1Vector2d.html" title="corecvs::Vector2d\&lt; int32_t \&gt;" alt="" coords="1627,112,1837,141"/>
+<area shape="rect" id="node16" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector2d\&lt; int32_t \&gt;, int32_t, 2 \&gt;" alt="" coords="1091,99,1504,128"/>
+<area shape="rect" id="node18" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector2d\&lt; int32_t \&gt;, int32_t \&gt;" alt="" coords="541,99,976,128"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1Reflection.html" title="corecvs::Reflection" alt="" coords="1228,180,1367,209"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1EmbedSubclass.html" title="corecvs::EmbedSubclass" alt="" coords="1641,252,1823,281"/>
+<area shape="rect" id="node24" href="$classcorecvs_1_1BaseField.html" title="This class is a core class for the reflection." alt="" coords="288,205,427,235"/>
+<area shape="rect" id="node26" href="$classcorecvs_1_1ReflectionNaming.html" title="We have several styles of nameing." alt="" coords="7,205,196,235"/>
+<area shape="rect" id="node37" href="$structcorecvs_1_1EmbedSubclass_1_1EmbedMap.html" title="corecvs::EmbedSubclass::EmbedMap" alt="" coords="628,324,889,353"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classV4L2CaptureInterface.html#acf652e0295a6e4794c61ee4891a04777" title="V4L2CaptureInterface::decodeData" alt="" coords="312,736,557,765"/>
+<area shape="rect" id="node84" href="$classImageCaptureInterface.html#a9f388e5583e5c13086aa9a7d3b1cfb36" title="ImageCaptureInterface::newStatisticsReady" alt="" coords="285,789,584,819"/>
+<area shape="rect" id="node86" href="$classV4L2CaptureInterface.html#a5cdd31799c41ad4d59b33f5734bc3089" title="V4L2CaptureInterface::start" alt="" coords="336,843,533,872"/>
+<area shape="rect" id="node88" href="$classV4L2BufferDescriptor.html#ab7bd506603f0da864e85488062109942" title="V4L2BufferDescriptor::usecsTimeStamp" alt="" coords="296,896,573,925"/>
+<area shape="rect" id="node90" href="$classcorecvs_1_1PreciseTimer.html#af4f2392d369963a6786d28754d626d1b" title="corecvs::PreciseTimer::usecsToNow" alt="" coords="312,949,557,979"/>
+<area shape="rect" id="node5" href="$classMjpegDecoderLazy.html#a698eadc7519b779d223170f53d3a1e34" title="MjpegDecoderLazy::decode" alt="" coords="948,267,1145,296"/>
+<area shape="rect" id="node43" href="$classV4L2CaptureInterface.html#a0e042ee29d3a868647a273a8c555ca20" title="V4L2CaptureInterface::decodeMjpeg" alt="" coords="633,789,887,819"/>
+<area shape="rect" id="node7" href="$classMjpegDecoderLazy.html#a08e2db34da8a454b9b3ea67ca30000a3" title="MjpegDecoderLazy::dec_checkmarker" alt="" coords="1207,477,1468,507"/>
+<area shape="rect" id="node9" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a48169e0640aeb24526c660f612f0b057" title="MjpegDecoderLazy::HuffmanParser::readMarker" alt="" coords="1519,427,1844,456"/>
+<area shape="rect" id="node13" href="$classMjpegDecoderLazy.html#a63111152a99892f35885c880990df7de" title="This functions decodes JPEG Minimum Coded Unit form huffman compressed stream." alt="" coords="1219,267,1456,296"/>
+<area shape="rect" id="node21" href="$classMjpegDecoderLazy_1_1StreamParser.html#a38092f508a89784e2493064cb81c3b60" title="MjpegDecoderLazy::StreamParser::getbyte" alt="" coords="1535,64,1828,93"/>
+<area shape="rect" id="node23" href="$classMjpegDecoderLazy_1_1StreamParser.html#abd5c0a33a08c8f62c6fee34399cb9cdb" title="MjpegDecoderLazy::StreamParser::getword" alt="" coords="1533,129,1829,159"/>
+<area shape="rect" id="node25" href="$classMjpegDecoderLazy.html#a6a189db2953db21e04b10c4d84a2b826" title="MjpegDecoderLazy::huffman_init" alt="" coords="1223,213,1452,243"/>
+<area shape="rect" id="node29" href="$classMjpegDecoderLazy.html#a38db3c3867e904c667e7666faa122ab6" title="MjpegDecoderLazy::idct" alt="" coords="1251,373,1424,403"/>
+<area shape="rect" id="node31" href="$classMjpegDecoderLazy.html#a6c7875c2a7f800884032bf74e0262057" title="MjpegDecoderLazy::idctqtab" alt="" coords="1236,5,1439,35"/>
+<area shape="rect" id="node34" href="$classMjpegDecoderLazy.html#a4b406fb6bc6617ab6748f22a4bfc380b" title="MjpegDecoderLazy::readtables" alt="" coords="1228,109,1447,139"/>
+<area shape="rect" id="node39" href="$classMjpegDecoderLazy.html#a3d7afe1765359dba91043f730746ae5d" title="MjpegDecoderLazy::yuv422ptoG12" alt="" coords="1216,320,1459,349"/>
+<area shape="rect" id="node11" href="$mjpegDecoder_8cpp.html#a6ab3e694b9bdf6bf8e039a027c2cccad" title="fillbits" alt="" coords="1893,373,1952,403"/>
+<area shape="rect" id="node15" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a9b89ee3402fc70bd2c695971ba546a19" title="MjpegDecoderLazy::HuffmanParser::getBits" alt="" coords="1532,267,1831,296"/>
+<area shape="rect" id="node18" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a239a417f89985a1b7f15f93fd659da23" title="MjpegDecoderLazy::HuffmanParser::getValue" alt="" coords="1527,320,1836,349"/>
+<area shape="rect" id="node27" href="$classMjpegDecoderLazy.html#a30a98c2cc798d9b7ed6766920b9028d5" title="Construct the huffman lookup tables form the length and values." alt="" coords="1561,207,1801,236"/>
+<area shape="rect" id="node41" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="1565,373,1797,403"/>
+<area shape="rect" id="node45" href="$classMjpegDecoder.html#ab6901ed403484724f48f1428813445b6" title="MjpegDecoder::decode" alt="" coords="963,869,1131,899"/>
+<area shape="rect" id="node47" href="$mjpegDecoder_8cpp.html#a49c66c14156641198b2ad1b5e18dfa03" title="dec_checkmarker" alt="" coords="1271,531,1404,560"/>
+<area shape="rect" id="node49" href="$mjpegDecoder_8cpp.html#ac41a55c8cc37d44a58708bee12ac69fb" title="dec_readmarker" alt="" coords="1619,531,1744,560"/>
+<area shape="rect" id="node52" href="$mjpegDecoder_8cpp.html#afa10b7c8e4539f90f4699f82a3edc993" title="dec_initscans" alt="" coords="1284,635,1391,664"/>
+<area shape="rect" id="node55" href="$mjpegDecoder_8cpp.html#a141b14aa6483ed98c69bd0ee9ff70c33" title="decode_mcus" alt="" coords="1283,688,1392,717"/>
+<area shape="rect" id="node57" href="$mjpegDecoder_8cpp.html#a9ccd30504f2252152b525acc1629d45b" title="getbyte" alt="" coords="1647,753,1716,783"/>
+<area shape="rect" id="node59" href="$mjpegDecoder_8cpp.html#a44f65b66f842d6b74e85b117130ea0df" title="getword" alt="" coords="1645,831,1717,860"/>
+<area shape="rect" id="node61" href="$mjpegDecoder_8cpp.html#a886790df723e585b6261982edf7e5daa" title="huffman_init" alt="" coords="1287,896,1388,925"/>
+<area shape="rect" id="node65" href="$mjpegDecoder_8cpp.html#a0ceaae71da222f4c43c65327ed5205c9" title="idct" alt="" coords="1315,949,1360,979"/>
+<area shape="rect" id="node67" href="$mjpegDecoder_8cpp.html#a3911e422b937ec08aafbc3dd47767bdf" title="idctqtab" alt="" coords="1300,1003,1375,1032"/>
+<area shape="rect" id="node69" href="$mjpegDecoder_8cpp.html#a63047e52f30f4d86309767a3646184e1" title="readtables" alt="" coords="1292,843,1383,872"/>
+<area shape="rect" id="node74" href="$mjpegDecoder_8cpp.html#a65081aac1b59f346779f69c8e0475c81" title="setinput" alt="" coords="1300,1056,1375,1085"/>
+<area shape="rect" id="node76" href="$mjpegDecoder_8cpp.html#a7649928c378f14629232e14f706c65c3" title="yuv400pto422" alt="" coords="1281,1109,1393,1139"/>
+<area shape="rect" id="node78" href="$mjpegDecoder_8cpp.html#ae427b03bf2dc4987535c5a842413bb59" title="yuv420pto422" alt="" coords="1281,1163,1393,1192"/>
+<area shape="rect" id="node80" href="$mjpegDecoder_8cpp.html#a33e6512c441557cc5523f39ba1e77cc4" title="yuv422pto422" alt="" coords="1281,1216,1393,1245"/>
+<area shape="rect" id="node82" href="$mjpegDecoder_8cpp.html#a72dc082526b8197cabb5a1af75cf43ec" title="yuv444pto422" alt="" coords="1281,1269,1393,1299"/>
+<area shape="rect" id="node63" href="$mjpegDecoder_8cpp.html#ae7f61ac1c86418c3164c0e020e1ea619" title="dec_makehuff" alt="" coords="1625,896,1737,925"/>
+<area shape="rect" id="node92" href="$classcorecvs_1_1PreciseTimer.html#ab6fc71ad27d7bb8ed8fed6b837ac3065" title="corecvs::PreciseTimer::isCorrect" alt="" coords="647,896,873,925"/>
+<area shape="rect" id="node94" href="$classcorecvs_1_1PreciseTimer.html#aeefca9626ed0efb419d7479f5d758966" title="corecvs::PreciseTimer::usecsTo" alt="" coords="651,949,869,979"/>
+<area shape="rect" id="node96" href="$classcorecvs_1_1PreciseTimer.html#ab96fc33330e59dc25e1965d692dcb3f9" title="corecvs::PreciseTimer::currentTime" alt="" coords="637,1003,883,1032"/>
+<area shape="rect" id="node98" href="$classcorecvs_1_1PreciseTimer.html#a8426a1a35d70c5da82bf027bfb1bee69" title="corecvs::PreciseTimer::setTime" alt="" coords="937,1003,1156,1032"/>
+</map>

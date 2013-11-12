@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classHistogramDepthDialog.html#a34abe5c3f4da5aa32fdb4a0789c711fc" title="HistogramDepthDialog::clickZoneEndChanged" alt="" coords="377,5,695,35"/>
+<area shape="rect" id="node5" href="$classHistogramDepthDialog.html#aabb1128fc4a674e2fc1a40e549b433c3" title="HistogramDepthDialog::histogramClickSlot" alt="" coords="389,59,683,88"/>
+<area shape="rect" id="node9" href="$classHistogramDepthDialog.html#a28dfa2cb4869e86aca86a9ff88da427c" title="HistogramDepthDialog::preZoneChanged" alt="" coords="392,112,680,141"/>
+<area shape="rect" id="node11" href="$classHistogramDepthDialog.html#a64669c18d9fb8a6c47b6b4173de428f8" title="HistogramDepthDialog::redrawHistogram" alt="" coords="393,165,679,195"/>
+<area shape="rect" id="node13" href="$classHistogramDepthDialog.html#ab24728d37fb24aa2b7b981acc0a7c8ec" title="HistogramDepthDialog::zoneEndChanged" alt="" coords="392,219,680,248"/>
+<area shape="rect" id="node15" href="$classHistogramDepthDialog.html#a9e29708c84a492bf8bb2092550290769" title="HistogramDepthDialog::zoneStartChanged" alt="" coords="388,272,684,301"/>
+<area shape="rect" id="node7" href="$classHistogramDepthDialog.html#acd55c2562b1d8fefd8026970159a725d" title="HistogramDepthDialog::histogramClicked" alt="" coords="745,59,1031,88"/>
+</map>

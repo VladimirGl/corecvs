@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1CameraAngles.html#a683cfb93019595a56c16a4323b8786cb" title="corecvs::CameraAngles::CameraAngles" alt="" coords="339,5,613,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1CameraAngles.html#a256e7a8f8ace2dc5ba571222c18e0ff7" title="corecvs::CameraAngles::pitch" alt="" coords="371,59,581,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1CameraAngles.html#a52b951150a6ed892430ca0274d739fa9" title="corecvs::CameraAngles::roll" alt="" coords="376,112,576,141"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1GenericQuaternion.html#a1425fc56ee78d718b584f902e120251c" title="corecvs::GenericQuaternion::t" alt="" coords="371,165,581,195"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1GenericQuaternion.html#a050eb3f5c915b00c484f06d7565475c8" title="corecvs::GenericQuaternion::x" alt="" coords="369,219,583,248"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1GenericQuaternion.html#a700b900b3421d779243e9fba7db5b3b0" title="corecvs::GenericQuaternion::y" alt="" coords="369,272,583,301"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1CameraAngles.html#a6cd713ed931860a35dcfd24d3254967b" title="corecvs::CameraAngles::yaw" alt="" coords="373,325,579,355"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1GenericQuaternion.html#a276bb5600f5b8111a459b85aad641d6d" title="corecvs::GenericQuaternion::z" alt="" coords="369,379,583,408"/>
+</map>

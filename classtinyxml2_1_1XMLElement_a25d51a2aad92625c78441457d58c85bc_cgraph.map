@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLElement.html#a67593e63558ffda0386699c3e4cc0b2c" title="Return the first attribute in the list." alt="" coords="309,5,563,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLAttribute.html#a7fd852d6185af90361ec1bc9a7681ad6" title="The next attribute in the list." alt="" coords="335,59,537,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="331,112,541,141"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLNode.html#aab516e699567f75cc9ab2ef2eee501e8" title="Safely cast to an Element, or null." alt="" coords="327,165,545,195"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLNode.html#a7682be117e3b2b4ebfd517c1acaaadbf" title="The meaning of &#39;value&#39; changes for the specific type." alt="" coords="343,219,529,248"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1XMLAttribute.html#adf884db24f469f8a99a14ae786d4ddd7" title="The value of the attribute." alt="" coords="332,272,540,301"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="611,245,787,275"/>
+</map>

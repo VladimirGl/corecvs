@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classAbstractFileCaptureSpinThread.html#a4acb61a6ad888738666018512d8700ee" title="AbstractFileCaptureSpinThread::grabFramePair" alt="" coords="303,5,620,35"/>
+<area shape="rect" id="node5" href="$classImageCaptureInterface.html#a7e0ae4d6cacdcc46f10d5edbfdfe7fe5" title="Internal function to trigger frame notify signal." alt="" coords="303,59,620,88"/>
+<area shape="rect" id="node11" href="$classAbstractFileCapture.html#a221e4f0bcc988d207faffce0aedc5ec7" title="AbstractFileCapture::protectFrameMutex" alt="" coords="321,112,601,141"/>
+<area shape="rect" id="node13" href="$classAbstractFileCapture.html#ab7cae48210078f4f3dafff21e71d3582" title="AbstractFileCapture::spinThreadRunMutex" alt="" coords="319,165,604,195"/>
+<area shape="rect" id="node7" href="$classImageCaptureInterface.html#ad345e61b1b9e5837ef7ef788a09f1089" title="ImageCaptureInterface::newFrameReady" alt="" coords="669,32,949,61"/>
+<area shape="rect" id="node9" href="$classImageCaptureInterface.html#a89acb8d07aef913b8bb7d7971fa8c7e7" title="ImageCaptureInterface::newImageReady" alt="" coords="669,85,949,115"/>
+</map>

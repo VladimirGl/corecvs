@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node44" href="$classcorecvs_1_1BaseSegment.html" title="corecvs::BaseSegment\&lt; CloudCluster \&gt;" alt="" coords="3271,400,3551,429"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1SwarmPoint.html" title="corecvs::SwarmPoint" alt="" coords="2216,320,2371,349"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1Vector2d.html" title="corecvs::Vector2d\&lt; double \&gt;" alt="" coords="1815,320,2023,349"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector2d\&lt; double \&gt;, double, 2 \&gt;" alt="" coords="1204,324,1615,353"/>
+<area shape="rect" id="node10" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector2d\&lt; double \&gt;, double \&gt;" alt="" coords="580,324,1012,353"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1Reflection.html" title="corecvs::Reflection" alt="" coords="1340,163,1479,192"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1EmbedSubclass.html" title="corecvs::EmbedSubclass" alt="" coords="1828,76,2009,105"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1RGBColor.html" title="I use inheritance because no new data members will be added." alt="" coords="1849,267,1988,296"/>
+<area shape="rect" id="node16" href="$classcorecvs_1_1BaseField.html" title="This class is a core class for the reflection." alt="" coords="288,124,427,153"/>
+<area shape="rect" id="node18" href="$classcorecvs_1_1ReflectionNaming.html" title="We have several styles of nameing." alt="" coords="7,124,196,153"/>
+<area shape="rect" id="node29" href="$structcorecvs_1_1EmbedSubclass_1_1EmbedMap.html" title="corecvs::EmbedSubclass::EmbedMap" alt="" coords="665,71,927,100"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1Vector3d.html" title="corecvs::Vector3d\&lt; double \&gt;" alt="" coords="1815,385,2023,415"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector3d\&lt; double \&gt;, double, 3 \&gt;" alt="" coords="1204,379,1615,408"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector3d\&lt; double \&gt;, double \&gt;" alt="" coords="580,379,1012,408"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; RGBColor, uint8_t, 4 \&gt;" alt="" coords="1239,271,1580,300"/>
+<area shape="rect" id="node41" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; RGBColor, uint8_t \&gt;" alt="" coords="615,271,977,300"/>
+<area shape="rect" id="node49" href="$classcorecvs_1_1EllipticalApproximationUnified.html" title="corecvs::EllipticalApproximationUnified\&lt; Vector3dd \&gt;" alt="" coords="2549,539,2912,568"/>
+<area shape="rect" id="node51" href="$classcorecvs_1_1Vector3d.html" title="corecvs::Vector3d\&lt; ElementType \&gt;" alt="" coords="1796,657,2041,687"/>
+<area shape="rect" id="node53" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector3d\&lt; ElementType \&gt;, ElementType, 3 \&gt;" alt="" coords="1167,657,1652,687"/>
+<area shape="rect" id="node55" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector3d\&lt; ElementType \&gt;, ElementType \&gt;" alt="" coords="541,676,1051,705"/>
+<area shape="rect" id="node61" href="$classcorecvs_1_1AbstractBuffer.html" title="This is a common buffer template." alt="" coords="1872,539,1965,568"/>
+<area shape="rect" id="node59" href="$classcorecvs_1_1Matrix.html" title="corecvs::Matrix" alt="" coords="2235,539,2352,568"/>
+<area shape="rect" id="node63" href="$classcorecvs_1_1AbstractBufferParams.html" title="This is a basis part of the AbstractBuffer template &#45; serializable buffer params." alt="" coords="1300,539,1519,568"/>
+<area shape="rect" id="node66" href="$classcorecvs_1_1ObjectRef.html" title="corecvs::ObjectRef\&lt; uint8_t \&gt;" alt="" coords="1303,485,1516,515"/>
+<area shape="rect" id="node68" href="$classcorecvs_1_1ObjectBlock.html" title="corecvs::ObjectBlock\&lt; uint8_t \&gt;" alt="" coords="683,485,909,515"/>
+</map>

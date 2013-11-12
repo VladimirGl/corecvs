@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classFilterBlockPresentation.html#af6f1626a761a22fb58726093d2cc1fae" title="FilterBlockPresentation::drawBlock" alt="" coords="277,5,515,35"/>
+<area shape="rect" id="node7" href="$classFilterBlockPresentation.html#a28ce80ed70461e1b0f584b9a598a5e36" title="FilterBlockPresentation::drawInputPins" alt="" coords="265,59,527,88"/>
+<area shape="rect" id="node11" href="$classFilterBlockPresentation.html#aaacb34a3720491173b54e709688dbc37" title="FilterBlockPresentation::drawOutputPins" alt="" coords="259,112,533,141"/>
+<area shape="rect" id="node5" href="$classDiagramScene.html#a48991d2fb5ae136cfefa7489aa3c8b6c" title="DiagramScene::itemColor" alt="" coords="581,5,768,35"/>
+<area shape="rect" id="node9" href="$classDiagramItem.html#a483cb2a13c9035090ef55bfa148fc93c" title="DiagramItem::polygon" alt="" coords="593,85,756,115"/>
+</map>

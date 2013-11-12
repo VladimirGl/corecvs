@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseHostDialog.html#a7f3e4dccdf6111a0cbc7ddf5f07811db" title="Call to teardown the object." alt="" coords="249,85,415,115"/>
+<area shape="rect" id="node5" href="$classBaseHostDialog.html#a1e0bdb42454af68e366bf0c349a838c9" title="BaseHostDialog::cleanupEventQueue" alt="" coords="465,5,724,35"/>
+<area shape="rect" id="node7" href="$classConfigManager.html#a1d08d5d83a55f715c118a19aeb41cee8" title="ConfigManager::configName" alt="" coords="493,59,696,88"/>
+<area shape="rect" id="node15" href="$classBaseHostDialog.html#a2e1f856322f93443fc984d093adcead7" title="BaseHostDialog::saveParams" alt="" coords="489,112,700,141"/>
+<area shape="rect" id="node22" href="$classBaseHostDialog.html#ad5da01a76fa570a1f52b46e28489f519" title="during the process of the destruction you need to make sure that the thread object is killed before d..." alt="" coords="465,165,724,195"/>
+<area shape="rect" id="node9" href="$classConfigManager.html#ae428a00b007e47c5d496539e25b05bcf" title="ConfigManager::instance" alt="" coords="1064,33,1243,63"/>
+<area shape="rect" id="node13" href="$classConfigManager.html#a0813cd21566579f5bdc87e317eff30a5" title="ConfigManager::name" alt="" coords="809,59,972,88"/>
+<area shape="rect" id="node11" href="$classConfigManager.html#a7d3d7c10423d969f7544509f6fcca32f" title="ConfigManager::ConfigManager" alt="" coords="1300,33,1521,63"/>
+<area shape="rect" id="node17" href="$classConfigManager.html#a92f4e39dff236df8bab3b6d5697420c0" title="ConfigManager::camConfigName" alt="" coords="775,112,1007,141"/>
+<area shape="rect" id="node19" href="$classConfigManager.html#a312ba1a2255b5af878f5dbb7c441d1ef" title="ConfigManager::camName" alt="" coords="1057,112,1249,141"/>
+</map>

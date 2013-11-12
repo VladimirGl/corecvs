@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseCalculationThread.html" title="A base implementation of calculation thread that grabs the frames from a capture interface, applies a transform and passes them to the host application." alt="" coords="16,83,184,112"/>
+<area shape="rect" id="node5" href="$classRecorderThread.html" title="RecorderThread" alt="" coords="39,160,161,189"/>
+</map>

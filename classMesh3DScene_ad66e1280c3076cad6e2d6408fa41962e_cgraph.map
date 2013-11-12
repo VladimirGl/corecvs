@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classRgbColorParameters.html#ae07cc032601d2f99de4011962fef14c1" title="RgbColorParameters::b" alt="" coords="287,31,455,60"/>
+<area shape="rect" id="node5" href="$classDraw3dParameters.html#a5c833963f4b9b36ce3e7648f4a5a901f" title="Draw3dParameters::color" alt="" coords="280,84,461,113"/>
+<area shape="rect" id="node7" href="$classScene3D.html#ab8989a0bb9641197745454aa1594c38e" title="Scene3D::commonSetup" alt="" coords="280,216,461,245"/>
+<area shape="rect" id="node48" href="$classScene3D.html#afd0b688bc44bb7a6a32c2c3db8898df3" title="Scene3D::commonTierdown" alt="" coords="271,137,471,167"/>
+<area shape="rect" id="node53" href="$classRgbColorParameters.html#ac9412ba5f3027be3d598d621ef7010e0" title="RgbColorParameters::g" alt="" coords="287,269,455,299"/>
+<area shape="rect" id="node55" href="$classRgbColorParameters.html#a76f3b0cbd418e2259b7c35fde63e52dd" title="RgbColorParameters::r" alt="" coords="288,323,453,352"/>
+<area shape="rect" id="node57" href="$classDraw3dParameters.html#aa04119ab6f6f7080a3fe0c674ee1d18d" title="Draw3dParameters::secondaryColor" alt="" coords="245,376,496,405"/>
+<area shape="rect" id="node59" href="$classDraw3dParameters.html#a8a72b5514e9f892c0255c276c5491f0e" title="Draw3dParameters::style" alt="" coords="280,429,461,459"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Matrix44.html#ad53e6a4c5f30ed13b1bd0946f0e66a06" title="Geting Matrix element functions block." alt="" coords="1444,265,1593,295"/>
+<area shape="rect" id="node11" href="$classDraw3dParameters.html#afee5bbe4f89307b91fee544c03151fbd" title="Draw3dParameters::decalLeftCam" alt="" coords="576,5,816,35"/>
+<area shape="rect" id="node13" href="$classDraw3dParameters.html#ad7d221b0caa355d14c2b5c2e9bcaa0b8" title="Draw3dParameters::decalRightCam" alt="" coords="572,59,820,88"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1RectificationResult.html#af847681d8a5b49e890a11d13e0e84690" title="corecvs::RectificationResult::getCameraShift" alt="" coords="545,320,847,349"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1CameraIntrinsics.html#a9e93ad550ca6d2e4a54e33b65d9214fe" title="corecvs::CameraIntrinsics::getVFov" alt="" coords="573,424,819,453"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="948,424,1097,453"/>
+<area shape="rect" id="node21" href="$classScene3D.html#adf94b2a20dacc9c9be5e814bf0d57688" title="Scene3D::initDecalState" alt="" coords="607,216,785,245"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1Matrix44.html#a1313510f453385518a9f2c7d7f97be74" title="Terribly ineffective." alt="" coords="925,371,1120,400"/>
+<area shape="rect" id="node39" href="$classCloudViewDialog.html#ae52f7c98f9cb054e65312158dbd6641d" title="CloudViewDialog::texture" alt="" coords="605,477,787,507"/>
+<area shape="rect" id="node41" href="$classDraw3dParameters.html#ad3cd20efc1c9bbd1ea6f9ba3ed73c9dc" title="Draw3dParameters::textureCorrodinates" alt="" coords="556,112,836,141"/>
+<area shape="rect" id="node43" href="$classDraw3dParameters.html#acb49e53484211e3a8d0379e4e31d9907" title="Draw3dParameters::textureScale" alt="" coords="580,531,812,560"/>
+<area shape="rect" id="node45" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="621,584,771,613"/>
+<area shape="rect" id="node23" href="$classDraw3dParameters.html#af81a04a61abba3640d888e121e3c4f4c" title="Draw3dParameters::decalMatrixType" alt="" coords="896,264,1149,293"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1Matrix44.html#a2b2199727e0ea9264105937c9aca9a1f" title="Returning transposed matrix." alt="" coords="916,317,1129,347"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1Matrix44.html#acf5e18b2333c493522c2d32ae8719541" title="corecvs::Matrix44::Matrix44" alt="" coords="1197,317,1395,347"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1Matrix44.html#adc38a8b1e0c78d7a809829c07734a0e5" title="corecvs::Matrix44::det" alt="" coords="1215,371,1377,400"/>
+</map>

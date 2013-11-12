@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMakePreciseParametersControlWidget.html#a5cdc464f3ddea2080f50321130c2db08" title="MakePreciseParametersControlWidget::createParameters" alt="" coords="439,32,825,61"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="523,85,741,115"/>
+<area shape="rect" id="node9" href="$classMakePreciseParametersControlWidget.html#a893df6a594390634cf0ded4cae30d268" title="MakePreciseParametersControlWidget::setParameters" alt="" coords="449,219,815,248"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="977,5,1151,35"/>
+<area shape="rect" id="node11" href="$classMakePreciseParameters.html#a9e98849e746299448af0c2a8ad2b674c" title="MakePreciseParameters::shouldMakePrecise" alt="" coords="911,59,1217,88"/>
+<area shape="rect" id="node13" href="$classMakePreciseParameters.html#ab09e5a02398fb6db7899877ec26172fd" title="MakePreciseParameters::algorithm" alt="" coords="941,112,1187,141"/>
+<area shape="rect" id="node15" href="$classMakePreciseParameters.html#ad034d2e0db268f80aed0c91c74483c93" title="MakePreciseParameters::interpolation" alt="" coords="932,165,1196,195"/>
+<area shape="rect" id="node17" href="$classMakePreciseParameters.html#a04dd81648f798d4579e7493d7b540763" title="MakePreciseParameters::kLTIterations" alt="" coords="933,219,1195,248"/>
+<area shape="rect" id="node19" href="$classMakePreciseParameters.html#aa2b5ed562a568a29570d581d836321d3" title="MakePreciseParameters::kLTRadiusH" alt="" coords="937,272,1191,301"/>
+<area shape="rect" id="node21" href="$classMakePreciseParameters.html#af4c44e98fb2b68482427a03c4951fe3c" title="MakePreciseParameters::kLTRadiusW" alt="" coords="936,325,1192,355"/>
+<area shape="rect" id="node23" href="$classMakePreciseParameters.html#a7ca94b032561cd9ab9393f890ff4492a" title="MakePreciseParameters::kLTThreshold" alt="" coords="932,379,1196,408"/>
+<area shape="rect" id="node25" href="$classMakePreciseParametersControlWidget.html#a26033e3c2a4acf0b7f14a26a781d312b" title="MakePreciseParametersControlWidget::paramsChanged" alt="" coords="875,432,1253,461"/>
+</map>

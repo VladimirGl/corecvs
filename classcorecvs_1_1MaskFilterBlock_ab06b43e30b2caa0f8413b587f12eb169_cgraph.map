@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMaskingParameters.html#a9b4159494983a298264b5eb7047cc097" title="MaskingParameters::accept" alt="" coords="325,5,523,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLNode.html#add244bca368083fa29698db8dcf147ca" title="Get the XMLDocument that owns this XMLNode." alt="" coords="303,59,545,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLNode.html#ae3b422e98914d6002ca99bb1d2837103" title="Add a child node as the last (right) child." alt="" coords="303,112,545,141"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLDocument.html#a3c335a700a43d7c363a393142a23f234" title="Create a new Element associated with this Document." alt="" coords="292,165,556,195"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1MemPool.html#ac5804dd1387b2e4de5eef710076a0db1" title="tinyxml2::MemPool::SetTracked" alt="" coords="611,112,832,141"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1MemPoolT.html#aa9d785a48ffe6ea1be679bab13464486" title="tinyxml2::MemPoolT::Alloc" alt="" coords="628,165,815,195"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1XMLElement.html#a97712009a530d8cb8a63bf705f02b4f1" title="Set the name of the element." alt="" coords="605,219,837,248"/>
+<area shape="rect" id="node17" href="$classtinyxml2_1_1XMLNode.html#a09dd68cf9eae137579f6e50f36487513" title="Set the Value of an XML node." alt="" coords="887,219,1095,248"/>
+<area shape="rect" id="node19" href="$classtinyxml2_1_1StrPair.html#a2baf6230e18333e02ab65d0897ee3941" title="tinyxml2::StrPair::SetInternedStr" alt="" coords="1145,192,1372,221"/>
+<area shape="rect" id="node23" href="$classtinyxml2_1_1StrPair.html#a1f82ec6b5bee35ee7466d8565e43b1de" title="tinyxml2::StrPair::SetStr" alt="" coords="1172,245,1345,275"/>
+<area shape="rect" id="node21" href="$classtinyxml2_1_1StrPair.html#a80c1b3bd99bf62ae85c94a29ce537125" title="tinyxml2::StrPair::Reset" alt="" coords="1423,192,1591,221"/>
+</map>

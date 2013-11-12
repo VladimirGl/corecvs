@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$angleFunction_8h.html" title="core/alignment/angleFunction.h" alt="" coords="365,160,587,189"/>
+<area shape="rect" id="node9" href="$radialFunc_8h.html" title="core/alignment/radialFunc.h" alt="" coords="853,160,1051,189"/>
+<area shape="rect" id="node27" href="$radialCorrection_8h.html" title="Header file for the radial lens distortion correction primitives." alt="" coords="2035,83,2269,112"/>
+<area shape="rect" id="node54" href="$camerasCalibrationFunc_8h.html" title="core/alignment/camerasCalibration/camerasCalibrationFunc.h" alt="" coords="1583,83,1996,112"/>
+<area shape="rect" id="node59" href="$curvatureFunc_8h.html" title="core/alignment/curvatureFunc.h" alt="" coords="1075,160,1299,189"/>
+<area shape="rect" id="node63" href="$straightFunc_8h.html" title="core/alignment/straightFunc.h" alt="" coords="164,83,375,112"/>
+<area shape="rect" id="node68" href="$math_2levenmarq_8h.html" title="core/math/levenmarq.h" alt="" coords="2523,83,2693,112"/>
+<area shape="rect" id="node78" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="3932,160,4161,189"/>
+<area shape="rect" id="node106" href="$classicKalman_8h.html" title="Add Comment Here." alt="" coords="3080,83,3285,112"/>
+<area shape="rect" id="node112" href="$gradientDescent_8h.html" title="Gradient Descent algorithms for minimizing the functions." alt="" coords="3359,83,3569,112"/>
+<area shape="rect" id="node117" href="$helperFunctions_8h.html" title="Add Comment Here." alt="" coords="4056,83,4259,112"/>
+<area shape="rect" id="node121" href="$homographyReconstructor_8h.html" title="Add Comment Here." alt="" coords="2724,83,3041,112"/>
+<area shape="rect" id="node124" href="$essentialEstimator_8h.html" title="Add Comment Here." alt="" coords="5264,83,5525,112"/>
+<area shape="rect" id="node5" href="$angleFunction_8cpp.html" title="core/alignment/angleFunction.cpp" alt="" coords="357,237,595,267"/>
+<area shape="rect" id="node7" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="1587,315,1891,344"/>
+<area shape="rect" id="node12" href="$anglePointsFunction_8h.html" title="core/alignment/anglePointsFunction.h" alt="" coords="619,237,880,267"/>
+<area shape="rect" id="node17" href="$curvatureFunc_8cpp.html" title="core/alignment/curvatureFunc.cpp" alt="" coords="1227,237,1464,267"/>
+<area shape="rect" id="node19" href="$distPointsFunction_8h.html" title="core/alignment/distPointsFunction.h" alt="" coords="904,237,1152,267"/>
+<area shape="rect" id="node24" href="$radialFunc_8cpp.html" title="core/alignment/radialFunc.cpp" alt="" coords="1488,237,1701,267"/>
+<area shape="rect" id="node14" href="$anglePointsFunction_8cpp.html" title="core/alignment/anglePointsFunction.cpp" alt="" coords="604,315,879,344"/>
+<area shape="rect" id="node21" href="$distPointsFunction_8cpp.html" title="core/alignment/distPointsFunction.cpp" alt="" coords="903,315,1167,344"/>
+<area shape="rect" id="node30" href="$radialCorrection_8cpp.html" title="This file contains the radial lens distortion correction primitives." alt="" coords="1877,160,2128,189"/>
+<area shape="rect" id="node33" href="$displacementBuffer_8h.html" title="This file hold the class DisplacementBuffer." alt="" coords="2253,160,2491,189"/>
+<area shape="rect" id="node44" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="1827,237,2115,267"/>
+<area shape="rect" id="node35" href="$displacementBuffer_8cpp.html" title="Add Comment Here." alt="" coords="2189,237,2440,267"/>
+<area shape="rect" id="node37" href="$transformationCache_8h.html" title="core/buffers/transformationCache.h" alt="" coords="2856,237,3104,267"/>
+<area shape="rect" id="node39" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="2833,315,3127,344"/>
+<area shape="rect" id="node49" href="$camerasConfigParameters_8h.html" title="applications/base/camerasConfigParameters.h" alt="" coords="2515,237,2832,267"/>
+<area shape="rect" id="node41" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="2732,392,2983,421"/>
+<area shape="rect" id="node56" href="$camerasCalibrationFunc_8cpp.html" title="core/alignment/camerasCalibration/camerasCalibrationFunc.cpp" alt="" coords="1323,160,1752,189"/>
+<area shape="rect" id="node65" href="$straightFunc_8cpp.html" title="core/alignment/straightFunc.cpp" alt="" coords="5,160,232,189"/>
+<area shape="rect" id="node71" href="$math_2levenmarq_8cpp.html" title="core/math/levenmarq.cpp" alt="" coords="2515,160,2701,189"/>
+<area shape="rect" id="node73" href="$homographyReconstructor_8cpp.html" title="Add Comment Here." alt="" coords="2725,160,3056,189"/>
+<area shape="rect" id="node75" href="$essentialEstimator_8cpp.html" title="Add Comment Here." alt="" coords="3325,160,3603,189"/>
+<area shape="rect" id="node80" href="$vjPattern_8h.html" title="This file holds data for Viola&#45;Jones pattern features." alt="" coords="3720,237,3901,267"/>
+<area shape="rect" id="node82" href="$rgb24Buffer_8cpp.html" title="Add Comment Here." alt="" coords="3925,237,4168,267"/>
+<area shape="rect" id="node84" href="$bmpLoader_8h.html" title="Add Comment Here." alt="" coords="4803,237,5013,267"/>
+<area shape="rect" id="node86" href="$universalRectifier_8cpp.html" title="Add Comment Here." alt="" coords="5251,315,5488,344"/>
+<area shape="rect" id="node88" href="$g12Image_8h.html" title="utils/corestructs/g12Image.h" alt="" coords="3179,237,3381,267"/>
+<area shape="rect" id="node93" href="$qtFileLoader_8h.html" title="utils/fileformats/qtFileLoader.h" alt="" coords="4517,237,4728,267"/>
+<area shape="rect" id="node95" href="$imageCaptureInterface_8h.html" title="utils/framesources/imageCaptureInterface.h" alt="" coords="4192,237,4493,267"/>
+<area shape="rect" id="node97" href="$V4L2Capture_8h.html" title="Add Comment Here." alt="" coords="4419,315,4688,344"/>
+<area shape="rect" id="node102" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="5037,237,5307,267"/>
+<area shape="rect" id="node104" href="$testbedMainWindow_8h.html" title="applications/testbed/testbedMainWindow.h" alt="" coords="3405,237,3696,267"/>
+<area shape="rect" id="node108" href="$classicKalman_8cpp.html" title="Add Comment Here." alt="" coords="3080,160,3301,189"/>
+<area shape="rect" id="node114" href="$gradientDescent_8cpp.html" title="Add Comment Here." alt="" coords="3627,160,3851,189"/>
+<area shape="rect" id="node119" href="$helperFunctions_8cpp.html" title="Add Comment Here." alt="" coords="4185,160,4404,189"/>
+<area shape="rect" id="node127" href="$iterativeEstimator_8h.html" title="Add Comment Here." alt="" coords="5432,160,5688,189"/>
+<area shape="rect" id="node130" href="$ransacEstimator_8cpp.html" title="Add Comment Here." alt="" coords="5712,160,5973,189"/>
+</map>

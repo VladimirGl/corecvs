@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1ObjectRef.html" title="corecvs::ObjectRef\&lt; MessageInternal \&gt;" alt="" coords="104,645,379,675"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1ObjectBlock.html" title="corecvs::ObjectBlock\&lt; MessageInternal \&gt;" alt="" coords="97,549,385,579"/>
+<area shape="rect" id="node6" href="$classLog_1_1MessageInternal.html" title="This class describes message of the log." alt="" coords="163,453,320,483"/>
+<area shape="rect" id="node8" href="$classLog.html" title="Class that controls the log." alt="" coords="151,357,196,387"/>
+<area shape="rect" id="node12" href="$classLogDrain.html" title="Interface class for any logger device that accept messages." alt="" coords="60,165,137,195"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="228,357,367,387"/>
+<area shape="rect" id="node16" title="STL class." alt="" coords="216,261,453,291"/>
+<area shape="rect" id="node18" title="STL class." alt="" coords="233,165,436,195"/>
+<area shape="rect" id="node20" title="STL class." alt="" coords="251,85,419,115"/>
+<area shape="rect" id="node22" title="STL class." alt="" coords="281,5,388,35"/>
+</map>

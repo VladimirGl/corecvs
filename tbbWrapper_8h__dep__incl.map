@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$vjPattern_8cpp.html" title="This file hold implementation of function for Viola&#45;Jones optimised patterns." alt="" coords="7,624,201,653"/>
+<area shape="rect" id="node5" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="2071,83,2273,112"/>
+<area shape="rect" id="node9" href="$displacementBuffer_8h.html" title="This file hold the class DisplacementBuffer." alt="" coords="2336,469,2573,499"/>
+<area shape="rect" id="node36" href="$integralBuffer_8h.html" title="А header for IntergalBuffer.c." alt="" coords="1571,469,1768,499"/>
+<area shape="rect" id="node43" href="$blurProcessor_8cpp.html" title="Add Comment Here." alt="" coords="825,624,1089,653"/>
+<area shape="rect" id="node84" href="$triangulator_8h.html" title="Add Comment Here." alt="" coords="635,392,851,421"/>
+<area shape="rect" id="node97" href="$flowBuffer_8cpp.html" title="Add Comment Here." alt="" coords="1084,392,1303,421"/>
+<area shape="rect" id="node124" href="$punchedBufferOperations_8h.html" title="Add Comment Here." alt="" coords="688,237,992,267"/>
+<area shape="rect" id="node134" href="$fastConverter_8h.html" title="Add Comment Here." alt="" coords="3477,83,3816,112"/>
+<area shape="rect" id="node136" href="$fastKernel_8h.html" title="Add Comment Here." alt="" coords="3664,392,3957,421"/>
+<area shape="rect" id="node7" href="$distortionCorrectTransform_8h.html" title="core/alignment/distortionCorrectTransform.h" alt="" coords="2280,392,2584,421"/>
+<area shape="rect" id="node28" href="$assignmentOptimal_8h.html" title="a header for assignmentOptimal.c" alt="" coords="1483,160,1752,189"/>
+<area shape="rect" id="node30" href="$abstractBuffer_8cpp.html" title="TODO." alt="" coords="1776,160,1995,189"/>
+<area shape="rect" id="node32" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="1128,237,1397,267"/>
+<area shape="rect" id="node34" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="1547,392,1712,421"/>
+<area shape="rect" id="node45" href="$spatialGradient_8h.html" title="Add Comment Here." alt="" coords="2887,547,3148,576"/>
+<area shape="rect" id="node53" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="2636,315,2809,344"/>
+<area shape="rect" id="node56" href="$commonMappers_8h.html" title="a header for CommonMappers.cpp" alt="" coords="2760,392,2987,421"/>
+<area shape="rect" id="node60" href="$derivativeBuffer_8h.html" title="Add Comment Here." alt="" coords="3427,392,3640,421"/>
+<area shape="rect" id="node74" href="$segmentator_8h.html" title="Add Comment Here." alt="" coords="3112,392,3352,421"/>
+<area shape="rect" id="node104" href="$abstractKernel_8h.html" title="This class holds a convolution kernel." alt="" coords="2069,160,2275,189"/>
+<area shape="rect" id="node112" href="$mipmapPyramid_8h.html" title="a header for MidmapPyramid.cpp" alt="" coords="93,469,312,499"/>
+<area shape="rect" id="node116" href="$sphericalCorrectionLUT_8h.html" title="Add Comment Here." alt="" coords="2299,160,2581,189"/>
+<area shape="rect" id="node118" href="$math_2matrix_2matrix_8h.html" title="core/math/matrix/matrix.h" alt="" coords="1219,160,1408,189"/>
+<area shape="rect" id="node121" href="$projectiveTransform_8h.html" title="Add Comment Here." alt="" coords="2605,160,2835,189"/>
+<area shape="rect" id="node19" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="2705,624,2993,653"/>
+<area shape="rect" id="node23" href="$camerasConfigParameters_8h.html" title="applications/base/camerasConfigParameters.h" alt="" coords="1796,547,2113,576"/>
+<area shape="rect" id="node11" href="$displacementBuffer_8cpp.html" title="Add Comment Here." alt="" coords="2188,547,2439,576"/>
+<area shape="rect" id="node13" href="$transformationCache_8h.html" title="core/buffers/transformationCache.h" alt="" coords="2513,547,2761,576"/>
+<area shape="rect" id="node15" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="2329,624,2623,653"/>
+<area shape="rect" id="node17" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="2348,701,2652,731"/>
+<area shape="rect" id="node79" href="$buffer3d_8h.html" title="core/buffers/buffer3d.h" alt="" coords="336,469,501,499"/>
+<area shape="rect" id="node82" href="$depthBuffer_8h.html" title="core/buffers/flow/depthBuffer.h" alt="" coords="547,315,763,344"/>
+<area shape="rect" id="node87" href="$g12Buffer3d_8h.html" title="core/buffers/g12Buffer3d.h" alt="" coords="1027,469,1219,499"/>
+<area shape="rect" id="node95" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="1117,315,1320,344"/>
+<area shape="rect" id="node100" href="$sixDBuffer_8h.html" title="A header for sixDBuffer.cpp." alt="" coords="787,315,992,344"/>
+<area shape="rect" id="node38" href="$vjPattern_8h.html" title="This file holds data for Viola&#45;Jones pattern features." alt="" coords="112,547,293,576"/>
+<area shape="rect" id="node41" href="$blurProcessor_8h.html" title="Add Comment Here." alt="" coords="1420,547,1671,576"/>
+<area shape="rect" id="node49" href="$kltGenerator_8h.html" title="Add Comment Here." alt="" coords="1615,624,1801,653"/>
+<area shape="rect" id="node47" href="$spatialGradient_8cpp.html" title="Add Comment Here." alt="" coords="3692,624,3967,653"/>
+<area shape="rect" id="node58" href="$g12Buffer_8cpp.html" title="Add Comment Here." alt="" coords="2779,469,2968,499"/>
+<area shape="rect" id="node71" href="$operationFilter_8h.html" title="core/filters/operationFilter.h" alt="" coords="3223,469,3417,499"/>
+<area shape="rect" id="node77" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="1243,469,1496,499"/>
+<area shape="rect" id="node62" href="$cannyFilter_8cpp.html" title="Add Comment Here." alt="" coords="3441,469,3628,499"/>
+<area shape="rect" id="node64" href="$sobelFilter_8cpp.html" title="Add Comment Here." alt="" coords="3652,469,3833,499"/>
+<area shape="rect" id="node89" href="$triangulator_8cpp.html" title="Add Comment Here." alt="" coords="525,469,757,499"/>
+<area shape="rect" id="node91" href="$universalRectifier_8h.html" title="Add Comment Here." alt="" coords="781,469,1003,499"/>
+<area shape="rect" id="node139" href="$genericFastKernel_8h.html" title="a header for GenericFastKernel.c" alt="" coords="3857,469,4132,499"/>
+<area shape="rect" id="node142" href="$morphological_8cpp.html" title="Add Comment Here." alt="" coords="4156,469,4468,499"/>
+</map>

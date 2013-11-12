@@ -1,0 +1,36 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classResultImage.html#aad214bc2bd6a5325054064e2366b9418" title="ResultImage::addLayer" alt="" coords="371,59,536,88"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1TransformationCache.html#a0f75f9a05bb80f0e909ff8481a61093f" title="corecvs::TransformationCache::doDeformation" alt="" coords="295,112,612,141"/>
+<area shape="rect" id="node20" href="$classRecorderThread.html#adc0321d1390dd0a96ed5c9270d9e7608" title="RecorderThread::errorMessage" alt="" coords="344,171,563,200"/>
+<area shape="rect" id="node22" href="$classFrames.html#a574575a77ec087df67dd270caa832edc" title="Frames::getCurrentFrame" alt="" coords="771,219,957,248"/>
+<area shape="rect" id="node24" href="$classAbstractCalculationThread.html#a0947cebe1b8817e7e50cb02f88ed9070" title="Pauses calculation." alt="" coords="300,224,607,253"/>
+<area shape="rect" id="node28" href="$classBaseCalculationThread.html#af97f32c53fc3d1c35096355aeafdc146" title="As the transformation procedure uses the inverse of the transformation matrix We first apply the rect..." alt="" coords="311,328,596,357"/>
+<area shape="rect" id="node46" href="$classRecorderThread.html#a73d9be2b27fabd34867707e15bdddaf1" title="RecorderThread::recordingStateChanged" alt="" coords="723,485,1005,515"/>
+<area shape="rect" id="node48" href="$classRecorderThread.html#a9b0f3b71843d7d64310e955dbb35f796" title="RecorderThread::resetRecording" alt="" coords="341,381,565,411"/>
+<area shape="rect" id="node51" href="$classcorecvs_1_1PPMLoader.html#ae03da737b1a0bbe534d1859289e2aa7c" title="corecvs::PPMLoader::save" alt="" coords="360,485,547,515"/>
+<area shape="rect" id="node55" href="$classResultImage.html#aa44d0461a1c0cbc6e35e9de79d43d79f" title="ResultImage::setHeight" alt="" coords="368,539,539,568"/>
+<area shape="rect" id="node59" href="$classcorecvs_1_1Statistics.html#a4b37b7ec25946f49e1d0de995b953330" title="corecvs::Statistics::setTime" alt="" coords="355,592,552,621"/>
+<area shape="rect" id="node61" href="$classResultImage.html#ab9f6acead1b4e72296be30bf3758a6f2" title="ResultImage::setWidth" alt="" coords="372,645,535,675"/>
+<area shape="rect" id="node65" href="$classcorecvs_1_1PreciseTimer.html#af4f2392d369963a6786d28754d626d1b" title="corecvs::PreciseTimer::usecsToNow" alt="" coords="331,725,576,755"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1AbstractContiniousBuffer.html#a34af819499a45b5dd52fefdbddefe33d" title="This function template is responsible for applying reverse transformation to the abstract buffer..." alt="" coords="663,59,1065,88"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1DirectRemapper.html#a27768718ab56106bd18efadc9b7fbc82" title="corecvs::DirectRemapper::remap" alt="" coords="748,112,980,141"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1G12Buffer.html#a3976874f72151a66868cc50472e11d1f" title="This function template is responsible for applying reverse transformation to the abstract buffer..." alt="" coords="681,5,1047,35"/>
+<area shape="rect" id="node11" href="$namespacecorecvs.html#a3bfefeb3d41c56bea61deddbce9632a8" title="This template provides the parallelable call of the function over the interval with or without TBB..." alt="" coords="1137,85,1313,115"/>
+<area shape="rect" id="node13" href="$namespacecorecvs.html#a3e447419f29c25b7a5b4bb77e283f5a3" title="This template provides the dummy call of the function over the interval without TBB." alt="" coords="1385,85,1604,115"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1G12Buffer.html#a49f9af21dc0f3585b3838b467c1872a7" title="This function is used as a hack to interface the C&#45;style g12Buffer." alt="" coords="1119,5,1332,35"/>
+<area shape="rect" id="node26" href="$classAbstractCalculationThread.html#accff9f3bbf936d31d194b17756aa8ebc" title="AbstractCalculationThread::calculationStateChanged" alt="" coords="685,165,1043,195"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1RectificationResult.html#ae06de5b30b767d50009ca10a5a9ede3a" title="corecvs::RectificationResult::addPretransform" alt="" coords="709,272,1019,301"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1AbstractBuffer.html#a6be5a0969d374904dc4ff6cd576c9332" title="Buffer size getter." alt="" coords="751,325,977,355"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1AbstractBuffer.html#ab3e67b15f742aa47f24b108c6c5449b7" title="Checks if this buffer has the same size as the other." alt="" coords="731,379,997,408"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1Matrix33.html#a303763def6e3cd4a08222e9fa8f6faae" title="This function returns an inverse of the matrix." alt="" coords="784,432,944,461"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1Matrix33.html#a8596ffc77b92da2876c22900c02e9bec" title="Geting Matrix element functions block." alt="" coords="1420,405,1569,435"/>
+<area shape="rect" id="node41" href="$classcorecvs_1_1Matrix33.html#a960edd556c9c44ce0b045f702153836e" title="Computing determinant of the matrix." alt="" coords="1144,432,1307,461"/>
+<area shape="rect" id="node44" href="$classcorecvs_1_1Matrix33.html#a47c909b671a7ae90b386b56c8706d3a5" title="corecvs::Matrix33::Matrix33" alt="" coords="1127,485,1324,515"/>
+<area shape="rect" id="node53" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="748,539,980,568"/>
+<area shape="rect" id="node57" href="$classResultImage.html#aef6f554a6c7827429bb06ce3f3079886" title="ResultImage::height" alt="" coords="791,592,937,621"/>
+<area shape="rect" id="node63" href="$classResultImage.html#a08c6666d5f1866c8d7c821638a5d6752" title="ResultImage::width" alt="" coords="793,645,935,675"/>
+<area shape="rect" id="node67" href="$classcorecvs_1_1PreciseTimer.html#ab6fc71ad27d7bb8ed8fed6b837ac3065" title="corecvs::PreciseTimer::isCorrect" alt="" coords="751,752,977,781"/>
+<area shape="rect" id="node69" href="$classcorecvs_1_1PreciseTimer.html#aeefca9626ed0efb419d7479f5d758966" title="corecvs::PreciseTimer::usecsTo" alt="" coords="755,805,973,835"/>
+<area shape="rect" id="node71" href="$classcorecvs_1_1PreciseTimer.html#ab96fc33330e59dc25e1965d692dcb3f9" title="corecvs::PreciseTimer::currentTime" alt="" coords="741,699,987,728"/>
+<area shape="rect" id="node73" href="$classcorecvs_1_1PreciseTimer.html#a8426a1a35d70c5da82bf027bfb1bee69" title="corecvs::PreciseTimer::setTime" alt="" coords="1116,699,1335,728"/>
+</map>

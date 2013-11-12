@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classAdvancedImageWidget.html" title="AdvancedImageWidget" alt="" coords="204,59,372,88"/>
+<area shape="rect" id="node7" href="$classCapSettingsDialog.html" title="CapSettingsDialog" alt="" coords="219,165,357,195"/>
+<area shape="rect" id="node9" href="$classGraphPlotDialog.html" title="GraphPlotDialog" alt="" coords="225,219,351,248"/>
+<area shape="rect" id="node11" href="$classParametersControlWidgetBase.html" title="ParametersControlWidgetBase" alt="" coords="180,379,396,408"/>
+<area shape="rect" id="node5" href="$classPaintImageWidget.html" title="PaintImageWidget" alt="" coords="521,5,657,35"/>
+<area shape="rect" id="node13" href="$classAxisAlignedBoxParametersControlWidget.html" title="AxisAlignedBoxParametersControlWidget" alt="" coords="448,59,731,88"/>
+<area shape="rect" id="node15" href="$classBaseParametersControlWidget.html" title="BaseParametersControlWidget" alt="" coords="481,112,697,141"/>
+<area shape="rect" id="node17" href="$classDraw3dCameraParametersControlWidget.html" title="Draw3dCameraParametersControlWidget" alt="" coords="448,165,731,195"/>
+<area shape="rect" id="node19" href="$classDraw3dParametersControlWidget.html" title="Draw3dParametersControlWidget" alt="" coords="473,219,705,248"/>
+<area shape="rect" id="node21" href="$classDraw3dViMouseParametersControlWidget.html" title="Draw3dViMouseParametersControlWidget" alt="" coords="447,272,732,301"/>
+<area shape="rect" id="node23" href="$classGraphPlotParametersControlWidget.html" title="GraphPlotParametersControlWidget" alt="" coords="465,325,713,355"/>
+<area shape="rect" id="node25" href="$classHeadSearchParametersControlWidget.html" title="HeadSearchParametersControlWidget" alt="" coords="457,379,721,408"/>
+<area shape="rect" id="node27" href="$classMakePreciseParametersControlWidget.html" title="MakePreciseParametersControlWidget" alt="" coords="457,432,721,461"/>
+<area shape="rect" id="node29" href="$classOpenCVBMParametersControlWidget.html" title="OpenCVBMParametersControlWidget" alt="" coords="461,485,717,515"/>
+<area shape="rect" id="node31" href="$classOpenCVSGMParametersControlWidget.html" title="OpenCVSGMParametersControlWidget" alt="" coords="456,539,723,568"/>
+<area shape="rect" id="node33" href="$classPresentationParametersControlWidget.html" title="PresentationParametersControlWidget" alt="" coords="456,592,723,621"/>
+<area shape="rect" id="node35" href="$classRecorderControlWidget.html" title="RecorderControlWidget" alt="" coords="507,645,672,675"/>
+<area shape="rect" id="node37" href="$classRectifyParametersControlWidget.html" title="RectifyParametersControlWidget" alt="" coords="476,699,703,728"/>
+<area shape="rect" id="node41" href="$classRgbColorParametersControlWidget.html" title="RgbColorParametersControlWidget" alt="" coords="468,752,711,781"/>
+<area shape="rect" id="node39" href="$classAutomatedRectifyControlWidget.html" title="AutomatedRectifyControlWidget" alt="" coords="781,699,1005,728"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classPresentationParametersControlWidget.html#a01c57bfad35e1d77e5a86ba34504111a" title="PresentationParametersControlWidget::createParameters" alt="" coords="440,85,829,115"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="525,139,744,168"/>
+<area shape="rect" id="node9" href="$classPresentationParametersControlWidget.html#aa9dbcea4f61acc00146cc71925e7c136" title="PresentationParametersControlWidget::setParameters" alt="" coords="451,352,819,381"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="981,5,1155,35"/>
+<area shape="rect" id="node11" href="$classPresentationParameters.html#a37185d1cb0dad59dc1bede34e5792029" title="PresentationParameters::leftFrame" alt="" coords="945,59,1191,88"/>
+<area shape="rect" id="node13" href="$classPresentationParameters.html#a2b651237c3083f274c79eb62eac04ef8" title="PresentationParameters::rightFrame" alt="" coords="941,112,1195,141"/>
+<area shape="rect" id="node15" href="$classPresentationParameters.html#a2bb1e03d56d2501e839f1a8821e65609" title="PresentationParameters::stereo" alt="" coords="955,165,1181,195"/>
+<area shape="rect" id="node17" href="$classPresentationParameters.html#a24fddc29f9352f4a17fde1a53d9899e8" title="PresentationParameters::flow" alt="" coords="964,219,1172,248"/>
+<area shape="rect" id="node19" href="$classPresentationParameters.html#abe3969657c1df2ca8fbed62f36bb21a5" title="PresentationParameters::output" alt="" coords="955,272,1181,301"/>
+<area shape="rect" id="node21" href="$classPresentationParameters.html#a54798dddaabe36efe1846afe415dd5b9" title="PresentationParameters::showClusters" alt="" coords="933,325,1203,355"/>
+<area shape="rect" id="node23" href="$classPresentationParameters.html#a3b56cc5f5f5c0e05403d10e1f499c520" title="PresentationParameters::showHistogram" alt="" coords="927,379,1209,408"/>
+<area shape="rect" id="node25" href="$classPresentationParameters.html#a61dfb7f419e52264e6f61d171e96f7ca" title="PresentationParameters::autoUpdateHistogram" alt="" coords="904,432,1232,461"/>
+<area shape="rect" id="node27" href="$classPresentationParameters.html#ab53d8f409c71763611bc9360cef86537" title="PresentationParameters::showAreaOfInterest" alt="" coords="913,485,1223,515"/>
+<area shape="rect" id="node29" href="$classPresentationParameters.html#aa6ced2d4cb821aab79b0e29359ab4331" title="PresentationParameters::produce3D" alt="" coords="941,539,1195,568"/>
+<area shape="rect" id="node31" href="$classPresentationParameters.html#ae5ff52cda047db56ba4a18ce477af6ca" title="PresentationParameters::produce6D" alt="" coords="941,592,1195,621"/>
+<area shape="rect" id="node33" href="$classPresentationParameters.html#af73427d29b6f2aa7a264a5d0e4c20b43" title="PresentationParameters::dump3D" alt="" coords="948,645,1188,675"/>
+<area shape="rect" id="node35" href="$classPresentationParametersControlWidget.html#a888a41d6d4081c40f03da7a5373b2a14" title="PresentationParametersControlWidget::paramsChanged" alt="" coords="879,699,1257,728"/>
+</map>

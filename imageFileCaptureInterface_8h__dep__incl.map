@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$abstractFileCapture_8h.html" title="utils/framesources/abstractFileCapture.h" alt="" coords="709,83,989,112"/>
+<area shape="rect" id="node9" href="$fileCapture_8h.html" title="utils/framesources/fileCapture.h" alt="" coords="1011,160,1235,189"/>
+<area shape="rect" id="node20" href="$imageFileCaptureInterface_8cpp.html" title="TODO." alt="" coords="1112,83,1451,112"/>
+<area shape="rect" id="node5" href="$abstractFileCapture_8cpp.html" title="utils/framesources/abstractFileCapture.cpp" alt="" coords="395,160,688,189"/>
+<area shape="rect" id="node7" href="$abstractFileCaptureSpinThread_8cpp.html" title="utils/framesources/abstractFileCaptureSpinThread.cpp" alt="" coords="5,160,371,189"/>
+<area shape="rect" id="node15" href="$openCvFileCapture_8h.html" title="utils/framesources/openCvFileCapture.h" alt="" coords="712,160,987,189"/>
+<area shape="rect" id="node11" href="$fileCapture_8cpp.html" title="utils/framesources/fileCapture.cpp" alt="" coords="1305,237,1545,267"/>
+<area shape="rect" id="node13" href="$imageCaptureInterface_8cpp.html" title="utils/framesources/imageCaptureInterface.cpp" alt="" coords="964,237,1281,267"/>
+<area shape="rect" id="node17" href="$openCvFileCapture_8cpp.html" title="utils/framesources/openCvFileCapture.cpp" alt="" coords="649,237,940,267"/>
+</map>

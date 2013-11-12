@@ -1,0 +1,35 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$advancedImageWidget_8h.html" title="advancedImageWidget.h" alt="" coords="316,237,495,267"/>
+<area shape="rect" id="node60" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="2123,83,2229,112"/>
+<area shape="rect" id="node17" href="$viAreaWidget_8h.html" title="viAreaWidget.h" alt="" coords="47,315,164,344"/>
+<area shape="rect" id="node22" href="$saveFlowSettings_8h.html" title="saveFlowSettings.h" alt="" coords="511,315,655,344"/>
+<area shape="rect" id="node29" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="884,315,1113,344"/>
+<area shape="rect" id="node32" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1975,701,2047,731"/>
+<area shape="rect" id="node36" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="1157,469,1251,499"/>
+<area shape="rect" id="node48" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="1241,392,1423,421"/>
+<area shape="rect" id="node51" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="644,392,788,421"/>
+<area shape="rect" id="node54" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="812,392,996,421"/>
+<area shape="rect" id="node57" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="1020,392,1167,421"/>
+<area shape="rect" id="node64" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="2020,469,2209,499"/>
+<area shape="rect" id="node85" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="1969,315,2063,344"/>
+<area shape="rect" id="node105" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="1741,237,1827,267"/>
+<area shape="rect" id="node111" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="2683,392,2776,421"/>
+<area shape="rect" id="node127" href="$histogram_8h.html" title="The histogram of the integer based buffers." alt="" coords="1875,160,1973,189"/>
+<area shape="rect" id="node137" href="$rectangle_8h.html" title="Add Comment Here." alt="" coords="3297,469,3391,499"/>
+<area shape="rect" id="node141" href="$rgbColor_8h.html" title="a header for rgbColor.c" alt="" coords="3415,469,3500,499"/>
+<area shape="rect" id="node147" href="$function_8h.html" title="a header that contains generic function" alt="" coords="1455,469,1540,499"/>
+<area shape="rect" id="node154" href="$correspondanceList_8h.html" title="Add Comment Here." alt="" coords="2931,160,3088,189"/>
+<area shape="rect" id="node67" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="1871,547,1993,576"/>
+<area shape="rect" id="node73" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="3019,624,3109,653"/>
+<area shape="rect" id="node80" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="2073,624,2169,653"/>
+<area shape="rect" id="node77" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="2897,701,3001,731"/>
+<area shape="rect" id="node92" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="2223,392,2372,421"/>
+<area shape="rect" id="node97" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="2740,469,2831,499"/>
+<area shape="rect" id="node101" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="3228,547,3319,576"/>
+<area shape="rect" id="node116" href="$punchedBufferOperations_8h.html" title="Add Comment Here." alt="" coords="2457,547,2655,576"/>
+<area shape="rect" id="node122" href="$flowVector_8h.html" title="a header for FlowVector.c" alt="" coords="2905,469,3004,499"/>
+<area shape="rect" id="node132" href="$commonMappers_8h.html" title="a header for CommonMappers.cpp" alt="" coords="1851,237,1997,267"/>
+<area shape="rect" id="node152" href="$vector_8h.html" title="a header for vector.c" alt="" coords="1388,547,1460,576"/>
+<area shape="rect" id="node159" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="2667,237,2792,267"/>
+<area shape="rect" id="node167" href="$projectiveTransform_8h.html" title="Add Comment Here." alt="" coords="2904,392,3061,421"/>
+</map>

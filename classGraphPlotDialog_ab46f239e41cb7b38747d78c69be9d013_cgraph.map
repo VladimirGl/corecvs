@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classGraphPlotParameters.html#a30f6b56eb93e9d478463e4b001832384" title="GraphPlotParameters::setCenterAt" alt="" coords="284,5,527,35"/>
+<area shape="rect" id="node5" href="$classGraphPlotParameters.html#a1afb344f207341ababb8c1b9e12b1eff" title="GraphPlotParameters::setContrast" alt="" coords="284,59,527,88"/>
+<area shape="rect" id="node7" href="$classGraphPlotParameters.html#a3a27b31dc9a804cce4140362a179b2c2" title="GraphPlotParameters::setGraphStyle" alt="" coords="276,112,535,141"/>
+<area shape="rect" id="node9" href="$classGraphPlotParameters.html#a80e85378de8ca73d5c133cbddd96ce73" title="GraphPlotParameters::setSelectGraph" alt="" coords="272,165,539,195"/>
+<area shape="rect" id="node11" href="$classGraphPlotParameters.html#a0b6ef4321d7eb5d2f47a3a7b39464605" title="GraphPlotParameters::setWidth" alt="" coords="295,219,516,248"/>
+<area shape="rect" id="node13" href="$classGraphPlotParameters.html#adbf704aad0647e4a1e2a61c1d62d3cc7" title="GraphPlotParameters::setXGrid" alt="" coords="295,272,516,301"/>
+<area shape="rect" id="node15" href="$classGraphPlotParameters.html#a0e205486fc305f7bd0f7fabfd8f3b538" title="GraphPlotParameters::setXScale" alt="" coords="291,325,520,355"/>
+<area shape="rect" id="node17" href="$classGraphPlotParameters.html#aa3e0a5d85889d0888f1c279eb8a8383d" title="GraphPlotParameters::setYGrid" alt="" coords="296,379,515,408"/>
+<area shape="rect" id="node19" href="$classGraphPlotParameters.html#a5713afcafe46ca9092d5e3b0dc591196" title="GraphPlotParameters::setYScale" alt="" coords="291,432,520,461"/>
+</map>

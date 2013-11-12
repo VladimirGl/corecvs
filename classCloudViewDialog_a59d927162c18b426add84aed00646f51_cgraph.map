@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1Mesh3D.html#aa435809e92ec2872f108d3846d7bc743" title="corecvs::Mesh3D::addAOB" alt="" coords="929,695,1119,724"/>
+<area shape="rect" id="node11" href="$classCloudViewDialog.html#ae98c80ee98f5776829f4c4183943fa98" title="CloudViewDialog::addCoordinateFrame" alt="" coords="300,5,569,35"/>
+<area shape="rect" id="node13" href="$classCloudViewDialog.html#a3037953eb29a60f6e94b1f8e080402b6" title="CloudViewDialog::addSubObject" alt="" coords="633,57,857,87"/>
+<area shape="rect" id="node21" href="$classViAreaWidget.html#a8e55af8a2192c79706c2ae276d1c3b27" title="ViAreaWidget::askParentRepaint" alt="" coords="323,163,547,192"/>
+<area shape="rect" id="node23" href="$classCloudViewDialog.html#a5a997989b67f3d425ce793187bb25ad0" title="CloudViewDialog::childKeyPressEvent" alt="" coords="307,216,563,245"/>
+<area shape="rect" id="node25" href="$classCloudViewDialog.html#a55980738b6ada755ca51c95bb2971368" title="CloudViewDialog::childKeyReleaseEvent" alt="" coords="300,269,569,299"/>
+<area shape="rect" id="node27" href="$classCloudViewDialog.html#a25a7f6a3b349e1ce8207243296e2062c" title="CloudViewDialog::childMoveEvent" alt="" coords="317,323,552,352"/>
+<area shape="rect" id="node29" href="$classCloudViewDialog.html#abaf7d8c44a370700a91d949a338fc753" title="CloudViewDialog::childPressEvent" alt="" coords="317,376,552,405"/>
+<area shape="rect" id="node31" href="$classCloudViewDialog.html#ab56be4b674c846ab2da39237f966de5a" title="CloudViewDialog::childReleaseEvent" alt="" coords="311,429,559,459"/>
+<area shape="rect" id="node33" href="$classCloudViewDialog.html#a5225ecd43739bd6d74513894fbc3c967" title="CloudViewDialog::childWheelEvent" alt="" coords="316,1171,553,1200"/>
+<area shape="rect" id="node57" href="$classCloudViewDialog.html#a488048258ddff80b25027e581db2aa32" title="CloudViewDialog::downRotate" alt="" coords="331,533,539,563"/>
+<area shape="rect" id="node59" href="$classCloudViewDialog.html#ac53c9255fcfc83f9d8d114d189c4a81b" title="CloudViewDialog::initializeGLSlot" alt="" coords="321,587,548,616"/>
+<area shape="rect" id="node77" href="$classCloudViewDialog.html#aa87c172fb8db460127e38c3a5f609ffc" title="CloudViewDialog::leftRotate" alt="" coords="337,640,532,669"/>
+<area shape="rect" id="node79" href="$classCloudViewDialog.html#a7a0651e66403514c4cbd16a3cb45975c" title="CloudViewDialog::loadMesh" alt="" coords="337,109,532,139"/>
+<area shape="rect" id="node81" href="$classPLYLoader.html#aa367a87873b96072922dcd5f6a2e5368" title="format ascii 1.0 comment author: Greg Turk comment object: another cube element vertex 8 property flo..." alt="" coords="953,481,1095,511"/>
+<area shape="rect" id="node90" href="$classViAreaWidget.html#abcd18e02253aa4189ababdaaab219886" title="ViAreaWidget::notifyParentMouseMove" alt="" coords="301,797,568,827"/>
+<area shape="rect" id="node92" href="$classViAreaWidget.html#ac3535248a073363bea3f58cc012bef1e" title="ViAreaWidget::notifyParentMousePress" alt="" coords="301,851,568,880"/>
+<area shape="rect" id="node94" href="$classViAreaWidget.html#a393dc91f8115bc713af7d6b8c792ee66" title="ViAreaWidget::notifyParentMouseRelease" alt="" coords="293,904,576,933"/>
+<area shape="rect" id="node96" href="$classViAreaWidget.html#a540ea784f62f0c7a17feb94895bd3714" title="ViAreaWidget::notifyParentResize" alt="" coords="320,957,549,987"/>
+<area shape="rect" id="node98" href="$classViAreaWidget.html#ab2431471d37bfa872936f4b0f096a719" title="ViAreaWidget::notifyParentWheelEvent" alt="" coords="303,1011,567,1040"/>
+<area shape="rect" id="node100" href="$classCloudViewDialog.html#af8350714a82a40c8ec9190176011d906" title="CloudViewDialog::repaintGLSlot" alt="" coords="324,1277,545,1307"/>
+<area shape="rect" id="node105" href="$classCloudViewDialog.html#a3e05a3f8361bd27307aca6796d0e3d79" title="CloudViewDialog::resetCameraSlot" alt="" coords="313,744,556,773"/>
+<area shape="rect" id="node109" href="$classCloudViewDialog.html#ae48e58b68c04acee3c360fc8486a49da" title="CloudViewDialog::resizeGLSlot" alt="" coords="639,1383,852,1412"/>
+<area shape="rect" id="node112" href="$classCloudViewDialog.html#a5831b6217f0f4574485989799599e1c6" title="CloudViewDialog::rightRotate" alt="" coords="332,1224,537,1253"/>
+<area shape="rect" id="node114" href="$classCloudViewDialog.html#a2e5c59dc97900c24ae34450ac6689a62" title="CloudViewDialog::updateCameraMatrix" alt="" coords="300,1435,569,1464"/>
+<area shape="rect" id="node117" href="$classCloudViewDialog.html#adb8944ca92f74e13f91be72298bb1296" title="CloudViewDialog::upRotate" alt="" coords="339,1331,531,1360"/>
+<area shape="rect" id="node119" href="$classCloudViewDialog.html#aee8113a2db42ad0876e27e38b7d0b24b" title="CloudViewDialog::zoomIn" alt="" coords="344,1064,525,1093"/>
+<area shape="rect" id="node122" href="$classCloudViewDialog.html#a7c568edd4cf88de66b5a2c4326b419bc" title="CloudViewDialog::zoomOut" alt="" coords="337,1117,532,1147"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1Vector3d.html#aec83d9ad04107cd9c2bb11abf33128c0" title="Helper functions to access elements." alt="" coords="1264,695,1413,724"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Vector3d.html#a940d88447f20fac800d1fa510c981275" title="corecvs::Vector3d::y" alt="" coords="1264,748,1413,777"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Vector3d.html#a4587f5d4984576c5c4c2d44a4140ce3f" title="corecvs::Vector3d::z" alt="" coords="1264,641,1413,671"/>
+<area shape="rect" id="node15" href="$classTreeSceneModel.html#a89fede1a8bb97097ed80a02bb84ee730" title="TreeSceneModel::addObject" alt="" coords="925,57,1123,87"/>
+<area shape="rect" id="node17" href="$classTreeSceneController.html#af1f24610621ad08a35da89a96b0b0741" title="TreeSceneController::addChildObjectRecursive" alt="" coords="1181,57,1496,87"/>
+<area shape="rect" id="node35" href="$classCloudViewDialog.html#a3d1ced33446a9df09178854d51fe0166" title="CloudViewDialog::zoom" alt="" coords="660,1064,831,1093"/>
+<area shape="rect" id="node37" href="$classCloudViewDialog.html#aed3e64963933f572b2d740add6df8778" title="CloudViewDialog::setZoom" alt="" coords="927,984,1121,1013"/>
+<area shape="rect" id="node39" href="$classCloudViewDialog.html#aa0e690216fa07139c8030ad79f5adab2" title="CloudViewDialog::resetCamera" alt="" coords="915,1037,1133,1067"/>
+<area shape="rect" id="node41" href="$classOpenGLTools.html#a92e6202f71c554b0b85619dd8ff04b73" title="Same as above except for looking in positive Z direction." alt="" coords="1221,971,1456,1000"/>
+<area shape="rect" id="node45" href="$classOpenGLTools.html#a990fb295ace9f68c82ab058add581835" title="OpenGLTools::glMultMatrixMatrix44" alt="" coords="1544,1051,1787,1080"/>
+<area shape="rect" id="node47" href="$namespacecorecvs.html#a319a0d46c2f53180fd1c9c477718d8b1" title="Useful radian to degrees and back conversions." alt="" coords="1269,1128,1408,1157"/>
+<area shape="rect" id="node49" href="$classOpenGLTools.html#abf0b2767139d28cd65092d95306d812d" title="Equivalent to old function gluPerspective." alt="" coords="1237,1024,1440,1053"/>
+<area shape="rect" id="node43" href="$namespacecorecvs.html#a232d61cca5a815cc01f2eaa73604a48c" title="corecvs::degToRad" alt="" coords="1596,971,1735,1000"/>
+<area shape="rect" id="node61" href="$classCloudViewDialog.html#a6be47fb2c64990ee70aa29b5902eed1a" title="CloudViewDialog::resetCameraPos" alt="" coords="624,904,867,933"/>
+<area shape="rect" id="node67" href="$painterHelpers_8cpp.html#a780900a5b9c323ccddc2ae68a7b10cc2" title="drawCircle" alt="" coords="703,587,788,616"/>
+<area shape="rect" id="node75" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="629,640,861,669"/>
+<area shape="rect" id="node64" href="$classcorecvs_1_1Matrix44.html#a1313510f453385518a9f2c7d7f97be74" title="Terribly ineffective." alt="" coords="927,931,1121,960"/>
+<area shape="rect" id="node69" href="$namespacecorecvs.html#a807eb76b7544bcb930b1700a58a780bd" title="Useful round* stuff." alt="" coords="964,535,1084,564"/>
+<area shape="rect" id="node71" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="949,588,1099,617"/>
+<area shape="rect" id="node73" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="949,641,1099,671"/>
+<area shape="rect" id="node86" href="$classcorecvs_1_1Vector3d.html#a9d8a0d7866b1ead163ee33c5dac51a57" title="corecvs::Vector3d::isInCube" alt="" coords="1240,481,1437,511"/>
+</map>

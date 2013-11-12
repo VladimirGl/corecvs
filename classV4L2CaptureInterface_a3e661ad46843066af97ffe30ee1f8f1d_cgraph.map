@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classV4L2CameraDescriptor.html#ad9cd9b4b23f9091ff7d1cadaa6803065" title="V4L2CameraDescriptor::initBuffers" alt="" coords="297,5,540,35"/>
+<area shape="rect" id="node7" href="$classV4L2CameraDescriptor.html#a402951f105cac76e8f7ffce752d51eb2" title="V4L2CameraDescriptor::initCamera" alt="" coords="295,59,543,88"/>
+<area shape="rect" id="node5" href="$classV4L2CameraDescriptor.html#a90876e8791cd7e0114168d6a220e5ab2" title="Allocates given number of userside buffer structures." alt="" coords="592,5,845,35"/>
+</map>

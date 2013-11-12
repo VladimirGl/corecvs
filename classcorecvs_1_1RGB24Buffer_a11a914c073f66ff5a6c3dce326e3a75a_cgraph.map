@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1RGB24Buffer.html#a263f6ce1765d6a4b673ba56a9a28d7f2" title="corecvs::RGB24Buffer::drawSprite" alt="" coords="327,32,561,61"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1RGB24Buffer.html#a196a513657c7398482eed191cfca6089" title="This function is used to draw a pixel in the buffer." alt="" coords="611,32,837,61"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1AbstractBuffer.html#af38950daefa219f81a0e89ee186075f1" title="Checks if coordinate lies within the buffer area." alt="" coords="887,5,1143,35"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="899,59,1131,88"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$copyKernel_8h.html" title="Add Comment Here." alt="" coords="1074,83,1306,112"/>
+<area shape="rect" id="node5" href="$gaussian_8h.html" title="Add Comment Here." alt="" coords="1330,83,1552,112"/>
+<area shape="rect" id="node109" href="$sobel_8h.html" title="This file contains Sobel filters." alt="" coords="1734,83,1932,112"/>
+<area shape="rect" id="node7" href="$gaussian_8cpp.html" title="Add Comment Here." alt="" coords="1185,160,1420,189"/>
+<area shape="rect" id="node9" href="$spatialGradient_8cpp.html" title="Add Comment Here." alt="" coords="1444,160,1718,189"/>
+<area shape="rect" id="node11" href="$mipmapPyramid_8h.html" title="a header for MidmapPyramid.cpp" alt="" coords="942,160,1161,189"/>
+<area shape="rect" id="node13" href="$cascadeClassifier_8h.html" title="This file should hold the header for cascade classifier." alt="" coords="601,237,836,267"/>
+<area shape="rect" id="node17" href="$vjPattern_8h.html" title="This file holds data for Viola&#45;Jones pattern features." alt="" coords="3228,547,3409,576"/>
+<area shape="rect" id="node21" href="$mipmapPyramid_8cpp.html" title="Add Comment Here." alt="" coords="934,237,1169,267"/>
+<area shape="rect" id="node23" href="$kltGenerator_8cpp.html" title="Add Comment Here." alt="" coords="842,315,1045,344"/>
+<area shape="rect" id="node25" href="$kltGenerator_8h.html" title="Add Comment Here." alt="" coords="1193,237,1380,267"/>
+<area shape="rect" id="node15" href="$cascadeClassifier_8cpp.html" title="This file should hold implentation for cascade classifier." alt="" coords="570,315,818,344"/>
+<area shape="rect" id="node19" href="$vjPattern_8cpp.html" title="This file hold implementation of function for Viola&#45;Jones optimised patterns." alt="" coords="3221,624,3416,653"/>
+<area shape="rect" id="node27" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="1384,315,1618,344"/>
+<area shape="rect" id="node86" href="$correspondanceList_8cpp.html" title="Add Comment Here." alt="" coords="725,469,1008,499"/>
+<area shape="rect" id="node29" href="$FCostFunction_8h.html" title="This file holds the data primitives for compensated flow cost function." alt="" coords="2733,392,2965,421"/>
+<area shape="rect" id="node33" href="$flowVectorInformation_8h.html" title="This header holds the data structures that hold classification of flow vectors." alt="" coords="3213,469,3493,499"/>
+<area shape="rect" id="node40" href="$floatFlowBuffer_8cpp.html" title="Add Comment Here." alt="" coords="1120,392,1368,421"/>
+<area shape="rect" id="node42" href="$flowBuffer_8cpp.html" title="Add Comment Here." alt="" coords="1392,392,1610,421"/>
+<area shape="rect" id="node44" href="$sixDBuffer_8h.html" title="A header for sixDBuffer.cpp." alt="" coords="488,392,693,421"/>
+<area shape="rect" id="node63" href="$correspondanceList_8h.html" title="Add Comment Here." alt="" coords="1634,392,1904,421"/>
+<area shape="rect" id="node31" href="$FCostFunction_8cpp.html" title="This file holds implementation of functions for compensated flow cost function." alt="" coords="2610,469,2856,499"/>
+<area shape="rect" id="node37" href="$flowSimuator_8cpp.html" title="This is an implementation file to simulate flow caused by still standing objects and a moving vehicle..." alt="" coords="2880,469,3189,499"/>
+<area shape="rect" id="node35" href="$flowVectorInformation_8cpp.html" title="This file holds the data structures that help classification of flow vectors." alt="" coords="3433,547,3729,576"/>
+<area shape="rect" id="node46" href="$sixDBuffer_8cpp.html" title="Add Comment Here." alt="" coords="480,469,701,499"/>
+<area shape="rect" id="node48" href="$triangulator_8h.html" title="Add Comment Here." alt="" coords="397,547,613,576"/>
+<area shape="rect" id="node50" href="$buffer3d_8h.html" title="core/buffers/buffer3d.h" alt="" coords="24,624,189,653"/>
+<area shape="rect" id="node52" href="$g12Buffer3d_8h.html" title="core/buffers/g12Buffer3d.h" alt="" coords="213,624,405,653"/>
+<area shape="rect" id="node54" href="$triangulator_8cpp.html" title="Add Comment Here." alt="" coords="429,624,661,653"/>
+<area shape="rect" id="node56" href="$universalRectifier_8h.html" title="Add Comment Here." alt="" coords="962,624,1184,653"/>
+<area shape="rect" id="node58" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="685,624,938,653"/>
+<area shape="rect" id="node60" href="$scene3DMouse_8h.html" title="Add Comment Here." alt="" coords="276,701,521,731"/>
+<area shape="rect" id="node65" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="2357,469,2586,499"/>
+<area shape="rect" id="node84" href="$homographyReconstructor_8h.html" title="Add Comment Here." alt="" coords="2016,469,2333,499"/>
+<area shape="rect" id="node88" href="$essentialEstimator_8h.html" title="Add Comment Here." alt="" coords="1184,547,1445,576"/>
+<area shape="rect" id="node90" href="$ransacEstimator_8cpp.html" title="Add Comment Here." alt="" coords="1280,624,1541,653"/>
+<area shape="rect" id="node92" href="$essentialMatrix_8h.html" title="Add Comment Here." alt="" coords="1082,469,1322,499"/>
+<area shape="rect" id="node98" href="$ransacEstimator_8h.html" title="a header for ransacEstimator.c" alt="" coords="1550,547,1798,576"/>
+<area shape="rect" id="node102" href="$stereoAligner_8h.html" title="Add Comment Here." alt="" coords="1397,469,1624,499"/>
+<area shape="rect" id="node105" href="$pointsRectificationWidget_8h.html" title="utils/uis/pointsRectificationWidget.h" alt="" coords="1648,469,1890,499"/>
+<area shape="rect" id="node68" href="$rgb24Buffer_8cpp.html" title="Add Comment Here." alt="" coords="2961,547,3204,576"/>
+<area shape="rect" id="node70" href="$bmpLoader_8h.html" title="Add Comment Here." alt="" coords="1838,547,2049,576"/>
+<area shape="rect" id="node72" href="$g12Image_8h.html" title="utils/corestructs/g12Image.h" alt="" coords="2073,547,2276,576"/>
+<area shape="rect" id="node74" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="2092,624,2396,653"/>
+<area shape="rect" id="node77" href="$qtFileLoader_8h.html" title="utils/fileformats/qtFileLoader.h" alt="" coords="2350,547,2561,576"/>
+<area shape="rect" id="node79" href="$imageCaptureInterface_8h.html" title="utils/framesources/imageCaptureInterface.h" alt="" coords="2585,547,2886,576"/>
+<area shape="rect" id="node81" href="$V4L2Capture_8h.html" title="Add Comment Here." alt="" coords="2696,624,2965,653"/>
+<area shape="rect" id="node111" href="$sobel_8cpp.html" title="This file contains Sobel filters." alt="" coords="1948,160,2161,189"/>
+<area shape="rect" id="node113" href="$sobelFilter_8cpp.html" title="Add Comment Here." alt="" coords="1742,160,1924,189"/>
+</map>

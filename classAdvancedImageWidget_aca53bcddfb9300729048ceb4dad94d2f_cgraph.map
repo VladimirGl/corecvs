@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classAdvancedImageWidget.html#a0660da1dfe71d556c2c97ca4759404d5" title="AdvancedImageWidget::notifyCenterPointChanged" alt="" coords="345,5,687,35"/>
+<area shape="rect" id="node5" href="$classAdvancedImageWidget.html#af1b0658d7988e8862a6ad7f6ab02953f" title="AdvancedImageWidget::pointToolMoved" alt="" coords="379,59,653,88"/>
+<area shape="rect" id="node7" href="$classAdvancedImageWidget.html#a09b13f3339f391764bd57dd8d06f3d4f" title="AdvancedImageWidget::recomputeRects" alt="" coords="376,112,656,141"/>
+<area shape="rect" id="node11" href="$classAdvancedImageWidget.html#aa77e18f515fc59fd569bec871d489010" title="AdvancedImageWidget::setInfoValueLabel" alt="" coords="372,165,660,195"/>
+<area shape="rect" id="node13" href="$classAdvancedImageWidget.html#a6e8e9e2abdc3e3852a575596b45a24a9" title="AdvancedImageWidget::widgetToImage" alt="" coords="381,219,651,248"/>
+<area shape="rect" id="node9" href="$classAdvancedImageWidget.html#ab3c658a5e253eeef3929028a1e2e3082" title="AdvancedImageWidget::computeInputRect" alt="" coords="737,112,1028,141"/>
+<area shape="rect" id="node15" href="$classAdvancedImageWidget.html#aad0a7fa94488db2084f9135d3721dfb7" title="AdvancedImageWidget::widgetToImageF" alt="" coords="744,192,1021,221"/>
+<area shape="rect" id="node17" href="$namespacecorecvs.html#a807eb76b7544bcb930b1700a58a780bd" title="Useful round* stuff." alt="" coords="823,245,943,275"/>
+</map>

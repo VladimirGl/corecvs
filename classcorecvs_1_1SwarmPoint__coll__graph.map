@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1Vector2d.html" title="corecvs::Vector2d\&lt; double \&gt;" alt="" coords="1625,255,1833,284"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector2d\&lt; double \&gt;, double, 2 \&gt;" alt="" coords="1091,263,1501,292"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector2d\&lt; double \&gt;, double \&gt;" alt="" coords="543,263,975,292"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1Reflection.html" title="corecvs::Reflection" alt="" coords="1227,161,1365,191"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1EmbedSubclass.html" title="corecvs::EmbedSubclass" alt="" coords="1639,69,1820,99"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1RGBColor.html" title="I use inheritance because no new data members will be added." alt="" coords="1660,308,1799,337"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1BaseField.html" title="This class is a core class for the reflection." alt="" coords="288,175,427,204"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1ReflectionNaming.html" title="We have several styles of nameing." alt="" coords="7,123,196,152"/>
+<area shape="rect" id="node25" href="$structcorecvs_1_1EmbedSubclass_1_1EmbedMap.html" title="corecvs::EmbedSubclass::EmbedMap" alt="" coords="628,71,889,100"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1Vector3d.html" title="corecvs::Vector3d\&lt; double \&gt;" alt="" coords="1625,372,1833,401"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector3d\&lt; double \&gt;, double, 3 \&gt;" alt="" coords="1091,372,1501,401"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector3d\&lt; double \&gt;, double \&gt;" alt="" coords="543,372,975,401"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; RGBColor, uint8_t, 4 \&gt;" alt="" coords="1125,316,1467,345"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; RGBColor, uint8_t \&gt;" alt="" coords="577,316,940,345"/>
+</map>

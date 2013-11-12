@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classOutputFilterParametersControlWidget.html#a226ba9d520a3df6e3501e21798329c90" title="OutputFilterParametersControlWidget::createParameters" alt="" coords="433,5,815,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="515,59,733,88"/>
+<area shape="rect" id="node9" href="$classOutputFilterParametersControlWidget.html#aea8c6e7bc2c9434bf342a5ee00e15197" title="OutputFilterParametersControlWidget::setParameters" alt="" coords="444,112,804,141"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="964,59,1137,88"/>
+<area shape="rect" id="node11" href="$classOutputFilterParameters.html#ac52ad9d141635772b43a23544a21f12d" title="OutputFilterParameters::outputType" alt="" coords="927,112,1175,141"/>
+<area shape="rect" id="node13" href="$classOutputFilterParametersControlWidget.html#a3b087f1d52228454d248fb83c8edc60e" title="OutputFilterParametersControlWidget::paramsChanged" alt="" coords="864,165,1237,195"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classGraphPlotParameters.html#a1782d80685409b44b0bf953c71b5fd74" title="GraphPlotParameters::centerAt" alt="" coords="476,5,697,35"/>
+<area shape="rect" id="node5" href="$classGraphPlotParameters.html#a83afc5e52ab6ebedca773132a50c3677" title="GraphPlotParameters::contrast" alt="" coords="477,59,696,88"/>
+<area shape="rect" id="node7" href="$classGraphPlotParameters.html#a38f8625e466ed15550148dab797e84f2" title="GraphPlotParameters::fixGridValue" alt="" coords="465,112,708,141"/>
+<area shape="rect" id="node9" href="$classGraphPlotParameters.html#a0c9b5296bad8a620d5f5f9d170612388" title="GraphPlotParameters::fixTimeValue" alt="" coords="464,165,709,195"/>
+<area shape="rect" id="node11" href="$classGraphPlotParameters.html#ab8badf26241b8015ffc6d5d97cc64711" title="GraphPlotParameters::graphStyle" alt="" coords="469,219,704,248"/>
+<area shape="rect" id="node13" href="$classGraphPlotParametersControlWidget.html#a9b5ca2113cc1980626b5105f601fbf99" title="GraphPlotParametersControlWidget::paramsChanged" alt="" coords="405,272,768,301"/>
+<area shape="rect" id="node15" href="$classGraphPlotParameters.html#af3c9d830e5fb062ac2c88f3e2f4fe39f" title="GraphPlotParameters::selectGraph" alt="" coords="465,325,708,355"/>
+<area shape="rect" id="node17" href="$classGraphPlotParameters.html#a697c97c8c4b06cfec8ab9aebf6a9cbc8" title="GraphPlotParameters::width" alt="" coords="487,379,687,408"/>
+<area shape="rect" id="node19" href="$classGraphPlotParameters.html#a146daba3d8ae8788648d65263dc53b6a" title="GraphPlotParameters::xGrid" alt="" coords="487,432,687,461"/>
+<area shape="rect" id="node21" href="$classGraphPlotParameters.html#af96bd43a6849685a5b44f4192a4566aa" title="GraphPlotParameters::xScale" alt="" coords="483,485,691,515"/>
+<area shape="rect" id="node23" href="$classGraphPlotParameters.html#aa42f9bcd5e10357e2c897ffe18a4f636" title="GraphPlotParameters::yGrid" alt="" coords="487,539,687,568"/>
+<area shape="rect" id="node25" href="$classGraphPlotParameters.html#ab3582c26b6568ab65bb93822a619a71c" title="GraphPlotParameters::yScale" alt="" coords="483,592,691,621"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCloudViewDialog.html#a639015b0e8b1d24d88304eae6253600f" title="CloudViewDialog::setNewScenePointer" alt="" coords="349,136,616,165"/>
+<area shape="rect" id="node40" href="$classMesh3DScene.html#acec22681c8e0618adaa60b2851e65e39" title="Mesh3DScene::setParameters" alt="" coords="375,189,591,219"/>
+<area shape="rect" id="node5" href="$classCloudViewDialog.html#a3037953eb29a60f6e94b1f8e080402b6" title="CloudViewDialog::addSubObject" alt="" coords="665,111,889,140"/>
+<area shape="rect" id="node35" href="$classTreeSceneController.html#aefb33d39d7f538b390b4de3940d77940" title="TreeSceneController::replaceScene" alt="" coords="1875,163,2120,192"/>
+<area shape="rect" id="node7" href="$classTreeSceneModel.html#a89fede1a8bb97097ed80a02bb84ee730" title="TreeSceneModel::addObject" alt="" coords="940,111,1137,140"/>
+<area shape="rect" id="node9" href="$classTreeSceneController.html#af1f24610621ad08a35da89a96b0b0741" title="TreeSceneController::addChildObjectRecursive" alt="" coords="1187,111,1501,140"/>
+<area shape="rect" id="node11" href="$classTreeSceneController.html#a3d6d69c81037034b85fb8290b0c2dbe5" title="TreeSceneController::addChildObject" alt="" coords="1551,111,1804,140"/>
+<area shape="rect" id="node13" href="$classTreeSceneController.html#a38c0c0fb303a183b9e36e6a6eb9e9c86" title="TreeSceneController::TreeSceneController" alt="" coords="1855,109,2140,139"/>
+<area shape="rect" id="node15" href="$classTreeSceneController.html#a7c6800e14789ed2c045af047892f9195" title="TreeSceneController::generateWidget" alt="" coords="2216,163,2475,192"/>
+<area shape="rect" id="node21" href="$classTreeSceneController.html#a36a371af22d11af42b00d95aaaefc5d2" title="TreeSceneController::redrawRequest" alt="" coords="2945,83,3196,112"/>
+<area shape="rect" id="node23" href="$classTreeSceneController.html#a31089d9a7c0cef59cca3b0ee959d99d9" title="TreeSceneController::transformationChanged" alt="" coords="2191,109,2500,139"/>
+<area shape="rect" id="node30" href="$classTreeSceneController.html#a3c957613790a97a10ca84e4cfbe3e1b4" title="TreeSceneController::visibilityChanged" alt="" coords="2559,5,2823,35"/>
+<area shape="rect" id="node17" href="$classTreeSceneController.html#a821be20a643c9e21422da74743510c01" title="TreeSceneController::paramtersChanged" alt="" coords="2549,213,2832,243"/>
+<area shape="rect" id="node19" href="$classParametersControlWidgetBase.html#a783fb4b685fe4b4e65680498e21ca5ee" title="ParametersControlWidgetBase::createParametersVirtual" alt="" coords="2880,213,3261,243"/>
+<area shape="rect" id="node25" href="$classTransform3DSelector.html#aad8dd8a7099f68694d2e522774882cec" title="Transform3DSelector::getTransform" alt="" coords="2567,160,2815,189"/>
+<area shape="rect" id="node27" href="$namespacecorecvs.html#a232d61cca5a815cc01f2eaa73604a48c" title="corecvs::degToRad" alt="" coords="3001,160,3140,189"/>
+</map>

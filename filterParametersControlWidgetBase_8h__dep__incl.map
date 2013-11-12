@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$filterSelector_8h.html" title="utils/filters/filterSelector.h" alt="" coords="178,160,359,189"/>
+<area shape="rect" id="node31" href="$gainOffsetParametersControlWidget_8h.html" title="utils/filters/ui/gainOffsetParametersControlWidget.h" alt="" coords="603,160,950,189"/>
+<area shape="rect" id="node38" href="$bitSelectorParametersControlWidget_8h.html" title="utils/filters/ui/bitSelectorParametersControlWidget.h" alt="" coords="1047,160,1396,189"/>
+<area shape="rect" id="node44" href="$sobelParametersControlWidget_8h.html" title="utils/filters/ui/sobelParametersControlWidget.h" alt="" coords="1898,160,2212,189"/>
+<area shape="rect" id="node50" href="$cannyParametersControlWidget_8h.html" title="utils/filters/ui/cannyParametersControlWidget.h" alt="" coords="2266,160,2583,189"/>
+<area shape="rect" id="node56" href="$openCVFilterParametersControlWidget_8h.html" title="utils/filters/ui/openCVFilterParametersControlWidget.h" alt="" coords="1499,160,1859,189"/>
+<area shape="rect" id="node61" href="$backgroundFilterParametersControlWidget_8h.html" title="utils/filters/ui/backgroundFilterParametersControlWidget.h" alt="" coords="2622,160,3008,189"/>
+<area shape="rect" id="node67" href="$filterBlockPresentation_8h.html" title="utils/filters/graph/filterBlockPresentation.h" alt="" coords="3328,83,3614,112"/>
+<area shape="rect" id="node95" href="$binarizeParametersControlWidget_8h.html" title="utils/filters/ui/binarizeParametersControlWidget.h" alt="" coords="4283,83,4614,112"/>
+<area shape="rect" id="node100" href="$inputFilterParametersControlWidget_8h.html" title="utils/filters/ui/inputFilterParametersControlWidget.h" alt="" coords="4699,83,5040,112"/>
+<area shape="rect" id="node105" href="$maskingParametersControlWidget_8h.html" title="utils/filters/ui/maskingParametersControlWidget.h" alt="" coords="5135,83,5468,112"/>
+<area shape="rect" id="node110" href="$operationParametersControlWidget_8h.html" title="utils/filters/ui/operationParametersControlWidget.h" alt="" coords="5651,83,5992,112"/>
+<area shape="rect" id="node117" href="$outputFilterParametersControlWidget_8h.html" title="utils/filters/ui/outputFilterParametersControlWidget.h" alt="" coords="6318,83,6670,112"/>
+<area shape="rect" id="node122" href="$thickeningParametersControlWidget_8h.html" title="utils/filters/ui/thickeningParametersControlWidget.h" alt="" coords="6763,83,7110,112"/>
+<area shape="rect" id="node5" href="$filterExecuter_8h.html" title="Add Comment Here." alt="" coords="44,237,231,267"/>
+<area shape="rect" id="node9" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="576,315,870,344"/>
+<area shape="rect" id="node13" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="282,392,532,421"/>
+<area shape="rect" id="node27" href="$filterSelector_8cpp.html" title="utils/filters/filterSelector.cpp" alt="" coords="1580,237,1778,267"/>
+<area shape="rect" id="node7" href="$filterExecuter_8cpp.html" title="Add Comment Here." alt="" coords="38,315,238,344"/>
+<area shape="rect" id="node11" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="556,392,866,421"/>
+<area shape="rect" id="node24" href="$recorderThread_8h.html" title="applications/recorder/recorderThread.h" alt="" coords="890,392,1159,421"/>
+<area shape="rect" id="node15" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="275,469,539,499"/>
+<area shape="rect" id="node17" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="235,547,478,576"/>
+<area shape="rect" id="node19" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="24,469,251,499"/>
+<area shape="rect" id="node22" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="752,469,1019,499"/>
+<area shape="rect" id="node34" href="$filterPresentationsCollection_8cpp.html" title="utils/filters/graph/filterPresentationsCollection.cpp" alt="" coords="3939,315,4275,344"/>
+<area shape="rect" id="node36" href="$gainOffsetParametersControlWidget_8cpp.html" title="utils/filters/ui/gainOffsetParametersControlWidget.cpp" alt="" coords="306,237,666,267"/>
+<area shape="rect" id="node42" href="$bitSelectorParametersControlWidget_8cpp.html" title="utils/filters/ui/bitSelectorParametersControlWidget.cpp" alt="" coords="740,237,1106,267"/>
+<area shape="rect" id="node48" href="$sobelParametersControlWidget_8cpp.html" title="utils/filters/ui/sobelParametersControlWidget.cpp" alt="" coords="1802,237,2132,267"/>
+<area shape="rect" id="node54" href="$cannyParametersControlWidget_8cpp.html" title="utils/filters/ui/cannyParametersControlWidget.cpp" alt="" coords="2207,237,2540,267"/>
+<area shape="rect" id="node59" href="$openCVFilterParametersControlWidget_8cpp.html" title="utils/filters/ui/openCVFilterParametersControlWidget.cpp" alt="" coords="1180,237,1556,267"/>
+<area shape="rect" id="node65" href="$backgroundFilterParametersControlWidget_8cpp.html" title="utils/filters/ui/backgroundFilterParametersControlWidget.cpp" alt="" coords="2615,237,3015,267"/>
+<area shape="rect" id="node69" href="$compoundBlockPresentation_8h.html" title="utils/filters/graph/compoundBlockPresentation.h" alt="" coords="3083,160,3408,189"/>
+<area shape="rect" id="node73" href="$filterPresentationsCollection_8h.html" title="utils/filters/graph/filterPresentationsCollection.h" alt="" coords="3090,237,3412,267"/>
+<area shape="rect" id="node80" href="$filterBlockPresentation_8cpp.html" title="utils/filters/graph/filterBlockPresentation.cpp" alt="" coords="3534,160,3835,189"/>
+<area shape="rect" id="node82" href="$g12PinPresentation_8h.html" title="utils/filters/graph/g12PinPresentation.h" alt="" coords="3859,160,4126,189"/>
+<area shape="rect" id="node86" href="$txtPinPresentation_8h.html" title="utils/filters/graph/txtPinPresentation.h" alt="" coords="4150,160,4411,189"/>
+<area shape="rect" id="node89" href="$inputBlockPresentation_8h.html" title="utils/filters/graph/inputBlockPresentation.h" alt="" coords="3802,237,4092,267"/>
+<area shape="rect" id="node92" href="$outputBlockPresentation_8h.html" title="utils/filters/graph/outputBlockPresentation.h" alt="" coords="4116,237,4418,267"/>
+<area shape="rect" id="node71" href="$compoundBlockPresentation_8cpp.html" title="utils/filters/graph/compoundBlockPresentation.cpp" alt="" coords="3436,237,3778,267"/>
+<area shape="rect" id="node75" href="$filterGraphPresentation_8h.html" title="utils/filters/graph/filterGraphPresentation.h" alt="" coords="262,315,552,344"/>
+<area shape="rect" id="node84" href="$filterPinPresentation_8cpp.html" title="utils/filters/graph/filterPinPresentation.cpp" alt="" coords="4442,237,4727,267"/>
+<area shape="rect" id="node98" href="$binarizeParametersControlWidget_8cpp.html" title="utils/filters/ui/binarizeParametersControlWidget.cpp" alt="" coords="4486,160,4832,189"/>
+<area shape="rect" id="node103" href="$inputFilterParametersControlWidget_8cpp.html" title="utils/filters/ui/inputFilterParametersControlWidget.cpp" alt="" coords="4907,160,5264,189"/>
+<area shape="rect" id="node108" href="$maskingParametersControlWidget_8cpp.html" title="utils/filters/ui/maskingParametersControlWidget.cpp" alt="" coords="5339,160,5688,189"/>
+<area shape="rect" id="node113" href="$operationFilterControlWidget_8cpp.html" title="utils/filters/ui/operationFilterControlWidget.cpp" alt="" coords="5763,160,6075,189"/>
+<area shape="rect" id="node115" href="$operationParametersControlWidget_8cpp.html" title="utils/filters/ui/operationParametersControlWidget.cpp" alt="" coords="6099,160,6456,189"/>
+<area shape="rect" id="node120" href="$outputFilterParametersControlWidget_8cpp.html" title="utils/filters/ui/outputFilterParametersControlWidget.cpp" alt="" coords="6531,160,6899,189"/>
+<area shape="rect" id="node125" href="$thickeningParametersControlWidget_8cpp.html" title="utils/filters/ui/thickeningParametersControlWidget.cpp" alt="" coords="6974,160,7334,189"/>
+</map>

@@ -1,0 +1,317 @@
+\form#0:\begin{eqnarray*} \pmatrix{dx \cr dy} &=& \pmatrix{x \cr y} - \pmatrix{x_c \cr y_c} \\ r &=& \sqrt{dx^2 + dy^2} \\ r_{corr} &=& k_1 r^2 + k_2 r^4 \\ \hat{r}_{corr} &=& \sum_{i=1}^{n} k_i r^i \\ \pmatrix{x_{coor}^t \cr y_{coor}^t} &=& \pmatrix{p_1 dx dy + p_2 (r^2 + 2 dx^2)\cr p_1 (r^2 + 2 dy^2) + p_2 dx dy} \\ \pmatrix{x \cr y} &=& \pmatrix{x_0 \cr y_0} + \pmatrix{dx \cr dy} * r_{corr} + \pmatrix{x_{coor}^t \cr y_{coor}^t} \end{eqnarray*}
+\form#1:$p_1$
+\form#2:$p_2$
+\form#3:$(x_c,y_c)$
+\form#4:\[ m = (x, y, z, 1)^T \]
+\form#5:\[ M_{4,4} = R_a R_b R_c\]
+\form#6:$OX$
+\form#7:$OY$
+\form#8:$OZ$
+\form#9:$R_{camera}$
+\form#10:$Rc=R_{yaw}, Rb = R_{pitch}, Ra = R_{roll}$
+\form#11:\[ T_{camera} = \pmatrix{ 1 & 0 & 0 & tx_{camera} \cr 0 & 1 & 0 & ty_{camera} \cr 0 & 0 & 1 & tz_{camera} \cr 0 & 0 & 0 & 1 }\]
+\form#12:\[ M_{4,4} = R_c(\alpha_{yaw}) R_b(\alpha_{pitch}) R_a(\alpha_{roll}) R_{camera} T_{camera}\]
+\form#13:\[ A_{4,4}(t) \]
+\form#14:\[ T_{car} = \pmatrix{ 1 & 0 & 0 & tx_{car} \cr 0 & 1 & 0 & ty_{car} \cr 0 & 0 & 1 & tz_{car} \cr 0 & 0 & 0 & 1 }\]
+\form#15:\[ R_{car} = R_c(\alpha_{frame yaw}) R_b(\alpha_{frame pitch}) R_a(\alpha_{frame roll}) \]
+\form#16:\[ A(1) = R_{car} T_{car} \]
+\form#17:$f = \frac {F_{Focal Length}} {K_{Pixel Size}}$
+\form#18:$(I_x, I_y)$
+\form#19:$K$
+\form#20:\[K = \pmatrix{ f \over k & 0 & I_x & 0 \cr 0 & f \over k & I_y & 0 \cr 0 & 0 & 1 & 0 \cr 0 & 0 & 0 & 1 }\]
+\form#21:$m$
+\form#22:\[ q_0 = K M m\]
+\form#23:\[ q_1 = K M A(1) m\]
+\form#24:\[ D = K M \]
+\form#25:$q_1, q_0$
+\form#26:\[ q_1 = D A(1) D^{-1} q_0 \]
+\form#27:$M$
+\form#28:\[ q_0 = (u_0 d_0, v_0 d_0, d_0, 1) \]
+\form#29:\[ q_1 = (u_1 d_1, v_1 d_1, d_1, 1) \]
+\form#30:$q_i$
+\form#31:\[ B_{4,4} = D A(1) D^{-1} \]
+\form#32:\[ q_1 = B q_0 \]
+\form#33:\[ (u_1 d_1, v_1 d_1, d_1, 1) = B (u_0 d_0, v_0 d_0, d_0, 1)^T \]
+\form#34:\[ B = \pmatrix{ b_{0,0} & b_{0,1} & b_{0,2} & b_{0,3}\cr b_{1,0} & b_{1,1} & b_{1,2} & b_{1,3}\cr b_{2,0} & b_{2,1} & b_{2,2} & b_{2,3}\cr 0 & 0 & 0 & 1 } = \left( \begin{array}{cccc} \multicolumn{4}{c}{B_u} \\ \multicolumn{4}{c}{B_v} \\ \multicolumn{4}{c}{B_w} \\ 0 & 0 & 0 & 1 \end{array} \right) \]
+\form#35:\begin{eqnarray*} u_1 d_1 &=& b_{00} u_0 d_0 + b_{01} v_0 d_0 + b_{02} d_0 + b_{03} \\ v_1 d_1 &=& b_{10} u_0 d_0 + b_{11} v_0 d_0 + b_{12} d_0 + b_{13} \\ d_1 &=& b_{20} u_0 d_0 + b_{21} v_0 d_0 + b_{22} d_0 + b_{23} \end{eqnarray*}
+\form#36:$d_0$
+\form#37:$d_1$
+\form#38:\begin{eqnarray*} T_u &=& b_{00} u_0 + b_{01} v_0 + b_{02} \\ T_v &=& b_{10} u_0 + b_{11} v_0 + b_{12} \\ T_w &=& b_{20} u_0 + b_{21} v_0 + b_{22} \end{eqnarray*}
+\form#39:\begin{eqnarray} u_1 d_1 &=& T_u d_0 + b_{03} \\ v_1 d_1 &=& T_v d_0 + b_{13} \\ d_1 &=& T_w d_0 + b_{23} \end{eqnarray}
+\form#40:$(3)$
+\form#41:$(2)$
+\form#42:\begin{eqnarray*} v_1 (T_w d_0 + b_{23}) &=& T_v d_0 + b_{13} \\ (v_1 T_w - T_v) d_0 &=& b_{13} - v_1 b_{23} \\ d0 &=& - \frac {b_{23} v_1 - b_{13}} {T_w v_1 - T_v} \label{D0v} \end{eqnarray*}
+\form#43:\begin{eqnarray*} d0 &=& - \frac {b_{23} v_1 - b_{03}} {T_w u_1 - T_u} \label{D1v} \end{eqnarray*}
+\form#44:\[ d_1 = d_0 T_w + b_{23} \]
+\form#45:$(1)$
+\form#46:\begin{eqnarray*} b_{00} u_0 d_0 + b_{01} v_0 d_0 + b_{02} d_0 + b_{03} - u_1 d_1 = 0 \\ F_u() = u_1 - {\frac {1} {d_1}} (T_u d_0 + b_{14}) = 0 \end{eqnarray*}
+\form#47:\begin{eqnarray*} b_{10} u_0 d_0 + b_{11} v_0 d_0 + b_{12} d_0 + b_{23} - v_1 d_1 = 0 \\ F_v() = v_1 - {\frac {1} {d_1}} (T_v d_0 + b_{13}) = 0 \end{eqnarray*}
+\form#48:$(u_1,v_1)$
+\form#49:$(u_0,v_0)$
+\form#50:$F_u$
+\form#51:$F_v$
+\form#52:\[ C = \pmatrix{ \frac {\delta F} {\delta \alpha_{yaw}} \cr \frac {\delta F} {\delta \alpha_{pitch}} \cr \frac {\delta F} {\delta C_{Road Curvature}} } \]
+\form#53:$ d_1 $
+\form#54:$ q_1 = K M m_1 = D m_1$
+\form#55:$ m_1$
+\form#56:\[ m_1 = D^{-1} q_1 \]
+\form#57:\[ Ra(\alpha_{roll}) = \pmatrix{ 1 & 0 & 0 & 0\cr 0 & cos(\alpha_{roll}) & -sin(\alpha_{roll}) & 0\cr 0 & sin(\alpha_{roll}) & cos(\alpha_{roll}) & 0\cr 0 & 0 & 0 & 1 } \]
+\form#58:\[ (f * g )(t) = \int_{-\infty}^{\infty} f(\tau)\, g(t - \tau)\, d\tau = \int_{-\infty}^{\infty} f(t-\tau)\, g(\tau)\, d\tau \]
+\form#59:\begin{eqnarray} \sigma^2_w(t)=\omega_1(t)\sigma^2_1(t)+\omega_2(t)\sigma^2_2(t) \\ \omega_1(t)=\sum_{i=min}^t P(i) \\ \omega_2(t)=\sum_{i=t+1}^{max} P(i) \\ \mu_1(t)= {1 \over \omega_1(t)} \sum_{i=min}^t {i P(i)} \\ \mu_2(t)= {1 \over \omega_2(t)} \sum_{i=t+1}^{max} {i P(i)} \\ \sigma^2_1(t) = {1 \over \omega_1(t)} \sum_{i=min}^t {(i - \mu_1(t))^2 P(i)} \end{eqnarray}
+\form#60:\begin{eqnarray} \sigma^2_b(t)=\sigma^2-\sigma^2_w(t)=\omega_1(t)\omega_2(t) (\mu_1(t)-\mu_2(t))^2 \end{eqnarray}
+\form#61:\[ Integ(x,y) = \sum_{i=0, j=0}^{j<x,i<y} I(j,i) \]
+\form#62:\[ \sum_{x=x_0}^{x <= x_1}\sum_{y=y_0}^{y <= y_1} I(x,y) = Integ(x_1 + 1, y_1 + 1) + Integ(x_0, y_0) - Integ(x_1 + 1, y_0) - Integ(x_0, y_1 + 1) \]
+\form#63:\[ \frac { F(x+1,y)-F(x-1,y) } {2} \]
+\form#64:\begin{eqnarray*} V_1 &=& \left( \frac {\delta A(x,y)} {\delta x} \right)^2 \\ V_2 &=& \left( \frac {\delta A(x,y)} {\delta y} \right)^2 \\ V_3 &=& \frac {\delta A(x,y)} {\delta x} \frac {\delta A(x,y)} {\delta y} \end{eqnarray*}
+\form#65:\begin{eqnarray*} B_z &=& {x + z | x \in B}, z \in E \\ A^c &=& {x \in E | x \not \in A} \end{eqnarray*}
+\form#66:\begin{eqnarray*} A \ominus B &=& \{z\in E | B_{z} \subseteq A\} \\ A \ominus B &=& \bigcap_{b\in B} A_{-b} \end{eqnarray*}
+\form#67:\begin{eqnarray*} A \oplus B &=& \bigcup_{b\in B} A_b \\ A \oplus B &=& B\oplus A = \bigcup_{a\in A} B_a \end{eqnarray*}
+\form#68:\begin{eqnarray*} A \circ B = (A \ominus B) \oplus B \end{eqnarray*}
+\form#69:\begin{eqnarray*} A \bullet B &=& (A \oplus B) \ominus B \\ A \bullet B &=& (A^{c} \circ B^{s})^{c} \end{eqnarray*}
+\form#70:\[K = \pmatrix{ f \over k & 0 & I_x & 0 \cr 0 & f \over k & I_y & 0 \cr 0 & 0 & 1 & 0 \cr 0 & 0 & 0 & 1 } \]
+\form#71:\begin{eqnarray*} \pmatrix{dx \cr dy} &=& \pmatrix{x \cr y} - \pmatrix{x_c \cr y_c} \\ r &=& \sqrt{dx^2 + dy^2} \\ r_{corr} &=& k_1 r^2 + k_2 r^4 \\ \pmatrix{x_{coor}^t \cr y_{coor}^t} &=& \pmatrix{p_1 dx dy + p_2 (r^2 + 2 dx^2)\cr p_1 (r^2 + 2 dy^2) + p_2 dx dy} \\ \pmatrix{x \cr y} &=& \pmatrix{x_0 \cr y_0} + \pmatrix{dx \cr dy} * r_{corr} + \pmatrix{x_{coor}^t \cr y_{coor}^t} \end{eqnarray*}
+\form#72:$k_1$
+\form#73:$k_2$
+\form#74:\[ a_x b_x + a_y b_y + a_z b_z \]
+\form#75:\[ v_{result} = \frac v {|v|} \]
+\form#76:$ f: R^n \mapsto R^m$
+\form#77:\[ J= \pmatrix{ \frac{\partial y_1}{\partial x_1} & \cdots & \frac{\partial y_1}{\partial x_n} \cr \vdots & \ddots & \vdots \cr \frac{\partial y_m}{\partial x_1} & \cdots & \frac{\partial y_m}{\partial x_n} } \]
+\form#78:\[ M_{pq}=\int\limits_{-\infty}^{\infty} \int\limits_{-\infty}^{\infty} x^py^qf(x,y) \,dx\, dy \]
+\form#79:\[ M_{pq}=\sum\limits_{-\infty}^{\infty} \sum\limits_{-\infty}^{\infty} x^py^qf(x,y) \,dx\, dy \]
+\form#80:$M_{0,0}$
+\form#81:$\bar{x}=\frac{M_{10}}{M_{00}}$
+\form#82:$\bar{y}=\frac{M_{01}}{M_{00}}$
+\form#83:\[ \mu_{pq} = \int\limits_{-\infty}^{\infty} \int\limits_{-\infty}^{\infty} (x - \bar{x})^p(y - \bar{y})^q f(x,y) \, dx \, dy \]
+\form#84:\[ cov[I(x,y)] = \pmatrix{ \mu'_{20} & \mu'_{11} \cr \mu'_{11} & \mu'_{02} }. \]
+\form#85:\[ cov[I(x,y)] = U \Lambda U^T \]
+\form#86:$\mu'_{11}$
+\form#87:\[ det (\pmatrix{ \mu'_{20} & \mu'_{11} \cr \mu'_{11} & \mu'_{02} } - \lambda I ) = 0 \]
+\form#88:\[ det \pmatrix{ \mu'_{20} - \lambda & \mu'_{11} \cr \mu'_{11} & \mu'_{02} - \lambda } = 0 \]
+\form#89:\begin{eqnarray} (\mu'_{20} - \lambda) (\mu'_{02} - \lambda) - \mu'_{11} \mu'_{11} = 0 \\ \lambda^2 - (\mu'_{20} + \mu'_{02}) \lambda - {\mu'_{11}}^2 + \mu'_{02} * \mu'_{20} = 0 \\ \lambda_{1,2} = \frac { (\mu'_{20} + \mu'_{02}) \pm \sqrt{ (\mu'_{20} + \mu'_{02})^2 - 4 (-{\mu'_{11}}^2 + \mu'_{02} * \mu'_{20})}} {2} \\ \lambda_i = \frac{\mu'_{20} + \mu'_{02}}{2} \pm \frac{\sqrt{4{\mu'}_{11}^2 + ({\mu'}_{20}-{\mu'}_{02})^2 }}{2} \end{eqnarray}
+\form#90:\[ \pmatrix{ \mu'_{20} & \mu'_{11} \cr \mu'_{11} & \mu'_{02} } x = \lambda x \]
+\form#91:\[ \pmatrix{ \mu'_{20} - \lambda & \mu'_{11} \cr \mu'_{11} & \mu'_{02} - \lambda } \pmatrix{ a \cr b} = 0 \]
+\form#92:\begin{eqnarray} (\mu'_{20} - \lambda) a + \mu'_{11} b &=& 0 \\ \mu'_{11} a + (\mu'_{02} - \lambda) b &=& 0 \end{eqnarray}
+\form#93:\[ x = (a,b)^T = \alpha (\mu'_{11}, -(\mu'_{20} - \lambda)) \]
+\form#94:$ R^{dimention} $
+\form#95:\[ \overrightarrow {P(t)} = \overrightarrow {a} *t + \overrightarrow {p} \]
+\form#96:$\overrightarrow {a}$
+\form#97:\[ (\overrightarrow {x} - \overrightarrow {a}) \overrightarrow {n} = 0 \]
+\form#98:$a$
+\form#99:$n$
+\form#100:\[ \overrightarrow {x} \overrightarrow {n} + C = 0\]
+\form#101:\[A x + B y + c = 0\]
+\form#102:$\overrightarrow {(A,B,C)}$
+\form#103:$\overrightarrow {(A,B,C)} \overrightarrow{X} = 0$
+\form#104:$\overrightarrow{(a_1,b_1,c_1)} \vec{x} = 0$
+\form#105:$\overrightarrow{(a_2,b_2,c_2)} \vec{x} = 0$
+\form#106:$\overrightarrow{(a_1,b_1,c_1)} \times \overrightarrow{(a_1,b_1,c_1)}$
+\form#107:$ a x_0 + b y_0 + c $
+\form#108:$d = \frac {\left| a x_0 + b y_0 + c \right|} {\sqrt (a^2 + b^2) }$
+\form#109:\[ \vec n_1 \cdot \vec x + d_1 = 0 \vec n_2 \cdot \vec x + d_2 = 0 \]
+\form#110:\[ P(t) = \vec a t + p \]
+\form#111:\[ a = \vec n_1 \times \vec n_2 \]
+\form#112:\[ p = \frac {(d_2 n_1 - d_1 n_2) \times a } { |a|^2 } \]
+\form#113:\[ P(t) = \vec a t + \vec p \]
+\form#114:\[ \vec n \vec x + d = 0 \]
+\form#115:\[ \vec n (\vec a t + \vec p) + d = 0 \]
+\form#116:\[ t = \frac {\vec n \vec p + d} { \vec n \vec a } \]
+\form#117:$ a x_0 + b y_0 + c z_0 + d $
+\form#118:$d = \frac {\left| a x_0 + b y_0 + c z_0 + d \right|} {\sqrt (a^2 + b^2 + c^2) }$
+\form#119:$d = \frac {(a x_0 + b y_0 + c z_0 + d)^2 } {a^2 + b^2 + c^2}$
+\form#120:$d = \frac {a x_0 + b y_0 + c z_0 + d} {\sqrt (a^2 + b^2 + c^2) }$
+\form#121:\[ \vec R = \vec P - {{\vec n \vec P + d } \over {| \vec n |}}{{\vec n} \over {| \vec n |}}\]
+\form#122:\[ (\vec x - \vec p) \vec n = \vec 0 \]
+\form#123:\[ \vec x \vec n - \vec p \vec n = \vec 0 \]
+\form#124:\[ (\vec x - \vec p)((\vec p - \vec q) \times (\vec p - \vec r)) = 0 \]
+\form#125:\begin{eqnarray*} U &=& \pmatrix{ 1 & u_{01} & u_{02} \cr 0 & 1 & u_{12} \cr 0 & 0 & 1} \\ U^\top &=& \pmatrix{ 1 & 0 & 0 \cr u_{01} & 1 & 0 \cr u_{02} & u_{12} & 1} \\ D &=& \pmatrix{ d_0 & 0 & 0 \cr 0 & d_1 & 0 \cr 0 & 0 & d_2 } \\ A = U D U^\top &=& \pmatrix{ d_2 {u_{02}}^2 + d_1 {u_{01}}^2 + d_0 & d_2 u_{02} u_{12} + d_1 u_{01} & d_2 u_{02} \cr d_2 u_{02} u_{12} + d_1 u_{01} & d_2 {u_{12}}^2+d_1 & d_2 u_{12} \cr d_2 u_{02} & d_2 u_{12} & d_2 } \end{eqnarray*}
+\form#126:\begin{eqnarray*} D_n &=& A_{nn} \\ U_{in} &=& 1, for\quad i = n \\ &=& A_{in} / D_n, otherwize \end{eqnarray*}
+\form#127:\begin{eqnarray*} D_{jj} &=& A_{jj} - \sum_{k=j+1}^n {D_k U_{jk}^2 } \\ U_{ij} &=& 0, for\quad i > j \\ &=& 1, for\quad i = j \\ &=& (A_{ij} - \sum_{k=j+1}^n {D_k U_{jk} U_{ik}} )/ D_n, otherwize \end{eqnarray*}
+\form#128:\[x_{k|k-1} = f(x_{k-1|k-1}, u_{k-1})\]
+\form#129:\[ P_{k|k-1} = F_{k-1} P_{k-1|k-1} F_{k-1}^\top + Q_{k-1} \]
+\form#130:\[ y_{k} = z_{k} - h(x_{k|k-1}) \]
+\form#131:\[ S_{k} = H_{k} P_{k|k-1} H_{k}^\top + R_{k} \]
+\form#132:\[ K_{k} = P_{k|k-1} H_{k}^\top S_{k}^{-1} \]
+\form#133:\[ x_{k|k} = x_{k|k-1} + {K}_{k} y_{k} \]
+\form#134:\[ P_{k|k} = (I - K_{k} H_{k}) P_{k|k-1} \]
+\form#135:\begin{eqnarray*} G &=& \sum_{ x = p_x - w_x}^{p_x + w_x} \sum_{y = p_y - w_y}^{p_y + w_y} \pmatrix{ I_x^2 & I_x I_y \cr I_x I_y & I_y^2 \cr } \\ b &=& \sum_{ x = p_x - w_x}^{p_x + w_x} \sum_{y = p_y - w_y}^{p_y + w_y} \pmatrix{ \delta I I_x \cr \delta I I_y \cr } \\ v_{opt} &=& G^{-1}b \end{eqnarray*}
+\form#136:\[ \pmatrix{ \phi \cr \theta \cr \psi } = \pmatrix{ atan2 (2(q_0 q_1 + q_2 q_3),1 - 2(q_1^2 + q_2^2)) \cr arcsin (2(q_0 q_2 - q_3 q_1)) \cr atan2 (2(q_0 q_3 + q_1 q_2),1 - 2(q_2^2 + q_3^2)) } \]
+\form#137:$ F: R^n \mapsto R^m$
+\form#138:\[ f(x, y) = (1-x)^2 + 100(y-x^2)^2 \]
+\form#139:\[ (J^T J + \lambda diag(J^T J)) \delta = J^T [y_{target} - f(\beta)] \]
+\form#140:\[ M = \pmatrix { v_1 & 0 & \cdots & 0 \cr 0 & v_2 & \cdots & 0 \cr \vdots & \vdots & \ddots & \vdots \cr 0 & 0 & \cdots & v_n } \]
+\form#141:$(x,y)$
+\form#142:$(u,v)$
+\form#143:\[ P=\pmatrix{ a_{00} & a_{01} & a_{02}\cr a_{10} & a_{11} & a_{12}\cr a_{20} & a_{21} & 1 } \]
+\form#144:\[ u = \frac {a_{00} x + a_{01} y + a_{02}} {a_{20} x + a_{21} y + 1} \]
+\form#145:\[ v = \frac {a_{10} x + a_{11} y + a_{12}} {a_{20} x + a_{21} y + 1} \]
+\form#146:\[ \pmatrix{ x & y & 1 & 0 & 0 & 0 & -x u & -y u \cr 0 & 0 & 0 & x & y & 1 & -x v & -y v } \pmatrix{ a_{00} \cr a_{01} \cr a_{02} \cr a_{10} \cr a_{11} \cr a_{12} \cr a_{20} \cr a_{21} } = \pmatrix{ u \cr v } \]
+\form#147:$ A u + B v + C = 0 $
+\form#148:\[ A u + B v + C = 0 \]
+\form#149:\[ A \frac {a_{00} x + a_{01} y + a_{02}} {a_{20} x + a_{21} y + 1} + B \frac {a_{10} x + a_{11} y + a_{12}} {a_{20} x + a_{21} y + 1} + C = 0 \]
+\form#150:\[ A ({a_{00} x + a_{01} y + a_{02}}) + B ({a_{10} x + a_{11} y + a_{12}}) + C ({a_{20} x + a_{21} y + 1}) = 0 \]
+\form#151:\[ \pmatrix{ Ax & Ay & A & Bx & By & B & C x & C y } \pmatrix{ a_{00} \cr a_{01} \cr a_{02} \cr a_{10} \cr a_{11} \cr a_{12} \cr a_{20} \cr a_{21} } = \pmatrix{ -C } \]
+\form#152:\[ Ax = B \]
+\form#153:$I^{-1}$
+\form#154:\[ M = \pmatrix { value & 0 & \cdots & 0 & 0 \cr 0 & value & \cdots & 0 & 0 \cr \vdots & \vdots & \ddots & \vdots & \vdots \cr 0 & 0 & \cdots & value & 0 } \]
+\form#155:$M^\top$
+\form#156:$M := M \alpha$
+\form#157:$M := M {\frac 1 \alpha}$
+\form#158:$M := -M$
+\form#159:\[ I^{-1} = \frac 1 {|I|} \pmatrix{ M_{1,1} && \cdots } \]
+\form#160:\[ P=\pmatrix{ 1 & 0 & 0\cr 0 & cos(\alpha) & sin(\alpha)\cr 0 & -sin(\alpha) & cos(\alpha)} \]
+\form#161:\[ P=\pmatrix{ cos(\alpha) & 0 & sin(\alpha)\cr 0 & 1 & 0\cr -sin(\alpha) & 0 & cos(\alpha)} \]
+\form#162:\[ P=\pmatrix{ cos(\alpha) & sin(\alpha) & 0\cr -sin(\alpha) & cos(\alpha) & 0\cr 0 & 0 & 1} \]
+\form#163:\[ R = \pmatrix{ u_x^2+(1-u_x^2)c & u_x u_y(1-c)-u_zs & u_x u_z(1-c)+u_ys \cr u_x u_y(1-c)+u_zs & u_y^2+(1-u_y^2)c & u_y u_z(1-c)-u_xs \cr u_x u_z(1-c)-u_ys & u_y u_z(1-c)+u_xs & u_z^2+(1-u_z^2)c } \]
+\form#164:\[ P=\pmatrix{ x & 0 & 0\cr 0 & y & 0\cr 0 & 0 & 1} \]
+\form#165:\[ P=\pmatrix{ 1 & 0 & 0\cr 0 & 1 & 0\cr px & py & 1} \]
+\form#166:\[ P=\pmatrix{ 1 & 0 & x\cr 0 & 1 & y\cr 0 & 0 & 1} \]
+\form#167:\[ \mathbf{a} \times \mathbf{b} = [\mathbf{b}]_{\times} \mathbf{a} \]
+\form#168:\[ \mathbf{a} \times \mathbf{b} = [\mathbf{a}]_{\times} \mathbf{b} \]
+\form#169:$\overrightarrow{A}^T \overrightarrow{B}$
+\form#170:\[ P=\pmatrix{ A_x B_x & A_x B_y & A_x B_z \cr A_y B_x & A_y B_y & A_y B_z \cr A_z B_x & A_z B_y & A_z B_z } \]
+\form#171:$(x_i,y_i)$
+\form#172:$(u_i,v_i)$
+\form#173:\[ P=\pmatrix{ a_{00} & a_{01} & a_{0,2}\cr a_{10} & a_{11} & a_{1,2}\cr a_{20} & a_{21} & 1 } \]
+\form#174:\[ u_i = \frac {a_{00} x_i + a_{01} y_i + a_{02}} {a_{20} x_i + a_{21} y_i + a_{22}} \]
+\form#175:\[ v_i = \frac {a_{10} x_i + a_{11} y_i + a_{12}} {a_{20} x_i + a_{21} y_i + a_{22}} \]
+\form#176:\[ \pmatrix{ x_0 & y_0 & 1 & 0 & 0 & 0 & -x_0 u_0 & -y_0 u_0 \cr x_1 & y_1 & 1 & 0 & 0 & 0 & -x_1 u_1 & -y_1 u_1 \cr x_2 & y_2 & 1 & 0 & 0 & 0 & -x_2 u_2 & -y_2 u_2 \cr x_3 & y_3 & 1 & 0 & 0 & 0 & -x_3 u_3 & -y_3 u_3 \cr 0 & 0 & 0 & x_0 & y_0 & 1 & -x_0 v_0 & -y_0 v_0 \cr 0 & 0 & 0 & x_1 & y_1 & 1 & -x_1 v_1 & -y_1 v_1 \cr 0 & 0 & 0 & x_2 & y_2 & 1 & -x_2 v_2 & -y_2 v_2 \cr 0 & 0 & 0 & x_3 & y_3 & 1 & -x_3 v_3 & -y_3 v_3 } * \pmatrix{ a_{00} \cr a_{01} \cr a_{02} \cr a_{10} \cr a_{11} \cr a_{12} \cr a_{20} \cr a_{21} } = \pmatrix{ u_0 \cr u_1 \cr u_2 \cr u_3 \cr v_0 \cr v_1 \cr v_2 \cr v_3 } \]
+\form#177:\[ P=\pmatrix{ a_{1,1} & a_{1,2} & a_{1,3}\cr a_{2,1} & a_{2,2} & a_{2,3}\cr a_{3,1} & a_{3,2} & a_{3,3}} \]
+\form#178:\[ P=\pmatrix{ a_{0,0} & a_{0,1} & a_{0,2}\cr a_{1,0} & a_{1,1} & a_{1,2}\cr a_{2,0} & a_{2,1} & a_{2,2} } \]
+\form#179:\[ P=\pmatrix{ V_1\cr V_2\cr V_3} \]
+\form#180:\[ P=\pmatrix{ W_1 & W_2 & W_3 } \]
+\form#181:\[ P=\pmatrix{ _A & 0 & 0 \cr 0 & _A & 0 \cr 0 & 0 & _A} \]
+\form#182:$M \overrightarrow{v}$
+\form#183:$\overrightarrow{v} M$
+\form#184:\begin{eqnarray*} Y &=& M \pmatrix{ V_x \cr V_y \cr 1 } \\ V_{out} &=& ({\frac {Y_x} {Y_z}}, {\frac {Y_y} {Y_z}}) \end{eqnarray*}
+\form#185:$V_{out}$
+\form#186:\begin{eqnarray*} Y &=& (V_x, V_y, 1) M \\ V_{out} &=& ({\frac {Y_x} {Y_z}}, {\frac {Y_y} {Y_z}}) \end{eqnarray*}
+\form#187:\[ P=\pmatrix{ 1 & 0 & 0 & 0 \cr 0 & 1 & 0 & 0 \cr 0 & 0 & 1 & 0 \cr 0 & 0 & 1 & 0 } \]
+\form#188:\[ \left( \begin{array}{ccc|c} \multicolumn{3}{c|}{\multirow{3}{*}{I}} & x \\ & & & y \\ & & & z \\ \hline 0 & 0 & 0 & 1 \end{array} \right) \]
+\form#189:\[ \|A\|_F = \sqrt{\sum_{i=1}^m\sum_{j=1}^n |a_{ij}|^2}= \sqrt{tr(A^* A)} = \sqrt{\sum_{i=1}^{\min\{m,\,n\}} \sigma_{i}^2} \]
+\form#190:\[ P=\pmatrix{ a_{0,0} & a_{0,1} & a_{0,2} & a_{0,3} \cr a_{1,0} & a_{1,1} & a_{1,2} & a_{1,3} \cr a_{2,0} & a_{2,1} & a_{2,2} & a_{2,3} \cr a_{3,0} & a_{3,1} & a_{3,2} & a_{3,3}} \]
+\form#191:\[ \left( \begin{array}{ccc|c} \multicolumn{3}{c|}{\multirow{3}{*}{M}} & x \\ & & & y \\ & & & z \\ \hline 0 & 0 & 0 & 1 \end{array} \right) \]
+\form#192:\[ P=\pmatrix{ d & 0 & 0 & 0 \cr 0 & d & 0 & 0 \cr 0 & 0 & d & 0 \cr 0 & 0 & 0 & d } \]
+\form#193:\[ (t_1 t_2 - x_1 x_2 - y_1 y_2 - z_1 z_2, t_1 x_2 + x_1 t_2 + y_1 z_2 - z_1 y_2, t_1 y_2 + x_1 z_2 + y_1 t_2 - z_1 x_2, t_1 z_2 + x_1 y_2 + y_1 x_2 - z_1 t_2) \]
+\form#194:\[ \begin{array}{cccc} a_0 & a_1 & a_2 & a_3 \\ \hline \sqrt a_0 & \sqrt a_1 & \sqrt a_2 & \sqrt a_3 \end{array} \]
+\form#195:\[ \begin{array}{cccc} a_0 & a_1 & a_2 & a_3 \\ \hline [ a_0 ] & [ a_1 ] & [ a_2 ] & [ a_3 ] \end{array} \]
+\form#196:$SAD(left,right) = \sum_{i=0}^{N}|left(i)-right(i)|$
+\form#197:\[ V \times U = \left| \begin{array}{ccc} i & j & k \\ \hline V_x & V_y & V_z \\ U_x & U_y & U_z \\ \end{array} \right| \]
+\form#198:\[ V \times U\]
+\form#199:\[ (A_1 + B_1, A_2 + B_2, \dots A_n + B_n) \]
+\form#200:\[ (A_1 - B_1, A_2 - B_2, \dots A_n - B_n) \]
+\form#201:\[ (A_1 * B_1, A_2 * B_2, \dots A_n * B_n) \]
+\form#202:\[ (A_1 / B_1, A_2 / B_2, \dots A_n / B_n) \]
+\form#203:\[ (A_1 * c, A_2 * c, \dots A_n * c) \]
+\form#204:\[ (A_1 / c, A_2 / c, \dots A_n / c) \]
+\form#205:\[\sum_{i=0}^n {V1_i V2_i}\]
+\form#206:\[\sum_{i=0}^n {V_i}\]
+\form#207:\[\prod_{i=0}^n {V_i}\]
+\form#208:\[\sum_{i=0}^n {V_i^2}\]
+\form#209:\[D = \sqrt{\sum_{i=0}^n {V_i^2}} \]
+\form#210:\[V := V \over {\|V_i\|} \]
+\form#211:\[W = V \over {\|V_i\|} \]
+\form#212:\[ \|V_i\|_1 = \sum_{i=0}^n {\|V_i\|}\]
+\form#213:\[ \|V_i\|_{\inf} = max ({\|V_i\|})\]
+\form#214:\[V := -V\]
+\form#215:\[ low_{i} \le this_{i} \le high_{i} \]
+\form#216:\[ \pmatrix{ x & y & 1 } \pmatrix{ F_{1,1} & F_{1,2} & F_{1,3}\cr F_{2,1} & F_{2,2} & F_{2,3}\cr F_{3,1} & F_{3,2} & F_{3,3}} \pmatrix{ x' \cr y' \cr 1} = \pmatrix{ 0 \cr 0 \cr 0} \]
+\form#217:\[ F_{1,1} x x' + F_{1,2} x y' + F_{1,3} x + F_{2,1} y x' + F_{2,2} y y' + F_{2,3} y + F_{3,1} x' + F_{3,2} y' + F_{3,3} = 0 \]
+\form#218:\[ \left( \begin{array}{ccccccccc} x_1 x_1' & x_1 y_1' & x_1 & y_1 x_1' & y_1 y_1' & y_1 & x_1' & y_1' & 1 \\ \multicolumn{9}{c}{\cdots} \\ x_n x_n' & x_n y_n' & x_n & y_n x_n' & y_n y_n' & y_n & x_n' & y_n' & 1 \end{array} \right ) \pmatrix{ F_{1,1} \cr F_{1,2} \cr F_{1,3} \cr F_{2,1} \cr F_{2,2} \cr F_{2,3} \cr F_{3,1} \cr F_{3,2} \cr F_{3,3} } = \vec 0 \]
+\form#219:\[ (x_{2}, y_{2}, z_{2}) = T R (x_{2}, y_{2}, z_{2})^T \]
+\form#220:$\pmatrix{ x & y & 1 }$
+\form#221:$n_1$
+\form#222:$n_2$
+\form#223:$t$
+\form#224:$x_1$
+\form#225:$x_2$
+\form#226:\[ x_1 - x_2 = t \]
+\form#227:\[ s_1 n_1 - s_2 n_2 = t \]
+\form#228:\[ s_1 n_1 - s_2 n_2 + z [n_1 \times n_2] = t \]
+\form#229:$[n_1 \times n_2]$
+\form#230:$d_2$
+\form#231:$z$
+\form#232:\[ ||x_1|| = \frac{||n_2 \times t||}{||n_1 \times n_2||}, \]
+\form#233:\[ ||x_2|| = \frac{||n_1 \times t||}{||n_1 \times n_2||}, \]
+\form#234:\[ z = (t, [\times n_1 \times n_2]). \]
+\form#235:\[ \pmatrix{ x & y & 1 } \pmatrix{ F_{1,1} & F_{1,2} & F_{1,3}\cr F_{2,1} & F_{2,2} & F_{2,3}\cr F_{3,1} & F_{3,2} & F_{3,3} } = \pmatrix{ ep_x & ep_y & ep_z } \]
+\form#236:\[ \pmatrix{ ep_x & ep_y & ep_z } \pmatrix{ x' \cr y' \cr 1} = \pmatrix{ 0 \cr 0 \cr 0} \]
+\form#237:$ax' + by' + c = 0$
+\form#238:\[ D = \frac{\left | a x' + b y' + c \right |}{\sqrt{a^2+b^2}}. \]
+\form#239:\[ 2 E E^T E - tr ( E E^T ) E = 0 . \]
+\form#240:\[ \left| [ 2 E E^T E - tr ( E E^T ) E \right|_F \]
+\form#241:\[ [t]_{\times} R \]
+\form#242:\[ E = [t]_xR \]
+\form#243:$[t]_x$
+\form#244:$t=(t_1,t_2,t_3)$
+\form#245:\[ [t]_x = \pmatrix{ 0 & -t_3 & t_2\cr t_3 & 0 & -t_1\cr -t_2 & t_1 & 0 } \]
+\form#246:$t\times b = [t]_x b$
+\form#247:\[ E = U\Sigma V^T \]
+\form#248:$ 3 \times 3 $
+\form#249:$\Sigma$
+\form#250:\[ \Sigma = \pmatrix{ s & 0 & 0 \cr 0 & s & 0 \cr 0 & 0 & 0 } \]
+\form#251:\[ W = \pmatrix{ 0 & -1 & 0 \cr 1 & 0 & 0 \cr 0 & 0 & 1 } \]
+\form#252:$ W^{-1} = W^{T} = \ \pmatrix{ 0 & 1 & 0 \cr -1 & 0 & 0 \cr 0 & 0 & 1 } $
+\form#253:\[ [t]_x = U \, \Sigma \, W \, U^{T} \]
+\form#254:\[ R = U \, W^{-1} \, V^{T} \]
+\form#255:\[ e_1 F = 0 \]
+\form#256:\[ F e_2 = 0 \]
+\form#257:\[ \pmatrix{ E1_x & E1_y & E1_z} \pmatrix{ F_{1,1} & F_{1,2} & F_{1,3}\cr F_{2,1} & F_{2,2} & F_{2,3}\cr F_{3,1} & F_{3,2} & F_{3,3}} = \pmatrix{ 0 \cr 0 \cr 0} \]
+\form#258:\[ \pmatrix{ F_{1,1} & F_{1,2} & F_{1,3}\cr F_{2,1} & F_{2,2} & F_{2,3}\cr F_{3,1} & F_{3,2} & F_{3,3}} \pmatrix{ E2_x \cr E2_y \cr E2_z} = \pmatrix{ 0 \cr 0 \cr 0} \]
+\form#259:\[ {p'}^T F p = 0 \]
+\form#260:$p$
+\form#261:$p'$
+\form#262:$q$
+\form#263:$q'$
+\form#264:\[ {q'}^T I_{\times} q = 0,~~where~~I_{\times} = \pmatrix { 0 & 0 & 0 \cr 0 & 0 & -1 \cr 0 & 1 & 0 } \]
+\form#265:\[ F = H_{1}^T I_{\times} H_{2} \]
+\form#266:\[ {p'}^T H_{1}^T I_{\times} H_{2} p = 0 \]
+\form#267:\[ {\underbrace{(H_{1} p')}_{q'}}^T I_{\times} \underbrace{(H_{2} p)}_{q} = 0 \]
+\form#268:\[ H_{1} = R' P' ~~ and ~~ H_{2} = R P \]
+\form#269:\[ F = (R' P')^T I_{\times} R P \]
+\form#270:$E_1$
+\form#271:$F$
+\form#272:$E_2$
+\form#273:\[ w^{3D}_1 = z \times {E_1} \]
+\form#274:\[ w^{3D}_2 = F z \]
+\form#275:$w^{3D}_1$
+\form#276:$w^{3D}_2$
+\form#277:$a=\alpha z + \beta {E_1} $
+\form#278:\[ F = {\left( \pmatrix { {w_2}_y f_{22} - f_{12} & f_{02} - {w_2}_x f_{22} & 0 \cr {w_2}_x f_{22} - f_{02} & {w_2}_y f_{22} - f_{12} & 0 \cr 0 & 0 & 1 } \pmatrix { 1 & 0 & 0 \cr 0 & 1 & 0 \cr {w_1}_x & {w_1}_y & 1 } \right)}^T \pmatrix { 0 & 0 & 0 \cr 0 & 0 & -1 \cr 0 & 1 & 0 } \pmatrix { f_{21} - {w_1}_y f_{22} & {w_1}_x f_{22} - f_{20} & 0 \cr f_{20} - {w_1}_x f_{22} & f_{21} - {w_1}_y f_{22} & f_{22} \cr 0 & 0 & 1 } \pmatrix { 1 & 0 & 0 \cr 0 & 1 & 0 \cr {w_2}_x & {w_2}_y & 1 } \]
+\form#279:\[ {R'}^T I_{\times} R = \pmatrix{ 0 & 0 & f_{02} - f_{22} {w_2}_x \cr 0 & 0 & f_{12} - f_{22} {w_2}_y \cr f_{20}-f_{22} {w_1}_x & f_{21} - f_{22} {w_1}_y & f_{22}} \]
+\form#280:\begin{eqnarray*} {p'}^T F p &=& 0 \\ q' &=& A p' \\ q &=& B p \\ {q'}^T G q &=& (A p')^T G B p = {p'}^T A^T G B p\\ G &=& {A^T}^{-1} F B^{-1} \end{eqnarray*}
+\form#281:\[ G = {A^T}^{-1} F B^{-1} = {A^T}^{-1} H_{1}^T I_x H_{2} B^{-1} \]
+\form#282:\[ G = \underbrace{{A^T}^{-1} H_{1}^T}_{H_{G1}^T} I_x \underbrace{H_{2} B^{-1}}_{H_{G2}} \]
+\form#283:\begin{eqnarray*} H_{G1} &=& ({A^T}^{-1} H_{1}^T)^T = H_{1} A^{-1} \\ H_{G2} &=& H_{2} B^{-1} \\ H_{G1}^{-1} &=& A H_{1}^{-1} \\ H_{G2}^{-1} &=& B H_{2}^{-1} \end{eqnarray*}
+\form#284:$H_{1}$
+\form#285:$H_{2}$
+\form#286:$(x_0, y_0, z_0)$
+\form#287:$R$
+\form#288:$(0, 0, -R)$
+\form#289:$r_0$
+\form#290:$(x_1, y_1, z_1)$
+\form#291:$dist((x_0, y_0, z_0), (0, 0, -R)) * dist((x_1, y_1, z_1), (0, 0, -R)) = r_0 ^ 2 $
+\form#292:$(x_0, y_0, z_0) \in B((0, 0, 0), R)$
+\form#293:$z_0 = \sqrt(R ^ 2 - x_0 ^ 2 - y_0 ^ 2) $
+\form#294:$\sqrt(x_0 ^ 2 + y_0 ^ 2 + (\sqrt{R ^ 2 - x_0 ^ 2 - y_0 ^ 2} + R) ^ 2) * \sqrt(x_1 ^ 2 + y_1 ^2 + (z_1 + R) ^ 2) = r_0 ^ 2$
+\form#295:$(x_1, y_1, z_1) = (x_0 * a, y_0 * a, - R + a *(z_0 + R))$
+\form#296:$\sqrt{2 * R ^ 2 + 2 * R * \sqrt{R ^ 2 - x_0 ^ 2 - y_0 ^ 2}} * \sqrt{(a*x_0) ^2 + (a * y_0) ^ 2 + (a * (z_0 + R)) ^ 2} = r_0 ^ 2$
+\form#297:$ \left | a \right | *(2 * R ^ 2 + 2 * R * (R ^ 2 - x_0 ^ 2 - y_0 ^ 2)) = r_0^2$
+\form#298:$(C * x_0 \over {R + \sqrt{R ^ 2 - x_0 ^ 2 - y_0 ^ 2}}, C * y_0 \over {R + \sqrt{R ^ 2 - x_0 ^ 2 - y_0 ^ 2}}, C * z_0 \over {R + \sqrt{R ^ 2 - x_0 ^ 2 - y_0 ^ 2}})$
+\form#299:$C$
+\form#300:$C = R + \sqrt{R ^ 2 - 0. 25 * (image_w ^ 2 + image_h ^ 2)}$
+\form#301:$R ^ 2 < 0. 25 * (image_w ^ 2 + image_h ^ 2)$
+\form#302:$(x_0, y_0)$
+\form#303:$(x_0 * C \over {R + \sqrt{R ^ 2 - x_0 ^ 2 - y_0 ^ 2}}, y_0 * C \over {R + \sqrt{R ^ 2 - x_0 ^ 2 - y_0 ^ 2}} )$
+\form#304:$(x_2, y_2, z_2)$
+\form#305:$(x_3, y_3, z_3)$
+\form#306:$(x_i, y_i)$
+\form#307:$x_i ^ 2 + y_i ^2 + z_i ^ 2 = R ^ 2$
+\form#308:$A * x_i + B * y_i + C * z_i + D = 0$
+\form#309:$A * 0 + B * 0 - R * C + D = 0$
+\form#310:$C = 1$
+\form#311:$D = R$
+\form#312:$A * x_i + B * y_i + \sqrt(R^2 -x_i^2 - y_i ^2) + R = 0$
+\form#313:$i=1,2,3$
+\form#314:$R = 500$
+\form#315:$A = {y_1 * (R + \sqrt{R ^ 2 - x_2 ^ 2 - y_2 ^ 2}) - y_2 * (R + \sqrt{R ^ R - x_1 * x_1 - y_1 * y_1})} \over {x_1 * y_2 - x_2 * y_1}$
+\form#316:$B = - {x_1 * (R + \sqrt{R * R - x_2 ^ 2 - y_2 ^ 2}) - x_2 * (R + \sqrt{ R * R - x_1 ^ 2 - y_1 ^ 2})} \over {x_1 * y_2 - x_2 * y_1}$

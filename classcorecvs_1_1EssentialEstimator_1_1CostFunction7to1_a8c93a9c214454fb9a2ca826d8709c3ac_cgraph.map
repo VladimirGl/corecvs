@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1EssentialMatrix.html#ae342cbde213342e31537d48ed0103f93" title="The inliers calculation is as follows: ." alt="" coords="429,87,720,116"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1Matrix33.html#a9eb3a36d48aa0b715f5302febf79ea06" title="corecvs::Matrix33::mulBy2dLeft" alt="" coords="769,59,991,88"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Line2d.html#aaa37e276ada53bd9ba9a91d08d3cc0dd" title="corecvs::Line2d::distanceTo" alt="" coords="783,139,977,168"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="1105,5,1255,35"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="1105,59,1255,88"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1VectorOperationsBase.html#acfcd4bcc60d1d076b00afcfeba9f9e8b" title="Euclidean distance." alt="" coords="1040,112,1320,141"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Line2d.html#af2129b77f7bfa024b387a8d958deb1b3" title="corecvs::Line2d::normal" alt="" coords="1369,164,1543,193"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Line2d.html#a3b0cea19b23ecca90c69a7efe83ceb4c" title="corecvs::Line2d::pointWeight" alt="" coords="1079,216,1281,245"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1Line2d.html#a04ce9e0c5d9195027ec0fcc8093b8289" title="corecvs::Line2d::last" alt="" coords="1380,217,1532,247"/>
+</map>

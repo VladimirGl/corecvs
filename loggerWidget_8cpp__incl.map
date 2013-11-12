@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$loggerWidget_8h.html" title="loggerWidget.h" alt="" coords="355,83,472,112"/>
+<area shape="rect" id="node9" href="$log_8h.html" title="This class will be used for logging." alt="" coords="495,160,548,189"/>
+<area shape="rect" id="node29" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="816,315,888,344"/>
+<area shape="rect" id="node33" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="939,237,1061,267"/>
+<area shape="rect" id="node42" href="$atomicOps_8h.html" title="atomicOps.h" alt="" coords="1165,315,1267,344"/>
+</map>

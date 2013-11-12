@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classStatisticsDialog.html#a7e911624fef1046e2207d3b0715373af" title="StatisticsDialog::redrawCaptureStats" alt="" coords="284,5,540,35"/>
+<area shape="rect" id="node5" href="$classStatisticsDialog.html#a813431dc2e4f3bdcc215b0756fe8c547" title="StatisticsDialog::redrawStats" alt="" coords="309,59,515,88"/>
+<area shape="rect" id="node7" href="$classQtStatisticsCollector.html#ac8189d8a53ba3d8897c3f1a8a851a578" title="QtStatisticsCollector::printForQT" alt="" coords="589,59,816,88"/>
+</map>

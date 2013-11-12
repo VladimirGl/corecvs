@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMjpegDecoderLazy.html#a30a98c2cc798d9b7ed6766920b9028d5" title="Construct the huffman lookup tables form the length and values." alt="" coords="301,5,541,35"/>
+<area shape="rect" id="node5" href="$classMjpegDecoderLazy_1_1StreamParser.html#a38092f508a89784e2493064cb81c3b60" title="MjpegDecoderLazy::StreamParser::getbyte" alt="" coords="275,59,568,88"/>
+<area shape="rect" id="node7" href="$classMjpegDecoderLazy_1_1StreamParser.html#abd5c0a33a08c8f62c6fee34399cb9cdb" title="MjpegDecoderLazy::StreamParser::getword" alt="" coords="273,112,569,141"/>
+</map>

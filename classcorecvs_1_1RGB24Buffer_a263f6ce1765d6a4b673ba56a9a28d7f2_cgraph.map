@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1RGB24Buffer.html#a196a513657c7398482eed191cfca6089" title="This function is used to draw a pixel in the buffer." alt="" coords="291,32,517,61"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="579,5,811,35"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1AbstractBuffer.html#af38950daefa219f81a0e89ee186075f1" title="Checks if coordinate lies within the buffer area." alt="" coords="567,59,823,88"/>
+</map>

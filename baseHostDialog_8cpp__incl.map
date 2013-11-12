@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" id="node19" href="$log_8h.html" title="This class will be used for logging." alt="" coords="437,83,490,112"/>
+<area shape="rect" id="node42" href="$baseHostDialog_8h.html" title="baseHostDialog.h" alt="" coords="2725,83,2858,112"/>
+<area shape="rect" id="node95" href="$g12Image_8h.html" title="g12Image.h" alt="" coords="3727,160,3826,189"/>
+<area shape="rect" id="node98" href="$cloudViewDialog_8h.html" title="cloudViewDialog.h" alt="" coords="1655,160,1791,189"/>
+<area shape="rect" id="node104" href="$graphPlotDialog_8h.html" title="graphPlotDialog.h" alt="" coords="1455,83,1589,112"/>
+<area shape="rect" id="node107" href="$textLabelWidget_8h.html" title="textLabelWidget.h" alt="" coords="4119,83,4255,112"/>
+<area shape="rect" id="node109" href="$propertyListVisitor_8h.html" title="Add Comment Here." alt="" coords="974,83,1123,112"/>
+<area shape="rect" id="node116" href="$foldableWidget_8h.html" title="foldableWidget.h" alt="" coords="4279,83,4405,112"/>
+<area shape="rect" id="node118" href="$parametersMapperBase_8h.html" title="parametersMapper/parametersMapperBase.h" alt="" coords="3343,83,3658,112"/>
+<area shape="rect" id="node124" href="$linuxMemoryUsageCalculator_8h.html" title="linuxMemoryUsageCalculator.h" alt="" coords="4429,83,4647,112"/>
+<area shape="rect" id="node126" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="4671,83,4855,112"/>
+<area shape="rect" id="node128" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="3783,83,3965,112"/>
+<area shape="rect" id="node133" href="$painterHelpers_8h.html" title="Add Comment Here." alt="" coords="1289,83,1417,112"/>
+<area shape="rect" id="node137" href="$configManager_8h.html" title="configManager.h" alt="" coords="5141,83,5266,112"/>
+<area shape="rect" id="node37" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1310,237,1382,267"/>
+<area shape="rect" id="node39" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="997,160,1119,189"/>
+<area shape="rect" id="node61" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="3467,237,3558,267"/>
+<area shape="rect" id="node64" href="$propertyList_8h.html" title="Add Comment Here." alt="" coords="711,160,821,189"/>
+<area shape="rect" id="node71" href="$aboutDialog_8h.html" title="aboutDialog.h" alt="" coords="2381,160,2490,189"/>
+<area shape="rect" id="node73" href="$capSettingsDialog_8h.html" title="capSettingsDialog.h" alt="" coords="3250,160,3399,189"/>
+<area shape="rect" id="node76" href="$baseCalculationThread_8h.html" title="baseCalculationThread.h" alt="" coords="3423,160,3602,189"/>
+<area shape="rect" id="node81" href="$statisticsDialog_8h.html" title="statisticsDialog.h" alt="" coords="1866,160,1997,189"/>
+<area shape="rect" id="node84" href="$baseParametersControlWidget_8h.html" title="baseParametersControlWidget.h" alt="" coords="3901,160,4127,189"/>
+<area shape="rect" id="node87" href="$presentationParametersControlWidget_8h.html" title="presentationParametersControlWidget.h" alt="" coords="4151,160,4429,189"/>
+<area shape="rect" id="node90" href="$rectifyParametersControlWidget_8h.html" title="rectifyParametersControlWidget.h" alt="" coords="2071,160,2306,189"/>
+<area shape="rect" id="node93" href="$pointsRectificationWidget_8h.html" title="pointsRectificationWidget.h" alt="" coords="2514,160,2706,189"/>
+</map>

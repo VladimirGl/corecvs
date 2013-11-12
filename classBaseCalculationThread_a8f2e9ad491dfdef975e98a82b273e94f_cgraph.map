@@ -1,0 +1,45 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classResultImage.html#aad214bc2bd6a5325054064e2366b9418" title="ResultImage::addLayer" alt="" coords="357,246,523,275"/>
+<area shape="rect" id="node5" href="$classBaseCalculationThread.html#a93b6c05bc3b19216062a3fd10a93328e" title="BaseCalculationThread::executeFilterGraph" alt="" coords="292,299,588,329"/>
+<area shape="rect" id="node46" href="$classFrames.html#a574575a77ec087df67dd270caa832edc" title="Frames::getCurrentFrame" alt="" coords="735,561,921,590"/>
+<area shape="rect" id="node56" href="$classAbstractCalculationThread.html#a0947cebe1b8817e7e50cb02f88ed9070" title="Pauses calculation." alt="" coords="287,614,593,643"/>
+<area shape="rect" id="node60" href="$classBaseCalculationThread.html#af97f32c53fc3d1c35096355aeafdc146" title="As the transformation procedure uses the inverse of the transformation matrix We first apply the rect..." alt="" coords="297,687,583,717"/>
+<area shape="rect" id="node78" href="$classResultImage.html#aa44d0461a1c0cbc6e35e9de79d43d79f" title="ResultImage::setHeight" alt="" coords="355,781,525,810"/>
+<area shape="rect" id="node82" href="$classResultImage.html#ab9f6acead1b4e72296be30bf3758a6f2" title="ResultImage::setWidth" alt="" coords="359,914,521,943"/>
+<area shape="rect" id="node86" href="$classBaseCalculationThread.html#ab0bfc02f4fbca0058d67ad8065741514" title="BaseCalculationThread::transformInputFrames" alt="" coords="281,507,599,537"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1FilterGraph.html#ab9173ee808d55ff575f277344f17c233" title="corecvs::FilterGraph::clearAllData" alt="" coords="712,299,944,329"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1TransformationCache.html#a0f75f9a05bb80f0e909ff8481a61093f" title="corecvs::TransformationCache::doDeformation" alt="" coords="669,353,987,382"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1AbstractContiniousBuffer.html#a34af819499a45b5dd52fefdbddefe33d" title="This function template is responsible for applying reverse transformation to the abstract buffer..." alt="" coords="1057,406,1460,435"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1FilterGraph.html#a68df2c335540e6aa1c120691b9704514" title="corecvs::FilterGraph::execute" alt="" coords="725,193,931,222"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1PreciseTimer.html#af4f2392d369963a6786d28754d626d1b" title="corecvs::PreciseTimer::usecsToNow" alt="" coords="1136,87,1381,117"/>
+<area shape="rect" id="node48" href="$classInputFilterParameters.html#afe37f5b054ed4476f88fd15003523a17" title="InputFilterParameters::inputType" alt="" coords="715,86,941,115"/>
+<area shape="rect" id="node50" href="$classOutputFilterParameters.html#ac52ad9d141635772b43a23544a21f12d" title="OutputFilterParameters::outputType" alt="" coords="704,139,952,169"/>
+<area shape="rect" id="node52" href="$classcorecvs_1_1Statistics.html#a4b37b7ec25946f49e1d0de995b953330" title="corecvs::Statistics::setTime" alt="" coords="729,246,927,275"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1DirectRemapper.html#a27768718ab56106bd18efadc9b7fbc82" title="corecvs::DirectRemapper::remap" alt="" coords="1143,299,1375,329"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1G12Buffer.html#a3976874f72151a66868cc50472e11d1f" title="This function template is responsible for applying reverse transformation to the abstract buffer..." alt="" coords="1076,353,1441,382"/>
+<area shape="rect" id="node15" href="$namespacecorecvs.html#a3bfefeb3d41c56bea61deddbce9632a8" title="This template provides the parallelable call of the function over the interval with or without TBB..." alt="" coords="1545,301,1721,330"/>
+<area shape="rect" id="node17" href="$namespacecorecvs.html#a3e447419f29c25b7a5b4bb77e283f5a3" title="This template provides the dummy call of the function over the interval without TBB." alt="" coords="1807,301,2025,330"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1G12Buffer.html#a49f9af21dc0f3585b3838b467c1872a7" title="This function is used as a hack to interface the C&#45;style g12Buffer." alt="" coords="1527,354,1740,383"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1PreciseTimer.html#ab96fc33330e59dc25e1965d692dcb3f9" title="corecvs::PreciseTimer::currentTime" alt="" coords="1511,141,1756,170"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1FilterBlock.html#ad95cef58c19a86f9058b3e7139049b89" title="corecvs::FilterBlock::getFullName" alt="" coords="1144,245,1373,274"/>
+<area shape="rect" id="node44" href="$classcorecvs_1_1FilterBlock.html#ae97efd1965aee7597bebfc3e05fa2609" title="corecvs::FilterBlock::clear" alt="" coords="1168,141,1349,170"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1PreciseTimer.html#a8426a1a35d70c5da82bf027bfb1bee69" title="corecvs::PreciseTimer::setTime" alt="" coords="1807,141,2025,170"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1FilterBlock.html#a23839246f21e11f0fccf0b2b40ebd11f" title="corecvs::FilterBlock::getInstanceId" alt="" coords="1515,194,1752,223"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1FilterBlock.html#ad92b1d273b91fd68b9b9b84d5f818df8" title="corecvs::FilterBlock::getTypeName" alt="" coords="1515,247,1752,277"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1PreciseTimer.html#ab6fc71ad27d7bb8ed8fed6b837ac3065" title="corecvs::PreciseTimer::isCorrect" alt="" coords="1520,34,1747,63"/>
+<area shape="rect" id="node41" href="$classcorecvs_1_1PreciseTimer.html#aeefca9626ed0efb419d7479f5d758966" title="corecvs::PreciseTimer::usecsTo" alt="" coords="1524,87,1743,117"/>
+<area shape="rect" id="node58" href="$classAbstractCalculationThread.html#accff9f3bbf936d31d194b17756aa8ebc" title="AbstractCalculationThread::calculationStateChanged" alt="" coords="649,614,1007,643"/>
+<area shape="rect" id="node62" href="$classcorecvs_1_1RectificationResult.html#ae06de5b30b767d50009ca10a5a9ede3a" title="corecvs::RectificationResult::addPretransform" alt="" coords="673,667,983,697"/>
+<area shape="rect" id="node65" href="$classcorecvs_1_1AbstractBuffer.html#a6be5a0969d374904dc4ff6cd576c9332" title="Buffer size getter." alt="" coords="715,721,941,750"/>
+<area shape="rect" id="node67" href="$classcorecvs_1_1AbstractBuffer.html#ab3e67b15f742aa47f24b108c6c5449b7" title="Checks if this buffer has the same size as the other." alt="" coords="695,774,961,803"/>
+<area shape="rect" id="node69" href="$classcorecvs_1_1Matrix33.html#a303763def6e3cd4a08222e9fa8f6faae" title="This function returns an inverse of the matrix." alt="" coords="748,827,908,857"/>
+<area shape="rect" id="node71" href="$classcorecvs_1_1Matrix33.html#a8596ffc77b92da2876c22900c02e9bec" title="Geting Matrix element functions block." alt="" coords="1559,801,1708,830"/>
+<area shape="rect" id="node73" href="$classcorecvs_1_1Matrix33.html#a960edd556c9c44ce0b045f702153836e" title="Computing determinant of the matrix." alt="" coords="1177,827,1340,857"/>
+<area shape="rect" id="node76" href="$classcorecvs_1_1Matrix33.html#a47c909b671a7ae90b386b56c8706d3a5" title="corecvs::Matrix33::Matrix33" alt="" coords="1160,881,1357,910"/>
+<area shape="rect" id="node80" href="$classResultImage.html#aef6f554a6c7827429bb06ce3f3079886" title="ResultImage::height" alt="" coords="755,881,901,910"/>
+<area shape="rect" id="node84" href="$classResultImage.html#a08c6666d5f1866c8d7c821638a5d6752" title="ResultImage::width" alt="" coords="757,934,899,963"/>
+<area shape="rect" id="node90" href="$classcorecvs_1_1FilterExecuter.html#a5427d4601390060ebafb0db118a039e0" title="corecvs::FilterExecuter::filter" alt="" coords="728,507,928,537"/>
+<area shape="rect" id="node92" href="$classcorecvs_1_1G12Buffer.html#a5d8ef17c026049a406ec39cece9e8f61" title="corecvs::G12Buffer::verify" alt="" coords="1167,483,1351,513"/>
+<area shape="rect" id="node96" href="$classcorecvs_1_1AbstractFilter.html#a56b5d8d67199b2c9fd46e39242cefc84" title="corecvs::AbstractFilter::getName" alt="" coords="1144,537,1373,566"/>
+<area shape="rect" id="node94" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="1517,483,1749,513"/>
+</map>

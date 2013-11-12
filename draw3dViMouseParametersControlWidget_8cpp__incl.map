@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$draw3dViMouseParametersControlWidget_8h.html" title="draw3dViMouseParametersControlWidget.h" alt="" coords="569,83,865,112"/>
+<area shape="rect" id="node49" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="11,237,192,267"/>
+<area shape="rect" id="node65" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="216,237,400,267"/>
+<area shape="rect" id="node7" href="$draw3dViMouseParameters_8h.html" title="generated/draw3dViMouseParameters.h" alt="" coords="908,160,1185,189"/>
+<area shape="rect" id="node43" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="603,160,832,189"/>
+<area shape="rect" id="node9" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="749,315,843,344"/>
+<area shape="rect" id="node27" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="1176,237,1293,267"/>
+<area shape="rect" id="node33" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="1037,237,1152,267"/>
+<area shape="rect" id="node37" href="$viMouse3dStereoStyle_8h.html" title="viMouse3dStereoStyle.h" alt="" coords="1317,237,1493,267"/>
+<area shape="rect" id="node39" href="$viMouse3dFlowStyle_8h.html" title="viMouse3dFlowStyle.h" alt="" coords="1517,237,1677,267"/>
+<area shape="rect" id="node23" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="991,392,1063,421"/>
+<area shape="rect" id="node59" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="595,237,739,267"/>
+<area shape="rect" id="node71" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="424,237,571,267"/>
+<area shape="rect" id="node53" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="272,315,403,344"/>
+</map>

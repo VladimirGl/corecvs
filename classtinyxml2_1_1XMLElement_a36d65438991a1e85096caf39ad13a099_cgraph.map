@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLNode.html#a60e923d13d7dc01f45ab90a2f948b02a" title="Get the first child node, or null if none exists." alt="" coords="277,5,485,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLNode.html#abba1df37581d89dccc45acdc55750ba2" title="Get the next (right) sibling node of this node." alt="" coords="269,59,493,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLVisitor.html#acb3c22fc5f60eb9db98f533f2761f67d" title="Visit a document." alt="" coords="272,112,491,141"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLVisitor.html#a170e9989cd046ba904f302d087e07086" title="Visit a document." alt="" coords="279,165,484,195"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; AxisAlignedBoxParameters \&gt;" alt="" coords="269,5,643,35"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; BackgroundFilterParameters \&gt;" alt="" coords="265,59,647,88"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; BaseParameters \&gt;" alt="" coords="303,112,609,141"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; BinarizeParameters \&gt;" alt="" coords="293,165,619,195"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; BitSelectorParameters \&gt;" alt="" coords="283,219,629,248"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; CannyParameters \&gt;" alt="" coords="299,272,613,301"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; Draw3dCameraParameters \&gt;" alt="" coords="269,325,643,355"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; Draw3dParameters \&gt;" alt="" coords="295,379,617,408"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; Draw3dViMouseParameters \&gt;" alt="" coords="267,432,645,461"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; GainOffsetParameters \&gt;" alt="" coords="285,485,627,515"/>
+<area shape="rect" id="node43" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; GraphPlotParameters \&gt;" alt="" coords="287,539,625,568"/>
+<area shape="rect" id="node47" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; HeadSearchParameters \&gt;" alt="" coords="279,592,633,621"/>
+<area shape="rect" id="node51" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; InputFilterParameters \&gt;" alt="" coords="287,645,625,675"/>
+<area shape="rect" id="node55" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; MakePreciseParameters \&gt;" alt="" coords="279,699,633,728"/>
+<area shape="rect" id="node59" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; MaskingParameters \&gt;" alt="" coords="292,752,620,781"/>
+<area shape="rect" id="node63" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; OpenCVBMParameters \&gt;" alt="" coords="283,805,629,835"/>
+<area shape="rect" id="node67" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; OpenCVFilterParameters \&gt;" alt="" coords="277,859,635,888"/>
+<area shape="rect" id="node71" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; OpenCVSGMParameters \&gt;" alt="" coords="277,912,635,941"/>
+<area shape="rect" id="node75" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; OperationParameters \&gt;" alt="" coords="287,965,625,995"/>
+<area shape="rect" id="node79" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; OutputFilterParameters \&gt;" alt="" coords="281,1019,631,1048"/>
+<area shape="rect" id="node83" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; PresentationParameters \&gt;" alt="" coords="277,1072,635,1101"/>
+<area shape="rect" id="node87" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; Recorder \&gt;" alt="" coords="327,1125,585,1155"/>
+<area shape="rect" id="node89" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; RectifyParameters \&gt;" alt="" coords="297,1179,615,1208"/>
+<area shape="rect" id="node91" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; RgbColorParameters \&gt;" alt="" coords="289,1232,623,1261"/>
+<area shape="rect" id="node93" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; SobelParameters \&gt;" alt="" coords="300,1285,612,1315"/>
+<area shape="rect" id="node95" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; ThickeningParameters \&gt;" alt="" coords="285,1339,627,1368"/>
+<area shape="rect" id="node97" href="$classcorecvs_1_1BaseReflection.html" title="This is a common parent for a reflection enabled class basically it just transforms dynamic Reflectio..." alt="" coords="329,1392,583,1421"/>
+<area shape="rect" id="node5" href="$classAxisAlignedBoxParameters.html" title="Axis Aligned Box Parameters Axis Aligned Box Parameters." alt="" coords="701,5,893,35"/>
+<area shape="rect" id="node9" href="$classBackgroundFilterParameters.html" title="Background Filter Parameters Background Filter Parameters." alt="" coords="696,59,899,88"/>
+<area shape="rect" id="node13" href="$classBaseParameters.html" title="Base parameters Base parameters." alt="" coords="733,112,861,141"/>
+<area shape="rect" id="node17" href="$classBinarizeParameters.html" title="Binarize Parameters Binarize Parameters." alt="" coords="724,165,871,195"/>
+<area shape="rect" id="node21" href="$classBitSelectorParameters.html" title="Bit Selector Parameters Bit Selector Parameters." alt="" coords="715,219,880,248"/>
+<area shape="rect" id="node25" href="$classCannyParameters.html" title="Canny Parameters Canny Parameters." alt="" coords="729,272,865,301"/>
+<area shape="rect" id="node29" href="$classDraw3dCameraParameters.html" title="draw 3d Camera Parameters draw 3d Camera Parameters" alt="" coords="700,325,895,355"/>
+<area shape="rect" id="node33" href="$classDraw3dParameters.html" title="draw 3d Parameters draw 3d Parameters" alt="" coords="725,379,869,408"/>
+<area shape="rect" id="node37" href="$classDraw3dViMouseParameters.html" title="draw 3d ViMouse Parameters draw 3d ViMouse Parameters" alt="" coords="699,432,896,461"/>
+<area shape="rect" id="node41" href="$classGainOffsetParameters.html" title="Gain Offset Parameters Gain Offset Parameters." alt="" coords="716,485,879,515"/>
+<area shape="rect" id="node45" href="$classGraphPlotParameters.html" title="Graph Plot Parameters Graph Plot Parameters." alt="" coords="719,539,876,568"/>
+<area shape="rect" id="node49" href="$classHeadSearchParameters.html" title="Head Search Parameters Head Search Parameters." alt="" coords="711,592,884,621"/>
+<area shape="rect" id="node53" href="$classInputFilterParameters.html" title="Input Filter Parameters Input Filter Parameters." alt="" coords="719,645,876,675"/>
+<area shape="rect" id="node57" href="$classMakePreciseParameters.html" title="Make Precise Parameters Make Precise Parameters." alt="" coords="709,699,885,728"/>
+<area shape="rect" id="node61" href="$classMaskingParameters.html" title="Masking Parameters Masking Parameters." alt="" coords="724,752,871,781"/>
+<area shape="rect" id="node65" href="$classOpenCVBMParameters.html" title="OpenCV BM Parameters Class OpenCV BM Parameters Class." alt="" coords="713,805,881,835"/>
+<area shape="rect" id="node69" href="$classOpenCVFilterParameters.html" title="OpenCV Filter Parameters OpenCV Filter Parameters." alt="" coords="708,859,887,888"/>
+<area shape="rect" id="node73" href="$classOpenCVSGMParameters.html" title="OpenCV SGM Parameters Class OpenCV SGM Parameters Class." alt="" coords="708,912,887,941"/>
+<area shape="rect" id="node77" href="$classOperationParameters.html" title="Operation Parameters Operation Parameters." alt="" coords="719,965,876,995"/>
+<area shape="rect" id="node81" href="$classOutputFilterParameters.html" title="Output Filter Parameters Output Filter Parameters." alt="" coords="712,1019,883,1048"/>
+<area shape="rect" id="node85" href="$classPresentationParameters.html" title="Presentation parameters Presentation parameters." alt="" coords="709,1072,885,1101"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$meanShiftWindow_8h.html" title="Add Comment Here." alt="" coords="2132,83,2279,112"/>
+<area shape="rect" id="node141" href="$abstractMeanShiftKernel_8h.html" title="Add Comment Here." alt="" coords="2243,160,2432,189"/>
+<area shape="rect" id="node5" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="696,469,789,499"/>
+<area shape="rect" id="node99" href="$tileGrid_8h.html" title="Add Comment Here." alt="" coords="1823,160,1900,189"/>
+<area shape="rect" id="node11" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1501,1011,1573,1040"/>
+<area shape="rect" id="node15" href="$punchedBufferOperations_8h.html" title="Add Comment Here." alt="" coords="791,624,988,653"/>
+<area shape="rect" id="node18" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="647,701,737,731"/>
+<area shape="rect" id="node52" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="1163,547,1352,576"/>
+<area shape="rect" id="node84" href="$flowVector_8h.html" title="a header for FlowVector.c" alt="" coords="351,624,449,653"/>
+<area shape="rect" id="node88" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="513,547,604,576"/>
+<area shape="rect" id="node48" href="$tbbWrapper_8h.html" title="This is a class that provides common TBB interface." alt="" coords="964,701,1071,731"/>
+<area shape="rect" id="node24" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="319,779,423,808"/>
+<area shape="rect" id="node28" href="$vectorOperations_8h.html" title="This file holds the operations that are commonly used with continuous linear data structures such as ..." alt="" coords="397,856,541,885"/>
+<area shape="rect" id="node36" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="839,933,932,963"/>
+<area shape="rect" id="node55" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="1292,624,1415,653"/>
+<area shape="rect" id="node65" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="1444,856,1623,885"/>
+<area shape="rect" id="node76" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="1324,856,1420,885"/>
+<area shape="rect" id="node73" href="$atomicOps_8h.html" title="atomicOps.h" alt="" coords="1452,933,1553,963"/>
+<area shape="rect" id="node94" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="524,624,615,653"/>
+<area shape="rect" id="node103" href="$segmentator_8h.html" title="Add Comment Here." alt="" coords="1676,315,1791,344"/>
+<area shape="rect" id="node124" href="$histogram_8h.html" title="The histogram of the integer based buffers." alt="" coords="1812,237,1911,267"/>
+<area shape="rect" id="node135" href="$ellipticalApproximation_8h.html" title="Add Comment Here." alt="" coords="844,547,1023,576"/>
+<area shape="rect" id="node112" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="1411,392,1504,421"/>
+<area shape="rect" id="node118" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="1051,469,1200,499"/>
+<area shape="rect" id="node129" href="$commonMappers_8h.html" title="a header for CommonMappers.cpp" alt="" coords="1495,315,1641,344"/>
+</map>

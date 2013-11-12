@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; RGBColor, uint8_t \&gt;" alt="" coords="7,5,369,35"/>
+<area shape="rect" id="node3" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; RGBColor, uint8_t, 4 \&gt;" alt="" coords="420,5,761,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1RGBColor.html" title="I use inheritance because no new data members will be added." alt="" coords="811,5,949,35"/>
+</map>

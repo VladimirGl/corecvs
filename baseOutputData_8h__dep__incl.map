@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="317,83,611,112"/>
+<area shape="rect" id="node30" href="$baseOutputData_8cpp.html" title="applications/base/baseOutputData.cpp" alt="" coords="635,83,904,112"/>
+<area shape="rect" id="node5" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="5,160,315,189"/>
+<area shape="rect" id="node7" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="339,160,589,189"/>
+<area shape="rect" id="node25" href="$recorderThread_8h.html" title="applications/recorder/recorderThread.h" alt="" coords="616,160,885,189"/>
+<area shape="rect" id="node9" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="12,237,276,267"/>
+<area shape="rect" id="node11" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="75,315,317,344"/>
+<area shape="rect" id="node13" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="351,237,577,267"/>
+<area shape="rect" id="node20" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="617,237,884,267"/>
+<area shape="rect" id="node16" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="341,315,584,344"/>
+<area shape="rect" id="node18" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="608,315,896,344"/>
+<area shape="rect" id="node23" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="920,315,1200,344"/>
+<area shape="rect" id="node28" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="908,237,1193,267"/>
+</map>

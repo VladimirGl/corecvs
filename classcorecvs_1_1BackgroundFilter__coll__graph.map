@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1FilterBlock.html" title="corecvs::FilterBlock" alt="" coords="2119,97,2260,127"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1Pin.html" title="corecvs::Pin" alt="" coords="2667,97,2765,127"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1FilterGraph.html" title="corecvs::FilterGraph" alt="" coords="3308,268,3455,297"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1FiltersCollection.html" title="corecvs::FiltersCollection" alt="" coords="3005,268,3184,297"/>
+<area shape="rect" id="node10" href="$classcorecvs_1_1FiltersCollection_1_1CompoundFilterType.html" title="corecvs::FiltersCollection::CompoundFilterType" alt="" coords="2032,343,2347,372"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="1659,452,1744,481"/>
+<area shape="rect" id="node18" href="$classcorecvs_1_1Statistics.html" title="corecvs::Statistics" alt="" coords="2647,484,2785,513"/>
+<area shape="rect" id="node16" title="STL class." alt="" coords="1119,452,1303,481"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1PreciseTimer.html" title="corecvs::PreciseTimer" alt="" coords="2109,515,2269,544"/>
+<area shape="rect" id="node24" href="$structcorecvs_1_1SingleStat.html" title="corecvs::SingleStat" alt="" coords="1629,568,1773,597"/>
+<area shape="rect" id="node38" href="$classBackgroundFilterParameters.html" title="Background Filter Parameters Background Filter Parameters." alt="" coords="2088,289,2291,319"/>
+<area shape="rect" id="node40" href="$classcorecvs_1_1BaseReflection.html" title="corecvs::BaseReflection\&lt; BackgroundFilterParameters \&gt;" alt="" coords="1511,289,1892,319"/>
+<area shape="rect" id="node42" href="$classcorecvs_1_1BaseReflectionStatic.html" title="corecvs::BaseReflectionStatic" alt="" coords="1107,333,1315,363"/>
+<area shape="rect" id="node44" href="$classcorecvs_1_1Reflection.html" title="corecvs::Reflection" alt="" coords="1141,151,1280,180"/>
+<area shape="rect" id="node55" href="$classcorecvs_1_1EmbedSubclass.html" title="corecvs::EmbedSubclass" alt="" coords="1611,79,1792,108"/>
+<area shape="rect" id="node48" href="$classcorecvs_1_1BaseField.html" title="This class is a core class for the reflection." alt="" coords="333,125,472,155"/>
+<area shape="rect" id="node50" href="$classcorecvs_1_1ReflectionNaming.html" title="We have several styles of nameing." alt="" coords="7,125,196,155"/>
+<area shape="rect" id="node61" href="$structcorecvs_1_1EmbedSubclass_1_1EmbedMap.html" title="corecvs::EmbedSubclass::EmbedMap" alt="" coords="632,7,893,36"/>
+<area shape="rect" id="node63" href="$classcorecvs_1_1G12Buffer.html" title="TODO: Add consts where it should go." alt="" coords="2119,236,2260,265"/>
+<area shape="rect" id="node65" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="1643,236,1760,265"/>
+<area shape="rect" id="node67" href="$classcorecvs_1_1AbstractBuffer.html" title="This is a common buffer template." alt="" coords="1035,280,1387,309"/>
+<area shape="rect" id="node69" href="$classcorecvs_1_1AbstractBufferParams.html" title="This is a basis part of the AbstractBuffer template &#45; serializable buffer params." alt="" coords="653,229,872,259"/>
+<area shape="rect" id="node73" href="$classcorecvs_1_1ObjectRef.html" title="corecvs::ObjectRef\&lt; uint8_t \&gt;" alt="" coords="656,336,869,365"/>
+<area shape="rect" id="node75" href="$classcorecvs_1_1ObjectBlock.html" title="corecvs::ObjectBlock\&lt; uint8_t \&gt;" alt="" coords="289,336,516,365"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLComment.html" title="An XML Comment." alt="" coords="203,5,376,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLDeclaration.html" title="In correct XML the declaration is the first entry in the file." alt="" coords="199,59,380,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLDocument.html" title="A Document binds together all the functionality." alt="" coords="201,112,377,141"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLElement.html" title="The element is a container class." alt="" coords="208,165,371,195"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLText.html" title="XML text." alt="" coords="223,219,356,248"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1XMLUnknown.html" title="Any tag that tinyXml doesn&#39;t recognize is saved as an unknown." alt="" coords="207,272,372,301"/>
+</map>

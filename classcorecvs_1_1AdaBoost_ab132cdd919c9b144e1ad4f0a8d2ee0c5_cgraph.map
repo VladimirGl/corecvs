@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AdaBoostedClassifier.html#a3e7c1fb0f8018786428c9a9637f3378a" title="corecvs::AdaBoostedClassifier::addClassifier" alt="" coords="335,5,636,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1ClassifierStatistics.html#a7024aaace63359fac8affb20d3a24bc6" title="corecvs::ClassifierStatistics::addValue" alt="" coords="355,59,616,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1AdaBoostedClassifier.html#ab27fc940312142c404e0718bdb2539d2" title="corecvs::AdaBoostedClassifier::classify" alt="" coords="352,112,619,141"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1AdaBoostInput.html#a5fe35edf344a166369df1ede824b90a1" title="Adjusts the weights of the input set to make the total sum equal to 1.0." alt="" coords="339,165,632,195"/>
+</map>

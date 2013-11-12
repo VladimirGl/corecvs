@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1FilterGraph.html" title="corecvs::FilterGraph" alt="" coords="1687,181,1833,211"/>
+<area shape="rect" id="node32" href="$classcorecvs_1_1FilterBlock.html" title="corecvs::FilterBlock" alt="" coords="1943,120,2084,149"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1FiltersCollection.html" title="corecvs::FiltersCollection" alt="" coords="1384,100,1563,129"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1FiltersCollection_1_1CompoundFilterType.html" title="corecvs::FiltersCollection::CompoundFilterType" alt="" coords="525,72,840,101"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="271,128,356,157"/>
+<area shape="rect" id="node16" href="$classcorecvs_1_1Statistics.html" title="corecvs::Statistics" alt="" coords="1025,184,1164,213"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="5,128,189,157"/>
+<area shape="rect" id="node18" href="$classcorecvs_1_1PreciseTimer.html" title="corecvs::PreciseTimer" alt="" coords="603,244,763,273"/>
+<area shape="rect" id="node22" href="$structcorecvs_1_1SingleStat.html" title="corecvs::SingleStat" alt="" coords="241,213,385,243"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1Pin.html" title="corecvs::Pin" alt="" coords="2187,47,2285,76"/>
+</map>

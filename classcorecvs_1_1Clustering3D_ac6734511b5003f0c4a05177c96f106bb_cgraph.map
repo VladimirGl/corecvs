@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1Clustering3D.html#a75ea5cdb9ed0621f5f88c4208404d98e" title="corecvs::Clustering3D::_clustering" alt="" coords="331,112,568,141"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1PreciseTimer.html#ab96fc33330e59dc25e1965d692dcb3f9" title="corecvs::PreciseTimer::currentTime" alt="" coords="629,219,875,248"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Statistics.html#a4b37b7ec25946f49e1d0de995b953330" title="corecvs::Statistics::setTime" alt="" coords="351,219,548,248"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1PreciseTimer.html#af4f2392d369963a6786d28754d626d1b" title="corecvs::PreciseTimer::usecsToNow" alt="" coords="327,272,572,301"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="636,5,868,35"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1BaseSegment.html#a2ea9b72d848bdfd9cde6821c52a4a35c" title="This method returns a topmost segment in a father tree." alt="" coords="623,59,881,88"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1BaseSegment.html#a398b2ed3de5e3f4d8de8443e8e55cfb8" title="Checks if it is a child segment or not." alt="" coords="648,112,856,141"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1BaseSegment.html#aeb738c73dc2eb52538655bb1a254c0f1" title="This method merges two trees of child segments." alt="" coords="627,165,877,195"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1PreciseTimer.html#a8426a1a35d70c5da82bf027bfb1bee69" title="corecvs::PreciseTimer::setTime" alt="" coords="932,219,1151,248"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1PreciseTimer.html#ab6fc71ad27d7bb8ed8fed6b837ac3065" title="corecvs::PreciseTimer::isCorrect" alt="" coords="639,272,865,301"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1PreciseTimer.html#aeefca9626ed0efb419d7479f5d758966" title="corecvs::PreciseTimer::usecsTo" alt="" coords="643,325,861,355"/>
+</map>

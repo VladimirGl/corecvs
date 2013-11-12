@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classOperationParametersControlWidget.html#ac06a38f6fedbb8b7d141be205698039a" title="OperationParametersControlWidget::createParameters" alt="" coords="421,5,792,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="497,59,716,88"/>
+<area shape="rect" id="node9" href="$classOperationParametersControlWidget.html#a310730b728e07f6b5eb4261244495794" title="OperationParametersControlWidget::setParameters" alt="" coords="432,112,781,141"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="935,59,1108,88"/>
+<area shape="rect" id="node11" href="$classOperationParameters.html#ac421dd681983ec01404c926071b76ef4" title="OperationParameters::operation" alt="" coords="908,112,1135,141"/>
+<area shape="rect" id="node13" href="$classOperationParametersControlWidget.html#a312d44c2e3fe2f74c3976f80b91f7b0a" title="OperationParametersControlWidget::paramsChanged" alt="" coords="840,165,1203,195"/>
+</map>

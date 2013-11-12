@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCameraCalculatorWidget.html#a28b8b0ab4b6e03529df4052196f4ad4c" title="CameraCalculatorWidget::getPixelWidth" alt="" coords="783,112,1055,141"/>
+<area shape="rect" id="node5" href="$classCameraCalculatorWidget.html#a3a7f053f25db9a46230ad4e123f3a4eb" title="CameraCalculatorWidget::setNewValue" alt="" coords="416,59,685,88"/>
+<area shape="rect" id="node13" href="$classCameraCalculatorWidget.html#a6d1ea01407cd4510f091c4c50a93c72a" title="CameraCalculatorWidget::updateStereoStats" alt="" coords="396,164,705,193"/>
+<area shape="rect" id="node7" href="$classCameraCalculatorWidget.html#ab41489389279916f1657ad1f0f97aaf5" title="CameraCalculatorWidget::setValueBlocking" alt="" coords="771,59,1067,88"/>
+<area shape="rect" id="node9" href="$classCameraCalculatorWidget.html#a03b4aa47cd739b4828067343e5402f1d" title="CameraCalculatorWidget::startTimer" alt="" coords="792,5,1045,35"/>
+<area shape="rect" id="node11" href="$classCameraCalculatorWidget.html#ab03fc7676689c8aa9ee47c36471e39fa" title="CameraCalculatorWidget::setColor" alt="" coords="1132,5,1372,35"/>
+<area shape="rect" id="node15" href="$classCameraCalculatorWidget.html#a229b1ccedfa1f8ffb4cb1aece58f7022" title="CameraCalculatorWidget::getAlgorithmPrecision" alt="" coords="755,165,1083,195"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classPointsRectificationWidget.html#a6e03452c6bbbb598f3768df2090a441d" title="PointsRectificationWidget::addPair" alt="" coords="459,5,693,35"/>
+<area shape="rect" id="node9" href="$classPointsRectificationWidget.html#ab7a53a85d2b26fe1be8de2ef407fac49" title="PointsRectificationWidget::deletePairs" alt="" coords="855,59,1113,88"/>
+<area shape="rect" id="node12" href="$classPointsRectificationWidget.html#aaac3be59eb00836080432e5361a625b9" title="PointsRectificationWidget::editPointLeftImage" alt="" coords="423,109,729,139"/>
+<area shape="rect" id="node16" href="$classPointsRectificationWidget.html#a44ad6c3675dc9c78f67ac7d40eeb952e" title="PointsRectificationWidget::editPointRightImage" alt="" coords="419,163,733,192"/>
+<area shape="rect" id="node19" href="$classPointsRectificationWidget.html#a637b1e343acf5dba1e14909eb19c892f" title="PointsRectificationWidget::initCorrespondancePoints" alt="" coords="401,216,751,245"/>
+<area shape="rect" id="node23" href="$classPointsRectificationWidget.html#a51870c27ade4ac719d0f26857c16db85" title="PointsRectificationWidget::initModel" alt="" coords="453,269,699,299"/>
+<area shape="rect" id="node27" href="$classPointsRectificationWidget.html#a2bd04390b3eda2c93e8f9bf26adc66dc" title="PointsRectificationWidget::updateLeftCenter" alt="" coords="427,323,725,352"/>
+<area shape="rect" id="node29" href="$classPointsRectificationWidget.html#a5a2e61fe8b16e0e4e5d81ea173d1d0ba" title="PointsRectificationWidget::updateLeftZoom" alt="" coords="428,376,724,405"/>
+<area shape="rect" id="node31" href="$classPointsRectificationWidget.html#ade6138b71f24a68ccba920463b94ebfb" title="PointsRectificationWidget::updateRightCenter" alt="" coords="423,429,729,459"/>
+<area shape="rect" id="node33" href="$classPointsRectificationWidget.html#a550b7d167f3a2e382a4554eee570ca2a" title="PointsRectificationWidget::updateRightZoom" alt="" coords="424,483,728,512"/>
+<area shape="rect" id="node5" href="$classPointsRectificationWidget.html#a6d68f358c7c3c917c661f57565e73905" title="PointsRectificationWidget::addPointPair" alt="" coords="851,5,1117,35"/>
+<area shape="rect" id="node7" href="$classQt2Core.html#a45349571a1266ef9ec95e07b94cab942" title="Qt2Core::Vector2ddFromQPointF" alt="" coords="1216,32,1445,61"/>
+<area shape="rect" id="node14" href="$classPointsRectificationWidget.html#ae1475c53ee2e848caba7b078d276f95f" title="PointsRectificationWidget::setNewPointsCoord" alt="" coords="828,137,1140,167"/>
+<area shape="rect" id="node21" href="$classPointsRectificationWidget.html#ae544f68db7ff98eb671ad99b04be8c69" title="PointsRectificationWidget::readyCorrespondancePoints" alt="" coords="800,216,1168,245"/>
+<area shape="rect" id="node25" href="$classPointsRectificationWidget.html#a56ebe135da7d68fef763c84ef149412c" title="PointsRectificationWidget::selectionChanged" alt="" coords="833,269,1135,299"/>
+</map>

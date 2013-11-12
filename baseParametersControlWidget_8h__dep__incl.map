@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="495,83,745,112"/>
+<area shape="rect" id="node21" href="$parametersMapperBase_8h.html" title="applications/base/parametersMapper/parametersMapperBase.h" alt="" coords="769,83,1199,112"/>
+<area shape="rect" id="node26" href="$baseParametersControlWidget_8cpp.html" title="applications/base/baseParametersControlWidget.cpp" alt="" coords="1223,83,1580,112"/>
+<area shape="rect" id="node28" href="$parametersMapperRecorder_8h.html" title="applications/recorder/parametersMapper/parametersMapperRecorder.h" alt="" coords="1604,83,2081,112"/>
+<area shape="rect" id="node5" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="821,160,1085,189"/>
+<area shape="rect" id="node7" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="5,237,248,267"/>
+<area shape="rect" id="node9" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="280,160,507,189"/>
+<area shape="rect" id="node16" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="531,160,797,189"/>
+<area shape="rect" id="node12" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="272,237,515,267"/>
+<area shape="rect" id="node14" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="539,237,827,267"/>
+<area shape="rect" id="node19" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="1151,237,1431,267"/>
+<area shape="rect" id="node24" href="$parametersMapperBase_8cpp.html" title="applications/base/parametersMapper/parametersMapperBase.cpp" alt="" coords="1109,160,1555,189"/>
+<area shape="rect" id="node30" href="$parametersMapperRecorder_8cpp.html" title="applications/recorder/parametersMapper/parametersMapperRecorder.cpp" alt="" coords="1629,160,2120,189"/>
+</map>

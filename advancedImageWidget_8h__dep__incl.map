@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="72,83,360,112"/>
+<area shape="rect" id="node7" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="272,237,523,267"/>
+<area shape="rect" id="node25" href="$advancedImageWidget_8cpp.html" title="utils/uis/advancedImageWidget.cpp" alt="" coords="435,83,680,112"/>
+<area shape="rect" id="node27" href="$paintImageWidget_8h.html" title="utils/uis/paintImageWidget.h" alt="" coords="704,83,904,112"/>
+<area shape="rect" id="node37" href="$testbedMainWindow_8h.html" title="applications/testbed/testbedMainWindow.h" alt="" coords="931,83,1221,112"/>
+<area shape="rect" id="node41" href="$testbedMainWindow_8cpp.html" title="applications/testbed/testbedMainWindow.cpp" alt="" coords="1235,160,1541,189"/>
+<area shape="rect" id="node5" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="5,160,309,189"/>
+<area shape="rect" id="node9" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="21,315,285,344"/>
+<area shape="rect" id="node11" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="85,392,328,421"/>
+<area shape="rect" id="node13" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="360,315,587,344"/>
+<area shape="rect" id="node20" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="629,315,896,344"/>
+<area shape="rect" id="node16" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="352,392,595,421"/>
+<area shape="rect" id="node18" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="619,392,907,421"/>
+<area shape="rect" id="node23" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="931,392,1211,421"/>
+<area shape="rect" id="node29" href="$paintImageWidget_8cpp.html" title="utils/uis/paintImageWidget.cpp" alt="" coords="435,160,651,189"/>
+<area shape="rect" id="node31" href="$pointsRectificationWidget_8h.html" title="utils/uis/pointsRectificationWidget.h" alt="" coords="675,160,917,189"/>
+<area shape="rect" id="node33" href="$pointsRectificationWidget_8cpp.html" title="utils/uis/pointsRectificationWidget.cpp" alt="" coords="667,237,925,267"/>
+<area shape="rect" id="node39" href="$main__testbed_8cpp.html" title="applications/testbed/main_testbed.cpp" alt="" coords="941,160,1211,189"/>
+</map>

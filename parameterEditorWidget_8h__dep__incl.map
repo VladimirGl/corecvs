@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$parameterEditorWidget_8cpp.html" title="utils/widgets/parameterEditorWidget.cpp" alt="" coords="5,83,283,112"/>
+<area shape="rect" id="node5" href="$parameterSelector_8h.html" title="utils/widgets/parameterSelector.h" alt="" coords="307,83,541,112"/>
+<area shape="rect" id="node11" href="$parameterSlider_8h.html" title="utils/widgets/parameterSlider.h" alt="" coords="565,83,784,112"/>
+<area shape="rect" id="node7" href="$capSettingsDialog_8cpp.html" title="utils/uis/capSettingsDialog.cpp" alt="" coords="232,237,448,267"/>
+<area shape="rect" id="node9" href="$parameterSelector_8cpp.html" title="utils/widgets/parameterSelector.cpp" alt="" coords="299,160,549,189"/>
+<area shape="rect" id="node13" href="$capSettingsDialog_8h.html" title="utils/uis/capSettingsDialog.h" alt="" coords="573,160,776,189"/>
+<area shape="rect" id="node34" href="$parameterSlider_8cpp.html" title="utils/widgets/parameterSlider.cpp" alt="" coords="800,160,1035,189"/>
+<area shape="rect" id="node16" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="549,237,800,267"/>
+<area shape="rect" id="node18" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="297,315,561,344"/>
+<area shape="rect" id="node20" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="361,392,604,421"/>
+<area shape="rect" id="node22" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="636,315,863,344"/>
+<area shape="rect" id="node29" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="905,315,1172,344"/>
+<area shape="rect" id="node25" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="628,392,871,421"/>
+<area shape="rect" id="node27" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="895,392,1183,421"/>
+<area shape="rect" id="node32" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="1207,392,1487,421"/>
+</map>

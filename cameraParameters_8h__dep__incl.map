@@ -1,0 +1,40 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$FCostFunction_8h.html" title="This file holds the data primitives for compensated flow cost function." alt="" coords="456,83,688,112"/>
+<area shape="rect" id="node13" href="$flowSimuator_8h.html" title="This is a header file to simulate flow caused by still standing objects and a moving vehicle..." alt="" coords="776,83,1069,112"/>
+<area shape="rect" id="node16" href="$cameraParameters_8cpp.html" title="Add Comment Here." alt="" coords="1191,83,1465,112"/>
+<area shape="rect" id="node18" href="$triangulator_8h.html" title="Add Comment Here." alt="" coords="1489,83,1705,112"/>
+<area shape="rect" id="node34" href="$universalRectifier_8h.html" title="Add Comment Here." alt="" coords="2095,160,2316,189"/>
+<area shape="rect" id="node36" href="$universalRectifier_8cpp.html" title="Add Comment Here." alt="" coords="2099,237,2336,267"/>
+<area shape="rect" id="node5" href="$FCostFunction_8cpp.html" title="This file holds implementation of functions for compensated flow cost function." alt="" coords="5,160,251,189"/>
+<area shape="rect" id="node7" href="$flowVectorInformation_8h.html" title="This header holds the data structures that hold classification of flow vectors." alt="" coords="275,160,555,189"/>
+<area shape="rect" id="node11" href="$flowSimuator_8cpp.html" title="This is an implementation file to simulate flow caused by still standing objects and a moving vehicle..." alt="" coords="579,160,888,189"/>
+<area shape="rect" id="node9" href="$flowVectorInformation_8cpp.html" title="This file holds the data structures that help classification of flow vectors." alt="" coords="260,237,556,267"/>
+<area shape="rect" id="node20" href="$buffer3d_8h.html" title="core/buffers/buffer3d.h" alt="" coords="1627,160,1792,189"/>
+<area shape="rect" id="node28" href="$g12Buffer3d_8h.html" title="core/buffers/g12Buffer3d.h" alt="" coords="1816,160,2008,189"/>
+<area shape="rect" id="node32" href="$triangulator_8cpp.html" title="Add Comment Here." alt="" coords="1371,160,1603,189"/>
+<area shape="rect" id="node70" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="912,160,1165,189"/>
+<area shape="rect" id="node82" href="$scene3DMouse_8h.html" title="Add Comment Here." alt="" coords="1144,237,1389,267"/>
+<area shape="rect" id="node22" href="$buffer3d_8cpp.html" title="core/buffers/buffer3d.cpp" alt="" coords="1413,237,1595,267"/>
+<area shape="rect" id="node24" href="$clustering3d_8h.html" title="core/clustering3d/clustering3d.h" alt="" coords="1619,237,1845,267"/>
+<area shape="rect" id="node26" href="$clustering3d_8cpp.html" title="core/clustering3d/clustering3d.cpp" alt="" coords="1612,315,1852,344"/>
+<area shape="rect" id="node30" href="$g12Buffer3d_8cpp.html" title="core/buffers/g12Buffer3d.cpp" alt="" coords="1869,237,2075,267"/>
+<area shape="rect" id="node38" href="$camerasConfigParameters_8h.html" title="applications/base/camerasConfigParameters.h" alt="" coords="2360,237,2677,267"/>
+<area shape="rect" id="node40" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="2540,315,2833,344"/>
+<area shape="rect" id="node44" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="2020,392,2271,421"/>
+<area shape="rect" id="node68" href="$camerasConfigParameters_8cpp.html" title="applications/base/camerasConfigParameters.cpp" alt="" coords="2183,315,2516,344"/>
+<area shape="rect" id="node42" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="2719,392,3028,421"/>
+<area shape="rect" id="node62" href="$recorderThread_8h.html" title="applications/recorder/recorderThread.h" alt="" coords="2425,392,2695,421"/>
+<area shape="rect" id="node46" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="1023,469,1287,499"/>
+<area shape="rect" id="node48" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="1757,547,2000,576"/>
+<area shape="rect" id="node50" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="2032,469,2259,499"/>
+<area shape="rect" id="node57" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="2301,469,2568,499"/>
+<area shape="rect" id="node53" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="2024,547,2267,576"/>
+<area shape="rect" id="node55" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="2291,547,2579,576"/>
+<area shape="rect" id="node60" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="2603,547,2883,576"/>
+<area shape="rect" id="node65" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="2592,469,2877,499"/>
+<area shape="rect" id="node72" href="$mesh3DScene_8h.html" title="utils/3d/mesh3DScene.h" alt="" coords="661,237,840,267"/>
+<area shape="rect" id="node76" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="847,315,1116,344"/>
+<area shape="rect" id="node78" href="$scene3D_8cpp.html" title="Add Comment Here." alt="" coords="965,237,1120,267"/>
+<area shape="rect" id="node84" href="$scene3DMouse_8cpp.html" title="applications/base/scene3DMouse.cpp" alt="" coords="1140,315,1401,344"/>
+<area shape="rect" id="node74" href="$mesh3DScene_8cpp.html" title="utils/3d/mesh3DScene.cpp" alt="" coords="631,315,823,344"/>
+</map>

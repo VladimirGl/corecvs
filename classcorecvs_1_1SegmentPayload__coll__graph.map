@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1Vector2d.html" title="corecvs::Vector2d\&lt; double \&gt;" alt="" coords="1628,216,1836,245"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1EllipticalApproximation.html" title="This class searches the ellipse that looks like a given blob." alt="" coords="1996,240,2217,269"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector2d\&lt; double \&gt;, double, 2 \&gt;" alt="" coords="1092,228,1503,257"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector2d\&lt; double \&gt;, double \&gt;" alt="" coords="543,229,975,259"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1Reflection.html" title="corecvs::Reflection" alt="" coords="1228,160,1367,189"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1EmbedSubclass.html" title="corecvs::EmbedSubclass" alt="" coords="1641,88,1823,117"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1Vector2d.html" title="corecvs::Vector2d\&lt; int16_t \&gt;" alt="" coords="1627,296,1837,325"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1BaseField.html" title="This class is a core class for the reflection." alt="" coords="288,125,427,155"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1ReflectionNaming.html" title="We have several styles of nameing." alt="" coords="7,125,196,155"/>
+<area shape="rect" id="node25" href="$structcorecvs_1_1EmbedSubclass_1_1EmbedMap.html" title="corecvs::EmbedSubclass::EmbedMap" alt="" coords="628,7,889,36"/>
+<area shape="rect" id="node32" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector2d\&lt; int16_t \&gt;, int16_t, 2 \&gt;" alt="" coords="1091,307,1504,336"/>
+<area shape="rect" id="node34" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector2d\&lt; int16_t \&gt;, int16_t \&gt;" alt="" coords="541,307,976,336"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1Histogram.html" title="Histogram class." alt="" coords="2033,39,2180,68"/>
+</map>

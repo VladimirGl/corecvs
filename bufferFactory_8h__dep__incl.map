@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$bufferFactory_8cpp.html" title="Holds the implementation of the factory for the loadable buffer." alt="" coords="201,83,412,112"/>
+<area shape="rect" id="node5" href="$qtFileLoader_8h.html" title="utils/fileformats/qtFileLoader.h" alt="" coords="436,83,647,112"/>
+<area shape="rect" id="node13" href="$fileCapture_8cpp.html" title="utils/framesources/fileCapture.cpp" alt="" coords="671,83,911,112"/>
+<area shape="rect" id="node15" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="1084,83,1337,112"/>
+<area shape="rect" id="node7" href="$qtFileLoader_8cpp.html" title="utils/fileformats/qtFileLoader.cpp" alt="" coords="5,160,232,189"/>
+<area shape="rect" id="node9" href="$main__testbed_8cpp.html" title="applications/testbed/main_testbed.cpp" alt="" coords="256,160,525,189"/>
+<area shape="rect" id="node11" href="$testbedMainWindow_8cpp.html" title="applications/testbed/testbedMainWindow.cpp" alt="" coords="549,160,856,189"/>
+<area shape="rect" id="node17" href="$mesh3DScene_8h.html" title="utils/3d/mesh3DScene.h" alt="" coords="880,160,1059,189"/>
+<area shape="rect" id="node21" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="961,237,1231,267"/>
+<area shape="rect" id="node23" href="$scene3D_8cpp.html" title="Add Comment Here." alt="" coords="1133,160,1288,189"/>
+<area shape="rect" id="node26" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="1312,160,1576,189"/>
+<area shape="rect" id="node28" href="$scene3DMouse_8h.html" title="Add Comment Here." alt="" coords="1600,160,1845,189"/>
+<area shape="rect" id="node30" href="$scene3DMouse_8cpp.html" title="applications/base/scene3DMouse.cpp" alt="" coords="1672,237,1933,267"/>
+<area shape="rect" id="node19" href="$mesh3DScene_8cpp.html" title="utils/3d/mesh3DScene.cpp" alt="" coords="745,237,937,267"/>
+</map>

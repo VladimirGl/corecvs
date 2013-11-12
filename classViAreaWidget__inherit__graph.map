@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classAdvancedImageWidget.html" title="AdvancedImageWidget" alt="" coords="160,5,328,35"/>
+<area shape="rect" id="node7" href="$classCloudViewDialog.html" title="CloudViewDialog" alt="" coords="181,59,307,88"/>
+<area shape="rect" id="node9" href="$classGraphPlotDialog.html" title="GraphPlotDialog" alt="" coords="181,112,307,141"/>
+<area shape="rect" id="node11" href="$classImageWidget.html" title="ImageWidget" alt="" coords="192,165,296,195"/>
+<area shape="rect" id="node13" href="$classStatisticsDialog.html" title="StatisticsDialog" alt="" coords="184,219,304,248"/>
+<area shape="rect" id="node15" href="$classTextLabelWidget.html" title="TextLabelWidget" alt="" coords="183,272,305,301"/>
+<area shape="rect" id="node5" href="$classPaintImageWidget.html" title="PaintImageWidget" alt="" coords="376,5,512,35"/>
+</map>

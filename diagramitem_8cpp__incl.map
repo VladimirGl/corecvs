@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$diagramitem_8h.html" title="diagramitem.h" alt="" coords="700,237,815,267"/>
+<area shape="rect" id="node91" href="$arrow_8h.html" title="arrow.h" alt="" coords="832,83,899,112"/>
+<area shape="rect" id="node96" href="$filterPinPresentation_8h.html" title="filterPinPresentation.h" alt="" coords="1035,83,1197,112"/>
+<area shape="rect" id="node7" href="$filterBlock_8h.html" title="filterBlock.h" alt="" coords="707,392,803,421"/>
+<area shape="rect" id="node17" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="355,933,427,963"/>
+<area shape="rect" id="node21" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="893,701,987,731"/>
+<area shape="rect" id="node34" href="$pins_8h.html" title="TODO." alt="" coords="791,469,849,499"/>
+<area shape="rect" id="node36" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="407,547,500,576"/>
+<area shape="rect" id="node75" href="$tinyxml2_8h.html" title="tinyxml2.h" alt="" coords="991,547,1079,576"/>
+<area shape="rect" id="node41" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="524,779,647,808"/>
+<area shape="rect" id="node66" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="93,701,283,731"/>
+<area shape="rect" id="node70" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="281,624,431,653"/>
+<area shape="rect" id="node50" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="787,856,877,885"/>
+<area shape="rect" id="node57" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="483,856,661,885"/>
+<area shape="rect" id="node61" href="$tbbWrapper_8h.html" title="This is a class that provides common TBB interface." alt="" coords="352,856,459,885"/>
+<area shape="rect" id="node63" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="1051,856,1147,885"/>
+<area shape="rect" id="node54" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="1323,933,1427,963"/>
+<area shape="rect" id="node100" href="$diagramscene_8h.html" title="diagramscene.h" alt="" coords="1188,160,1313,189"/>
+<area shape="rect" id="node105" href="$diagramtextitem_8h.html" title="diagramtextitem.h" alt="" coords="1499,237,1640,267"/>
+<area shape="rect" id="node109" href="$filterGraph_8h.html" title="filterGraph.h" alt="" coords="1200,237,1301,267"/>
+<area shape="rect" id="node116" href="$filtersCollection_8h.html" title="filtersCollection.h" alt="" coords="1187,315,1317,344"/>
+<area shape="rect" id="node122" href="$calculationStats_8h.html" title="Add Comment Here." alt="" coords="1493,701,1629,731"/>
+<area shape="rect" id="node133" href="$preciseTimer_8h.html" title="Add Comment Here." alt="" coords="1409,779,1524,808"/>
+</map>

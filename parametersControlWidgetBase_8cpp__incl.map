@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="361,83,591,112"/>
+<area shape="rect" id="node7" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="112,315,184,344"/>
+<area shape="rect" id="node11" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="480,237,573,267"/>
+<area shape="rect" id="node26" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="179,160,360,189"/>
+<area shape="rect" id="node36" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="643,160,787,189"/>
+<area shape="rect" id="node42" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="384,160,568,189"/>
+<area shape="rect" id="node48" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="811,160,957,189"/>
+<area shape="rect" id="node30" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="637,237,768,267"/>
+</map>

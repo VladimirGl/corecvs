@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="308,5,540,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1BaseSegment.html#a2ea9b72d848bdfd9cde6821c52a4a35c" title="This method returns a topmost segment in a father tree." alt="" coords="295,59,553,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1BaseSegment.html#a398b2ed3de5e3f4d8de8443e8e55cfb8" title="Checks if it is a child segment or not." alt="" coords="320,112,528,141"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1BaseSegment.html#aeb738c73dc2eb52538655bb1a254c0f1" title="This method merges two trees of child segments." alt="" coords="299,165,549,195"/>
+</map>

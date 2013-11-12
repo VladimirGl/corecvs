@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$abstractFilter_8cpp.html" title="Add Comment Here." alt="" coords="363,83,565,112"/>
+<area shape="rect" id="node5" href="$filterSelector_8h.html" title="utils/filters/filterSelector.h" alt="" coords="589,83,771,112"/>
+<area shape="rect" id="node7" href="$filterExecuter_8h.html" title="Add Comment Here." alt="" coords="429,160,616,189"/>
+<area shape="rect" id="node11" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="376,237,669,267"/>
+<area shape="rect" id="node15" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="632,315,883,344"/>
+<area shape="rect" id="node38" href="$filterSelector_8cpp.html" title="utils/filters/filterSelector.cpp" alt="" coords="744,160,941,189"/>
+<area shape="rect" id="node9" href="$filterExecuter_8cpp.html" title="Add Comment Here." alt="" coords="152,237,352,267"/>
+<area shape="rect" id="node13" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="5,315,315,344"/>
+<area shape="rect" id="node33" href="$recorderThread_8h.html" title="applications/recorder/recorderThread.h" alt="" coords="339,315,608,344"/>
+<area shape="rect" id="node17" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="888,392,1152,421"/>
+<area shape="rect" id="node19" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="1029,469,1272,499"/>
+<area shape="rect" id="node21" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="637,392,864,421"/>
+<area shape="rect" id="node28" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="347,392,613,421"/>
+<area shape="rect" id="node24" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="724,469,967,499"/>
+<area shape="rect" id="node26" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="412,469,700,499"/>
+<area shape="rect" id="node31" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="108,469,388,499"/>
+<area shape="rect" id="node36" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="37,392,323,421"/>
+</map>

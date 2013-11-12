@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classHeadSearchParametersControlWidget.html#a24521ff8d148f0024ab49ee3764174b6" title="HeadSearchParametersControlWidget::setParameters" alt="" coords="463,139,828,168"/>
+<area shape="rect" id="node5" href="$classHeadSearchParameters.html#a64c85f862f69a74f0a0d59f97283c451" title="HeadSearchParameters::clusterDepth" alt="" coords="935,5,1199,35"/>
+<area shape="rect" id="node7" href="$classHeadSearchParameters.html#a3b61cb8f560b1dbbfde76f68b0b19f56" title="HeadSearchParameters::clusterMinSize" alt="" coords="929,59,1204,88"/>
+<area shape="rect" id="node9" href="$classHeadSearchParameters.html#a8277bd3fcb31d3b768393839554df936" title="HeadSearchParameters::headAreaRadius" alt="" coords="924,112,1209,141"/>
+<area shape="rect" id="node11" href="$classHeadSearchParameters.html#a008b8b77b6658c5cf7ea7563e40683a0" title="HeadSearchParameters::headNumber" alt="" coords="933,165,1200,195"/>
+<area shape="rect" id="node13" href="$classHeadSearchParametersControlWidget.html#a334f62bdd3c36bf72be6d4f3cb84a760" title="HeadSearchParametersControlWidget::paramsChanged" alt="" coords="877,219,1256,248"/>
+<area shape="rect" id="node15" href="$classHeadSearchParameters.html#a4f3ae0dcdf50b4bf800981b206277fe9" title="HeadSearchParameters::thresholdDistance" alt="" coords="917,272,1216,301"/>
+</map>

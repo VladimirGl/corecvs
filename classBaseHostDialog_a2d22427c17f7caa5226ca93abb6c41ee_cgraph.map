@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseHostDialog.html#aea3474a92a3c3437f565acf4326b8eec" title="Add all events to the list, and if we are not still collecting them &#45; process the whole list..." alt="" coords="371,152,635,181"/>
+<area shape="rect" id="node5" href="$classBaseHostDialog.html#a2f72b69c229d0eebafdce8e0028a5250" title="BaseHostDialog::processResult" alt="" coords="685,112,904,141"/>
+<area shape="rect" id="node15" href="$classBaseHostDialog.html#a9c9951b19762eaa127db683f3179c87e" title="Slot for swapping framesources &#45;&#45;&#45; right frame becomes left and left frame becomes right..." alt="" coords="684,192,905,221"/>
+<area shape="rect" id="node7" href="$classResultImage.html#a235b1c6d3576cd68390fe7d939e072fb" title="ResultImage::drawImage" alt="" coords="979,5,1157,35"/>
+<area shape="rect" id="node9" href="$classResultImage.html#aef6f554a6c7827429bb06ce3f3079886" title="ResultImage::height" alt="" coords="995,59,1141,88"/>
+<area shape="rect" id="node11" href="$classBaseHostDialog.html#a40d226c9a7ef643221631a52f31922b5" title="BaseHostDialog::updateWidgets" alt="" coords="955,112,1181,141"/>
+<area shape="rect" id="node13" href="$classResultImage.html#a08c6666d5f1866c8d7c821638a5d6752" title="ResultImage::width" alt="" coords="997,165,1139,195"/>
+<area shape="rect" id="node17" href="$classFrames.html#a82d642f30f1b9b57ba9d62f4cd8e7903" title="Swaps the frame sources so, for example, left camera becomes right, and right camera becomes left..." alt="" coords="968,219,1168,248"/>
+</map>

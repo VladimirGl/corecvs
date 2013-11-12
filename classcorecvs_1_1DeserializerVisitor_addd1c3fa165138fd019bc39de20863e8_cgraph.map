@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLNode.html#a20f48e99b03e9c17487944f229bee130" title="Get the first child element, or optionally the first child element with the specified name..." alt="" coords="581,84,843,113"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1XMLElement.html#af86f05771c11a73a2896b662bb589ef5" title="Given an attribute name, IntAttribute() returns the value of the attribute interpreted as an integer..." alt="" coords="280,163,523,192"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLElement.html#ad9ff5c2dbc15df36cf664ce1b0ea0a5d" title="Safely cast to an Element, or null." alt="" coords="915,59,1152,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="1215,109,1425,139"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLElement.html#a8bff355472bce2c60d4b50a212bf7f5f" title="Get the name of an element (which is the Value() of the node.)" alt="" coords="928,5,1139,35"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLNode.html#a7682be117e3b2b4ebfd517c1acaaadbf" title="The meaning of &#39;value&#39; changes for the specific type." alt="" coords="1227,31,1413,60"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="1475,163,1651,192"/>
+<area shape="rect" id="node17" href="$classtinyxml2_1_1XMLElement.html#a8b92c729346aa8ea9acd59ed3e9f2378" title="Given an attribute name, QueryIntAttribute() returns XML_NO_ERROR, XML_WRONG_ATTRIBUTE_TYPE if the co..." alt="" coords="572,163,852,192"/>
+<area shape="rect" id="node19" href="$classtinyxml2_1_1XMLElement.html#aaf46b0799ea419e5d070ac9a357de48f" title="Query a specific attribute in the list." alt="" coords="908,163,1159,192"/>
+<area shape="rect" id="node25" href="$classtinyxml2_1_1XMLAttribute.html#ad510a83c4ff2755844bb250b125d28ff" title="QueryIntAttribute interprets the attribute as an integer, and returns the value in the provided parem..." alt="" coords="903,216,1164,245"/>
+<area shape="rect" id="node22" href="$classtinyxml2_1_1XMLAttribute.html#a631990ac0d176e38fc291b17b295a62d" title="The name of the attribute." alt="" coords="1213,163,1427,192"/>
+<area shape="rect" id="node27" href="$classtinyxml2_1_1XMLUtil.html#ad4df4023d11ee3fca9689c49b9707323" title="tinyxml2::XMLUtil::ToInt" alt="" coords="1237,269,1403,299"/>
+<area shape="rect" id="node29" href="$classtinyxml2_1_1XMLAttribute.html#adf884db24f469f8a99a14ae786d4ddd7" title="The value of the attribute." alt="" coords="1216,216,1424,245"/>
+</map>

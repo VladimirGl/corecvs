@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classGainOffsetParametersControlWidget.html#adc28f217b8952daed1f162ae7d22177a" title="GainOffsetParametersControlWidget::createParameters" alt="" coords="425,5,799,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="503,59,721,88"/>
+<area shape="rect" id="node9" href="$classGainOffsetParametersControlWidget.html#a73c454e42e99d25c146f0f79bb0bc7b0" title="GainOffsetParametersControlWidget::setParameters" alt="" coords="435,139,789,168"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="945,45,1119,75"/>
+<area shape="rect" id="node11" href="$classGainOffsetParameters.html#ac05f030b9d1f1f808d0e6801b27f3eae" title="GainOffsetParameters::gain" alt="" coords="933,99,1131,128"/>
+<area shape="rect" id="node13" href="$classGainOffsetParameters.html#afccfc6752733c6bc666db2fe12d10b55" title="GainOffsetParameters::offset" alt="" coords="929,152,1135,181"/>
+<area shape="rect" id="node15" href="$classGainOffsetParametersControlWidget.html#a2ad71b0231b520bb0236a0b45a223fc4" title="GainOffsetParametersControlWidget::paramsChanged" alt="" coords="849,205,1215,235"/>
+</map>

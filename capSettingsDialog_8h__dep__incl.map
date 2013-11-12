@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$capSettingsDialog_8cpp.html" title="utils/uis/capSettingsDialog.cpp" alt="" coords="17,83,233,112"/>
+<area shape="rect" id="node5" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="257,83,508,112"/>
+<area shape="rect" id="node7" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="5,160,269,189"/>
+<area shape="rect" id="node9" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="69,237,312,267"/>
+<area shape="rect" id="node11" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="344,160,571,189"/>
+<area shape="rect" id="node18" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="613,160,880,189"/>
+<area shape="rect" id="node14" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="336,237,579,267"/>
+<area shape="rect" id="node16" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="603,237,891,267"/>
+<area shape="rect" id="node21" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="915,237,1195,267"/>
+</map>

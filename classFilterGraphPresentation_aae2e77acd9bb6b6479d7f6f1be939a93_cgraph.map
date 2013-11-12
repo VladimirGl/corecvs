@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classFilterGraphPresentation.html#ae7c2fe6cd11ee982fc163dbe01d3fe45" title="FilterGraphPresentation::addFilter" alt="" coords="416,584,651,613"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1CompoundFilter.html#a337a7f48aa46b0c316e3cdc2cbd83ab5" title="corecvs::CompoundFilter::dependsOnMe" alt="" coords="765,160,1043,189"/>
+<area shape="rect" id="node13" href="$classFilterGraphPresentation.html#ab58cc579d8c8543c3689bced9d71846a" title="FilterGraphPresentation::graphChangedSlot" alt="" coords="755,1003,1053,1032"/>
+<area shape="rect" id="node17" href="$classFilterGraphPresentation.html#a742e19b33cb16af2bce687a035b12b82" title="FilterGraphPresentation::graphChanged" alt="" coords="1161,787,1436,816"/>
+<area shape="rect" id="node29" href="$classFilterGraphPresentation.html#a25883bfe5e68954fcfb515122c177d42" title="FilterGraphPresentation::getGraphFileName" alt="" coords="1149,517,1448,547"/>
+<area shape="rect" id="node47" href="$classFilterGraphPresentation.html#aa9cddf1dcc9ed9dafb09583f26cb9c02" title="FilterGraphPresentation::blockItemSelected" alt="" coords="384,1059,683,1088"/>
+<area shape="rect" id="node49" href="$classFilterGraphPresentation.html#adf124724021ead986fb178e600152c4f" title="FilterGraphPresentation::deleteItem" alt="" coords="409,1163,657,1192"/>
+<area shape="rect" id="node81" href="$classFilterGraphPresentation.html#abd298ffa912b239357bd2a53b83a7559" title="FilterGraphPresentation::drawGraphClicked" alt="" coords="387,5,680,35"/>
+<area shape="rect" id="node87" href="$classcorecvs_1_1CompoundFilter.html#a53c3e72d27bcb98f8a01c64feb40f44f" title="corecvs::CompoundFilter::getTypeName" alt="" coords="396,1216,671,1245"/>
+<area shape="rect" id="node91" href="$classFilterGraphPresentation.html#a4e63c3eeaf9568a567ca5cbfafdf37a2" title="FilterGraphPresentation::nameChanged" alt="" coords="396,1843,671,1872"/>
+<area shape="rect" id="node99" href="$classFilterGraphPresentation.html#a39603dc2c9812fc8e6c9eaee303ce6d0" title="FilterGraphPresentation::pinItemSelected" alt="" coords="392,1429,675,1459"/>
+<area shape="rect" id="node101" href="$classFilterGraphPresentation.html#abc39087eaec230727a289ecd898d091e" title="FilterGraphPresentation::saveAsClicked" alt="" coords="399,1376,668,1405"/>
+<area shape="rect" id="node109" href="$classFilterGraphPresentation.html#a408b9758137e4cb103ff396afc58391b" title="FilterGraphPresentation::serializeClicked" alt="" coords="395,1737,672,1767"/>
+<area shape="rect" id="node114" href="$classDiagramScene.html#a97a39c8cf559856cbbc663ffb31793c6" title="DiagramScene::setFilterGraph" alt="" coords="427,1896,640,1925"/>
+<area shape="rect" id="node116" href="$classFilterGraphPresentation.html#a480518f3d25bcf5470e4c2d2ec40ec5d" title="FilterGraphPresentation::zoomChanged" alt="" coords="768,2003,1040,2032"/>
+<area shape="rect" id="node118" href="$classFilterGraphPresentation.html#adb4538415c5ef840a9ae5d9d6babed63" title="FilterGraphPresentation::zoomReset" alt="" coords="408,2001,659,2031"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1FiltersCollection.html#a1ae15dd346537f37e142695f131f6735" title="corecvs::FiltersCollection::getBlockFromRow" alt="" coords="756,531,1052,560"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1FilterGraph.html#afea126986df53c06ff1b82e83eb7e7c5" title="corecvs::FilterGraph::addBlock" alt="" coords="797,584,1011,613"/>
+<area shape="rect" id="node11" href="$classFilterPresentationsCollection.html#a79f80f5b9a2545160eff56db2bdba583" title="FilterPresentationsCollection::presentationByName" alt="" coords="731,264,1077,293"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1CompoundFilter.html#a49fe3e853404605e578e33c267c35131" title="corecvs::CompoundFilter::addInputPin" alt="" coords="773,317,1035,347"/>
+<area shape="rect" id="node21" href="$classCompoundBlockPresentation.html#a33ddccda17d9d3e88c2b4683d08b028a" title="CompoundBlockPresentation::addInputPin" alt="" coords="759,371,1049,400"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1CompoundFilter.html#ad514acdcbefe510d072299d2a1f5521f" title="corecvs::CompoundFilter::addOutputPin" alt="" coords="767,424,1041,453"/>
+<area shape="rect" id="node25" href="$classCompoundBlockPresentation.html#a96c7ee4d02440d036c2231c5ff36bdbf" title="CompoundBlockPresentation::addOutputPin" alt="" coords="753,477,1055,507"/>
+<area shape="rect" id="node27" href="$classFilterGraphPresentation.html#a66733ba1235fdd4053288705d46a0713" title="FilterGraphPresentation::saveGraphToFile" alt="" coords="763,872,1045,901"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1FilterGraph.html#a8c6796b0874ae2041537419463a223b4" title="corecvs::FilterGraph::ultimateParent" alt="" coords="779,688,1029,717"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1FilterGraph.html#ae283bb4eb8ca5330a86983cc9ab1a6b9" title="corecvs::FilterGraph::renewCompoundFilters" alt="" coords="753,765,1055,795"/>
+<area shape="rect" id="node38" href="$classFilterGraphPresentation.html#ab145e21aaf8c2c503833fea926fba611" title="FilterGraphPresentation::rootParent" alt="" coords="781,819,1027,848"/>
+<area shape="rect" id="node40" href="$classFilterGraphPresentation.html#aed69e4fb3a2c8d550ba87060d1051c97" title="FilterGraphPresentation::renewCompoundFilters" alt="" coords="741,949,1067,979"/>
+<area shape="rect" id="node43" href="$classcorecvs_1_1FiltersCollection.html#a4151900da8dc46da3adede5b3913d932" title="corecvs::FiltersCollection::recalculateDependencies" alt="" coords="1125,917,1472,947"/>
+<area shape="rect" id="node45" href="$classFilterBlockPresentation.html#a8d2fc7d451ae70951066dc6edf5864de" title="*&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;* | | |&lt; &gt;| | Type | |&lt; &gt;| | Name | | &gt;| | | *&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;..." alt="" coords="1196,109,1401,139"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1FilterGraph.html#a3ba7f7a7192ad0661728dffbd4316b32" title="corecvs::FilterGraph::serialize" alt="" coords="1195,1241,1403,1271"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1FilterGraph.html#a2b58f807e59199132010d0e5c45dd91b" title="corecvs::FilterGraph::saveToFile" alt="" coords="1189,1125,1408,1155"/>
+<area shape="rect" id="node51" href="$classArrow.html#aca1c4bf8681a1449b8e09af3dac9b797" title="Arrow::startItem" alt="" coords="1237,1544,1360,1573"/>
+<area shape="rect" id="node53" href="$classArrow.html#a363d170cfcc7db0472843a93de7e86d4" title="Arrow::endItem" alt="" coords="1240,1621,1357,1651"/>
+<area shape="rect" id="node55" href="$classcorecvs_1_1FilterGraph.html#a472f56a5c2d27b4a9782ea7ca758f171" title="corecvs::FilterGraph::breakConnection" alt="" coords="772,1269,1036,1299"/>
+<area shape="rect" id="node57" href="$classDiagramItem.html#af85bfb4edd1f641fae6b605e4bb529b4" title="DiagramItem::removeArrow" alt="" coords="1200,1441,1397,1471"/>
+<area shape="rect" id="node59" href="$classDiagramItem.html#ade8fc7eb5fc8795ed32088b9d84d8e79" title="DiagramItem::removeArrows" alt="" coords="801,1581,1007,1611"/>
+<area shape="rect" id="node64" href="$classcorecvs_1_1FilterGraph.html#a4476549f11d03afee0f22ea4d86a17e4" title="corecvs::FilterGraph::removeBlock" alt="" coords="785,1323,1023,1352"/>
+<area shape="rect" id="node66" href="$classCompoundBlockPresentation.html#af07f53ac54a6370df1f1f927d6a70245" title="CompoundBlockPresentation::removeInputPin" alt="" coords="747,1056,1061,1085"/>
+<area shape="rect" id="node68" href="$classcorecvs_1_1CompoundFilter.html#a1b24de6647f203d35b166e0725b840be" title="corecvs::CompoundFilter::removeInputPin" alt="" coords="761,1109,1047,1139"/>
+<area shape="rect" id="node70" href="$classCompoundBlockPresentation.html#a9720b5574aa8221763e733b40e20afdd" title="CompoundBlockPresentation::removeOutputPin" alt="" coords="741,1163,1067,1192"/>
+<area shape="rect" id="node72" href="$classcorecvs_1_1CompoundFilter.html#a5aadd9f9bac0714c6074d25a0fa8e83d" title="corecvs::CompoundFilter::removeOutputPin" alt="" coords="755,1216,1053,1245"/>
+<area shape="rect" id="node83" href="$classFilterGraphPresentation.html#a41ea768238f34bae7d7376eae2e2cbb6" title="FilterGraphPresentation::drawGraph" alt="" coords="780,5,1028,35"/>
+<area shape="rect" id="node93" href="$classcorecvs_1_1FilterBlock.html#a1705879f007b5963183d3148f2931c65" title="corecvs::FilterBlock::setInstanceName" alt="" coords="772,1896,1036,1925"/>
+<area shape="rect" id="node95" href="$classFilterBlockPresentation.html#a4130950e64a893af36740c8d4aa6451d" title="FilterBlockPresentation::drawBlockName" alt="" coords="765,1949,1043,1979"/>
+<area shape="rect" id="node97" href="$classFilterPinPresentation.html#a7c2ccb09a8445198a21dacae6436e319" title="FilterPinPresentation::drawPinName" alt="" coords="780,1843,1028,1872"/>
+<area shape="rect" id="node104" href="$classcorecvs_1_1FiltersCollection.html#aeddc8f578f772cdf42e9863eba5bf275" title="corecvs::FiltersCollection::addFilterType" alt="" coords="771,1376,1037,1405"/>
+<area shape="rect" id="node107" href="$classcorecvs_1_1FiltersCollection.html#a087f7b2eecbd12785f4ee52d2155245d" title="corecvs::FiltersCollection::saveCompoundFilters" alt="" coords="743,1685,1065,1715"/>
+<area shape="rect" id="node112" href="$classtinyxml2_1_1XMLPrinter.html#a4a1b788e11b540921ec50687cd2b24a9" title="If in print to memory mode, return a pointer to the XML file in memory." alt="" coords="811,1789,997,1819"/>
+</map>

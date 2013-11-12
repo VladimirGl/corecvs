@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBinarizeParametersControlWidget.html#ad3ff39414b8c939a25f43de0d0e27156" title="BinarizeParametersControlWidget::createParameters" alt="" coords="409,5,767,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="479,59,697,88"/>
+<area shape="rect" id="node9" href="$classBinarizeParametersControlWidget.html#a6d24e43be81475a3bd95548afe0efbef" title="BinarizeParametersControlWidget::setParameters" alt="" coords="419,112,757,141"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="905,59,1079,88"/>
+<area shape="rect" id="node11" href="$classBinarizeParameters.html#a98683a0ee51a8a543034e928ef227092" title="BinarizeParameters::threshold" alt="" coords="885,112,1099,141"/>
+<area shape="rect" id="node13" href="$classBinarizeParametersControlWidget.html#a80c4a6212a6e66877538febefcbcedc5" title="BinarizeParametersControlWidget::paramsChanged" alt="" coords="817,165,1167,195"/>
+</map>

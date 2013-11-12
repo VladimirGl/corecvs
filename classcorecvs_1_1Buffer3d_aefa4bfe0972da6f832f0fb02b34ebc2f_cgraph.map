@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="312,5,544,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1AbstractBuffer.html#af38950daefa219f81a0e89ee186075f1" title="Checks if coordinate lies within the buffer area." alt="" coords="300,59,556,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Vector2d.html#a8b1b9448eba22543b2d6a405736f4089" title="corecvs::Vector2d::leftNormal" alt="" coords="323,112,533,141"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="353,165,503,195"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="353,219,503,248"/>
+</map>

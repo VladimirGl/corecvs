@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$basePathVisitor_8cpp.html" title="Add Comment Here." alt="" coords="1951,83,2209,112"/>
+<area shape="rect" id="node5" href="$propertyListVisitor_8h.html" title="Add Comment Here." alt="" coords="2233,83,2492,112"/>
+<area shape="rect" id="node11" href="$defaultSetterOld_8h.html" title="utils/visitors/defaultSetterOld.h" alt="" coords="11287,83,11505,112"/>
+<area shape="rect" id="node13" href="$qSettingsGetter_8h.html" title="utils/visitors/qSettingsGetter.h" alt="" coords="4629,83,4843,112"/>
+<area shape="rect" id="node93" href="$qSettingsSetter_8h.html" title="utils/visitors/qSettingsSetter.h" alt="" coords="7147,83,7360,112"/>
+<area shape="rect" id="node129" href="$xmlGetter_8h.html" title="utils/visitors/xmlGetter.h" alt="" coords="10889,83,11065,112"/>
+<area shape="rect" id="node134" href="$xmlSetter_8h.html" title="utils/visitors/xmlSetter.h" alt="" coords="11089,83,11263,112"/>
+<area shape="rect" id="node7" href="$propertyListVisitor_8cpp.html" title="Add Comment Here." alt="" coords="5,160,280,189"/>
+<area shape="rect" id="node9" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="355,160,619,189"/>
+<area shape="rect" id="node15" href="$draw3dCameraParametersControlWidget_8cpp.html" title="utils/3d/generated/draw3dCameraParametersControlWidget.cpp" alt="" coords="9340,315,9769,344"/>
+<area shape="rect" id="node17" href="$draw3dParametersControlWidget_8cpp.html" title="utils/3d/generated/draw3dParametersControlWidget.cpp" alt="" coords="8925,315,9304,344"/>
+<area shape="rect" id="node19" href="$draw3dViMouseParametersControlWidget_8cpp.html" title="utils/3d/generated/draw3dViMouseParametersControlWidget.cpp" alt="" coords="8469,315,8901,344"/>
+<area shape="rect" id="node21" href="$axisAlignedBoxParametersControlWidget_8cpp.html" title="utils/corestructs/coreWidgets/axisAlignedBoxParametersControlWidget.cpp" alt="" coords="9793,315,10289,344"/>
+<area shape="rect" id="node23" href="$headSearchParametersControlWidget_8cpp.html" title="utils/corestructs/coreWidgets/headSearchParametersControlWidget.cpp" alt="" coords="11099,315,11576,344"/>
+<area shape="rect" id="node25" href="$makePreciseParametersControlWidget_8cpp.html" title="utils/corestructs/coreWidgets/makePreciseParametersControlWidget.cpp" alt="" coords="3763,160,4245,189"/>
+<area shape="rect" id="node27" href="$rgbColorParametersControlWidget_8cpp.html" title="utils/corestructs/coreWidgets/rgbColorParametersControlWidget.cpp" alt="" coords="4269,160,4723,189"/>
+<area shape="rect" id="node29" href="$openCVBMParametersControlWidget_8cpp.html" title="utils/corestructs/libWidgets/openCVBMParametersControlWidget.cpp" alt="" coords="4747,160,5203,189"/>
+<area shape="rect" id="node31" href="$openCVSGMParametersControlWidget_8cpp.html" title="utils/corestructs/libWidgets/openCVSGMParametersControlWidget.cpp" alt="" coords="5227,160,5693,189"/>
+<area shape="rect" id="node33" href="$parametersControlWidgetBase_8h.html" title="utils/corestructs/parametersControlWidgetBase.h" alt="" coords="11008,160,11344,189"/>
+<area shape="rect" id="node52" href="$backgroundFilterParametersControlWidget_8cpp.html" title="utils/filters/ui/backgroundFilterParametersControlWidget.cpp" alt="" coords="5717,160,6117,189"/>
+<area shape="rect" id="node54" href="$binarizeParametersControlWidget_8cpp.html" title="utils/filters/ui/binarizeParametersControlWidget.cpp" alt="" coords="6141,160,6488,189"/>
+<area shape="rect" id="node56" href="$bitSelectorParametersControlWidget_8cpp.html" title="utils/filters/ui/bitSelectorParametersControlWidget.cpp" alt="" coords="6512,160,6877,189"/>
+<area shape="rect" id="node58" href="$cannyParametersControlWidget_8cpp.html" title="utils/filters/ui/cannyParametersControlWidget.cpp" alt="" coords="6901,160,7235,189"/>
+<area shape="rect" id="node60" href="$gainOffsetParametersControlWidget_8cpp.html" title="utils/filters/ui/gainOffsetParametersControlWidget.cpp" alt="" coords="7259,160,7619,189"/>
+<area shape="rect" id="node62" href="$inputFilterParametersControlWidget_8cpp.html" title="utils/filters/ui/inputFilterParametersControlWidget.cpp" alt="" coords="7643,160,8000,189"/>
+<area shape="rect" id="node64" href="$maskingParametersControlWidget_8cpp.html" title="utils/filters/ui/maskingParametersControlWidget.cpp" alt="" coords="8024,160,8373,189"/>
+<area shape="rect" id="node66" href="$openCVFilterParametersControlWidget_8cpp.html" title="utils/filters/ui/openCVFilterParametersControlWidget.cpp" alt="" coords="8397,160,8773,189"/>
+<area shape="rect" id="node68" href="$operationFilterControlWidget_8cpp.html" title="utils/filters/ui/operationFilterControlWidget.cpp" alt="" coords="8797,160,9109,189"/>
+<area shape="rect" id="node70" href="$operationParametersControlWidget_8cpp.html" title="utils/filters/ui/operationParametersControlWidget.cpp" alt="" coords="9133,160,9491,189"/>
+<area shape="rect" id="node72" href="$outputFilterParametersControlWidget_8cpp.html" title="utils/filters/ui/outputFilterParametersControlWidget.cpp" alt="" coords="9515,160,9883,189"/>
+<area shape="rect" id="node74" href="$sobelParametersControlWidget_8cpp.html" title="utils/filters/ui/sobelParametersControlWidget.cpp" alt="" coords="9907,160,10237,189"/>
+<area shape="rect" id="node76" href="$thickeningParametersControlWidget_8cpp.html" title="utils/filters/ui/thickeningParametersControlWidget.cpp" alt="" coords="1099,160,1459,189"/>
+<area shape="rect" id="node78" href="$rectifyParametersControlWidget_8cpp.html" title="utils/rectifier/rectifyParametersControlWidget.cpp" alt="" coords="1483,160,1816,189"/>
+<area shape="rect" id="node80" href="$qSettingsGetter_8cpp.html" title="utils/visitors/qSettingsGetter.cpp" alt="" coords="643,160,872,189"/>
+<area shape="rect" id="node82" href="$graphPlotParametersControlWidget_8cpp.html" title="utils/widgets/generated/graphPlotParametersControlWidget.cpp" alt="" coords="1840,160,2264,189"/>
+<area shape="rect" id="node85" href="$baseParametersControlWidget_8cpp.html" title="applications/base/baseParametersControlWidget.cpp" alt="" coords="2288,160,2645,189"/>
+<area shape="rect" id="node87" href="$presentationParametersControlWidget_8cpp.html" title="applications/base/presentationParametersControlWidget.cpp" alt="" coords="2669,160,3077,189"/>
+<area shape="rect" id="node89" href="$recorderControlWidget_8cpp.html" title="applications/recorder/recorderControlWidget.cpp" alt="" coords="3101,160,3432,189"/>
+<area shape="rect" id="node91" href="$recorderWidget_8cpp.html" title="applications/recorder/recorderWidget.cpp" alt="" coords="3456,160,3739,189"/>
+<area shape="rect" id="node35" href="$scene3D_8h.html" title="utils/3d/scene3D.h" alt="" coords="10944,237,11083,267"/>
+<area shape="rect" id="node37" href="$draw3dParametersControlWidget_8h.html" title="utils/3d/draw3dParametersControlWidget.h" alt="" coords="9603,237,9896,267"/>
+<area shape="rect" id="node40" href="$draw3dCameraParametersControlWidget_8h.html" title="utils/3d/draw3dCameraParametersControlWidget.h" alt="" coords="10021,237,10365,267"/>
+<area shape="rect" id="node43" href="$draw3dViMouseParametersControlWidget_8h.html" title="utils/3d/draw3dViMouseParametersControlWidget.h" alt="" coords="9131,237,9477,267"/>
+<area shape="rect" id="node46" href="$axisAlignedBoxParametersControlWidget_8h.html" title="utils/corestructs/coreWidgets/axisAlignedBoxParametersControlWidget.h" alt="" coords="10389,237,10869,267"/>
+<area shape="rect" id="node49" href="$headSearchParametersControlWidget_8h.html" title="utils/corestructs/coreWidgets/headSearchParametersControlWidget.h" alt="" coords="11107,237,11568,267"/>
+<area shape="rect" id="node119" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="10464,160,10733,189"/>
+<area shape="rect" id="node121" href="$qSettingsSetter_8cpp.html" title="utils/visitors/qSettingsSetter.cpp" alt="" coords="10757,160,10984,189"/>
+<area shape="rect" id="node132" href="$xmlGetter_8cpp.html" title="utils/visitors/xmlGetter.cpp" alt="" coords="11643,160,11832,189"/>
+<area shape="rect" id="node137" href="$xmlSetter_8cpp.html" title="utils/visitors/xmlSetter.cpp" alt="" coords="11856,160,12045,189"/>
+</map>

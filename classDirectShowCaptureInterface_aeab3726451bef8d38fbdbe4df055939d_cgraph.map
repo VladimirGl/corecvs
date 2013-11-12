@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDirectShowCaptureInterface.html#ac31963c34e5f6cdf4c1547589e33e2f6" title="DirectShowCaptureInterface::isCorrectDeviceHandle" alt="" coords="437,133,792,163"/>
+<area shape="rect" id="node5" href="$classDirectShowCameraDescriptor.html#af9d47bd2e4c573992edc678675677a7b" title="DirectShowCameraDescriptor::queryCameraParameters" alt="" coords="425,187,804,216"/>
+<area shape="rect" id="node7" href="$classCaptureParameter.html#a0c5b9531fa9d123cd7a78442d4cd8461" title="CaptureParameter::pushMenuItem" alt="" coords="913,5,1156,35"/>
+<area shape="rect" id="node9" href="$classCaptureParameter.html#adadfa7fa5b4a82d750f7d2c4e93a6101" title="CaptureParameter::setActive" alt="" coords="1287,59,1492,88"/>
+<area shape="rect" id="node13" href="$classCaptureParameter.html#a2baf31448c9e2254580a5f116e68a740" title="CaptureParameter::setDefaultValue" alt="" coords="1265,115,1513,144"/>
+<area shape="rect" id="node17" href="$classDirectShowCameraDescriptor.html#a513fe665850d9d6c45e1cfe3210aaf1b" title="DirectShowCameraDescriptor::setFromCameraParam" alt="" coords="853,160,1216,189"/>
+<area shape="rect" id="node21" href="$classCaptureParameter.html#a2e1fea1aaad74ddd12a634970ff3044b" title="CaptureParameter::setMaximum" alt="" coords="1275,169,1504,199"/>
+<area shape="rect" id="node25" href="$classCaptureParameter.html#ab969e3abfe3a2f60fc33b545b7ab7790" title="CaptureParameter::setMinimum" alt="" coords="1276,228,1503,257"/>
+<area shape="rect" id="node29" href="$classCaptureParameter.html#a4a8384fd43ad3a5fda0a9c01f06d306a" title="CaptureParameter::setStep" alt="" coords="1291,292,1488,321"/>
+<area shape="rect" id="node33" href="$classCaptureParameter.html#a300c0e6f671b529352b2c5b942e6e296" title="CaptureParameter::setIsMenu" alt="" coords="928,365,1141,395"/>
+<area shape="rect" id="node11" href="$classCaptureParameter.html#a78517c84a35419cd0840911c7229bf67" title="CaptureParameter::active" alt="" coords="1583,59,1769,88"/>
+<area shape="rect" id="node15" href="$classCaptureParameter.html#a0848010609c9a68579d1a00d4f7c1abb" title="CaptureParameter::defaultValue" alt="" coords="1563,115,1789,144"/>
+<area shape="rect" id="node23" href="$classCaptureParameter.html#ae8e96136a9ec0d75c254595976c55dd1" title="CaptureParameter::maximum" alt="" coords="1569,169,1783,199"/>
+<area shape="rect" id="node27" href="$classCaptureParameter.html#a5f3b87a3528b27b3b9976a7741b89a21" title="CaptureParameter::minimum" alt="" coords="1572,228,1780,257"/>
+<area shape="rect" id="node31" href="$classCaptureParameter.html#a10d64cccf4901e157fb6cec1deaeb0f3" title="CaptureParameter::step" alt="" coords="1588,292,1764,321"/>
+<area shape="rect" id="node35" href="$classCaptureParameter.html#ad4d13b6b6bc4ab5b8ad1dd406a5bfced" title="CaptureParameter::isMenu" alt="" coords="1293,365,1485,395"/>
+</map>

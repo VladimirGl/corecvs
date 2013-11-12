@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$sobelFilter_8h.html" title="Add Comment Here." alt="" coords="243,83,411,112"/>
+<area shape="rect" id="node11" href="$sobelParameters_8cpp.html" title="core/xml/generated/sobelParameters.cpp" alt="" coords="435,83,720,112"/>
+<area shape="rect" id="node13" href="$sobelParametersControlWidget_8h.html" title="utils/filters/ui/sobelParametersControlWidget.h" alt="" coords="744,83,1059,112"/>
+<area shape="rect" id="node5" href="$filtersCollection_8cpp.html" title="core/filters/filtersCollection.cpp" alt="" coords="5,160,221,189"/>
+<area shape="rect" id="node7" href="$sobelFilter_8cpp.html" title="Add Comment Here." alt="" coords="245,160,427,189"/>
+<area shape="rect" id="node9" href="$filterSelector_8cpp.html" title="utils/filters/filterSelector.cpp" alt="" coords="485,160,683,189"/>
+<area shape="rect" id="node16" href="$filterPresentationsCollection_8cpp.html" title="utils/filters/graph/filterPresentationsCollection.cpp" alt="" coords="724,160,1060,189"/>
+<area shape="rect" id="node18" href="$sobelParametersControlWidget_8cpp.html" title="utils/filters/ui/sobelParametersControlWidget.cpp" alt="" coords="1084,160,1415,189"/>
+</map>

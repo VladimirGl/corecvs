@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classFilterSelector.html#ac437490a6c63149de296e38c8117c10e" title="FilterSelector::activateFilter" alt="" coords="259,5,453,35"/>
+<area shape="rect" id="node5" href="$classFilterSelector.html#a90b7290b0f5615ef388aadb21f9fb062" title="FilterSelector::addFilter" alt="" coords="273,59,439,88"/>
+<area shape="rect" id="node14" href="$classFilterSelector.html#aa68cc2e3a3a9ae71b030e2bc2e1c8a78" title="FilterSelector::deleteFilter" alt="" coords="265,112,447,141"/>
+<area shape="rect" id="node18" href="$classFilterSelector.html#a360cc9eed5c1ca77cd3d422b1ebcf1b3" title="FilterSelector::downFilter" alt="" coords="557,215,733,244"/>
+<area shape="rect" id="node21" href="$classFilterSelector.html#acad9e5fbe672f369f48c91dde1c50656" title="FilterSelector::getFilterNames" alt="" coords="251,216,461,245"/>
+<area shape="rect" id="node23" href="$classFilterSelector.html#a2feb0550644a671b2e53eb790af6fa25" title="FilterSelector::upFilter" alt="" coords="567,268,724,297"/>
+<area shape="rect" id="node7" href="$classFilterSelector.html#a666db27a7852a6cdc478825d5304cd68" title="FilterSelector::widgetFromName" alt="" coords="533,7,757,36"/>
+<area shape="rect" id="node9" href="$classFilterSelector.html#aa3490693c0f04d7787cfaf7754c94706" title="FilterSelector::parametersChangedSlot" alt="" coords="511,111,780,140"/>
+<area shape="rect" id="node11" href="$classFilterSelector.html#a5dd7e4dc29fc5b6ce962452343626386" title="FilterSelector::parametersChanged" alt="" coords="829,163,1075,192"/>
+</map>

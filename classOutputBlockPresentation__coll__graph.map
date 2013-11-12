@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classFilterBlockPresentation.html" title="FilterBlockPresentation" alt="" coords="3079,193,3244,223"/>
+<area shape="rect" id="node4" href="$classDiagramItem.html" title="[0]" alt="" coords="2187,75,2293,104"/>
+<area shape="rect" id="node8" href="$classFilterPinPresentation.html" title="FilterPinPresentation" alt="" coords="2413,165,2565,195"/>
+<area shape="rect" id="node11" href="$classDiagramScene.html" title="DiagramScene" alt="" coords="2181,199,2299,228"/>
+<area shape="rect" id="node13" href="$classDiagramTextItem.html" title="DiagramTextItem" alt="" coords="1937,136,2068,165"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1FilterGraph.html" title="corecvs::FilterGraph" alt="" coords="1687,347,1833,376"/>
+<area shape="rect" id="node45" href="$classcorecvs_1_1FilterBlock.html" title="corecvs::FilterBlock" alt="" coords="1932,347,2073,376"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1FiltersCollection.html" title="corecvs::FiltersCollection" alt="" coords="1384,265,1563,295"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1FiltersCollection_1_1CompoundFilterType.html" title="corecvs::FiltersCollection::CompoundFilterType" alt="" coords="525,232,840,261"/>
+<area shape="rect" id="node25" title="STL class." alt="" coords="271,288,356,317"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1Statistics.html" title="corecvs::Statistics" alt="" coords="1025,349,1164,379"/>
+<area shape="rect" id="node27" title="STL class." alt="" coords="5,288,189,317"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1PreciseTimer.html" title="corecvs::PreciseTimer" alt="" coords="603,351,763,380"/>
+<area shape="rect" id="node35" href="$structcorecvs_1_1SingleStat.html" title="corecvs::SingleStat" alt="" coords="241,404,385,433"/>
+<area shape="rect" id="node42" href="$classcorecvs_1_1Pin.html" title="corecvs::Pin" alt="" coords="2191,295,2289,324"/>
+<area shape="rect" id="node53" href="$classFilterParametersControlWidgetBase.html" title="FilterParametersControlWidgetBase" alt="" coords="2688,399,2933,428"/>
+</map>

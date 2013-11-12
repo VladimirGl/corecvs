@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLNode.html#a6088246532b02895beb0e6fa561a7f3b" title="Get the last child node, or null if none exists." alt="" coords="287,5,497,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLHandle.html#a9c240a35c18f053509b4b97ddccd9793" title="Create a handle from any node (at any depth of the tree.) This can be a null pointer." alt="" coords="275,59,509,88"/>
+</map>

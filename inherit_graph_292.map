@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classDiagramItem.html" title="[0]" alt="" coords="5,125,112,155"/>
+<area shape="rect" id="node3" href="$classFilterBlockPresentation.html" title="FilterBlockPresentation" alt="" coords="161,85,327,115"/>
+<area shape="rect" id="node11" href="$classFilterPinPresentation.html" title="FilterPinPresentation" alt="" coords="168,165,320,195"/>
+<area shape="rect" id="node5" href="$classCompoundBlockPresentation.html" title="CompoundBlockPresentation" alt="" coords="377,5,583,35"/>
+<area shape="rect" id="node7" href="$classInputBlockPresentation.html" title="InputBlockPresentation" alt="" coords="396,59,564,88"/>
+<area shape="rect" id="node9" href="$classOutputBlockPresentation.html" title="OutputBlockPresentation" alt="" coords="389,112,571,141"/>
+<area shape="rect" id="node13" href="$classG12PinPresentation.html" title="G12PinPresentation" alt="" coords="407,165,553,195"/>
+<area shape="rect" id="node15" href="$classTxtPinPresentation.html" title="TxtPinPresentation" alt="" coords="409,219,551,248"/>
+</map>

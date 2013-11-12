@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$draw3dCameraParametersControlWidget_8h.html" title="utils/3d/draw3dCameraParametersControlWidget.h" alt="" coords="212,83,556,112"/>
+<area shape="rect" id="node13" href="$draw3dCameraParameters_8cpp.html" title="utils/3d/generated/draw3dCameraParameters.cpp" alt="" coords="580,83,919,112"/>
+<area shape="rect" id="node5" href="$draw3dCameraParametersControlWidget_8cpp.html" title="utils/3d/generated/draw3dCameraParametersControlWidget.cpp" alt="" coords="5,160,435,189"/>
+<area shape="rect" id="node7" href="$mesh3DScene_8h.html" title="utils/3d/mesh3DScene.h" alt="" coords="459,160,637,189"/>
+<area shape="rect" id="node9" href="$mesh3DScene_8cpp.html" title="utils/3d/mesh3DScene.cpp" alt="" coords="324,237,516,267"/>
+<area shape="rect" id="node11" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="540,237,809,267"/>
+</map>

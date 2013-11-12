@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCaptureParameter.html#adadfa7fa5b4a82d750f7d2c4e93a6101" title="CaptureParameter::setActive" alt="" coords="439,5,644,35"/>
+<area shape="rect" id="node7" href="$classCaptureParameter.html#a2baf31448c9e2254580a5f116e68a740" title="CaptureParameter::setDefaultValue" alt="" coords="417,59,665,88"/>
+<area shape="rect" id="node11" href="$classCaptureParameter.html#a2e1fea1aaad74ddd12a634970ff3044b" title="CaptureParameter::setMaximum" alt="" coords="427,112,656,141"/>
+<area shape="rect" id="node15" href="$classCaptureParameter.html#ab969e3abfe3a2f60fc33b545b7ab7790" title="CaptureParameter::setMinimum" alt="" coords="428,165,655,195"/>
+<area shape="rect" id="node19" href="$classCaptureParameter.html#a4a8384fd43ad3a5fda0a9c01f06d306a" title="CaptureParameter::setStep" alt="" coords="443,219,640,248"/>
+<area shape="rect" id="node5" href="$classCaptureParameter.html#a78517c84a35419cd0840911c7229bf67" title="CaptureParameter::active" alt="" coords="735,5,921,35"/>
+<area shape="rect" id="node9" href="$classCaptureParameter.html#a0848010609c9a68579d1a00d4f7c1abb" title="CaptureParameter::defaultValue" alt="" coords="715,59,941,88"/>
+<area shape="rect" id="node13" href="$classCaptureParameter.html#ae8e96136a9ec0d75c254595976c55dd1" title="CaptureParameter::maximum" alt="" coords="721,112,935,141"/>
+<area shape="rect" id="node17" href="$classCaptureParameter.html#a5f3b87a3528b27b3b9976a7741b89a21" title="CaptureParameter::minimum" alt="" coords="724,165,932,195"/>
+<area shape="rect" id="node21" href="$classCaptureParameter.html#a10d64cccf4901e157fb6cec1deaeb0f3" title="CaptureParameter::step" alt="" coords="740,219,916,248"/>
+</map>

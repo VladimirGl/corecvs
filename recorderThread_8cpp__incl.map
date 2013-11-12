@@ -1,0 +1,35 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$recorderThread_8h.html" title="recorderThread.h" alt="" coords="2863,83,2994,112"/>
+<area shape="rect" id="node153" href="$g12Image_8h.html" title="g12Image.h" alt="" coords="128,392,227,421"/>
+<area shape="rect" id="node161" href="$imageResultLayer_8h.html" title="imageResultLayer.h" alt="" coords="366,315,512,344"/>
+<area shape="rect" id="node13" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1551,701,1623,731"/>
+<area shape="rect" id="node17" href="$baseCalculationThread_8h.html" title="baseCalculationThread.h" alt="" coords="1394,160,1572,189"/>
+<area shape="rect" id="node49" href="$imageCaptureInterface_8h.html" title="imageCaptureInterface.h" alt="" coords="1318,469,1499,499"/>
+<area shape="rect" id="node65" href="$calculationStats_8h.html" title="Add Comment Here." alt="" coords="2518,469,2654,499"/>
+<area shape="rect" id="node71" href="$preciseTimer_8h.html" title="Add Comment Here." alt="" coords="2668,547,2783,576"/>
+<area shape="rect" id="node131" href="$ppmLoader_8h.html" title="This is a header for PPM file format reader." alt="" coords="3058,392,3164,421"/>
+<area shape="rect" id="node140" href="$recorder_8h.html" title="generatedParameters/recorder.h" alt="" coords="2783,315,3012,344"/>
+<area shape="rect" id="node26" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="1756,469,1847,499"/>
+<area shape="rect" id="node29" href="$displacementBuffer_8h.html" title="This file hold the class DisplacementBuffer." alt="" coords="1458,392,1615,421"/>
+<area shape="rect" id="node41" href="$abstractCalculationThread_8h.html" title="abstractCalculationThread.h" alt="" coords="1212,315,1412,344"/>
+<area shape="rect" id="node44" href="$frames_8h.html" title="Add Comment Here." alt="" coords="1060,392,1138,421"/>
+<area shape="rect" id="node62" href="$filterGraph_8h.html" title="filterGraph.h" alt="" coords="1922,392,2023,421"/>
+<area shape="rect" id="node78" href="$baseParameters_8h.html" title="generatedParameters/baseParameters.h" alt="" coords="2476,315,2759,344"/>
+<area shape="rect" id="node95" href="$presentationParameters_8h.html" title="generatedParameters/presentationParameters.h" alt="" coords="2119,315,2452,344"/>
+<area shape="rect" id="node102" href="$camerasConfigParameters_8h.html" title="camerasConfigParameters.h" alt="" coords="1690,315,1892,344"/>
+<area shape="rect" id="node108" href="$filterSelector_8h.html" title="filters/filterSelector.h" alt="" coords="783,392,935,421"/>
+<area shape="rect" id="node114" href="$filterExecuter_8h.html" title="Add Comment Here." alt="" coords="780,237,935,267"/>
+<area shape="rect" id="node118" href="$baseOutputData_8h.html" title="baseOutputData.h" alt="" coords="1010,237,1148,267"/>
+<area shape="rect" id="node127" href="$transformationCache_8h.html" title="transformationCache.h" alt="" coords="1459,237,1627,267"/>
+<area shape="rect" id="node33" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="2707,624,2803,653"/>
+<area shape="rect" id="node37" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="954,624,1047,653"/>
+<area shape="rect" id="node56" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="1035,547,1142,576"/>
+<area shape="rect" id="node80" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="2299,469,2392,499"/>
+<area shape="rect" id="node88" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="2583,392,2700,421"/>
+<area shape="rect" id="node92" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="2444,392,2559,421"/>
+<area shape="rect" id="node100" href="$outputStyle_8h.html" title="outputStyle.h" alt="" coords="1740,392,1847,421"/>
+<area shape="rect" id="node123" href="$resultImage_8h.html" title="layers/resultImage.h" alt="" coords="607,392,759,421"/>
+<area shape="rect" id="node135" href="$bufferLoader_8h.html" title="Add Comment Here." alt="" coords="2908,469,3023,499"/>
+<area shape="rect" id="node158" href="$viAreaWidget_8h.html" title="viAreaWidget.h" alt="" coords="23,469,140,499"/>
+<area shape="rect" id="node171" href="$painterHelpers_8h.html" title="Add Comment Here." alt="" coords="303,392,431,421"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$flowBuffer_8cpp.html" title="Add Comment Here." alt="" coords="552,83,771,112"/>
+<area shape="rect" id="node5" href="$vectorTraits_8h.html" title="core/buffers/kernels/fastkernel/vectorTraits.h" alt="" coords="795,83,1099,112"/>
+<area shape="rect" id="node23" href="$sse_2sseWrapper_8cpp.html" title="core/math/sse/sseWrapper.cpp" alt="" coords="1123,83,1341,112"/>
+<area shape="rect" id="node25" href="$decoupleYUYV_8h.html" title="utils/framesources/decoders/decoupleYUYV.h" alt="" coords="2008,83,2315,112"/>
+<area shape="rect" id="node7" href="$g12Buffer_8cpp.html" title="Add Comment Here." alt="" coords="5,160,195,189"/>
+<area shape="rect" id="node9" href="$spatialGradient_8cpp.html" title="Add Comment Here." alt="" coords="219,160,493,189"/>
+<area shape="rect" id="node11" href="$morphological_8cpp.html" title="Add Comment Here." alt="" coords="517,160,829,189"/>
+<area shape="rect" id="node13" href="$cannyFilter_8cpp.html" title="Add Comment Here." alt="" coords="853,160,1040,189"/>
+<area shape="rect" id="node15" href="$operationFilter_8h.html" title="core/filters/operationFilter.h" alt="" coords="1064,160,1259,189"/>
+<area shape="rect" id="node21" href="$sobelFilter_8cpp.html" title="Add Comment Here." alt="" coords="1283,160,1464,189"/>
+<area shape="rect" id="node17" href="$filtersCollection_8cpp.html" title="core/filters/filtersCollection.cpp" alt="" coords="935,237,1151,267"/>
+<area shape="rect" id="node19" href="$operationFilter_8cpp.html" title="core/filters/operationFilter.cpp" alt="" coords="1175,237,1385,267"/>
+<area shape="rect" id="node27" href="$decoupleYUYV_8cpp.html" title="utils/framesources/decoders/decoupleYUYV.cpp" alt="" coords="1488,160,1811,189"/>
+<area shape="rect" id="node29" href="$directShowCaptureDecouple_8h.html" title="utils/framesources/directShow/directShowCaptureDecouple.h" alt="" coords="1835,160,2245,189"/>
+<area shape="rect" id="node31" href="$directShowCaptureDecouple_8cpp.html" title="utils/framesources/directShow/directShowCaptureDecouple.cpp" alt="" coords="1844,237,2271,267"/>
+<area shape="rect" id="node34" href="$V4L2CaptureDecouple_8h.html" title="utils/framesources/v4l2/V4L2CaptureDecouple.h" alt="" coords="2320,160,2648,189"/>
+<area shape="rect" id="node36" href="$V4L2CaptureDecouple_8cpp.html" title="utils/framesources/v4l2/V4L2CaptureDecouple.cpp" alt="" coords="2412,237,2756,267"/>
+</map>

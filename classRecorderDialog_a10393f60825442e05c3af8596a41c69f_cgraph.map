@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBaseHostDialog.html#a96883713db78002ae06fe87a57f30202" title="BaseHostDialog::baseControlParametersChanged" alt="" coords="352,85,691,115"/>
+<area shape="rect" id="node21" href="$classRecorderDialog.html#a75c7491c402c182f52618f48bbd04fb4" title="RecorderDialog::errorMessage" alt="" coords="415,139,628,168"/>
+<area shape="rect" id="node23" href="$classParametersMapperRecorder.html#a362210c821614fe527580135e032704d" title="ParametersMapperRecorder::paramsChanged" alt="" coords="805,376,1120,405"/>
+<area shape="rect" id="node37" href="$classBaseHostDialog.html#adcdcc9bca5e162072d8b3b0a43141e0d" title="BaseHostDialog::presentationControlParametersChanged" alt="" coords="327,243,716,272"/>
+<area shape="rect" id="node39" href="$classRecorderDialog.html#af7170adf4767f2bc759e7585b1ed774e" title="RecorderDialog::recorderControlParametersChanged" alt="" coords="343,296,700,325"/>
+<area shape="rect" id="node41" href="$classRecorderDialog.html#a9632b9868b4b9f37ab73faf694e372a4" title="RecorderDialog::recordingStateChanged" alt="" coords="383,509,660,539"/>
+<area shape="rect" id="node43" href="$classRecorderControlWidget.html#abb831508a937ef55c4839dbdd40fbe36" title="RecorderControlWidget::ui" alt="" coords="869,536,1056,565"/>
+<area shape="rect" id="node45" href="$classRecorderDialog.html#a7e584e362ef6c0ac73045e1ae9360c9b" title="RecorderDialog::recordingTriggered" alt="" coords="841,640,1084,669"/>
+<area shape="rect" id="node47" href="$classRecorderDialog.html#a194329df174ffe88ec8d7c32a91223b1" title="RecorderDialog::resetRecording" alt="" coords="411,717,632,747"/>
+<area shape="rect" id="node51" href="$classParametersMapperRecorder.html#a3f604dcba21099cc28bfeeb5ca75e0ff" title="ParametersMapperRecorder::setBaseParametersControlWidget" alt="" coords="311,349,732,379"/>
+<area shape="rect" id="node54" href="$classParametersMapperRecorder.html#a941d75ae3144d2305b8efb885349e006" title="ParametersMapperRecorder::setPresentationParametersControlWidget" alt="" coords="285,403,757,432"/>
+<area shape="rect" id="node57" href="$classParametersMapperRecorder.html#a65a1bb930fcb4874596ddda7c26ae61e" title="ParametersMapperRecorder::setRecorderControlWidget" alt="" coords="335,456,708,485"/>
+<area shape="rect" id="node60" href="$classRecorderDialog.html#a595676c3bbfef7f259b1e80284981611" title="RecorderDialog::toggleRecording" alt="" coords="408,664,635,693"/>
+<area shape="rect" id="node5" href="$classBaseHostDialog.html#a34dae5e98b718534256d2728db0a7517" title="BaseHostDialog::camerasParamsChanged" alt="" coords="816,59,1109,88"/>
+<area shape="rect" id="node17" href="$classBaseHostDialog.html#a9c9951b19762eaa127db683f3179c87e" title="Slot for swapping framesources &#45;&#45;&#45; right frame becomes left and left frame becomes right..." alt="" coords="852,112,1073,141"/>
+<area shape="rect" id="node7" href="$classBaseHostDialog.html#a948845662aec80c962ab678a65933635" title="BaseHostDialog::camerasParametersChanged" alt="" coords="1244,5,1561,35"/>
+<area shape="rect" id="node9" href="$classBaseHostDialog.html#a1a861685bf1ca4f0908455ccd5708b89" title="BaseHostDialog::getAdditionalParams" alt="" coords="1271,59,1535,88"/>
+<area shape="rect" id="node11" href="$classCamerasConfigParameters.html#a94ebef3c7cf7693491aba2e149c33c6b" title="CamerasConfigParameters::setDistortionTransform" alt="" coords="1685,5,2032,35"/>
+<area shape="rect" id="node13" href="$classCamerasConfigParameters.html#a0df22efe1bdbe8d27451ac4c2935f90b" title="CamerasConfigParameters::setInputsN" alt="" coords="1724,59,1993,88"/>
+<area shape="rect" id="node15" href="$classCamerasConfigParameters.html#a890e5fb11deace781510efc7ef7460e5" title="CamerasConfigParameters::setRectifierData" alt="" coords="1708,112,2009,141"/>
+<area shape="rect" id="node19" href="$classFrames.html#a82d642f30f1b9b57ba9d62f4cd8e7903" title="Swaps the frame sources so, for example, left camera becomes right, and right camera becomes left..." alt="" coords="1303,112,1503,141"/>
+<area shape="rect" id="node25" href="$classParametersMapperRecorder.html#afa77f9bcf94386bca0babfda14de9644" title="ParametersMapperRecorder::baseParametersParamsChanged" alt="" coords="1193,243,1612,272"/>
+<area shape="rect" id="node27" href="$classPresentationParametersControlWidget.html#a01c57bfad35e1d77e5a86ba34504111a" title="PresentationParametersControlWidget::createParameters" alt="" coords="1208,296,1597,325"/>
+<area shape="rect" id="node29" href="$classBaseParametersControlWidget.html#a5c0b1ba7a11bfea38673cd30bc4a590a" title="BaseParametersControlWidget::createParameters" alt="" coords="1233,349,1572,379"/>
+<area shape="rect" id="node31" href="$classRecorderControlWidget.html#ac2b2cc0e80869e9ccc9d99e2510e7695" title="RecorderControlWidget::createParameters" alt="" coords="1257,403,1548,432"/>
+<area shape="rect" id="node33" href="$classParametersMapperRecorder.html#a71be83684e2844125af3afb00a8852c5" title="ParametersMapperRecorder::presentationParametersParamsChanged" alt="" coords="1169,456,1636,485"/>
+<area shape="rect" id="node35" href="$classParametersMapperRecorder.html#a50c990d0728d2d5c6dafc6926e80e30e" title="ParametersMapperRecorder::recorderParamsChanged" alt="" coords="1220,509,1585,539"/>
+<area shape="rect" id="node49" href="$classRecorderDialog.html#a0cf272f81efd010817a602d1d69c7197" title="RecorderDialog::recordingReset" alt="" coords="852,717,1073,747"/>
+</map>

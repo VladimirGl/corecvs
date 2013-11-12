@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="732,392,804,421"/>
+<area shape="rect" id="node9" href="$baseHostDialog_8h.html" title="baseHostDialog.h" alt="" coords="2408,83,2541,112"/>
+<area shape="rect" id="node120" href="$recorderThread_8h.html" title="recorderThread.h" alt="" coords="448,83,579,112"/>
+<area shape="rect" id="node146" href="$recorderControlWidget_8h.html" title="recorderControlWidget.h" alt="" coords="4496,83,4672,112"/>
+<area shape="rect" id="node30" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="1207,315,1297,344"/>
+<area shape="rect" id="node36" href="$propertyList_8h.html" title="Add Comment Here." alt="" coords="4647,237,4756,267"/>
+<area shape="rect" id="node42" href="$aboutDialog_8h.html" title="aboutDialog.h" alt="" coords="2996,237,3105,267"/>
+<area shape="rect" id="node46" href="$capSettingsDialog_8h.html" title="capSettingsDialog.h" alt="" coords="1441,160,1591,189"/>
+<area shape="rect" id="node55" href="$baseCalculationThread_8h.html" title="baseCalculationThread.h" alt="" coords="1036,160,1215,189"/>
+<area shape="rect" id="node61" href="$baseParameters_8h.html" title="generatedParameters/baseParameters.h" alt="" coords="2287,237,2569,267"/>
+<area shape="rect" id="node63" href="$camerasConfigParameters_8h.html" title="camerasConfigParameters.h" alt="" coords="1289,237,1492,267"/>
+<area shape="rect" id="node68" href="$distortionCorrectTransform_8h.html" title="distortionCorrectTransform.h" alt="" coords="1479,315,1681,344"/>
+<area shape="rect" id="node70" href="$filterSelector_8h.html" title="filters/filterSelector.h" alt="" coords="2060,237,2212,267"/>
+<area shape="rect" id="node73" href="$statisticsDialog_8h.html" title="statisticsDialog.h" alt="" coords="881,160,1012,189"/>
+<area shape="rect" id="node78" href="$baseParametersControlWidget_8h.html" title="baseParametersControlWidget.h" alt="" coords="3212,160,3439,189"/>
+<area shape="rect" id="node83" href="$presentationParametersControlWidget_8h.html" title="presentationParametersControlWidget.h" alt="" coords="3753,237,4031,267"/>
+<area shape="rect" id="node87" href="$rectifyParametersControlWidget_8h.html" title="rectifyParametersControlWidget.h" alt="" coords="4185,160,4420,189"/>
+<area shape="rect" id="node91" href="$pointsRectificationWidget_8h.html" title="pointsRectificationWidget.h" alt="" coords="2271,160,2463,189"/>
+<area shape="rect" id="node93" href="$distortionWidget_8h.html" title="distortioncorrector/distortionWidget.h" alt="" coords="3463,160,3721,189"/>
+<area shape="rect" id="node96" href="$advancedImageWidget_8h.html" title="advancedImageWidget.h" alt="" coords="4055,237,4233,267"/>
+<area shape="rect" id="node102" href="$cameraCalculatorWidget_8h.html" title="cameraCalculatorWidget.h" alt="" coords="3129,237,3319,267"/>
+<area shape="rect" id="node108" href="$g12Image_8h.html" title="g12Image.h" alt="" coords="3343,237,3441,267"/>
+<area shape="rect" id="node112" href="$memoryUsageCalculator_8h.html" title="memoryUsageCalculator.h" alt="" coords="2487,160,2679,189"/>
+<area shape="rect" id="node114" href="$inputSelectorWidget_8h.html" title="inputSelectorWidget.h" alt="" coords="3516,237,3679,267"/>
+<area shape="rect" id="node118" href="$filterGraphPresentation_8h.html" title="filterGraphPresentation.h" alt="" coords="2703,160,2884,189"/>
+<area shape="rect" id="node50" href="$imageCaptureInterface_8h.html" title="imageCaptureInterface.h" alt="" coords="881,237,1063,267"/>
+<area shape="rect" id="node52" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="3777,315,4007,344"/>
+<area shape="rect" id="node131" href="$ppmLoader_8h.html" title="This is a header for PPM file format reader." alt="" coords="548,315,655,344"/>
+<area shape="rect" id="node134" href="$preciseTimer_8h.html" title="Add Comment Here." alt="" coords="225,237,340,267"/>
+<area shape="rect" id="node137" href="$recorder_8h.html" title="generatedParameters/recorder.h" alt="" coords="2908,160,3137,189"/>
+<area shape="rect" id="node139" href="$calculationStats_8h.html" title="Add Comment Here." alt="" coords="291,160,427,189"/>
+</map>

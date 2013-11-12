@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classBaseFilter.html" title="BaseFilter" alt="" coords="7,85,89,115"/>
+<area shape="rect" id="node3" href="$classBitSelector.html" title="BitSelector" alt="" coords="140,5,231,35"/>
+<area shape="rect" id="node5" href="$classGainOffset.html" title="GainOffset" alt="" coords="141,59,229,88"/>
+<area shape="rect" id="node7" href="$classScaleFilter.html" title="ScaleFilter" alt="" coords="143,112,228,141"/>
+<area shape="rect" id="node9" href="$classSobelFilter.html" title="SobelFilter" alt="" coords="141,165,229,195"/>
+</map>

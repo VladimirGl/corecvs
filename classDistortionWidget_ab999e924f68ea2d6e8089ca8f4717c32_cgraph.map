@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDistortionWidget.html#ad22920d93b2d23677fc3c5960945eada" title="DistortionWidget::updateAdditionalData" alt="" coords="315,352,589,381"/>
+<area shape="rect" id="node41" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="703,459,852,488"/>
+<area shape="rect" id="node43" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="703,512,852,541"/>
+<area shape="rect" id="node45" href="$classDistortionWidget.html#a1f91c72ac0fb5b47dc766f8f850c8bd9" title="DistortionWidget::updateScore" alt="" coords="344,564,560,593"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1VectorOperationsBase.html#acfcd4bcc60d1d076b00afcfeba9f9e8b" title="Euclidean distance." alt="" coords="637,299,917,328"/>
+<area shape="rect" id="node7" href="$classGraphPlotDialog.html#aa9919d91a1219eb290eded597c3f230a" title="GraphPlotDialog::addGraphPoint" alt="" coords="664,352,891,381"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1RadialCorrection.html#a0390787ab3d7567171a68f9cf0d2d0e4" title="corecvs::RadialCorrection::radialScale" alt="" coords="647,405,908,435"/>
+<area shape="rect" id="node15" href="$classGraphPlotDialog.html#a7ac2613d55686a6e35815b667c77d9fd" title="GraphPlotDialog::update" alt="" coords="688,59,867,88"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1RGB24Buffer.html#af1eea99d617a211ad0e57c9f32153d7d" title="corecvs::RGB24Buffer::drawIsolines" alt="" coords="655,112,900,141"/>
+<area shape="rect" id="node27" href="$classAdvancedImageWidget.html#a365f213bdb320f2392d2693d6931abdd" title="AdvancedImageWidget::setImage" alt="" coords="660,245,895,275"/>
+<area shape="rect" id="node9" href="$classGraphPlotDialog.html#a52061b0779f3a0909505d1b9713827e7" title="GraphPlotDialog::setItemColor" alt="" coords="1023,432,1236,461"/>
+<area shape="rect" id="node11" href="$namespacecorecvs.html#a807eb76b7544bcb930b1700a58a780bd" title="Useful round* stuff." alt="" coords="1069,379,1189,408"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1AbstractBuffer.html#a6be5a0969d374904dc4ff6cd576c9332" title="Buffer size getter." alt="" coords="1016,59,1243,88"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="1013,112,1245,141"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1RGBColor.html#af71af180c1a4aa8058e56383d5cd49dd" title="corecvs::RGBColor::gray" alt="" coords="1043,5,1216,35"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1RGBColor.html#a5e8d5fe160db4c66478a86f84bfc70de" title="corecvs::RGBColor::RGBColor" alt="" coords="1411,5,1616,35"/>
+<area shape="rect" id="node29" href="$classAdvancedImageWidget.html#aa69ecf8afc2c52de22ef54bef616c92a" title="AdvancedImageWidget::drawResized" alt="" coords="1003,219,1256,248"/>
+<area shape="rect" id="node31" href="$classAdvancedImageWidget.html#a94f67b5bfc0bcf0c119c4e6011236faf" title="AdvancedImageWidget::recalculateZoomCenter" alt="" coords="965,272,1293,301"/>
+<area shape="rect" id="node35" href="$classAdvancedImageWidget.html#a09b13f3339f391764bd57dd8d06f3d4f" title="AdvancedImageWidget::recomputeRects" alt="" coords="989,325,1269,355"/>
+<area shape="rect" id="node39" href="$classAdvancedImageWidget.html#a722b91642b8f0f37a390edc76c3e645b" title="AdvancedImageWidget::saveFlowImage" alt="" coords="993,165,1265,195"/>
+<area shape="rect" id="node33" href="$classAdvancedImageWidget.html#a0660da1dfe71d556c2c97ca4759404d5" title="AdvancedImageWidget::notifyCenterPointChanged" alt="" coords="1343,272,1684,301"/>
+<area shape="rect" id="node37" href="$classAdvancedImageWidget.html#ab3c658a5e253eeef3929028a1e2e3082" title="AdvancedImageWidget::computeInputRect" alt="" coords="1368,325,1659,355"/>
+<area shape="rect" id="node47" href="$classPaintImageWidget.html#a422346b5a780cc350796cb6c1cb3d3cb" title="PaintImageWidget::getPaths" alt="" coords="677,565,877,595"/>
+</map>

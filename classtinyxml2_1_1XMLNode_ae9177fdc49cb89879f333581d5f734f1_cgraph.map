@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLNode.html#a573b2559c41dce244d893d610fbe0bd9" title="Get the previous (left) sibling element of this node, with an opitionally supplied name..." alt="" coords="355,32,656,61"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="717,5,928,35"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLElement.html#ad9ff5c2dbc15df36cf664ce1b0ea0a5d" title="Safely cast to an Element, or null." alt="" coords="704,59,941,88"/>
+</map>

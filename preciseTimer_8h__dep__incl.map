@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$clustering3d_8h.html" title="core/clustering3d/clustering3d.h" alt="" coords="1012,160,1239,189"/>
+<area shape="rect" id="node7" href="$triangulation_8cpp.html" title="Add Comment Here." alt="" coords="2959,83,3185,112"/>
+<area shape="rect" id="node9" href="$calculationStats_8h.html" title="Add Comment Here." alt="" coords="2304,83,2507,112"/>
+<area shape="rect" id="node61" href="$recorderThread_8h.html" title="applications/recorder/recorderThread.h" alt="" coords="2416,469,2685,499"/>
+<area shape="rect" id="node73" href="$contentStatistics_8h.html" title="utils/statistics/contentStatistics.h" alt="" coords="2899,160,3131,189"/>
+<area shape="rect" id="node85" href="$preciseTimer_8cpp.html" title="Add Comment Here." alt="" coords="3209,83,3401,112"/>
+<area shape="rect" id="node87" href="$directShow_8h.html" title="utils/framesources/directShow/directShow.h" alt="" coords="3476,83,3775,112"/>
+<area shape="rect" id="node91" href="$directShowCapture_8h.html" title="Capture camera video stream using OpenCV library." alt="" coords="3544,160,3893,189"/>
+<area shape="rect" id="node93" href="$directShowCapture_8cpp.html" title="Capture camera video stream using DirectShow." alt="" coords="3349,237,3715,267"/>
+<area shape="rect" id="node97" href="$directShowCaptureDecouple_8cpp.html" title="utils/framesources/directShow/directShowCaptureDecouple.cpp" alt="" coords="4031,237,4457,267"/>
+<area shape="rect" id="node102" href="$uEyeCapture_8h.html" title="utils/framesources/uEyeCapture.h" alt="" coords="4432,83,4669,112"/>
+<area shape="rect" id="node104" href="$uEyeCapture_8cpp.html" title="utils/framesources/uEyeCapture.cpp" alt="" coords="4403,160,4656,189"/>
+<area shape="rect" id="node107" href="$V4L2Capture_8h.html" title="Add Comment Here." alt="" coords="4744,83,5013,112"/>
+<area shape="rect" id="node109" href="$V4L2Capture_8cpp.html" title="Add Comment Here." alt="" coords="4680,160,4963,189"/>
+<area shape="rect" id="node111" href="$V4L2CaptureDecouple_8h.html" title="utils/framesources/v4l2/V4L2CaptureDecouple.h" alt="" coords="4987,160,5315,189"/>
+<area shape="rect" id="node5" href="$clustering3d_8cpp.html" title="core/clustering3d/clustering3d.cpp" alt="" coords="288,237,528,267"/>
+<area shape="rect" id="node12" href="$filterGraph_8h.html" title="core/filters/blocks/filterGraph.h" alt="" coords="1263,160,1479,189"/>
+<area shape="rect" id="node70" href="$calculationStats_8cpp.html" title="Add Comment Here." alt="" coords="2656,160,2875,189"/>
+<area shape="rect" id="node77" href="$qtStatisticsCollector_8h.html" title="Add Comment Here." alt="" coords="2195,160,2531,189"/>
+<area shape="rect" id="node14" href="$compoundFilter_8h.html" title="core/filters/blocks/compoundFilter.h" alt="" coords="603,237,848,267"/>
+<area shape="rect" id="node18" href="$filterGraph_8cpp.html" title="core/filters/blocks/filterGraph.cpp" alt="" coords="5,315,235,344"/>
+<area shape="rect" id="node29" href="$pins_8cpp.html" title="core/filters/blocks/pins.cpp" alt="" coords="1211,237,1400,267"/>
+<area shape="rect" id="node31" href="$diagramscene_8h.html" title="utils/filters/graph/diagramscene.h" alt="" coords="952,237,1187,267"/>
+<area shape="rect" id="node45" href="$abstractCalculationThread_8h.html" title="applications/base/abstractCalculationThread.h" alt="" coords="1584,237,1899,267"/>
+<area shape="rect" id="node49" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="1780,392,2073,421"/>
+<area shape="rect" id="node16" href="$compoundFilter_8cpp.html" title="core/filters/blocks/compoundFilter.cpp" alt="" coords="259,315,520,344"/>
+<area shape="rect" id="node20" href="$filtersCollection_8cpp.html" title="core/filters/filtersCollection.cpp" alt="" coords="544,315,760,344"/>
+<area shape="rect" id="node22" href="$compoundBlockPresentation_8h.html" title="utils/filters/graph/compoundBlockPresentation.h" alt="" coords="635,469,960,499"/>
+<area shape="rect" id="node24" href="$compoundBlockPresentation_8cpp.html" title="utils/filters/graph/compoundBlockPresentation.cpp" alt="" coords="471,547,812,576"/>
+<area shape="rect" id="node26" href="$filterPresentationsCollection_8h.html" title="utils/filters/graph/filterPresentationsCollection.h" alt="" coords="836,547,1159,576"/>
+<area shape="rect" id="node33" href="$filterPinPresentation_8h.html" title="utils/filters/graph/filterPinPresentation.h" alt="" coords="837,315,1109,344"/>
+<area shape="rect" id="node43" href="$diagramtextitem_8cpp.html" title="utils/filters/graph/diagramtextitem.cpp" alt="" coords="1133,315,1400,344"/>
+<area shape="rect" id="node35" href="$filterBlockPresentation_8h.html" title="utils/filters/graph/filterBlockPresentation.h" alt="" coords="835,392,1120,421"/>
+<area shape="rect" id="node39" href="$diagramitem_8cpp.html" title="utils/filters/graph/diagramitem.cpp" alt="" coords="1144,392,1384,421"/>
+<area shape="rect" id="node41" href="$filterPinPresentation_8cpp.html" title="utils/filters/graph/filterPinPresentation.cpp" alt="" coords="1408,392,1693,421"/>
+<area shape="rect" id="node47" href="$abstractCalculationThread_8cpp.html" title="Implements an abstract calculation thread capable of fetching frames from an ImageCaptureInterface in..." alt="" coords="1475,315,1805,344"/>
+<area shape="rect" id="node66" href="$baseOutputData_8h.html" title="applications/base/baseOutputData.h" alt="" coords="1880,315,2133,344"/>
+<area shape="rect" id="node51" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="1741,469,2051,499"/>
+<area shape="rect" id="node53" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="2075,469,2325,499"/>
+<area shape="rect" id="node55" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="2084,547,2351,576"/>
+<area shape="rect" id="node57" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="1919,624,2207,653"/>
+<area shape="rect" id="node59" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="2231,624,2511,653"/>
+<area shape="rect" id="node64" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="2408,547,2693,576"/>
+<area shape="rect" id="node75" href="$contentStatistics_8cpp.html" title="utils/statistics/contentStatistics.cpp" alt="" coords="2891,237,3139,267"/>
+<area shape="rect" id="node79" href="$statisticsDialog_8h.html" title="applications/base/statistics/statisticsDialog.h" alt="" coords="2209,237,2516,267"/>
+<area shape="rect" id="node82" href="$statisticsDialog_8cpp.html" title="applications/base/statistics/statisticsDialog.cpp" alt="" coords="2208,315,2531,344"/>
+<area shape="rect" id="node89" href="$directShow_8cpp.html" title="utils/framesources/directShow/directShow.cpp" alt="" coords="3205,160,3520,189"/>
+<area shape="rect" id="node95" href="$directShowCaptureDecouple_8h.html" title="utils/framesources/directShow/directShowCaptureDecouple.h" alt="" coords="3917,160,4328,189"/>
+<area shape="rect" id="node113" href="$V4L2CaptureDecouple_8cpp.html" title="utils/framesources/v4l2/V4L2CaptureDecouple.cpp" alt="" coords="4979,237,5323,267"/>
+</map>

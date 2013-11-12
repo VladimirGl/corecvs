@@ -1,0 +1,45 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classBaseCalculationThread.html" title="A base implementation of calculation thread that grabs the frames from a capture interface, applies a transform and passes them to the host application." alt="" coords="2736,599,2904,628"/>
+<area shape="rect" id="node4" href="$classAbstractCalculationThread.html" title="AbstractCalculationThread" alt="" coords="2275,539,2464,568"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1FiltersCollection.html" title="corecvs::FiltersCollection" alt="" coords="1869,287,2048,316"/>
+<area shape="rect" id="node59" href="$classcorecvs_1_1FilterGraph.html" title="corecvs::FilterGraph" alt="" coords="2296,177,2443,207"/>
+<area shape="rect" id="node10" href="$classcorecvs_1_1FiltersCollection_1_1CompoundFilterType.html" title="corecvs::FiltersCollection::CompoundFilterType" alt="" coords="904,275,1219,304"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="529,201,615,231"/>
+<area shape="rect" id="node62" href="$classcorecvs_1_1Statistics.html" title="corecvs::Statistics" alt="" coords="1415,159,1553,188"/>
+<area shape="rect" id="node112" href="$classcorecvs_1_1PPMLoader.html" title="corecvs::PPMLoader" alt="" coords="987,328,1136,357"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="23,201,207,231"/>
+<area shape="rect" id="node16" href="$classFrames.html" title="Frames" alt="" coords="1924,572,1993,601"/>
+<area shape="rect" id="node18" href="$classcorecvs_1_1G12Buffer.html" title="TODO: Add consts where it should go." alt="" coords="1413,624,1555,653"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="1003,603,1120,632"/>
+<area shape="rect" id="node22" href="$classcorecvs_1_1AbstractBuffer.html" title="This is a common buffer template." alt="" coords="396,516,748,545"/>
+<area shape="rect" id="node32" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="989,543,1133,572"/>
+<area shape="rect" id="node41" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="972,436,1151,465"/>
+<area shape="rect" id="node48" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="976,489,1147,519"/>
+<area shape="rect" id="node24" href="$classcorecvs_1_1AbstractBufferParams.html" title="This is a basis part of the AbstractBuffer template &#45; serializable buffer params." alt="" coords="5,516,224,545"/>
+<area shape="rect" id="node28" href="$classcorecvs_1_1ObjectRef.html" title="corecvs::ObjectRef\&lt; uint8_t \&gt;" alt="" coords="8,463,221,492"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1RGB24Buffer.html" title="corecvs::RGB24Buffer" alt="" coords="1404,551,1564,580"/>
+<area shape="rect" id="node35" href="$classImageCaptureInterface.html" title="ImageCaptureInterface" alt="" coords="1875,519,2043,548"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1TransformationCache.html" title="This class is caching the transformation of the buffer." alt="" coords="1852,437,2065,467"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1DisplacementBuffer.html" title="This buffer stores a buffer deformation &#45; a shift of the buffer pixels." alt="" coords="1381,391,1587,420"/>
+<area shape="rect" id="node44" href="$classcorecvs_1_1DeformMap.html" title="corecvs::DeformMap\&lt; int32_t, double \&gt;" alt="" coords="923,383,1200,412"/>
+<area shape="rect" id="node46" href="$classcorecvs_1_1FixedPointDisplace.html" title="corecvs::FixedPointDisplace" alt="" coords="1385,444,1583,473"/>
+<area shape="rect" id="node51" href="$classcorecvs_1_1DirectRemapper.html" title="TODO: rewrite this based on AbstractBuffer This class caches the image transformation." alt="" coords="1393,497,1575,527"/>
+<area shape="rect" id="node53" href="$classcorecvs_1_1Vector2d.html" title="corecvs::Vector2d\&lt; int32_t \&gt;" alt="" coords="956,657,1167,687"/>
+<area shape="rect" id="node55" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector2d\&lt; int32_t \&gt;, int32_t, 2 \&gt;" alt="" coords="365,657,779,687"/>
+<area shape="rect" id="node57" href="$classcorecvs_1_1Reflection.html" title="corecvs::Reflection" alt="" coords="503,728,641,757"/>
+<area shape="rect" id="node102" href="$classcorecvs_1_1Vector2d.html" title="corecvs::Vector2d\&lt; double \&gt;" alt="" coords="957,748,1165,777"/>
+<area shape="rect" id="node78" href="$classcorecvs_1_1FilterBlock.html" title="corecvs::FilterBlock" alt="" coords="2749,120,2891,149"/>
+<area shape="rect" id="node64" href="$classcorecvs_1_1PreciseTimer.html" title="corecvs::PreciseTimer" alt="" coords="981,221,1141,251"/>
+<area shape="rect" id="node68" href="$structcorecvs_1_1SingleStat.html" title="corecvs::SingleStat" alt="" coords="500,61,644,91"/>
+<area shape="rect" id="node75" href="$classcorecvs_1_1Pin.html" title="corecvs::Pin" alt="" coords="3017,47,3116,76"/>
+<area shape="rect" id="node84" href="$classcorecvs_1_1FilterExecuter.html" title="corecvs::FilterExecuter" alt="" coords="2287,676,2452,705"/>
+<area shape="rect" id="node86" href="$classcorecvs_1_1AbstractFilter.html" title="corecvs::AbstractFilter" alt="" coords="1403,697,1565,727"/>
+<area shape="rect" id="node92" href="$classcorecvs_1_1Matrix33.html" title="Class describes the 3 by 3 matrix." alt="" coords="1417,973,1551,1003"/>
+<area shape="rect" id="node98" href="$classcorecvs_1_1RectificationResult.html" title="This class contains all the output information about rectification process." alt="" coords="2273,909,2465,939"/>
+<area shape="rect" id="node105" href="$classcorecvs_1_1EssentialDecomposition.html" title="This class stores the relative position of first and second camera." alt="" coords="1843,948,2075,977"/>
+<area shape="rect" id="node94" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Matrix33, double, 9 \&gt;" alt="" coords="893,973,1229,1003"/>
+<area shape="rect" id="node96" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Matrix33, double \&gt;" alt="" coords="393,973,751,1003"/>
+<area shape="rect" id="node100" href="$classcorecvs_1_1CameraIntrinsics.html" title="This class describes the parameters of the ideal pin&#45;hole camera TODO: Should be a child of a DeformM..." alt="" coords="1632,771,1819,800"/>
+<area shape="rect" id="node107" href="$classcorecvs_1_1Vector3d.html" title="corecvs::Vector3d\&lt; double \&gt;" alt="" coords="1380,920,1588,949"/>
+<area shape="rect" id="node114" href="$classcorecvs_1_1BufferLoader.html" title="corecvs::BufferLoader\&lt; G12Buffer \&gt;" alt="" coords="445,328,699,357"/>
+</map>

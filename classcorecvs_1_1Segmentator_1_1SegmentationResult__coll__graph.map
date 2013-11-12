@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1AbstractBuffer.html" title="corecvs::AbstractBuffer\&lt; SegmentType * \&gt;" alt="" coords="5,197,304,227"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1AbstractBufferParams.html" title="This is a basis part of the AbstractBuffer template &#45; serializable buffer params." alt="" coords="24,101,243,131"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1ObjectRef.html" title="corecvs::ObjectRef\&lt; uint8_t \&gt;" alt="" coords="267,101,480,131"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1ObjectBlock.html" title="corecvs::ObjectBlock\&lt; uint8_t \&gt;" alt="" coords="260,5,487,35"/>
+</map>

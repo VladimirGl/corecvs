@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classUEyeCameraDescriptor.html#a04eca79ef073259f13f3c550ea82454d" title="UEyeCameraDescriptor::initBuffer" alt="" coords="293,59,531,88"/>
+<area shape="rect" id="node5" href="$classUEyeCameraDescriptor.html#aaac52a568811f7e24bbacede82838c0d" title="UEyeCameraDescriptor::allocImages" alt="" coords="600,5,856,35"/>
+<area shape="rect" id="node7" href="$classUEyeCameraDescriptor.html#af0c856aa3a8b0b777527da818e544cd4" title="UEyeCameraDescriptor::getBitsPerPixel" alt="" coords="591,59,865,88"/>
+<area shape="rect" id="node9" href="$classUEyeCameraDescriptor.html#a87ba0645a26913dfa43c8b9fcb4142bd" title="UEyeCameraDescriptor::getQImageFormat" alt="" coords="580,112,876,141"/>
+</map>

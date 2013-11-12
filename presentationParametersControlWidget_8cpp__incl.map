@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$presentationParametersControlWidget_8h.html" title="presentationParametersControlWidget.h" alt="" coords="755,83,1032,112"/>
+<area shape="rect" id="node53" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="219,237,400,267"/>
+<area shape="rect" id="node69" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="11,237,195,267"/>
+<area shape="rect" id="node9" href="$presentationParameters_8h.html" title="generatedParameters/presentationParameters.h" alt="" coords="1047,160,1380,189"/>
+<area shape="rect" id="node47" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="508,160,737,189"/>
+<area shape="rect" id="node11" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="749,315,843,344"/>
+<area shape="rect" id="node29" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="1552,237,1669,267"/>
+<area shape="rect" id="node35" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="1413,237,1528,267"/>
+<area shape="rect" id="node39" href="$stereoStyle_8h.html" title="stereoStyle.h" alt="" coords="1037,237,1144,267"/>
+<area shape="rect" id="node41" href="$flowStyle_8h.html" title="flowStyle.h" alt="" coords="1168,237,1259,267"/>
+<area shape="rect" id="node43" href="$outputStyle_8h.html" title="outputStyle.h" alt="" coords="1283,237,1389,267"/>
+<area shape="rect" id="node25" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="987,392,1059,421"/>
+<area shape="rect" id="node63" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="595,237,739,267"/>
+<area shape="rect" id="node75" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="424,237,571,267"/>
+<area shape="rect" id="node57" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="272,315,403,344"/>
+</map>

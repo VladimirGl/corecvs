@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classLogDrain.html" title="Interface class for any logger device that accept messages." alt="" coords="7,32,84,61"/>
+<area shape="rect" id="node3" href="$classLoggerWidget.html" title="LoggerWidget" alt="" coords="153,5,263,35"/>
+<area shape="rect" id="node5" href="$classStdStreamLogDrain.html" title="StdStreamLogDrain" alt="" coords="133,59,283,88"/>
+</map>

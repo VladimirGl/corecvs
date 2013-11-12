@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMjpegDecoderLazy.html#a698eadc7519b779d223170f53d3a1e34" title="MjpegDecoderLazy::decode" alt="" coords="421,293,619,323"/>
+<area shape="rect" id="node38" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="1077,531,1309,560"/>
+<area shape="rect" id="node42" href="$classcorecvs_1_1G12Buffer.html#abee89628fe03bc65332fdc3c8b7d2017" title="corecvs::G12Buffer::fillWithYUYV" alt="" coords="408,608,632,637"/>
+<area shape="rect" id="node46" href="$classImageCaptureInterface.html#ad345e61b1b9e5837ef7ef788a09f1089" title="ImageCaptureInterface::newFrameReady" alt="" coords="380,661,660,691"/>
+<area shape="rect" id="node48" href="$classImageCaptureInterface.html#a89acb8d07aef913b8bb7d7971fa8c7e7" title="ImageCaptureInterface::newImageReady" alt="" coords="380,715,660,744"/>
+<area shape="rect" id="node50" href="$classImageCaptureInterface.html#a9f388e5583e5c13086aa9a7d3b1cfb36" title="ImageCaptureInterface::newStatisticsReady" alt="" coords="371,768,669,797"/>
+<area shape="rect" id="node52" href="$classcorecvs_1_1PreciseTimer.html#aeefca9626ed0efb419d7479f5d758966" title="corecvs::PreciseTimer::usecsTo" alt="" coords="740,819,959,848"/>
+<area shape="rect" id="node54" href="$classcorecvs_1_1PreciseTimer.html#af4f2392d369963a6786d28754d626d1b" title="corecvs::PreciseTimer::usecsToNow" alt="" coords="397,872,643,901"/>
+<area shape="rect" id="node5" href="$classMjpegDecoderLazy_1_1StreamParser.html#a38092f508a89784e2493064cb81c3b60" title="MjpegDecoderLazy::StreamParser::getbyte" alt="" coords="1047,392,1340,421"/>
+<area shape="rect" id="node7" href="$classMjpegDecoderLazy.html#a4b406fb6bc6617ab6748f22a4bfc380b" title="MjpegDecoderLazy::readtables" alt="" coords="740,293,959,323"/>
+<area shape="rect" id="node10" href="$classMjpegDecoderLazy_1_1StreamParser.html#abd5c0a33a08c8f62c6fee34399cb9cdb" title="MjpegDecoderLazy::StreamParser::getword" alt="" coords="1045,267,1341,296"/>
+<area shape="rect" id="node15" href="$classMjpegDecoderLazy.html#a6a189db2953db21e04b10c4d84a2b826" title="MjpegDecoderLazy::huffman_init" alt="" coords="735,347,964,376"/>
+<area shape="rect" id="node18" href="$classMjpegDecoderLazy.html#a6c7875c2a7f800884032bf74e0262057" title="MjpegDecoderLazy::idctqtab" alt="" coords="748,451,951,480"/>
+<area shape="rect" id="node20" href="$classMjpegDecoderLazy.html#a08e2db34da8a454b9b3ea67ca30000a3" title="MjpegDecoderLazy::dec_checkmarker" alt="" coords="719,85,980,115"/>
+<area shape="rect" id="node22" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a48169e0640aeb24526c660f612f0b057" title="MjpegDecoderLazy::HuffmanParser::readMarker" alt="" coords="1031,112,1356,141"/>
+<area shape="rect" id="node26" href="$classMjpegDecoderLazy.html#a63111152a99892f35885c880990df7de" title="This functions decodes JPEG Minimum Coded Unit form huffman compressed stream." alt="" coords="731,32,968,61"/>
+<area shape="rect" id="node34" href="$classMjpegDecoderLazy.html#a38db3c3867e904c667e7666faa122ab6" title="MjpegDecoderLazy::idct" alt="" coords="763,189,936,219"/>
+<area shape="rect" id="node36" href="$classMjpegDecoderLazy.html#a3d7afe1765359dba91043f730746ae5d" title="MjpegDecoderLazy::yuv422ptoG12" alt="" coords="728,504,971,533"/>
+<area shape="rect" id="node12" href="$classMjpegDecoderLazy.html#a30a98c2cc798d9b7ed6766920b9028d5" title="Construct the huffman lookup tables form the length and values." alt="" coords="1073,332,1313,361"/>
+<area shape="rect" id="node24" href="$mjpegDecoder_8cpp.html#a6ab3e694b9bdf6bf8e039a027c2cccad" title="fillbits" alt="" coords="1405,59,1464,88"/>
+<area shape="rect" id="node28" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a239a417f89985a1b7f15f93fd659da23" title="MjpegDecoderLazy::HuffmanParser::getValue" alt="" coords="1039,59,1348,88"/>
+<area shape="rect" id="node31" href="$classMjpegDecoderLazy_1_1HuffmanParser.html#a9b89ee3402fc70bd2c695971ba546a19" title="MjpegDecoderLazy::HuffmanParser::getBits" alt="" coords="1044,5,1343,35"/>
+<area shape="rect" id="node44" href="$classcorecvs_1_1G12Buffer.html#a49f9af21dc0f3585b3838b467c1872a7" title="This function is used as a hack to interface the C&#45;style g12Buffer." alt="" coords="743,608,956,637"/>
+<area shape="rect" id="node56" href="$classcorecvs_1_1PreciseTimer.html#ab6fc71ad27d7bb8ed8fed6b837ac3065" title="corecvs::PreciseTimer::isCorrect" alt="" coords="736,925,963,955"/>
+<area shape="rect" id="node59" href="$classcorecvs_1_1PreciseTimer.html#ab96fc33330e59dc25e1965d692dcb3f9" title="corecvs::PreciseTimer::currentTime" alt="" coords="727,872,972,901"/>
+<area shape="rect" id="node61" href="$classcorecvs_1_1PreciseTimer.html#a8426a1a35d70c5da82bf027bfb1bee69" title="corecvs::PreciseTimer::setTime" alt="" coords="1084,872,1303,901"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cholesky_8h.html" title="This file holds Cholesky decomposition data types and function prototypes." alt="" coords="6069,237,6240,267"/>
+<area shape="rect" id="node7" href="$uduDecomposed_8h.html" title="a header for uduDecomposed.c" alt="" coords="6189,315,6416,344"/>
+<area shape="rect" id="node10" href="$diagonalMatrix_8cpp.html" title="Add Comment Here." alt="" coords="6365,83,6621,112"/>
+<area shape="rect" id="node12" href="$math_2matrix_2matrix_8h.html" title="core/math/matrix/matrix.h" alt="" coords="4573,83,4763,112"/>
+<area shape="rect" id="node5" href="$cholesky_8cpp.html" title="This file holds Cholesky function inplementations." alt="" coords="5981,315,6165,344"/>
+<area shape="rect" id="node14" href="$ellipticalApproximation_8h.html" title="Add Comment Here." alt="" coords="565,160,840,189"/>
+<area shape="rect" id="node24" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="1716,160,1985,189"/>
+<area shape="rect" id="node73" href="$math_2levenmarq_8h.html" title="core/math/levenmarq.h" alt="" coords="2923,237,3093,267"/>
+<area shape="rect" id="node78" href="$homographyReconstructor_8cpp.html" title="Add Comment Here." alt="" coords="3235,315,3565,344"/>
+<area shape="rect" id="node83" href="$function_8h.html" title="a header that contains generic function" alt="" coords="4275,160,4445,189"/>
+<area shape="rect" id="node97" href="$classicKalman_8h.html" title="Add Comment Here." alt="" coords="3509,237,3715,267"/>
+<area shape="rect" id="node106" href="$homographyReconstructor_8h.html" title="Add Comment Here." alt="" coords="3168,237,3485,267"/>
+<area shape="rect" id="node113" href="$upperUnitaryMatrix_8h.html" title="Add Comment Here." alt="" coords="6053,160,6291,189"/>
+<area shape="rect" id="node118" href="$cooSparseMatrix_8h.html" title="Header for the COO sparse matrix class." alt="" coords="4835,160,5059,189"/>
+<area shape="rect" id="node122" href="$matrix_8cpp.html" title="Generic dense matrix of the arbitatry size." alt="" coords="5083,160,5288,189"/>
+<area shape="rect" id="node124" href="$matrix33_8cpp.html" title="This file holds the description of the commonly used template &#45; a 3 by 3 matrix." alt="" coords="5312,160,5533,189"/>
+<area shape="rect" id="node126" href="$essentialMatrix_8h.html" title="Add Comment Here." alt="" coords="4469,160,4709,189"/>
+<area shape="rect" id="node129" href="$stereoAligner_8cpp.html" title="Add Comment Here." alt="" coords="5803,237,6045,267"/>
+<area shape="rect" id="node132" href="$matrixwidget_8h.html" title="utils/matrixwidget.h" alt="" coords="5557,160,5704,189"/>
+<area shape="rect" id="node16" href="$distPointsFunction_8cpp.html" title="core/alignment/distPointsFunction.cpp" alt="" coords="571,237,835,267"/>
+<area shape="rect" id="node18" href="$cloudCluster_8h.html" title="core/clustering3d/cloudCluster.h" alt="" coords="5,237,232,267"/>
+<area shape="rect" id="node20" href="$ellipticalApproximation_8cpp.html" title="Add Comment Here." alt="" coords="256,237,547,267"/>
+<area shape="rect" id="node22" href="$tileGrid_8h.html" title="Add Comment Here." alt="" coords="859,237,1061,267"/>
+<area shape="rect" id="node26" href="$booleanBuffer_8h.html" title="core/buffers/booleanBuffer.h" alt="" coords="1707,469,1909,499"/>
+<area shape="rect" id="node28" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="1605,392,1771,421"/>
+<area shape="rect" id="node31" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="1453,469,1683,499"/>
+<area shape="rect" id="node33" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="1856,315,2029,344"/>
+<area shape="rect" id="node39" href="$displacementBuffer_8h.html" title="This file hold the class DisplacementBuffer." alt="" coords="3000,469,3237,499"/>
+<area shape="rect" id="node46" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="1901,392,2136,421"/>
+<area shape="rect" id="node48" href="$sixDBuffer_8h.html" title="A header for sixDBuffer.cpp." alt="" coords="2003,469,2208,499"/>
+<area shape="rect" id="node51" href="$buffer3d_8h.html" title="core/buffers/buffer3d.h" alt="" coords="2213,237,2379,267"/>
+<area shape="rect" id="node53" href="$disparityBuffer_8h.html" title="Add Comment Here." alt="" coords="2403,237,2608,267"/>
+<area shape="rect" id="node56" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="1797,237,2088,267"/>
+<area shape="rect" id="node59" href="$depthBuffer_8h.html" title="core/buffers/flow/depthBuffer.h" alt="" coords="2632,237,2848,267"/>
+<area shape="rect" id="node61" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="1507,315,1709,344"/>
+<area shape="rect" id="node67" href="$g12Buffer3d_8h.html" title="core/buffers/g12Buffer3d.h" alt="" coords="1085,237,1277,267"/>
+<area shape="rect" id="node70" href="$energyBuffer_8h.html" title="Add Comment Here." alt="" coords="1301,237,1520,267"/>
+<area shape="rect" id="node35" href="$radialCorrection_8h.html" title="Header file for the radial lens distortion correction primitives." alt="" coords="3235,392,3469,421"/>
+<area shape="rect" id="node37" href="$radialFunc_8h.html" title="core/alignment/radialFunc.h" alt="" coords="3900,469,4097,499"/>
+<area shape="rect" id="node41" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="2975,547,3263,576"/>
+<area shape="rect" id="node76" href="$math_2levenmarq_8cpp.html" title="core/math/levenmarq.cpp" alt="" coords="2973,315,3160,344"/>
+<area shape="rect" id="node80" href="$essentialEstimator_8cpp.html" title="Add Comment Here." alt="" coords="3611,315,3888,344"/>
+<area shape="rect" id="node85" href="$angleFunction_8h.html" title="core/alignment/angleFunction.h" alt="" coords="4587,237,4808,267"/>
+<area shape="rect" id="node89" href="$camerasCalibrationFunc_8h.html" title="core/alignment/camerasCalibration/camerasCalibrationFunc.h" alt="" coords="4832,237,5245,267"/>
+<area shape="rect" id="node91" href="$curvatureFunc_8h.html" title="core/alignment/curvatureFunc.h" alt="" coords="5269,237,5493,267"/>
+<area shape="rect" id="node93" href="$straightFunc_8h.html" title="core/alignment/straightFunc.h" alt="" coords="4024,237,4235,267"/>
+<area shape="rect" id="node101" href="$gradientDescent_8h.html" title="Gradient Descent algorithms for minimizing the functions." alt="" coords="3739,237,3949,267"/>
+<area shape="rect" id="node104" href="$helperFunctions_8h.html" title="Add Comment Here." alt="" coords="4259,237,4461,267"/>
+<area shape="rect" id="node109" href="$essentialEstimator_8h.html" title="Add Comment Here." alt="" coords="5517,237,5779,267"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDirectShowCaptureDecoupleInterface.html#a1c6d74241cd8cd64f764452633126536" title="DirectShowCaptureDecoupleInterface::callback" alt="" coords="563,111,883,140"/>
+<area shape="rect" id="node5" href="$classDirectShowCaptureDecoupleInterface.html#a589a428c196d4332194005cf506695e6" title="DirectShowCaptureDecoupleInterface::memberCallback" alt="" coords="932,111,1308,140"/>
+<area shape="rect" id="node7" href="$namespacecorecvs.html#a508ef06ed83b093b2380fac8d964d694" title="corecvs::roundDivUp" alt="" coords="1429,5,1584,35"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1PreciseTimer.html#af4f2392d369963a6786d28754d626d1b" title="corecvs::PreciseTimer::usecsToNow" alt="" coords="1384,59,1629,88"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1PreciseTimer.html#aeefca9626ed0efb419d7479f5d758966" title="corecvs::PreciseTimer::usecsTo" alt="" coords="1719,112,1937,141"/>
+<area shape="rect" id="node20" href="$classImageCaptureInterface.html#ad345e61b1b9e5837ef7ef788a09f1089" title="ImageCaptureInterface::newFrameReady" alt="" coords="1367,163,1647,192"/>
+<area shape="rect" id="node22" href="$classImageCaptureInterface.html#a9f388e5583e5c13086aa9a7d3b1cfb36" title="ImageCaptureInterface::newStatisticsReady" alt="" coords="1357,216,1656,245"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1PreciseTimer.html#ab6fc71ad27d7bb8ed8fed6b837ac3065" title="corecvs::PreciseTimer::isCorrect" alt="" coords="1715,5,1941,35"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1PreciseTimer.html#ab96fc33330e59dc25e1965d692dcb3f9" title="corecvs::PreciseTimer::currentTime" alt="" coords="1705,59,1951,88"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1PreciseTimer.html#a8426a1a35d70c5da82bf027bfb1bee69" title="corecvs::PreciseTimer::setTime" alt="" coords="2001,59,2220,88"/>
+</map>

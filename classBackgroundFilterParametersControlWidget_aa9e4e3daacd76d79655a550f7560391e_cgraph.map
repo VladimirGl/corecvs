@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBackgroundFilterParametersControlWidget.html#a412430c03fe2d434fa433789850f14e9" title="BackgroundFilterParametersControlWidget::createParameters" alt="" coords="465,5,879,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="563,59,781,88"/>
+<area shape="rect" id="node9" href="$classBackgroundFilterParametersControlWidget.html#a2c380fcfa2be1fda2341c2996c2be917" title="BackgroundFilterParametersControlWidget::setParameters" alt="" coords="476,112,868,141"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="1044,59,1217,88"/>
+<area shape="rect" id="node11" href="$classBackgroundFilterParameters.html#a7a0f8c228c5c4787107fdf08b635d38a" title="BackgroundFilterParameters::threshold" alt="" coords="996,112,1265,141"/>
+<area shape="rect" id="node13" href="$classBackgroundFilterParametersControlWidget.html#a8b9faf8d420931aff00a5f4a984c76ff" title="BackgroundFilterParametersControlWidget::paramsChanged" alt="" coords="928,165,1333,195"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1G8Buffer.html" title="corecvs::G8Buffer" alt="" coords="1581,73,1715,103"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="1208,51,1317,80"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1AbstractBuffer.html" title="This is a common buffer template." alt="" coords="680,83,1032,112"/>
+<area shape="rect" id="node34" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="1191,104,1335,133"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1AbstractBufferParams.html" title="This is a basis part of the AbstractBuffer template &#45; serializable buffer params." alt="" coords="320,5,539,35"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1ObjectRef.html" title="corecvs::ObjectRef\&lt; uint8_t \&gt;" alt="" coords="323,112,536,141"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1ObjectBlock.html" title="corecvs::ObjectBlock\&lt; uint8_t \&gt;" alt="" coords="7,112,233,141"/>
+<area shape="rect" id="node18" href="$classAdvancedImageWidget.html" title="AdvancedImageWidget" alt="" coords="1564,191,1732,220"/>
+<area shape="rect" id="node20" href="$classViAreaWidget.html" title="ViAreaWidget" alt="" coords="1209,157,1316,187"/>
+<area shape="rect" id="node22" href="$classSaveableWidget.html" title="SaveableWidget" alt="" coords="1201,211,1324,240"/>
+<area shape="rect" id="node26" href="$structAdvancedImageWidget_1_1WidgetToolButton.html" title="Tool bars." alt="" coords="713,264,999,293"/>
+<area shape="rect" id="node28" href="$classSaveFlowSettings.html" title="SaveFlowSettings" alt="" coords="1196,317,1329,347"/>
+<area shape="rect" id="node32" href="$classcorecvs_1_1RGB24Buffer.html" title="corecvs::RGB24Buffer" alt="" coords="1568,131,1728,160"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1EllipticalApproximation.html#a742ab54a7a28b619a9dc7639cd8b7937" title="corecvs::EllipticalApproximation::getPerAxisDeviationSquare" alt="" coords="419,9,824,39"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1EllipticalApproximation.html#ab175a05083269eb8e8348d31060cea5a" title="this function computes " alt="" coords="488,63,755,92"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="964,112,1113,141"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="964,165,1113,195"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1EllipticalApproximation.html#adb02d31a88acbeca21b8517e9ce059b0" title="Position of input points center." alt="" coords="896,59,1181,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1EllipticalApproximation.html#a1b57876ca04df6425373d909fa6dc2a2" title="corecvs::EllipticalApproximation::getMeanSquare" alt="" coords="872,5,1205,35"/>
+</map>

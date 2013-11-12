@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$diagramscene_8h.html" title="diagramscene.h" alt="" coords="428,83,553,112"/>
+<area shape="rect" id="node7" href="$diagramitem_8h.html" title="diagramitem.h" alt="" coords="355,160,469,189"/>
+<area shape="rect" id="node111" href="$diagramtextitem_8h.html" title="diagramtextitem.h" alt="" coords="1395,160,1536,189"/>
+<area shape="rect" id="node115" href="$filterGraph_8h.html" title="filterGraph.h" alt="" coords="520,160,621,189"/>
+<area shape="rect" id="node11" href="$filterBlock_8h.html" title="filterBlock.h" alt="" coords="537,315,633,344"/>
+<area shape="rect" id="node21" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="501,1088,573,1117"/>
+<area shape="rect" id="node25" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="1403,1011,1496,1040"/>
+<area shape="rect" id="node38" href="$pins_8h.html" title="TODO." alt="" coords="645,392,704,421"/>
+<area shape="rect" id="node40" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="624,469,717,499"/>
+<area shape="rect" id="node95" href="$tinyxml2_8h.html" title="tinyxml2.h" alt="" coords="1641,469,1729,499"/>
+<area shape="rect" id="node45" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="791,701,913,731"/>
+<area shape="rect" id="node84" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="511,624,700,653"/>
+<area shape="rect" id="node90" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="437,547,587,576"/>
+<area shape="rect" id="node54" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="1091,779,1181,808"/>
+<area shape="rect" id="node71" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="752,933,931,963"/>
+<area shape="rect" id="node77" href="$tbbWrapper_8h.html" title="This is a class that provides common TBB interface." alt="" coords="859,779,965,808"/>
+<area shape="rect" id="node79" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="955,933,1051,963"/>
+<area shape="rect" id="node60" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="1457,856,1561,885"/>
+<area shape="rect" id="node63" href="$vectorOperations_8h.html" title="This file holds the operations that are commonly used with continuous linear data structures such as ..." alt="" coords="1432,933,1576,963"/>
+<area shape="rect" id="node122" href="$filtersCollection_8h.html" title="filtersCollection.h" alt="" coords="1140,237,1271,267"/>
+<area shape="rect" id="node128" href="$calculationStats_8h.html" title="Add Comment Here." alt="" coords="1647,779,1783,808"/>
+<area shape="rect" id="node138" href="$preciseTimer_8h.html" title="Add Comment Here." alt="" coords="1141,856,1256,885"/>
+</map>

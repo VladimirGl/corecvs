@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$filterBlockPresentation_8h.html" title="filterBlockPresentation.h" alt="" coords="1079,83,1255,112"/>
+<area shape="rect" id="node5" href="$filterParametersControlWidgetBase_8h.html" title="../filterParametersControlWidgetBase.h" alt="" coords="776,315,1045,344"/>
+<area shape="rect" id="node62" href="$filterPinPresentation_8h.html" title="filterPinPresentation.h" alt="" coords="1211,160,1373,189"/>
+<area shape="rect" id="node9" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="999,701,1071,731"/>
+<area shape="rect" id="node13" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="888,547,981,576"/>
+<area shape="rect" id="node28" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="605,392,835,421"/>
+<area shape="rect" id="node33" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="600,469,781,499"/>
+<area shape="rect" id="node43" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="224,469,368,499"/>
+<area shape="rect" id="node49" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="392,469,576,499"/>
+<area shape="rect" id="node55" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="53,469,200,499"/>
+<area shape="rect" id="node37" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="365,547,496,576"/>
+<area shape="rect" id="node66" href="$diagramscene_8h.html" title="diagramscene.h" alt="" coords="1229,237,1355,267"/>
+<area shape="rect" id="node70" href="$diagramitem_8h.html" title="diagramitem.h" alt="" coords="1387,315,1501,344"/>
+<area shape="rect" id="node99" href="$diagramtextitem_8h.html" title="diagramtextitem.h" alt="" coords="1221,315,1363,344"/>
+<area shape="rect" id="node103" href="$filterGraph_8h.html" title="filterGraph.h" alt="" coords="1693,315,1795,344"/>
+<area shape="rect" id="node74" href="$filterBlock_8h.html" title="filterBlock.h" alt="" coords="1747,469,1843,499"/>
+<area shape="rect" id="node84" href="$pins_8h.html" title="TODO." alt="" coords="1928,547,1987,576"/>
+<area shape="rect" id="node86" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="1871,624,1964,653"/>
+<area shape="rect" id="node89" href="$tinyxml2_8h.html" title="tinyxml2.h" alt="" coords="2087,624,2175,653"/>
+<area shape="rect" id="node110" href="$filtersCollection_8h.html" title="filtersCollection.h" alt="" coords="1917,392,2048,421"/>
+<area shape="rect" id="node116" href="$calculationStats_8h.html" title="Add Comment Here." alt="" coords="1205,469,1341,499"/>
+<area shape="rect" id="node126" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="1400,547,1504,576"/>
+<area shape="rect" id="node129" href="$preciseTimer_8h.html" title="Add Comment Here." alt="" coords="1107,547,1221,576"/>
+</map>

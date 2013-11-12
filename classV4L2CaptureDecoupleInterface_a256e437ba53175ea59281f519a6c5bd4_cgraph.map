@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classImageCaptureInterface.html#a9f388e5583e5c13086aa9a7d3b1cfb36" title="ImageCaptureInterface::newStatisticsReady" alt="" coords="344,5,643,35"/>
+<area shape="rect" id="node5" href="$classV4L2CaptureDecoupleInterface.html#a463de7a0684a12a8d92c68a6ca5fc3bb" title="V4L2CaptureDecoupleInterface::start" alt="" coords="364,59,623,88"/>
+<area shape="rect" id="node7" href="$classV4L2BufferDescriptor.html#ab7bd506603f0da864e85488062109942" title="V4L2BufferDescriptor::usecsTimeStamp" alt="" coords="355,112,632,141"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1PreciseTimer.html#af4f2392d369963a6786d28754d626d1b" title="corecvs::PreciseTimer::usecsToNow" alt="" coords="371,165,616,195"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1PreciseTimer.html#ab6fc71ad27d7bb8ed8fed6b837ac3065" title="corecvs::PreciseTimer::isCorrect" alt="" coords="701,112,928,141"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1PreciseTimer.html#aeefca9626ed0efb419d7479f5d758966" title="corecvs::PreciseTimer::usecsTo" alt="" coords="705,165,924,195"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1PreciseTimer.html#ab96fc33330e59dc25e1965d692dcb3f9" title="corecvs::PreciseTimer::currentTime" alt="" coords="692,219,937,248"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1PreciseTimer.html#a8426a1a35d70c5da82bf027bfb1bee69" title="corecvs::PreciseTimer::setTime" alt="" coords="988,219,1207,248"/>
+</map>

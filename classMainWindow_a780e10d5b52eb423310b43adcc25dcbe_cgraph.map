@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classMainWindow.html#ab85f1fbcbac4addda6c3dcb5668abfd8" title="MainWindow::pauseCalculation" alt="" coords="580,5,793,35"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#adf151bc38ca8fb7fee0efb3df7514cc7" title="MainWindow::resumeCalculation" alt="" coords="575,71,799,100"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#acd36af096f4b699d85ef6b27daa0048e" title="MainWindow::updateCalculationStatus" alt="" coords="261,44,523,73"/>
+<area shape="rect" id="node11" href="$classMainWindow.html#ace3e53c4007c6615527eba7832e91e18" title="MainWindow::updateCaptureStatus" alt="" coords="271,148,513,177"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#a8f0e14351ec99aefb38aceb8eecafda9" title="MainWindow::updateSingleStateStatus" alt="" coords="259,201,525,231"/>
+</map>

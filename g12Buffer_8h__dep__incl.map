@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$radialCorrection_8h.html" title="Header file for the radial lens distortion correction primitives." alt="" coords="73,83,308,112"/>
+<area shape="rect" id="node7" href="$displacementBuffer_8h.html" title="This file hold the class DisplacementBuffer." alt="" coords="227,160,464,189"/>
+<area shape="rect" id="node9" href="$cascadeClassifier_8h.html" title="This file should hold the header for cascade classifier." alt="" coords="383,83,617,112"/>
+<area shape="rect" id="node11" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="1219,83,1384,112"/>
+<area shape="rect" id="node13" href="$g8Buffer_8cpp.html" title="Add Comment Here." alt="" coords="861,160,1043,189"/>
+<area shape="rect" id="node15" href="$integralBuffer_8h.html" title="А header for IntergalBuffer.c." alt="" coords="1067,160,1264,189"/>
+<area shape="rect" id="node17" href="$blurProcessor_8h.html" title="Add Comment Here." alt="" coords="843,237,1093,267"/>
+<area shape="rect" id="node19" href="$spatialGradient_8h.html" title="Add Comment Here." alt="" coords="1117,237,1379,267"/>
+<area shape="rect" id="node21" href="$kltGenerator_8h.html" title="Add Comment Here." alt="" coords="851,315,1037,344"/>
+<area shape="rect" id="node23" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="892,392,1127,421"/>
+<area shape="rect" id="node26" href="$morphological_8h.html" title="Add Comment Here." alt="" coords="1339,160,1637,189"/>
+<area shape="rect" id="node28" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="1611,237,1840,267"/>
+<area shape="rect" id="node30" href="$bmpLoader_8h.html" title="Add Comment Here." alt="" coords="1112,315,1323,344"/>
+<area shape="rect" id="node32" href="$g12Image_8h.html" title="utils/corestructs/g12Image.h" alt="" coords="1347,315,1549,344"/>
+<area shape="rect" id="node34" href="$qtFileLoader_8h.html" title="utils/fileformats/qtFileLoader.h" alt="" coords="1899,315,2109,344"/>
+<area shape="rect" id="node36" href="$imageCaptureInterface_8h.html" title="utils/framesources/imageCaptureInterface.h" alt="" coords="1573,315,1875,344"/>
+<area shape="rect" id="node38" href="$frames_8h.html" title="Add Comment Here." alt="" coords="2051,392,2160,421"/>
+<area shape="rect" id="node40" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="2071,469,2324,499"/>
+<area shape="rect" id="node42" href="$bufferFactory_8h.html" title="This file contains the expendable interface for loading bitmaps from files and/or streams..." alt="" coords="2016,237,2211,267"/>
+<area shape="rect" id="node46" href="$commonMappers_8h.html" title="a header for CommonMappers.cpp" alt="" coords="2269,83,2496,112"/>
+<area shape="rect" id="node48" href="$commonMappers_8cpp.html" title="core/buffers/commonMappers.cpp" alt="" coords="2440,160,2680,189"/>
+<area shape="rect" id="node50" href="$g12Buffer_8cpp.html" title="Add Comment Here." alt="" coords="2704,160,2893,189"/>
+<area shape="rect" id="node52" href="$histogram_8h.html" title="The histogram of the integer based buffers." alt="" coords="2117,160,2365,189"/>
+<area shape="rect" id="node55" href="$histogramdialog_8h.html" title="utils/corestructs/histogramdialog.h" alt="" coords="2285,237,2528,267"/>
+<area shape="rect" id="node57" href="$gainOffsetFilter_8cpp.html" title="Add Comment Here." alt="" coords="2917,160,3131,189"/>
+<area shape="rect" id="node60" href="$derivativeBuffer_8h.html" title="Add Comment Here." alt="" coords="2843,83,3056,112"/>
+<area shape="rect" id="node68" href="$interpolator_8h.html" title="Add Comment Here." alt="" coords="632,237,819,267"/>
+<area shape="rect" id="node76" href="$ppmLoader_8h.html" title="This is a header for PPM file format reader." alt="" coords="3080,83,3291,112"/>
+<area shape="rect" id="node78" href="$rawLoader_8h.html" title="Add Comment Here." alt="" coords="3315,83,3517,112"/>
+<area shape="rect" id="node80" href="$abstractFilter_8h.html" title="Add Comment Here." alt="" coords="3592,83,3779,112"/>
+<area shape="rect" id="node82" href="$filterSelector_8h.html" title="utils/filters/filterSelector.h" alt="" coords="3529,160,3711,189"/>
+<area shape="rect" id="node84" href="$pins_8h.html" title="TODO." alt="" coords="3803,83,3976,112"/>
+<area shape="rect" id="node86" href="$cannyFilter_8h.html" title="Add Comment Here." alt="" coords="4000,83,4171,112"/>
+<area shape="rect" id="node88" href="$sobelFilter_8h.html" title="Add Comment Here." alt="" coords="4195,83,4363,112"/>
+<area shape="rect" id="node90" href="$gainOffsetFilter_8h.html" title="Add Comment Here." alt="" coords="2621,83,2819,112"/>
+<area shape="rect" id="node93" href="$operationFilter_8h.html" title="core/filters/operationFilter.h" alt="" coords="4387,83,4581,112"/>
+<area shape="rect" id="node95" href="$inputFilter_8h.html" title="core/filters/inputFilter.h" alt="" coords="4605,83,4771,112"/>
+<area shape="rect" id="node97" href="$outputFilter_8h.html" title="core/filters/outputFilter.h" alt="" coords="4795,83,4971,112"/>
+<area shape="rect" id="node101" href="$segmentator_8h.html" title="Add Comment Here." alt="" coords="4995,83,5235,112"/>
+<area shape="rect" id="node105" href="$histogramwidget_8cpp.html" title="utils/corestructs/histogramwidget.cpp" alt="" coords="5259,83,5520,112"/>
+<area shape="rect" id="node109" href="$openCVFilter_8h.html" title="utils/filters/openCVFilter.h" alt="" coords="5595,83,5776,112"/>
+<area shape="rect" id="node111" href="$openCVFilter_8cpp.html" title="utils/filters/openCVFilter.cpp" alt="" coords="5499,160,5696,189"/>
+<area shape="rect" id="node113" href="$basefilter_8h.html" title="utils/filters/legacy/basefilter.h" alt="" coords="5851,83,6056,112"/>
+<area shape="rect" id="node115" href="$sobelfilter_8h.html" title="utils/filters/legacy/sobelfilter.h" alt="" coords="5759,160,5967,189"/>
+<area shape="rect" id="node118" href="$scalefilter_8cpp.html" title="utils/filters/legacy/scalefilter.cpp" alt="" coords="6080,83,6301,112"/>
+<area shape="rect" id="node123" href="$mjpegDecoderLazy_8h.html" title="utils/framesources/decoders/mjpegDecoderLazy.h" alt="" coords="6325,83,6664,112"/>
+<area shape="rect" id="node125" href="$openCvHelper_8h.html" title="utils/framesources/openCvHelper.h" alt="" coords="6688,83,6933,112"/>
+<area shape="rect" id="node128" href="$viGLAreaWidget_8cpp.html" title="utils/viGLAreaWidget.cpp" alt="" coords="6957,83,7136,112"/>
+<area shape="rect" id="node5" href="$radialFunc_8h.html" title="core/alignment/radialFunc.h" alt="" coords="5,160,203,189"/>
+</map>

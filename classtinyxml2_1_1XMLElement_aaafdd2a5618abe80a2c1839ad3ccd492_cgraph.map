@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1StrPair.html#affa1043e73a18f05d5d2faec055725a7" title="tinyxml2::StrPair::Empty" alt="" coords="341,243,515,272"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLElement.html#a9c931bc32d6e78b84c98f736fa8aafe2" title="tinyxml2::XMLElement::ParseAttributes" alt="" coords="293,296,563,325"/>
+<area shape="rect" id="node33" href="$classtinyxml2_1_1StrPair.html#aa6d8998efceba41d87ec2300c70a6085" title="tinyxml2::StrPair::ParseName" alt="" coords="964,580,1172,609"/>
+<area shape="rect" id="node37" href="$classtinyxml2_1_1XMLUtil.html#a9333d20f2a34325b5115ca45849c4b2a" title="tinyxml2::XMLUtil::SkipWhiteSpace" alt="" coords="948,473,1188,503"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1MemPoolT.html#aa9d785a48ffe6ea1be679bab13464486" title="tinyxml2::MemPoolT::Alloc" alt="" coords="659,216,845,245"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLElement.html#a7bdebdf1888074087237f3dd03912740" title="Given an attribute name, Attribute() returns the value for the attribute of that name, or null if none exists." alt="" coords="639,269,865,299"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1XMLAttribute.html#a631990ac0d176e38fc291b17b295a62d" title="The name of the attribute." alt="" coords="1267,163,1480,192"/>
+<area shape="rect" id="node23" href="$classtinyxml2_1_1XMLUtil.html#a102c0ecacf6e728b118e82d2b70ab49d" title="tinyxml2::XMLUtil::IsAlpha" alt="" coords="660,424,844,453"/>
+<area shape="rect" id="node26" href="$classtinyxml2_1_1XMLElement.html#a8bff355472bce2c60d4b50a212bf7f5f" title="Get the name of an element (which is the Value() of the node.)" alt="" coords="963,321,1173,351"/>
+<area shape="rect" id="node31" href="$classtinyxml2_1_1XMLAttribute.html#a3e18cb290baf280fbb1bc90cffd469d3" title="tinyxml2::XMLAttribute::ParseDeep" alt="" coords="631,528,873,557"/>
+<area shape="rect" id="node41" href="$classtinyxml2_1_1XMLDocument.html#adfcff7d0599cd520e9fcbb8891e1b678" title="tinyxml2::XMLDocument::ProcessEntities" alt="" coords="611,5,893,35"/>
+<area shape="rect" id="node43" href="$classtinyxml2_1_1XMLDocument.html#ae38d194e47336e4c96677ac77e2ac5d4" title="tinyxml2::XMLDocument::SetError" alt="" coords="633,109,871,139"/>
+<area shape="rect" id="node45" href="$classtinyxml2_1_1MemPool.html#ac5804dd1387b2e4de5eef710076a0db1" title="tinyxml2::MemPool::SetTracked" alt="" coords="641,163,863,192"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLElement.html#aaf46b0799ea419e5d070ac9a357de48f" title="Query a specific attribute in the list." alt="" coords="943,167,1193,196"/>
+<area shape="rect" id="node17" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="1268,216,1479,245"/>
+<area shape="rect" id="node20" href="$classtinyxml2_1_1XMLAttribute.html#adf884db24f469f8a99a14ae786d4ddd7" title="The value of the attribute." alt="" coords="1269,269,1477,299"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="1552,269,1728,299"/>
+<area shape="rect" id="node28" href="$classtinyxml2_1_1XMLNode.html#a7682be117e3b2b4ebfd517c1acaaadbf" title="The meaning of &#39;value&#39; changes for the specific type." alt="" coords="1280,323,1467,352"/>
+<area shape="rect" id="node35" href="$classtinyxml2_1_1StrPair.html#ad90521f188e9606a8fbafe5d86fb2246" title="tinyxml2::StrPair::ParseText" alt="" coords="971,527,1165,556"/>
+<area shape="rect" id="node39" href="$classtinyxml2_1_1XMLUtil.html#a24ba87b1d22528167a3d16c4f52096bf" title="tinyxml2::XMLUtil::IsUTF8Continuation" alt="" coords="1243,473,1504,503"/>
+</map>

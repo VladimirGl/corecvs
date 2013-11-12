@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cloudCluster_8h.html" title="core/clustering3d/cloudCluster.h" alt="" coords="269,83,496,112"/>
+<area shape="rect" id="node11" href="$segmentator_8cpp.html" title="Add Comment Here." alt="" coords="523,83,779,112"/>
+<area shape="rect" id="node13" href="$tileGrid_8h.html" title="Add Comment Here." alt="" coords="803,83,1005,112"/>
+<area shape="rect" id="node25" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="1051,83,1339,112"/>
+<area shape="rect" id="node5" href="$cloudCluster_8cpp.html" title="core/clustering3d/cloudCluster.cpp" alt="" coords="5,160,245,189"/>
+<area shape="rect" id="node7" href="$clustering3d_8h.html" title="core/clustering3d/clustering3d.h" alt="" coords="269,160,496,189"/>
+<area shape="rect" id="node9" href="$clustering3d_8cpp.html" title="core/clustering3d/clustering3d.cpp" alt="" coords="259,237,499,267"/>
+<area shape="rect" id="node15" href="$meanShiftWindow_8h.html" title="Add Comment Here." alt="" coords="531,160,776,189"/>
+<area shape="rect" id="node23" href="$tileGrid_8cpp.html" title="Add Comment Here." alt="" coords="800,160,1019,189"/>
+<area shape="rect" id="node17" href="$meanShiftCalculator_8h.html" title="Add Comment Here." alt="" coords="523,237,784,267"/>
+<area shape="rect" id="node21" href="$meanShiftWindow_8cpp.html" title="Add Comment Here." alt="" coords="808,237,1069,267"/>
+<area shape="rect" id="node19" href="$meanShiftCalculator_8cpp.html" title="Add Comment Here." alt="" coords="515,315,792,344"/>
+<area shape="rect" id="node27" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="1043,160,1347,189"/>
+<area shape="rect" id="node29" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="1371,160,1621,189"/>
+<area shape="rect" id="node31" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="1144,237,1408,267"/>
+<area shape="rect" id="node33" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="1208,315,1451,344"/>
+<area shape="rect" id="node35" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="1483,237,1709,267"/>
+<area shape="rect" id="node42" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="1752,237,2019,267"/>
+<area shape="rect" id="node38" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="1475,315,1717,344"/>
+<area shape="rect" id="node40" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="1741,315,2029,344"/>
+<area shape="rect" id="node45" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="2053,315,2333,344"/>
+</map>

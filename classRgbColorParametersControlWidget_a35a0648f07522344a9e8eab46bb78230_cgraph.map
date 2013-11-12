@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classRgbColorParametersControlWidget.html#a74986c3ab7a14448563257f8f95f254f" title="RgbColorParametersControlWidget::createParameters" alt="" coords="416,5,781,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="489,59,708,88"/>
+<area shape="rect" id="node9" href="$classRgbColorParametersControlWidget.html#a15e1e5a2efc87341c1c7bd51fedd83dc" title="RgbColorParametersControlWidget::setParameters" alt="" coords="427,139,771,168"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="921,32,1095,61"/>
+<area shape="rect" id="node11" href="$classRgbColorParameters.html#a76f3b0cbd418e2259b7c35fde63e52dd" title="RgbColorParameters::r" alt="" coords="925,85,1091,115"/>
+<area shape="rect" id="node13" href="$classRgbColorParameters.html#ac9412ba5f3027be3d598d621ef7010e0" title="RgbColorParameters::g" alt="" coords="924,139,1092,168"/>
+<area shape="rect" id="node15" href="$classRgbColorParameters.html#ae07cc032601d2f99de4011962fef14c1" title="RgbColorParameters::b" alt="" coords="924,192,1092,221"/>
+<area shape="rect" id="node17" href="$classRgbColorParametersControlWidget.html#abefe083fe12dd60893883df31992f9c6" title="RgbColorParametersControlWidget::paramsChanged" alt="" coords="831,245,1185,275"/>
+</map>

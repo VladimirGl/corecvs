@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$eulerAngles_8h.html" title="a header for eulerAngles.c" alt="" coords="427,83,536,112"/>
+<area shape="rect" id="node21" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="377,315,468,344"/>
+<area shape="rect" id="node58" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="580,547,676,576"/>
+<area shape="rect" id="node64" href="$rectifyParameters_8h.html" title="rectifyParameters.h" alt="" coords="1043,469,1189,499"/>
+<area shape="rect" id="node82" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="1873,469,2103,499"/>
+<area shape="rect" id="node117" href="$qtHelper_8h.html" title="qtHelper.h" alt="" coords="611,237,699,267"/>
+<area shape="rect" id="node9" href="$quaternion_8h.html" title="Add Comment Here." alt="" coords="280,160,381,189"/>
+<area shape="rect" id="node11" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="285,237,376,267"/>
+<area shape="rect" id="node33" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="187,469,291,499"/>
+<area shape="rect" id="node24" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="437,392,528,421"/>
+<area shape="rect" id="node29" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="808,701,880,731"/>
+<area shape="rect" id="node37" href="$vectorOperations_8h.html" title="This file holds the operations that are commonly used with continuous linear data structures such as ..." alt="" coords="159,547,303,576"/>
+<area shape="rect" id="node43" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="1256,624,1349,653"/>
+<area shape="rect" id="node67" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="751,547,868,576"/>
+<area shape="rect" id="node72" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="892,547,1007,576"/>
+<area shape="rect" id="node76" href="$matchingMethodType_8h.html" title="matchingMethodType.h" alt="" coords="1031,547,1201,576"/>
+<area shape="rect" id="node78" href="$estimationMethodType_8h.html" title="estimationMethodType.h" alt="" coords="1225,547,1404,576"/>
+<area shape="rect" id="node80" href="$optimizationMethodType_8h.html" title="optimizationMethodType.h" alt="" coords="1428,547,1617,576"/>
+<area shape="rect" id="node88" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="2001,547,2183,576"/>
+<area shape="rect" id="node98" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="2207,547,2351,576"/>
+<area shape="rect" id="node104" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="1793,547,1977,576"/>
+<area shape="rect" id="node110" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="2375,547,2521,576"/>
+<area shape="rect" id="node92" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="2091,624,2221,653"/>
+</map>

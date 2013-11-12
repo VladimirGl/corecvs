@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$spatialGradient_8cpp.html" title="Add Comment Here." alt="" coords="352,83,627,112"/>
+<area shape="rect" id="node5" href="$kltGenerator_8h.html" title="Add Comment Here." alt="" coords="1009,83,1196,112"/>
+<area shape="rect" id="node122" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="328,392,616,421"/>
+<area shape="rect" id="node7" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="2451,160,2685,189"/>
+<area shape="rect" id="node94" href="$correspondanceList_8cpp.html" title="Add Comment Here." alt="" coords="892,315,1175,344"/>
+<area shape="rect" id="node119" href="$kltGenerator_8cpp.html" title="Add Comment Here." alt="" coords="1071,160,1273,189"/>
+<area shape="rect" id="node9" href="$FCostFunction_8h.html" title="This file holds the data primitives for compensated flow cost function." alt="" coords="3652,237,3884,267"/>
+<area shape="rect" id="node13" href="$flowVectorInformation_8h.html" title="This header holds the data structures that hold classification of flow vectors." alt="" coords="4132,315,4412,344"/>
+<area shape="rect" id="node20" href="$floatFlowBuffer_8cpp.html" title="Add Comment Here." alt="" coords="1951,237,2199,267"/>
+<area shape="rect" id="node22" href="$flowBuffer_8cpp.html" title="Add Comment Here." alt="" coords="2223,237,2441,267"/>
+<area shape="rect" id="node24" href="$sixDBuffer_8h.html" title="A header for sixDBuffer.cpp." alt="" coords="2465,237,2671,267"/>
+<area shape="rect" id="node49" href="$correspondanceList_8h.html" title="Add Comment Here." alt="" coords="2695,237,2964,267"/>
+<area shape="rect" id="node11" href="$FCostFunction_8cpp.html" title="This file holds implementation of functions for compensated flow cost function." alt="" coords="3529,315,3775,344"/>
+<area shape="rect" id="node17" href="$flowSimuator_8cpp.html" title="This is an implementation file to simulate flow caused by still standing objects and a moving vehicle..." alt="" coords="3799,315,4108,344"/>
+<area shape="rect" id="node15" href="$flowVectorInformation_8cpp.html" title="This file holds the data structures that help classification of flow vectors." alt="" coords="4124,392,4420,421"/>
+<area shape="rect" id="node26" href="$sixDBuffer_8cpp.html" title="Add Comment Here." alt="" coords="1199,315,1420,344"/>
+<area shape="rect" id="node28" href="$triangulator_8h.html" title="Add Comment Here." alt="" coords="2656,392,2872,421"/>
+<area shape="rect" id="node30" href="$buffer3d_8h.html" title="core/buffers/buffer3d.h" alt="" coords="2971,469,3136,499"/>
+<area shape="rect" id="node32" href="$g12Buffer3d_8h.html" title="core/buffers/g12Buffer3d.h" alt="" coords="2499,469,2691,499"/>
+<area shape="rect" id="node34" href="$triangulator_8cpp.html" title="Add Comment Here." alt="" coords="2715,469,2947,499"/>
+<area shape="rect" id="node36" href="$universalRectifier_8h.html" title="Add Comment Here." alt="" coords="3211,469,3432,499"/>
+<area shape="rect" id="node40" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="1635,469,1888,499"/>
+<area shape="rect" id="node46" href="$scene3DMouse_8h.html" title="Add Comment Here." alt="" coords="1971,547,2216,576"/>
+<area shape="rect" id="node38" href="$universalRectifier_8cpp.html" title="Add Comment Here." alt="" coords="2360,547,2597,576"/>
+<area shape="rect" id="node42" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="1440,547,1709,576"/>
+<area shape="rect" id="node44" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="831,547,1095,576"/>
+<area shape="rect" id="node51" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="1711,315,1940,344"/>
+<area shape="rect" id="node92" href="$homographyReconstructor_8h.html" title="Add Comment Here." alt="" coords="2665,315,2983,344"/>
+<area shape="rect" id="node96" href="$essentialEstimator_8h.html" title="Add Comment Here." alt="" coords="3479,392,3740,421"/>
+<area shape="rect" id="node98" href="$ransacEstimator_8cpp.html" title="Add Comment Here." alt="" coords="3456,469,3717,499"/>
+<area shape="rect" id="node101" href="$essentialMatrix_8h.html" title="Add Comment Here." alt="" coords="3164,315,3404,344"/>
+<area shape="rect" id="node107" href="$ransacEstimator_8h.html" title="a header for ransacEstimator.c" alt="" coords="2896,392,3144,421"/>
+<area shape="rect" id="node112" href="$stereoAligner_8h.html" title="Add Comment Here." alt="" coords="2248,469,2475,499"/>
+<area shape="rect" id="node116" href="$pointsRectificationWidget_8h.html" title="utils/uis/pointsRectificationWidget.h" alt="" coords="1444,315,1687,344"/>
+<area shape="rect" id="node53" href="$vjPattern_8h.html" title="This file holds data for Viola&#45;Jones pattern features." alt="" coords="917,392,1099,421"/>
+<area shape="rect" id="node55" href="$rgb24Buffer_8cpp.html" title="Add Comment Here." alt="" coords="1123,392,1365,421"/>
+<area shape="rect" id="node57" href="$bmpLoader_8h.html" title="Add Comment Here." alt="" coords="1912,469,2123,499"/>
+<area shape="rect" id="node60" href="$g12Image_8h.html" title="utils/corestructs/g12Image.h" alt="" coords="691,392,893,421"/>
+<area shape="rect" id="node62" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="561,469,865,499"/>
+<area shape="rect" id="node83" href="$qtFileLoader_8h.html" title="utils/fileformats/qtFileLoader.h" alt="" coords="1389,392,1600,421"/>
+<area shape="rect" id="node85" href="$imageCaptureInterface_8h.html" title="utils/framesources/imageCaptureInterface.h" alt="" coords="1675,392,1976,421"/>
+<area shape="rect" id="node87" href="$V4L2Capture_8h.html" title="Add Comment Here." alt="" coords="1341,469,1611,499"/>
+<area shape="rect" id="node64" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="287,469,537,499"/>
+<area shape="rect" id="node67" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="5,624,248,653"/>
+<area shape="rect" id="node69" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="284,547,511,576"/>
+<area shape="rect" id="node76" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="540,547,807,576"/>
+<area shape="rect" id="node72" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="272,624,515,653"/>
+<area shape="rect" id="node74" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="539,624,827,653"/>
+<area shape="rect" id="node79" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="851,624,1131,653"/>
+</map>

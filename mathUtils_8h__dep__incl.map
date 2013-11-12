@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$vjPattern_8h.html" title="This file holds data for Viola&#45;Jones pattern features." alt="" coords="1616,547,1797,576"/>
+<area shape="rect" id="node7" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="1625,83,1828,112"/>
+<area shape="rect" id="node11" href="$displacementBuffer_8h.html" title="This file hold the class DisplacementBuffer." alt="" coords="399,392,636,421"/>
+<area shape="rect" id="node43" href="$kltGenerator_8h.html" title="Add Comment Here." alt="" coords="2959,624,3145,653"/>
+<area shape="rect" id="node45" href="$kltGenerator_8cpp.html" title="Add Comment Here." alt="" coords="2951,701,3153,731"/>
+<area shape="rect" id="node47" href="$correspondanceList_8cpp.html" title="Add Comment Here." alt="" coords="3264,701,3547,731"/>
+<area shape="rect" id="node55" href="$universalRectifier_8cpp.html" title="Add Comment Here." alt="" coords="2391,547,2628,576"/>
+<area shape="rect" id="node71" href="$tileGrid_8h.html" title="Add Comment Here." alt="" coords="1075,469,1277,499"/>
+<area shape="rect" id="node95" href="$stereoAligner_8cpp.html" title="Add Comment Here." alt="" coords="711,237,953,267"/>
+<area shape="rect" id="node101" href="$rgbColor_8h.html" title="a header for rgbColor.c" alt="" coords="3009,83,3217,112"/>
+<area shape="rect" id="node108" href="$mesh3d_8cpp.html" title="core/geometry/mesh3d.cpp" alt="" coords="3529,83,3727,112"/>
+<area shape="rect" id="node115" href="$preciseTimer_8h.html" title="Add Comment Here." alt="" coords="3751,83,3927,112"/>
+<area shape="rect" id="node117" href="$directShowCaptureDecouple_8cpp.html" title="utils/framesources/directShow/directShowCaptureDecouple.cpp" alt="" coords="3688,160,4115,189"/>
+<area shape="rect" id="node119" href="$mesh3DScene_8cpp.html" title="utils/3d/mesh3DScene.cpp" alt="" coords="4001,83,4193,112"/>
+<area shape="rect" id="node121" href="$cameraCalculatorWidget_8cpp.html" title="utils/camcalc/cameraCalculatorWidget.cpp" alt="" coords="4217,83,4508,112"/>
+<area shape="rect" id="node123" href="$painterHelpers_8cpp.html" title="Add Comment Here." alt="" coords="4532,83,4780,112"/>
+<area shape="rect" id="node126" href="$rectifyParametersControlWidget_8h.html" title="utils/rectifier/rectifyParametersControlWidget.h" alt="" coords="4804,83,5121,112"/>
+<area shape="rect" id="node129" href="$advancedImageWidget_8cpp.html" title="utils/uis/advancedImageWidget.cpp" alt="" coords="5145,83,5391,112"/>
+<area shape="rect" id="node131" href="$graphPlotDialog_8cpp.html" title="utils/uis/graphPlotDialog.cpp" alt="" coords="5415,83,5617,112"/>
+<area shape="rect" id="node133" href="$angleEditBox_8cpp.html" title="utils/widgets/angleEditBox.cpp" alt="" coords="5641,83,5855,112"/>
+<area shape="rect" id="node135" href="$exponentialSlider_8cpp.html" title="utils/widgets/exponentialSlider.cpp" alt="" coords="5879,83,6119,112"/>
+<area shape="rect" id="node137" href="$parameterSlider_8cpp.html" title="utils/widgets/parameterSlider.cpp" alt="" coords="6143,83,6377,112"/>
+<area shape="rect" id="node139" href="$transform3DSelector_8cpp.html" title="utils/widgets/transform3DSelector.cpp" alt="" coords="6401,83,6665,112"/>
+<area shape="rect" id="node5" href="$vjPattern_8cpp.html" title="This file hold implementation of function for Viola&#45;Jones optimised patterns." alt="" coords="1609,624,1804,653"/>
+<area shape="rect" id="node9" href="$distortionCorrectTransform_8h.html" title="core/alignment/distortionCorrectTransform.h" alt="" coords="137,315,441,344"/>
+<area shape="rect" id="node30" href="$assignmentOptimal_8h.html" title="a header for assignmentOptimal.c" alt="" coords="812,160,1081,189"/>
+<area shape="rect" id="node32" href="$abstractBuffer_8cpp.html" title="TODO." alt="" coords="1369,160,1588,189"/>
+<area shape="rect" id="node34" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="1197,237,1467,267"/>
+<area shape="rect" id="node36" href="$g8Buffer_8h.html" title="Add Comment Here." alt="" coords="1899,392,2064,421"/>
+<area shape="rect" id="node38" href="$integralBuffer_8h.html" title="А header for IntergalBuffer.c." alt="" coords="1883,469,2080,499"/>
+<area shape="rect" id="node41" href="$spatialGradient_8h.html" title="Add Comment Here." alt="" coords="1851,547,2112,576"/>
+<area shape="rect" id="node57" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="1663,315,1836,344"/>
+<area shape="rect" id="node60" href="$commonMappers_8h.html" title="a header for CommonMappers.cpp" alt="" coords="2200,392,2427,421"/>
+<area shape="rect" id="node62" href="$derivativeBuffer_8h.html" title="Add Comment Here." alt="" coords="1509,392,1723,421"/>
+<area shape="rect" id="node69" href="$segmentator_8h.html" title="Add Comment Here." alt="" coords="1195,392,1435,421"/>
+<area shape="rect" id="node77" href="$abstractKernel_8h.html" title="This class holds a convolution kernel." alt="" coords="1764,160,1969,189"/>
+<area shape="rect" id="node85" href="$mipmapPyramid_8h.html" title="a header for MidmapPyramid.cpp" alt="" coords="2807,469,3025,499"/>
+<area shape="rect" id="node90" href="$sphericalCorrectionLUT_8h.html" title="Add Comment Here." alt="" coords="1993,160,2276,189"/>
+<area shape="rect" id="node92" href="$math_2matrix_2matrix_8h.html" title="core/math/matrix/matrix.h" alt="" coords="1105,160,1295,189"/>
+<area shape="rect" id="node97" href="$projectiveTransform_8h.html" title="Add Comment Here." alt="" coords="2300,160,2529,189"/>
+<area shape="rect" id="node21" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="939,624,1227,653"/>
+<area shape="rect" id="node25" href="$camerasConfigParameters_8h.html" title="applications/base/camerasConfigParameters.h" alt="" coords="35,469,352,499"/>
+<area shape="rect" id="node13" href="$displacementBuffer_8cpp.html" title="Add Comment Here." alt="" coords="749,469,1000,499"/>
+<area shape="rect" id="node15" href="$transformationCache_8h.html" title="core/buffers/transformationCache.h" alt="" coords="376,469,624,499"/>
+<area shape="rect" id="node17" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="353,547,647,576"/>
+<area shape="rect" id="node19" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="931,701,1235,731"/>
+<area shape="rect" id="node51" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="1561,469,1791,499"/>
+<area shape="rect" id="node103" href="$abstractPainter_8h.html" title="core/buffers/rgb24/abstractPainter.h" alt="" coords="2857,160,3108,189"/>
+<area shape="rect" id="node106" href="$rgbColor_8cpp.html" title="Add Comment Here." alt="" coords="3132,160,3353,189"/>
+</map>

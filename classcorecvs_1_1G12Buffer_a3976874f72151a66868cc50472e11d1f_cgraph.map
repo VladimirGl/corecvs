@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1G12Buffer.html#a49f9af21dc0f3585b3838b467c1872a7" title="This function is used as a hack to interface the C&#45;style g12Buffer." alt="" coords="423,5,636,35"/>
+<area shape="rect" id="node5" href="$namespacecorecvs.html#a3bfefeb3d41c56bea61deddbce9632a8" title="This template provides the parallelable call of the function over the interval with or without TBB..." alt="" coords="441,59,617,88"/>
+<area shape="rect" id="node7" href="$namespacecorecvs.html#a3e447419f29c25b7a5b4bb77e283f5a3" title="This template provides the dummy call of the function over the interval without TBB." alt="" coords="687,59,905,88"/>
+</map>

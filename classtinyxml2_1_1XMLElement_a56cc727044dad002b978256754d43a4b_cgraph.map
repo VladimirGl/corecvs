@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLNode.html#a60e923d13d7dc01f45ab90a2f948b02a" title="Get the first child node, or null if none exists." alt="" coords="273,5,481,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLNode.html#a41c55dab9162d1eb62db2008430e376b" title="Safely cast to Text, or null." alt="" coords="283,59,472,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLNode.html#a7682be117e3b2b4ebfd517c1acaaadbf" title="The meaning of &#39;value&#39; changes for the specific type." alt="" coords="284,112,471,141"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="531,112,707,141"/>
+</map>

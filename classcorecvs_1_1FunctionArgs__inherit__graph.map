@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AngleFunction.html" title="corecvs::AngleFunction" alt="" coords="317,5,485,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1AnglePointsFunction.html" title="This class describes the cost function that shows how a set of lines differ from the model..." alt="" coords="299,59,504,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1CamerasCalibrationFunc.html" title="corecvs::CamerasCalibrationFunc" alt="" coords="284,112,519,141"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1CurvatureFunc.html" title="corecvs::CurvatureFunc" alt="" coords="316,165,487,195"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1DistPointsFunction.html" title="This class describes the cost function that shows how a set of lines differ from the model..." alt="" coords="304,219,499,248"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunctionBase.html" title="This is a class that describe the translation form state in form of the array of doubles into an Esse..." alt="" coords="241,272,561,301"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1EssentialEstimator_1_1NormalizeFunction.html" title="Function that normalizes the current state." alt="" coords="240,325,563,355"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1HomographyReconstructor_1_1CostFunction.html" title="corecvs::HomographyReconstructor::CostFunction" alt="" coords="232,379,571,408"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1HomographyReconstructor_1_1CostFunctionWize.html" title="corecvs::HomographyReconstructor::CostFunctionWize" alt="" coords="217,432,585,461"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1IdentityFunction.html" title="corecvs::IdentityFunction" alt="" coords="312,485,491,515"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1LengthFunction.html" title="corecvs::LengthFunction" alt="" coords="313,539,489,568"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1Map2DFunction.html" title="corecvs::Map2DFunction\&lt; Map2D \&gt;" alt="" coords="276,592,527,621"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1RadialCorrection.html" title="corecvs::RadialCorrection" alt="" coords="311,645,492,675"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1RadialFunc.html" title="function to optimize" alt="" coords="328,699,475,728"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1RosenbrockFunction.html" title="http://en.wikipedia.org/wiki/Rosenbrock_function" alt="" coords="299,752,504,781"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1ScalerFunction.html" title="corecvs::ScalerFunction" alt="" coords="316,805,487,835"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1StraightFunc.html" title="corecvs::StraightFunc" alt="" coords="323,859,480,888"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunction7to1.html" title="Normalized cost function try to trick the optimization algorithms by re&#45;normalising the direction and..." alt="" coords="636,245,953,275"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunction7toN.html" title="Function that returned." alt="" coords="636,299,953,328"/>
+</map>

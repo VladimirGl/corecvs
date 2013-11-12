@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$gainOffsetFilter_8h.html" title="Add Comment Here." alt="" coords="801,83,929,112"/>
+<area shape="rect" id="node34" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="1145,392,1238,421"/>
+<area shape="rect" id="node131" href="$commonMappers_8h.html" title="a header for CommonMappers.cpp" alt="" coords="1414,315,1619,344"/>
+<area shape="rect" id="node137" href="$serializerVisitor_8h.html" title="serializerVisitor.h" alt="" coords="1229,315,1359,344"/>
+<area shape="rect" id="node141" href="$deserializerVisitor_8h.html" title="deserializerVisitor.h" alt="" coords="906,315,1053,344"/>
+<area shape="rect" id="node5" href="$filterBlock_8h.html" title="filterBlock.h" alt="" coords="563,237,659,267"/>
+<area shape="rect" id="node112" href="$gainOffsetParameters_8h.html" title="../xml/generated/gainOffsetParameters.h" alt="" coords="719,469,1002,499"/>
+<area shape="rect" id="node124" href="$filtersCollection_8h.html" title="filtersCollection.h" alt="" coords="499,160,630,189"/>
+<area shape="rect" id="node15" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1117,779,1189,808"/>
+<area shape="rect" id="node19" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="906,624,999,653"/>
+<area shape="rect" id="node32" href="$pins_8h.html" title="TODO." alt="" coords="769,315,827,344"/>
+<area shape="rect" id="node95" href="$tinyxml2_8h.html" title="tinyxml2.h" alt="" coords="441,392,529,421"/>
+<area shape="rect" id="node39" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="1414,624,1537,653"/>
+<area shape="rect" id="node76" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="1178,547,1367,576"/>
+<area shape="rect" id="node82" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="1330,469,1479,499"/>
+<area shape="rect" id="node48" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="1861,701,1951,731"/>
+<area shape="rect" id="node57" href="$memoryBlock_8h.html" title="Add Comment Here." alt="" coords="1658,701,1837,731"/>
+<area shape="rect" id="node67" href="$tbbWrapper_8h.html" title="This is a class that provides common TBB interface." alt="" coords="1407,701,1514,731"/>
+<area shape="rect" id="node71" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="1538,701,1634,731"/>
+<area shape="rect" id="node54" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="1921,779,2025,808"/>
+<area shape="rect" id="node65" href="$atomicOps_8h.html" title="atomicOps.h" alt="" coords="1705,779,1806,808"/>
+<area shape="rect" id="node87" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="1795,547,1886,576"/>
+<area shape="rect" id="node115" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="645,547,762,576"/>
+<area shape="rect" id="node120" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="786,547,901,576"/>
+</map>

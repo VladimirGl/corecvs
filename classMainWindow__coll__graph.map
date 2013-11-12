@@ -1,0 +1,47 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classBaseHostDialog.html" title="BaseHost dialog is a class that is a base for ViTool dialogs It allows to have all the parameters rel..." alt="" coords="2035,672,2157,701"/>
+<area shape="rect" id="node4" href="$classCameraCalculatorWidget.html" title="CameraCalculatorWidget" alt="" coords="1519,372,1697,401"/>
+<area shape="rect" id="node6" href="$structLensPreset.html" title="LensPreset" alt="" coords="929,319,1023,348"/>
+<area shape="rect" id="node10" href="$classColorTimer.html" title="ColorTimer" alt="" coords="399,372,489,401"/>
+<area shape="rect" id="node12" href="$structSensorPreset.html" title="SensorPreset" alt="" coords="923,265,1029,295"/>
+<area shape="rect" id="node16" href="$classSaveableWidget.html" title="SaveableWidget" alt="" coords="383,528,505,557"/>
+<area shape="rect" id="node20" href="$classParametersControlWidgetBase.html" title="ParametersControlWidgetBase" alt="" coords="868,476,1084,505"/>
+<area shape="rect" id="node80" href="$classCapSettingsDialog.html" title="CapSettingsDialog" alt="" coords="1539,615,1677,644"/>
+<area shape="rect" id="node96" href="$classAdvancedImageWidget.html" title="AdvancedImageWidget" alt="" coords="892,759,1060,788"/>
+<area shape="rect" id="node101" href="$classGraphPlotDialog.html" title="GraphPlotDialog" alt="" coords="913,865,1039,895"/>
+<area shape="rect" id="node18" href="$classBaseParametersControlWidget.html" title="BaseParametersControlWidget" alt="" coords="1500,561,1716,591"/>
+<area shape="rect" id="node43" href="$classPresentationParametersControlWidget.html" title="PresentationParametersControlWidget" alt="" coords="1475,508,1741,537"/>
+<area shape="rect" id="node23" href="$classStatisticsDialog.html" title="StatisticsDialog" alt="" coords="1548,1125,1668,1155"/>
+<area shape="rect" id="node25" href="$classViAreaWidget.html" title="ViAreaWidget" alt="" coords="391,865,497,895"/>
+<area shape="rect" id="node27" href="$classQtStatisticsCollector.html" title="QtStatisticsCollector" alt="" coords="900,1159,1052,1188"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1BaseTimeStatisticsCollector.html" title="corecvs::BaseTimeStatisticsCollector" alt="" coords="316,1159,572,1188"/>
+<area shape="rect" id="node31" href="$classCaptureStatistics.html" title="CaptureStatistics" alt="" coords="911,1212,1041,1241"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1FixedVector.html" title="corecvs::FixedVector\&lt; uint64_t, MAX_ID \&gt;" alt="" coords="299,1212,589,1241"/>
+<area shape="rect" id="node35" href="$classFrames.html" title="Frames" alt="" coords="941,1265,1011,1295"/>
+<area shape="rect" id="node56" href="$classAbstractCalculationThread.html" title="AbstractCalculationThread" alt="" coords="1513,1203,1703,1232"/>
+<area shape="rect" id="node37" href="$classcorecvs_1_1G12Buffer.html" title="TODO: Add consts where it should go." alt="" coords="373,1099,515,1128"/>
+<area shape="rect" id="node86" href="$classDistortionWidget.html" title="DistortionWidget" alt="" coords="1545,877,1671,907"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="36,1099,153,1128"/>
+<area shape="rect" id="node41" href="$classcorecvs_1_1RGB24Buffer.html" title="corecvs::RGB24Buffer" alt="" coords="364,1265,524,1295"/>
+<area shape="rect" id="node46" href="$classMemoryUsageCalculator.html" title="Class that gets memory usage info from OS and checks if it is within allowed range or not..." alt="" coords="1519,1431,1697,1460"/>
+<area shape="rect" id="node48" href="$classImageCaptureInterface.html" title="ImageCaptureInterface" alt="" coords="892,652,1060,681"/>
+<area shape="rect" id="node50" href="$classFilterPresentationsCollection.html" title="FilterPresentationsCollection" alt="" coords="875,1388,1077,1417"/>
+<area shape="rect" id="node61" href="$classFilterGraphPresentation.html" title="FilterGraphPresentation" alt="" coords="1523,1541,1693,1571"/>
+<area shape="rect" id="node52" href="$classcorecvs_1_1FiltersCollection.html" title="corecvs::FiltersCollection" alt="" coords="5,1388,184,1417"/>
+<area shape="rect" id="node67" href="$classcorecvs_1_1FilterGraph.html" title="corecvs::FilterGraph" alt="" coords="371,1544,517,1573"/>
+<area shape="rect" id="node54" href="$classAboutDialog.html" title="AboutDialog" alt="" coords="1559,1484,1657,1513"/>
+<area shape="rect" id="node76" href="$classCompoundBlockPresentation.html" title="CompoundBlockPresentation" alt="" coords="1993,1615,2199,1644"/>
+<area shape="rect" id="node63" href="$classtinyxml2_1_1XMLDocument.html" title="A Document binds together all the functionality." alt="" coords="888,1457,1064,1487"/>
+<area shape="rect" id="node65" href="$classDiagramScene.html" title="DiagramScene" alt="" coords="917,1629,1035,1659"/>
+<area shape="rect" id="node72" href="$classcorecvs_1_1CompoundFilter.html" title="corecvs::CompoundFilter" alt="" coords="887,1576,1065,1605"/>
+<area shape="rect" id="node84" href="$classCameraParameters.html" title="CameraParameters" alt="" coords="903,580,1049,609"/>
+<area shape="rect" id="node88" href="$classcorecvs_1_1Segmentator.html" title="corecvs::Segmentator\&lt; CornerSegmentator, CornerSegment \&gt;" alt="" coords="760,919,1192,948"/>
+<area shape="rect" id="node92" href="$classcorecvs_1_1RadialCorrection.html" title="corecvs::RadialCorrection" alt="" coords="885,705,1067,735"/>
+<area shape="rect" id="node94" href="$classDistortionParameters.html" title="DistortionParameters" alt="" coords="897,812,1055,841"/>
+<area shape="rect" id="node107" href="$classAbstractOutputData.html" title="An empty stub for the output data obtained as the result of the calculation." alt="" coords="901,5,1051,35"/>
+<area shape="rect" id="node109" href="$classcorecvs_1_1RectificationResult.html" title="This class contains all the output information about rectification process." alt="" coords="1512,181,1704,211"/>
+<area shape="rect" id="node111" href="$classcorecvs_1_1CameraIntrinsics.html" title="This class describes the parameters of the ideal pin&#45;hole camera TODO: Should be a child of a DeformM..." alt="" coords="883,212,1069,241"/>
+<area shape="rect" id="node113" href="$classcorecvs_1_1EssentialDecomposition.html" title="This class stores the relative position of first and second camera." alt="" coords="860,59,1092,88"/>
+<area shape="rect" id="node115" href="$classcorecvs_1_1Matrix33.html" title="Class describes the 3 by 3 matrix." alt="" coords="377,116,511,145"/>
+<area shape="rect" id="node118" href="$classInputSelectorWidget.html" title="InputSelectorWidget" alt="" coords="1533,319,1683,348"/>
+</map>

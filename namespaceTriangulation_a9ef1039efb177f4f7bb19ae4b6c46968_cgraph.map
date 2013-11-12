@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classTriangulation_1_1Edge.html#a5298d42797c519d6b1a25e9f89a7a218" title="Triangulation::Edge::classify" alt="" coords="455,5,649,35"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="936,111,1085,140"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="936,164,1085,193"/>
+<area shape="rect" id="node15" href="$classTriangulation_1_1Edge.html#ab4563d6b741e983ef600d340595f3cfc" title="Triangulation::Edge::intersect" alt="" coords="199,59,404,88"/>
+<area shape="rect" id="node20" href="$classTriangulation_1_1Edge.html#ae3343789172457cb14ddbfed53864658" title="Having the edge rotated 90deg around the center." alt="" coords="699,163,867,192"/>
+<area shape="rect" id="node5" href="$namespaceTriangulation.html#a6bacdcc5b47e8f998db5e880477c5614" title="Triangulation::classify" alt="" coords="705,57,860,87"/>
+<area shape="rect" id="node7" href="$classTriangulation_1_1Point.html#ac51a33cef7462faf25a03a5f8eaa127c" title="Triangulation::Point::length" alt="" coords="916,57,1105,87"/>
+<area shape="rect" id="node9" href="$algebra_8c.html#ac35612b9ebd9e49d567a4ec9041d998c" title="getLengthStable" alt="" coords="1155,57,1283,87"/>
+<area shape="rect" id="node17" href="$namespaceTriangulation.html#a7a00d0364de4be64bf16fcf9452d31d2" title="comparison precise up to epsilon" alt="" coords="459,59,645,88"/>
+</map>

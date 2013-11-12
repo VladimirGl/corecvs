@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classMjpegDecoderLazy_1_1HuffmanTable.html" title="MjpegDecoderLazy::HuffmanTable" alt="" coords="363,24,600,53"/>
+<area shape="rect" id="node8" href="$classMjpegDecoderLazy_1_1ScanData.html" title="Huffman decode table." alt="" coords="707,57,920,87"/>
+<area shape="rect" id="node4" href="$classMjpegDecoderLazy_1_1HuffmanTableEntry.html" title="MjpegDecoderLazy::HuffmanTableEntry" alt="" coords="7,24,276,53"/>
+<area shape="rect" id="node6" href="$classMjpegDecoderLazy_1_1StreamParser.html" title="MjpegDecoderLazy::StreamParser" alt="" coords="695,111,932,140"/>
+<area shape="rect" id="node11" href="$classMjpegDecoderLazy_1_1Jpginfo.html" title="MjpegDecoderLazy::Jpginfo" alt="" coords="717,164,909,193"/>
+<area shape="rect" id="node13" href="$classMjpegDecoderLazy_1_1ComponentData.html" title="MjpegDecoderLazy::ComponentData" alt="" coords="685,217,941,247"/>
+<area shape="rect" id="node15" href="$classMjpegDecoderLazy_1_1HuffmanParser.html" title="MjpegDecoderLazy::HuffmanParser" alt="" coords="691,271,936,300"/>
+</map>

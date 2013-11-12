@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$intBase16x8_8h.html" title="core/math/sse/intBase16x8.h" alt="" coords="91,160,299,189"/>
+<area shape="rect" id="node9" href="$sse_2int32x8_8h.html" title="core/math/sse/int32x8.h" alt="" coords="169,83,345,112"/>
+<area shape="rect" id="node5" href="$sse_2int16x8_8h.html" title="core/math/sse/int16x8.h" alt="" coords="5,237,181,267"/>
+<area shape="rect" id="node7" href="$uInt16x8_8h.html" title="core/math/sse/uInt16x8.h" alt="" coords="205,237,389,267"/>
+</map>

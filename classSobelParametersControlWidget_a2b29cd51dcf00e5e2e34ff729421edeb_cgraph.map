@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classSobelParametersControlWidget.html#a68926ff91e52a95487816a36c383c88d" title="SobelParametersControlWidget::setParameters" alt="" coords="419,85,741,115"/>
+<area shape="rect" id="node5" href="$classSobelParameters.html#ac5f335fd722a1be6b31ba6b4b4d126aa" title="SobelParameters::horizontal" alt="" coords="856,5,1059,35"/>
+<area shape="rect" id="node7" href="$classSobelParameters.html#a1fc3a63ab407865e6cc252ef35962618" title="SobelParameters::mixingType" alt="" coords="852,59,1063,88"/>
+<area shape="rect" id="node9" href="$classSobelParametersControlWidget.html#aff78867014322e0d739b59f44a14c015" title="SobelParametersControlWidget::paramsChanged" alt="" coords="791,112,1124,141"/>
+<area shape="rect" id="node11" href="$classSobelParameters.html#a0c0fb97ea8a7ec175007f752c15a8265" title="SobelParameters::vertical" alt="" coords="864,165,1051,195"/>
+</map>

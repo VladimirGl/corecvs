@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classInputFilterParametersControlWidget.html#a3a373d16fba1c08a1f06ba743694d178" title="InputFilterParametersControlWidget::createParameters" alt="" coords="421,5,792,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="497,59,716,88"/>
+<area shape="rect" id="node9" href="$classInputFilterParametersControlWidget.html#a5817010bd23882e504d2b02e90aae883" title="InputFilterParametersControlWidget::setParameters" alt="" coords="432,112,781,141"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="935,59,1108,88"/>
+<area shape="rect" id="node11" href="$classInputFilterParameters.html#afe37f5b054ed4476f88fd15003523a17" title="InputFilterParameters::inputType" alt="" coords="908,112,1135,141"/>
+<area shape="rect" id="node13" href="$classInputFilterParametersControlWidget.html#a5d1b8afbaeb7f0539f268a8d08c4ed37" title="InputFilterParametersControlWidget::paramsChanged" alt="" coords="841,165,1201,195"/>
+</map>

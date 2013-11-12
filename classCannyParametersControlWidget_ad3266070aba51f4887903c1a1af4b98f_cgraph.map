@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCannyParameters.html#a3b01f7d59586dc7b6bd5444ec53d3b4f" title="CannyParameters::maximumThreshold" alt="" coords="416,5,685,35"/>
+<area shape="rect" id="node5" href="$classCannyParameters.html#a61953535eaf7aa2076c193ca9316ab8e" title="CannyParameters::minimumThreshold" alt="" coords="417,59,684,88"/>
+<area shape="rect" id="node7" href="$classCannyParametersControlWidget.html#a6e319ee8d8b3182092e453d0ea55f525" title="CannyParametersControlWidget::paramsChanged" alt="" coords="381,112,720,141"/>
+<area shape="rect" id="node9" href="$classCannyParameters.html#a61d10d6375d3f297b9b5395bc78e9de5" title="CannyParameters::shouldEdgeDetect" alt="" coords="420,165,681,195"/>
+</map>

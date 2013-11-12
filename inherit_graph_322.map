@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classImageCaptureInterface.html" title="ImageCaptureInterface" alt="" coords="7,165,175,195"/>
+<area shape="rect" id="node3" href="$classDirectShowCaptureDecoupleInterface.html" title="DirectShowCaptureDecoupleInterface" alt="" coords="224,5,485,35"/>
+<area shape="rect" id="node5" href="$classDirectShowCaptureInterface.html" title="DirectShowCaptureInterface" alt="" coords="255,59,455,88"/>
+<area shape="rect" id="node7" href="$classImageFileCaptureInterface.html" title="ImageFileCaptureInterface" alt="" coords="260,112,449,141"/>
+<area shape="rect" id="node17" href="$classOpenCVCaptureInterface.html" title="OpenCVCaptureInterface" alt="" coords="264,165,445,195"/>
+<area shape="rect" id="node19" href="$classUEyeCaptureInterface.html" title="UEyeCaptureInterface" alt="" coords="273,219,436,248"/>
+<area shape="rect" id="node21" href="$classV4L2CaptureDecoupleInterface.html" title="V4L2CaptureDecoupleInterface" alt="" coords="244,272,465,301"/>
+<area shape="rect" id="node23" href="$classV4L2CaptureInterface.html" title="V4L2CaptureInterface" alt="" coords="275,325,435,355"/>
+<area shape="rect" id="node9" href="$classAbstractFileCapture.html" title="AbstractFileCapture" alt="" coords="535,85,681,115"/>
+<area shape="rect" id="node15" href="$classFileCaptureInterface.html" title="This class implements the capture from a list of files." alt="" coords="533,139,683,168"/>
+<area shape="rect" id="node11" href="$classFilePreciseCapture.html" title="FilePreciseCapture" alt="" coords="733,59,872,88"/>
+<area shape="rect" id="node13" href="$classOpenCvFileCapture.html" title="Capture video stream from avi file using OpenCV library." alt="" coords="732,112,873,141"/>
+</map>

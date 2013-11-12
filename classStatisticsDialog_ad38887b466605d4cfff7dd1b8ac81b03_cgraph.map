@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1BaseTimeStatisticsCollector.html#ac5aeeb5ae7675a9fe855fb3ea6e6580e" title="corecvs::BaseTimeStatisticsCollector::addStatistics" alt="" coords="241,5,588,35"/>
+<area shape="rect" id="node9" href="$classStatisticsDialog.html#a813431dc2e4f3bdcc215b0756fe8c547" title="StatisticsDialog::redrawStats" alt="" coords="312,59,517,88"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1BaseTimeStatisticsCollector.html#addc80bf2d53643d7fd4a39c8428c5d81" title="corecvs::BaseTimeStatisticsCollector::addSingleStat" alt="" coords="637,5,992,35"/>
+<area shape="rect" id="node7" href="$structcorecvs_1_1UnitedStat.html#a3a0c1b8de9bb15adc250e3a372b527e6" title="corecvs::UnitedStat::addValue" alt="" coords="1041,5,1255,35"/>
+<area shape="rect" id="node11" href="$classQtStatisticsCollector.html#ac8189d8a53ba3d8897c3f1a8a851a578" title="QtStatisticsCollector::printForQT" alt="" coords="701,59,928,88"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1FCostFunction.html#a53a35de64557b569d2af67feafdd2e98" title="corecvs::FCostFunction::functionPro" alt="" coords="632,59,880,88"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1FCostFunction.html#a2204435a5ca02d398791699f88edb465" title="corecvs::FCostFunction::getBMatrix" alt="" coords="301,165,547,195"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1Matrix44.html#ad53e6a4c5f30ed13b1bd0946f0e66a06" title="Geting Matrix element functions block." alt="" coords="1024,59,1173,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="1024,139,1173,168"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="1024,192,1173,221"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1FCostFunction.html#aab87d6ed1d4260e43f645c7133e9fba6" title="Rotation matrix in details:" alt="" coords="965,299,1232,328"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1FCostFunction.html#ab33581b82521ed94f5e53539055558ac" title="Transformation form camera system to car system depending on camera." alt="" coords="623,112,889,141"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1FCostFunction.html#abc73633b33a7c457c1dd07149f2b296d" title="Helper function that transforms Euler angels into Matrix presentation Sould be merged into ShiftRotat..." alt="" coords="596,272,916,301"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1CameraIntrinsics.html#aa7d756af567dc6991d5f3324629da093" title="We will denote it by matrix ." alt="" coords="625,219,887,248"/>
+<area shape="rect" id="node34" href="$classcorecvs_1_1CameraIntrinsics.html#a5f4efc560d5e41ddc7bf14cc80815d62" title="Returns inverse of K matrix." alt="" coords="616,165,896,195"/>
+<area shape="rect" id="node38" href="$classcorecvs_1_1Matrix44.html#a2b2199727e0ea9264105937c9aca9a1f" title="Returning transposed matrix." alt="" coords="649,5,863,35"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Matrix33.html#a3a9a6d15467bd184a05d85a3bdd94bb6" title="Creates a 2D projective transform for the rotation by the angle alpha or a 3d rotation transform..." alt="" coords="1281,245,1484,275"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1Matrix33.html#aa49a3a5aba1a4fb8dea74ff56bc24a7c" title="Creates a 3D rotation matrix over the Y axis by the angle alpha." alt="" coords="1283,299,1483,328"/>
+<area shape="rect" id="node22" href="$classcorecvs_1_1Matrix33.html#a5739dadd953e3d8593a444c34a5d3a92" title="Creates a 3D rotation matrix over the Y axis by the angle alpha." alt="" coords="1281,352,1484,381"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Matrix33.html#a47c909b671a7ae90b386b56c8706d3a5" title="corecvs::Matrix33::Matrix33" alt="" coords="1533,299,1731,328"/>
+<area shape="rect" id="node40" href="$classcorecvs_1_1Matrix44.html#acf5e18b2333c493522c2d32ae8719541" title="corecvs::Matrix44::Matrix44" alt="" coords="1000,5,1197,35"/>
+</map>

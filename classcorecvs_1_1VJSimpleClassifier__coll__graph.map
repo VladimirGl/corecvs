@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1Classifier.html" title="corecvs::Classifier\&lt; VJInputImage \&gt;" alt="" coords="2643,5,2893,35"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1VJPattern.html" title="Viola&#45;Jones generic Haar wavelet." alt="" coords="2700,59,2836,88"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1PatternCorner.html" title="A part of the pattern." alt="" coords="2004,59,2172,88"/>
+<area shape="rect" id="node10" href="$classcorecvs_1_1Vector2d.html" title="corecvs::Vector2d\&lt; int32_t \&gt;" alt="" coords="1627,59,1837,88"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector2d\&lt; int32_t \&gt;, int32_t, 2 \&gt;" alt="" coords="1091,45,1504,75"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector2d\&lt; int32_t \&gt;, int32_t \&gt;" alt="" coords="541,45,976,75"/>
+<area shape="rect" id="node16" href="$classcorecvs_1_1Reflection.html" title="corecvs::Reflection" alt="" coords="1228,127,1367,156"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1EmbedSubclass.html" title="corecvs::EmbedSubclass" alt="" coords="1641,199,1823,228"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1BaseField.html" title="This class is a core class for the reflection." alt="" coords="288,152,427,181"/>
+<area shape="rect" id="node22" href="$classcorecvs_1_1ReflectionNaming.html" title="We have several styles of nameing." alt="" coords="7,152,196,181"/>
+<area shape="rect" id="node33" href="$structcorecvs_1_1EmbedSubclass_1_1EmbedMap.html" title="corecvs::EmbedSubclass::EmbedMap" alt="" coords="628,271,889,300"/>
+</map>

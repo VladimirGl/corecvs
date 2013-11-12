@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="391,5,623,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1AbstractBuffer.html#ac9b5c7ae6adbc2d21b3d5fd7813992f6" title="Height getter." alt="" coords="401,59,612,88"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1AbstractBuffer.html#a014b2b876125245234f7fcb13c6d02e9" title="Width getter." alt="" coords="401,112,612,141"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1AbstractContiniousBuffer.html#ad78e295e4d2bd502ae76989c5cb8a9ba" title="Checks if coordinate lies within the buffer area." alt="" coords="339,165,675,195"/>
+</map>

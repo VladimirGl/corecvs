@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classAxisAlignedBoxParametersControlWidget.html#ab4c31d44aab3e237f3502ebbeb82fe8a" title="AxisAlignedBoxParametersControlWidget::createParameters" alt="" coords="456,5,861,35"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="549,59,768,88"/>
+<area shape="rect" id="node9" href="$classAxisAlignedBoxParametersControlWidget.html#a52f90c965dc46e6fd0777fbc0145b99d" title="AxisAlignedBoxParametersControlWidget::setParameters" alt="" coords="467,192,851,221"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="1021,5,1195,35"/>
+<area shape="rect" id="node11" href="$classAxisAlignedBoxParameters.html#a41ec0195ee617e1ea105f3466bb7d4b1" title="AxisAlignedBoxParameters::x" alt="" coords="1004,59,1212,88"/>
+<area shape="rect" id="node13" href="$classAxisAlignedBoxParameters.html#a85bb954dbb5d3549402bf40d3563f4a9" title="AxisAlignedBoxParameters::y" alt="" coords="1004,112,1212,141"/>
+<area shape="rect" id="node15" href="$classAxisAlignedBoxParameters.html#abb30057bdd2ab9fd1fc47b6c45eeb0f6" title="AxisAlignedBoxParameters::z" alt="" coords="1004,165,1212,195"/>
+<area shape="rect" id="node17" href="$classAxisAlignedBoxParameters.html#a05e87180ce7199a3b108fbd3b7ec83a0" title="AxisAlignedBoxParameters::width" alt="" coords="991,219,1225,248"/>
+<area shape="rect" id="node19" href="$classAxisAlignedBoxParameters.html#acb43761b2d07eea20570b8fe293e441a" title="AxisAlignedBoxParameters::height" alt="" coords="988,272,1228,301"/>
+<area shape="rect" id="node21" href="$classAxisAlignedBoxParameters.html#a0aa8ab6138f8f12f4aa6b844b23573ba" title="AxisAlignedBoxParameters::depth" alt="" coords="989,325,1227,355"/>
+<area shape="rect" id="node23" href="$classAxisAlignedBoxParametersControlWidget.html#aa7c623b9fff79c4915e544c7e4edecbf" title="AxisAlignedBoxParametersControlWidget::paramsChanged" alt="" coords="911,379,1305,408"/>
+</map>

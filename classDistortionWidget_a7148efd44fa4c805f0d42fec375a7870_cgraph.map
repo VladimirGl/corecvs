@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDistortionWidget.html#acd0a6baf382ed08a2e57de62b82bb5ce" title="DistortionWidget::addPower" alt="" coords="316,557,513,587"/>
+<area shape="rect" id="node5" href="$classDistortionWidget.html#a5d7c0943e9e96416516e2940717730a4" title="DistortionWidget::addVector" alt="" coords="315,1032,515,1061"/>
+<area shape="rect" id="node21" href="$classDistortionWidget.html#a9788089954e930460b2b84f4021641be" title="DistortionWidget::choosePoint" alt="" coords="613,1243,827,1272"/>
+<area shape="rect" id="node23" href="$classDistortionWidget.html#a6796887461341fbd45081f0bcea3519b" title="DistortionWidget::deletePointPair" alt="" coords="300,1296,529,1325"/>
+<area shape="rect" id="node25" href="$classDistortionWidget.html#a463f43ca659f3be87b5e8272595b2a9f" title="DistortionWidget::delPower" alt="" coords="319,1349,511,1379"/>
+<area shape="rect" id="node27" href="$classDistortionWidget.html#a8f45fe404d6d77b574f7f2e94fdbb04e" title="Distortion reconstruction with 3D template." alt="" coords="301,1085,528,1115"/>
+<area shape="rect" id="node45" href="$classDistortionWidget.html#a7977583220451f123886327a5b24d930" title="DistortionWidget::editPoint" alt="" coords="320,1243,509,1272"/>
+<area shape="rect" id="node48" href="$classDistortionWidget.html#a58deb6480e2af09b12b5faae9c258676" title="DistortionWidget::initExistingPoint" alt="" coords="297,1139,532,1168"/>
+<area shape="rect" id="node51" href="$classDistortionWidget.html#abc0b1c06bd5aff2d12de71bec8e28558" title="DistortionWidget::initTransform" alt="" coords="307,611,523,640"/>
+<area shape="rect" id="node86" href="$classDistortionWidget.html#a1f91c72ac0fb5b47dc766f8f850c8bd9" title="DistortionWidget::updateScore" alt="" coords="999,976,1215,1005"/>
+<area shape="rect" id="node109" href="$classDistortionWidget.html#a762c42384a71b91391fb7e010e625719" title="DistortionWidget::loadPoints" alt="" coords="315,901,515,931"/>
+<area shape="rect" id="node118" href="$classDistortionWidget.html#a2555c0af89ba468f08bdc1996acd4779" title="DistortionWidget::resetParameters" alt="" coords="293,717,536,747"/>
+<area shape="rect" id="node123" href="$classDistortionWidget.html#a81bfb1c7be110f2f88a9e5afa675f59c" title="DistortionWidget::setParams" alt="" coords="313,1403,516,1432"/>
+<area shape="rect" id="node125" href="$classDistortionWidget.html#a987ab5001cdd1bd31591b453f5308a32" title="DistortionWidget::tryAddPoint" alt="" coords="311,1456,519,1485"/>
+<area shape="rect" id="node7" href="$classDistortionWidget.html#abe7f163ecb22928af447159edf53ab5a" title="DistortionWidget::addPointPair" alt="" coords="613,1032,827,1061"/>
+<area shape="rect" id="node9" href="$classDistortionWidget.html#ac3994ee1565dbdee8d23e08367355774" title="DistortionWidget::printVectorPair" alt="" coords="993,1031,1220,1060"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="1425,509,1575,539"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="1425,612,1575,641"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Vector3d.html#aec83d9ad04107cd9c2bb11abf33128c0" title="Helper functions to access elements." alt="" coords="1425,1084,1575,1113"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Vector3d.html#a940d88447f20fac800d1fa510c981275" title="corecvs::Vector3d::y" alt="" coords="1425,977,1575,1007"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1Vector3d.html#a4587f5d4984576c5c4c2d44a4140ce3f" title="corecvs::Vector3d::z" alt="" coords="1425,1031,1575,1060"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1SpatialGradient.html#adcf1483d0b6c36500a5e7d6f8361f316" title="corecvs::SpatialGradient::findCornerPoints" alt="" coords="961,1084,1252,1113"/>
+<area shape="rect" id="node40" href="$classcorecvs_1_1Segmentator.html#a75082d72fa057adfd0702143e39fc98f" title="corecvs::Segmentator::segment" alt="" coords="605,1136,835,1165"/>
+<area shape="rect" id="node43" href="$classcorecvs_1_1CornerSegment.html#a333f97137ca4902783b34af30ce0e2dd" title="corecvs::CornerSegment::getMean" alt="" coords="597,1189,843,1219"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1SpatialGradient.html#a5cea347bc7927345c90c3e749e5e6c27" title="corecvs::SpatialGradient::SpatialGradient" alt="" coords="1357,1244,1643,1273"/>
+<area shape="rect" id="node33" href="$classcorecvs_1_1BufferProcessor.html#af3a29d68393c0c9935b24e4070f9bd2f" title="corecvs::BufferProcessor::process" alt="" coords="1381,1137,1619,1167"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="1384,1191,1616,1220"/>
+<area shape="rect" id="node53" href="$classDistortionWidget.html#a0b946732bdc012178425b7c80257b8e1" title="DistortionWidget::doTransformLM" alt="" coords="604,611,836,640"/>
+<area shape="rect" id="node61" href="$classDistortionWidget.html#acc4920eb6035c486c50914f270324921" title="Correction by Maria Osechkina&#39;s algorithm." alt="" coords="585,429,855,459"/>
+<area shape="rect" id="node75" href="$classDistortionWidget.html#adac1a0f5ac124afc61c11cc10374b210" title="Correction by algorithm of straight." alt="" coords="597,821,843,851"/>
+<area shape="rect" id="node89" href="$classDistortionWidget.html#ab992ca12e76f4269a7aec54c405cde78" title="DistortionWidget::doDefaultTransform" alt="" coords="591,113,849,143"/>
+<area shape="rect" id="node91" href="$classDistortionWidget.html#ab999e924f68ea2d6e8089ca8f4717c32" title="DistortionWidget::doManualTransform" alt="" coords="591,557,849,587"/>
+<area shape="rect" id="node97" href="$classDistortionWidget.html#a96d7805c04ab371285384eda79f0fda7" title="DistortionWidget::showBufferChanged" alt="" coords="589,167,851,196"/>
+<area shape="rect" id="node107" href="$classDistortionWidget.html#abebe67bd53d81c2e3cf555eb26b31c6a" title="DistortionWidget::recalculationFinished" alt="" coords="587,664,853,693"/>
+<area shape="rect" id="node55" href="$classcorecvs_1_1CamerasCalibrationFunc.html#a3e39e25b1598a2f8221a8dd6cbd19dcc" title="corecvs::CamerasCalibrationFunc::setIsDistored" alt="" coords="944,664,1269,693"/>
+<area shape="rect" id="node57" href="$classcorecvs_1_1LevenbergMarquardt.html#aaf1a9f35927ce33827590ca21895aa34" title="Marquardt&#45;Levenberg algoritim is a fast optimisation algorithm." alt="" coords="991,821,1223,851"/>
+<area shape="rect" id="node59" href="$classcorecvs_1_1VectorOperationsBase.html#acfcd4bcc60d1d076b00afcfeba9f9e8b" title="Euclidean distance." alt="" coords="1360,821,1640,851"/>
+<area shape="rect" id="node63" href="$classDistortionParameters.html#a2cdede0f316211158acbf1049331eb22" title="DistortionParameters::getPoints" alt="" coords="993,296,1220,325"/>
+<area shape="rect" id="node65" href="$classDistortionParameters.html#ab0d1b0f3633e91b5f35b551658848f66" title="DistortionParameters::needCalculateParams" alt="" coords="955,349,1259,379"/>
+<area shape="rect" id="node67" href="$classDistortionParameters.html#a897b81056139d8ae045c12acb96380ed" title="DistortionParameters::getRadius" alt="" coords="992,403,1221,432"/>
+<area shape="rect" id="node69" href="$classDistortionParameters.html#aefdd4889879195b0a6137e66b1953347" title="DistortionParameters::getScale" alt="" coords="996,456,1217,485"/>
+<area shape="rect" id="node71" href="$classcorecvs_1_1DistortionCorrectTransform.html#abd621eb01799cb4ccbaac07dcd5e7c43" title="corecvs::DistortionCorrectTransform::setRadius" alt="" coords="947,509,1267,539"/>
+<area shape="rect" id="node77" href="$classPaintImageWidget.html#a422346b5a780cc350796cb6c1cb3d3cb" title="PaintImageWidget::getPaths" alt="" coords="1400,924,1600,953"/>
+<area shape="rect" id="node81" href="$classDistortionWidget.html#ad22920d93b2d23677fc3c5960945eada" title="DistortionWidget::updateAdditionalData" alt="" coords="969,717,1244,747"/>
+<area shape="rect" id="node99" href="$classcorecvs_1_1AbstractContiniousBuffer.html#a34af819499a45b5dd52fefdbddefe33d" title="This function template is responsible for applying reverse transformation to the abstract buffer..." alt="" coords="905,88,1308,117"/>
+<area shape="rect" id="node101" href="$classcorecvs_1_1RadialCorrection.html#a2f5fa4ae158f8e68bb31a9179d60c8a1" title="corecvs::RadialCorrection::map" alt="" coords="997,141,1216,171"/>
+<area shape="rect" id="node114" href="$classPaintImageWidget.html#a7d3e0eee6e65817b8d55c1e80a1719b1" title="PaintImageWidget::addVertex" alt="" coords="616,928,824,957"/>
+<area shape="rect" id="node116" href="$classPaintImageWidget.html#a570ccd098d1ab60c3b6d923ea2a7320f" title="PaintImageWidget::addVertexToPath" alt="" coords="595,875,845,904"/>
+<area shape="rect" id="node120" href="$classDistortionWidget.html#a0982e5f3f97f2981bc05f8c647a4d160" title="DistortionWidget::clearParameters" alt="" coords="600,717,840,747"/>
+</map>

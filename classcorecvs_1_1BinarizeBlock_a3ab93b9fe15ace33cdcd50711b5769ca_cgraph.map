@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBinarizeParameters.html#a02ee3ef6f1062c2b6d170ad35d56835f" title="BinarizeParameters::accept" alt="" coords="304,5,501,35"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLNode.html#a6088246532b02895beb0e6fa561a7f3b" title="Get the last child node, or null if none exists." alt="" coords="297,59,508,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLNode.html#aab516e699567f75cc9ab2ef2eee501e8" title="Safely cast to an Element, or null." alt="" coords="293,112,512,141"/>
+</map>

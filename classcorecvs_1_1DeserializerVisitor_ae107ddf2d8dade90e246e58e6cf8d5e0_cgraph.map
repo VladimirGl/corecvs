@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLElement.html#a34811e4d1881e4ecc95c49f0f3799115" title="See IntAttribute()" alt="" coords="281,112,535,141"/>
+<area shape="rect" id="node22" href="$classtinyxml2_1_1XMLNode.html#a20f48e99b03e9c17487944f229bee130" title="Get the first child element, or optionally the first child element with the specified name..." alt="" coords="600,204,861,233"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLElement.html#a2a58ee941c3cda23772c887a8f8b534e" title="See QueryIntAttribute()" alt="" coords="584,105,877,135"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLElement.html#aaf46b0799ea419e5d070ac9a357de48f" title="Query a specific attribute in the list." alt="" coords="937,105,1188,135"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1XMLAttribute.html#a9e9b94369f182df72aaac9acd04afead" title="See QueryIntAttribute." alt="" coords="925,52,1200,81"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="1249,172,1460,201"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLAttribute.html#a631990ac0d176e38fc291b17b295a62d" title="The name of the attribute." alt="" coords="1248,112,1461,141"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="1509,112,1685,141"/>
+<area shape="rect" id="node17" href="$classtinyxml2_1_1XMLUtil.html#ae5b03e0a1ca5d42052a7ac540f7aa12a" title="tinyxml2::XMLUtil::ToBool" alt="" coords="1265,59,1444,88"/>
+<area shape="rect" id="node19" href="$classtinyxml2_1_1XMLAttribute.html#adf884db24f469f8a99a14ae786d4ddd7" title="The value of the attribute." alt="" coords="1251,5,1459,35"/>
+<area shape="rect" id="node24" href="$classtinyxml2_1_1XMLElement.html#ad9ff5c2dbc15df36cf664ce1b0ea0a5d" title="Safely cast to an Element, or null." alt="" coords="944,159,1181,188"/>
+<area shape="rect" id="node27" href="$classtinyxml2_1_1XMLElement.html#a8bff355472bce2c60d4b50a212bf7f5f" title="Get the name of an element (which is the Value() of the node.)" alt="" coords="957,263,1168,292"/>
+<area shape="rect" id="node29" href="$classtinyxml2_1_1XMLNode.html#a7682be117e3b2b4ebfd517c1acaaadbf" title="The meaning of &#39;value&#39; changes for the specific type." alt="" coords="1261,237,1448,267"/>
+</map>

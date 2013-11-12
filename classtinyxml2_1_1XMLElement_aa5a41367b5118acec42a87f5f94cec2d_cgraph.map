@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLElement.html#aa3d8d1b9311da8fc249b4352749aaa84" title="See QueryIntAttribute()" alt="" coords="341,85,667,115"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLElement.html#aaf46b0799ea419e5d070ac9a357de48f" title="Query a specific attribute in the list." alt="" coords="743,59,993,88"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1XMLAttribute.html#ac93f5981adfd62ac4ea76bfa668ee2b4" title="See QueryIntAttribute." alt="" coords="715,112,1021,141"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLAttribute.html#a631990ac0d176e38fc291b17b295a62d" title="The name of the attribute." alt="" coords="1069,5,1283,35"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="1071,59,1281,88"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="1331,85,1507,115"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1XMLUtil.html#a210c8637d5eb4ce3d4625294af0efc2f" title="tinyxml2::XMLUtil::ToUnsigned" alt="" coords="1071,112,1281,141"/>
+<area shape="rect" id="node17" href="$classtinyxml2_1_1XMLAttribute.html#adf884db24f469f8a99a14ae786d4ddd7" title="The value of the attribute." alt="" coords="1072,165,1280,195"/>
+</map>

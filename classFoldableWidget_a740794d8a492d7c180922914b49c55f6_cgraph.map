@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classFoldableWidget.html#a9bdbde160d8b6c1a89f41a9386f600e4" title="FoldableWidget::changeFolding" alt="" coords="277,5,496,35"/>
+<area shape="rect" id="node5" href="$classConfigManager.html#a1d08d5d83a55f715c118a19aeb41cee8" title="ConfigManager::configName" alt="" coords="285,59,488,88"/>
+<area shape="rect" id="node13" href="$classFoldableWidget.html#af7fd4b8dc2a0d456d5acd2b4ffb947c5" title="FoldableWidget::setMainWidget" alt="" coords="277,112,496,141"/>
+<area shape="rect" id="node7" href="$classConfigManager.html#ae428a00b007e47c5d496539e25b05bcf" title="ConfigManager::instance" alt="" coords="545,32,724,61"/>
+<area shape="rect" id="node11" href="$classConfigManager.html#a0813cd21566579f5bdc87e317eff30a5" title="ConfigManager::name" alt="" coords="553,85,716,115"/>
+<area shape="rect" id="node9" href="$classConfigManager.html#a7d3d7c10423d969f7544509f6fcca32f" title="ConfigManager::ConfigManager" alt="" coords="775,32,996,61"/>
+</map>

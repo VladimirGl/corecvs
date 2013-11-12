@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1AdaBoostInput.html" title="corecvs::AdaBoostInput\&lt; VJInputImage \&gt;" alt="" coords="3185,28,3471,57"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="2681,8,3039,37"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1VJSimpleClassifierGenerator.html" title="corecvs::VJSimpleClassifierGenerator" alt="" coords="3200,99,3456,128"/>
+<area shape="rect" id="node10" href="$classcorecvs_1_1WeakHypothesisGenerator.html" title="corecvs::WeakHypothesisGenerator\&lt; VJSimpleClassifier \&gt;" alt="" coords="2665,61,3055,91"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1VJPatternGenerator.html" title="Base class for pattern generator." alt="" coords="2343,115,2545,144"/>
+<area shape="rect" id="node16" href="$classcorecvs_1_1VJPattern.html" title="Viola&#45;Jones generic Haar wavelet." alt="" coords="2792,168,2928,197"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1PatternCorner.html" title="A part of the pattern." alt="" coords="2004,168,2172,197"/>
+<area shape="rect" id="node22" href="$classcorecvs_1_1Vector2d.html" title="corecvs::Vector2d\&lt; int32_t \&gt;" alt="" coords="1627,168,1837,197"/>
+<area shape="rect" id="node24" href="$classcorecvs_1_1FixedVectorBase.html" title="corecvs::FixedVectorBase\&lt; Vector2d\&lt; int32_t \&gt;, int32_t, 2 \&gt;" alt="" coords="1091,155,1504,184"/>
+<area shape="rect" id="node26" href="$classcorecvs_1_1VectorOperationsBase.html" title="corecvs::VectorOperationsBase\&lt; Vector2d\&lt; int32_t \&gt;, int32_t \&gt;" alt="" coords="541,155,976,184"/>
+<area shape="rect" id="node28" href="$classcorecvs_1_1Reflection.html" title="corecvs::Reflection" alt="" coords="1228,236,1367,265"/>
+<area shape="rect" id="node39" href="$classcorecvs_1_1EmbedSubclass.html" title="corecvs::EmbedSubclass" alt="" coords="1641,308,1823,337"/>
+<area shape="rect" id="node32" href="$classcorecvs_1_1BaseField.html" title="This class is a core class for the reflection." alt="" coords="288,261,427,291"/>
+<area shape="rect" id="node34" href="$classcorecvs_1_1ReflectionNaming.html" title="We have several styles of nameing." alt="" coords="7,261,196,291"/>
+<area shape="rect" id="node45" href="$structcorecvs_1_1EmbedSubclass_1_1EmbedMap.html" title="corecvs::EmbedSubclass::EmbedMap" alt="" coords="628,380,889,409"/>
+</map>

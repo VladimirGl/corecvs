@@ -1,0 +1,45 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$compoundFilter_8h.html" title="core/filters/blocks/compoundFilter.h" alt="" coords="849,83,1095,112"/>
+<area shape="rect" id="node7" href="$filterGraph_8cpp.html" title="core/filters/blocks/filterGraph.cpp" alt="" coords="537,160,767,189"/>
+<area shape="rect" id="node44" href="$pins_8cpp.html" title="core/filters/blocks/pins.cpp" alt="" coords="2351,83,2540,112"/>
+<area shape="rect" id="node46" href="$diagramscene_8h.html" title="utils/filters/graph/diagramscene.h" alt="" coords="1679,83,1913,112"/>
+<area shape="rect" id="node82" href="$abstractCalculationThread_8h.html" title="applications/base/abstractCalculationThread.h" alt="" coords="2012,83,2327,112"/>
+<area shape="rect" id="node86" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="2269,237,2563,267"/>
+<area shape="rect" id="node5" href="$compoundFilter_8cpp.html" title="core/filters/blocks/compoundFilter.cpp" alt="" coords="841,160,1103,189"/>
+<area shape="rect" id="node9" href="$filtersCollection_8cpp.html" title="core/filters/filtersCollection.cpp" alt="" coords="1127,160,1343,189"/>
+<area shape="rect" id="node11" href="$compoundBlockPresentation_8h.html" title="utils/filters/graph/compoundBlockPresentation.h" alt="" coords="268,315,593,344"/>
+<area shape="rect" id="node13" href="$compoundBlockPresentation_8cpp.html" title="utils/filters/graph/compoundBlockPresentation.cpp" alt="" coords="5,392,347,421"/>
+<area shape="rect" id="node15" href="$filterPresentationsCollection_8h.html" title="utils/filters/graph/filterPresentationsCollection.h" alt="" coords="371,392,693,421"/>
+<area shape="rect" id="node17" href="$filterGraphPresentation_8h.html" title="utils/filters/graph/filterGraphPresentation.h" alt="" coords="387,469,677,499"/>
+<area shape="rect" id="node41" href="$filterPresentationsCollection_8cpp.html" title="utils/filters/graph/filterPresentationsCollection.cpp" alt="" coords="701,469,1037,499"/>
+<area shape="rect" id="node19" href="$diagramscene_8cpp.html" title="utils/filters/graph/diagramscene.cpp" alt="" coords="256,547,507,576"/>
+<area shape="rect" id="node21" href="$filterGraphPresentation_8cpp.html" title="utils/filters/graph/filterGraphPresentation.cpp" alt="" coords="531,547,837,576"/>
+<area shape="rect" id="node23" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="2291,547,2541,576"/>
+<area shape="rect" id="node25" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="2284,624,2548,653"/>
+<area shape="rect" id="node27" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="2207,701,2449,731"/>
+<area shape="rect" id="node29" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="2033,624,2260,653"/>
+<area shape="rect" id="node36" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="2705,624,2972,653"/>
+<area shape="rect" id="node32" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="1940,701,2183,731"/>
+<area shape="rect" id="node34" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="2473,701,2761,731"/>
+<area shape="rect" id="node39" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="2785,701,3065,731"/>
+<area shape="rect" id="node48" href="$filterPinPresentation_8h.html" title="utils/filters/graph/filterPinPresentation.h" alt="" coords="1367,160,1639,189"/>
+<area shape="rect" id="node80" href="$diagramtextitem_8cpp.html" title="utils/filters/graph/diagramtextitem.cpp" alt="" coords="1663,160,1929,189"/>
+<area shape="rect" id="node50" href="$filterBlockPresentation_8h.html" title="utils/filters/graph/filterBlockPresentation.h" alt="" coords="1316,237,1601,267"/>
+<area shape="rect" id="node58" href="$filterPinPresentation_8cpp.html" title="utils/filters/graph/filterPinPresentation.cpp" alt="" coords="2093,392,2379,421"/>
+<area shape="rect" id="node77" href="$diagramitem_8cpp.html" title="utils/filters/graph/diagramitem.cpp" alt="" coords="1052,237,1292,267"/>
+<area shape="rect" id="node54" href="$filterBlockPresentation_8cpp.html" title="utils/filters/graph/filterBlockPresentation.cpp" alt="" coords="983,315,1284,344"/>
+<area shape="rect" id="node56" href="$g12PinPresentation_8h.html" title="utils/filters/graph/g12PinPresentation.h" alt="" coords="1919,315,2185,344"/>
+<area shape="rect" id="node62" href="$txtPinPresentation_8h.html" title="utils/filters/graph/txtPinPresentation.h" alt="" coords="1633,315,1895,344"/>
+<area shape="rect" id="node67" href="$inputBlockPresentation_8h.html" title="utils/filters/graph/inputBlockPresentation.h" alt="" coords="668,315,959,344"/>
+<area shape="rect" id="node72" href="$outputBlockPresentation_8h.html" title="utils/filters/graph/outputBlockPresentation.h" alt="" coords="1308,315,1609,344"/>
+<area shape="rect" id="node60" href="$g12PinPresentation_8cpp.html" title="utils/filters/graph/g12PinPresentation.cpp" alt="" coords="1787,392,2069,421"/>
+<area shape="rect" id="node65" href="$txtPinPresentation_8cpp.html" title="utils/filters/graph/txtPinPresentation.cpp" alt="" coords="1488,392,1763,421"/>
+<area shape="rect" id="node70" href="$inputBlockPresentation_8cpp.html" title="utils/filters/graph/inputBlockPresentation.cpp" alt="" coords="768,392,1075,421"/>
+<area shape="rect" id="node75" href="$outputBlockPresentation_8cpp.html" title="utils/filters/graph/outputBlockPresentation.cpp" alt="" coords="1099,392,1413,421"/>
+<area shape="rect" id="node84" href="$abstractCalculationThread_8cpp.html" title="Implements an abstract calculation thread capable of fetching frames from an ImageCaptureInterface in..." alt="" coords="2004,160,2335,189"/>
+<area shape="rect" id="node96" href="$baseOutputData_8h.html" title="applications/base/baseOutputData.h" alt="" coords="2409,160,2663,189"/>
+<area shape="rect" id="node88" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="2453,315,2763,344"/>
+<area shape="rect" id="node91" href="$recorderThread_8h.html" title="applications/recorder/recorderThread.h" alt="" coords="2787,315,3056,344"/>
+<area shape="rect" id="node94" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="2599,392,2884,421"/>
+<area shape="rect" id="node99" href="$baseOutputData_8cpp.html" title="applications/base/baseOutputData.cpp" alt="" coords="2587,237,2856,267"/>
+</map>

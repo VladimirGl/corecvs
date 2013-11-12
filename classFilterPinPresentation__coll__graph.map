@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classDiagramItem.html" title="[0]" alt="" coords="2187,143,2293,172"/>
+<area shape="rect" id="node4" href="$classDiagramScene.html" title="DiagramScene" alt="" coords="2181,24,2299,53"/>
+<area shape="rect" id="node6" href="$classDiagramTextItem.html" title="DiagramTextItem" alt="" coords="1937,71,2068,100"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1FilterGraph.html" title="corecvs::FilterGraph" alt="" coords="1687,275,1833,304"/>
+<area shape="rect" id="node38" href="$classcorecvs_1_1FilterBlock.html" title="corecvs::FilterBlock" alt="" coords="1932,275,2073,304"/>
+<area shape="rect" id="node10" href="$classcorecvs_1_1FiltersCollection.html" title="corecvs::FiltersCollection" alt="" coords="1384,193,1563,223"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1FiltersCollection_1_1CompoundFilterType.html" title="corecvs::FiltersCollection::CompoundFilterType" alt="" coords="525,165,840,195"/>
+<area shape="rect" id="node18" title="STL class." alt="" coords="271,221,356,251"/>
+<area shape="rect" id="node22" href="$classcorecvs_1_1Statistics.html" title="corecvs::Statistics" alt="" coords="1025,277,1164,307"/>
+<area shape="rect" id="node20" title="STL class." alt="" coords="5,221,189,251"/>
+<area shape="rect" id="node24" href="$classcorecvs_1_1PreciseTimer.html" title="corecvs::PreciseTimer" alt="" coords="603,337,763,367"/>
+<area shape="rect" id="node28" href="$structcorecvs_1_1SingleStat.html" title="corecvs::SingleStat" alt="" coords="241,307,385,336"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1Pin.html" title="corecvs::Pin" alt="" coords="2191,237,2289,267"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDistortionWidget.html#ab992ca12e76f4269a7aec54c405cde78" title="DistortionWidget::doDefaultTransform" alt="" coords="279,120,537,150"/>
+<area shape="rect" id="node5" href="$classDistortionWidget.html#acc4920eb6035c486c50914f270324921" title="Correction by Maria Osechkina&#39;s algorithm." alt="" coords="273,174,543,203"/>
+<area shape="rect" id="node36" href="$classDistortionWidget.html#adac1a0f5ac124afc61c11cc10374b210" title="Correction by algorithm of straight." alt="" coords="631,640,876,670"/>
+<area shape="rect" id="node99" href="$classDistortionWidget.html#ab999e924f68ea2d6e8089ca8f4717c32" title="DistortionWidget::doManualTransform" alt="" coords="624,432,883,462"/>
+<area shape="rect" id="node105" href="$classDistortionWidget.html#a0b946732bdc012178425b7c80257b8e1" title="DistortionWidget::doTransformLM" alt="" coords="637,796,869,826"/>
+<area shape="rect" id="node110" href="$classDistortionWidget.html#abebe67bd53d81c2e3cf555eb26b31c6a" title="DistortionWidget::recalculationFinished" alt="" coords="275,472,541,502"/>
+<area shape="rect" id="node112" href="$classDistortionWidget.html#a96d7805c04ab371285384eda79f0fda7" title="DistortionWidget::showBufferChanged" alt="" coords="623,227,884,256"/>
+<area shape="rect" id="node7" href="$classDistortionParameters.html#a2cdede0f316211158acbf1049331eb22" title="DistortionParameters::getPoints" alt="" coords="640,67,867,96"/>
+<area shape="rect" id="node9" href="$classDistortionParameters.html#a897b81056139d8ae045c12acb96380ed" title="DistortionParameters::getRadius" alt="" coords="639,120,868,150"/>
+<area shape="rect" id="node11" href="$classDistortionParameters.html#aefdd4889879195b0a6137e66b1953347" title="DistortionParameters::getScale" alt="" coords="643,174,864,203"/>
+<area shape="rect" id="node13" href="$classDistortionParameters.html#ab0d1b0f3633e91b5f35b551658848f66" title="DistortionParameters::needCalculateParams" alt="" coords="601,14,905,43"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1DistortionCorrectTransform.html#abd621eb01799cb4ccbaac07dcd5e7c43" title="corecvs::DistortionCorrectTransform::setRadius" alt="" coords="593,355,913,384"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="1517,267,1667,296"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="1517,160,1667,190"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1Matrix.html#a5b8b00c8bfc66549652e6c0610457254" title="The element getter for a matrix that is used like vector (i.e has height or width of 1)..." alt="" coords="1913,743,2047,772"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1Matrix.html#aeb56de4494cc7520a587548b3c330084" title="This function returns an inverse of the matrix." alt="" coords="1520,691,1664,720"/>
+<area shape="rect" id="node28" href="$classcorecvs_1_1DistortionCorrectTransform.html#a05ee65390ac6b4bbd6c6f5916215bce3" title="corecvs::DistortionCorrectTransform::setZ" alt="" coords="1021,330,1309,359"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="2248,743,2480,772"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1VectorOperationsBase.html#acfcd4bcc60d1d076b00afcfeba9f9e8b" title="Euclidean distance." alt="" coords="1452,587,1732,616"/>
+<area shape="rect" id="node32" href="$classcorecvs_1_1DistortionCorrectTransform.html#a61facae0ee0470d08de75b15453cb303" title="corecvs::DistortionCorrectTransform::isInteriorPoint" alt="" coords="1419,214,1765,243"/>
+<area shape="rect" id="node38" href="$classcorecvs_1_1LevenbergMarquardt.html#aaf1a9f35927ce33827590ca21895aa34" title="Marquardt&#45;Levenberg algoritim is a fast optimisation algorithm." alt="" coords="1049,796,1281,826"/>
+<area shape="rect" id="node55" href="$classPaintImageWidget.html#a422346b5a780cc350796cb6c1cb3d3cb" title="PaintImageWidget::getPaths" alt="" coords="1492,744,1692,774"/>
+<area shape="rect" id="node58" href="$classDistortionWidget.html#ad22920d93b2d23677fc3c5960945eada" title="DistortionWidget::updateAdditionalData" alt="" coords="1028,484,1303,514"/>
+<area shape="rect" id="node96" href="$classDistortionWidget.html#a1f91c72ac0fb5b47dc766f8f850c8bd9" title="DistortionWidget::updateScore" alt="" coords="1057,692,1273,722"/>
+<area shape="rect" id="node40" href="$classcorecvs_1_1FixedArrayBase.html#abea4ed304b5caa5355e5707cbe408468" title="corecvs::FixedArrayBase::size" alt="" coords="1487,902,1697,931"/>
+<area shape="rect" id="node42" href="$classcorecvs_1_1FunctionArgs.html#a0e1d36ff216147d20b3bc81e4d2a0143" title="This function computes Jacobian ." alt="" coords="1471,955,1713,984"/>
+<area shape="rect" id="node47" href="$classcorecvs_1_1Matrix.html#ae23aa5c2e50e7913de6aa4c703d4efa4" title="corecvs::Matrix::t" alt="" coords="1527,848,1657,878"/>
+<area shape="rect" id="node50" href="$classcorecvs_1_1VectorOperationsBase.html#a986cf0226b5fb2db721bde532685b66e" title="Sum of the squares of element of the vector." alt="" coords="1417,1008,1767,1038"/>
+<area shape="rect" id="node44" href="$classcorecvs_1_1FunctionArgs.html#a241e7a53fb4c98f8181db1a6d94765a6" title="Operator that computes funсtion." alt="" coords="1863,903,2097,932"/>
+<area shape="rect" id="node61" href="$classGraphPlotDialog.html#aa9919d91a1219eb290eded597c3f230a" title="GraphPlotDialog::addGraphPoint" alt="" coords="1479,427,1705,456"/>
+<area shape="rect" id="node67" href="$classcorecvs_1_1RadialCorrection.html#a0390787ab3d7567171a68f9cf0d2d0e4" title="corecvs::RadialCorrection::radialScale" alt="" coords="1461,480,1723,510"/>
+<area shape="rect" id="node69" href="$classGraphPlotDialog.html#a7ac2613d55686a6e35815b667c77d9fd" title="GraphPlotDialog::update" alt="" coords="1503,534,1681,563"/>
+<area shape="rect" id="node71" href="$classcorecvs_1_1RGB24Buffer.html#af1eea99d617a211ad0e57c9f32153d7d" title="corecvs::RGB24Buffer::drawIsolines" alt="" coords="1469,374,1715,403"/>
+<area shape="rect" id="node80" href="$classAdvancedImageWidget.html#a365f213bdb320f2392d2693d6931abdd" title="AdvancedImageWidget::setImage" alt="" coords="1475,320,1709,350"/>
+<area shape="rect" id="node63" href="$classGraphPlotDialog.html#a52061b0779f3a0909505d1b9713827e7" title="GraphPlotDialog::setItemColor" alt="" coords="1873,531,2087,560"/>
+<area shape="rect" id="node65" href="$namespacecorecvs.html#a807eb76b7544bcb930b1700a58a780bd" title="Useful round* stuff." alt="" coords="1920,584,2040,614"/>
+<area shape="rect" id="node73" href="$classcorecvs_1_1AbstractBuffer.html#a6be5a0969d374904dc4ff6cd576c9332" title="Buffer size getter." alt="" coords="1867,374,2093,403"/>
+<area shape="rect" id="node76" href="$classcorecvs_1_1RGBColor.html#af71af180c1a4aa8058e56383d5cd49dd" title="corecvs::RGBColor::gray" alt="" coords="1893,427,2067,456"/>
+<area shape="rect" id="node78" href="$classcorecvs_1_1RGBColor.html#a5e8d5fe160db4c66478a86f84bfc70de" title="corecvs::RGBColor::RGBColor" alt="" coords="2261,427,2467,456"/>
+<area shape="rect" id="node82" href="$classAdvancedImageWidget.html#aa69ecf8afc2c52de22ef54bef616c92a" title="AdvancedImageWidget::drawResized" alt="" coords="1853,160,2107,190"/>
+<area shape="rect" id="node84" href="$classAdvancedImageWidget.html#a94f67b5bfc0bcf0c119c4e6011236faf" title="AdvancedImageWidget::recalculateZoomCenter" alt="" coords="1816,214,2144,243"/>
+<area shape="rect" id="node88" href="$classAdvancedImageWidget.html#a09b13f3339f391764bd57dd8d06f3d4f" title="AdvancedImageWidget::recomputeRects" alt="" coords="1840,267,2120,296"/>
+<area shape="rect" id="node92" href="$classAdvancedImageWidget.html#a722b91642b8f0f37a390edc76c3e645b" title="AdvancedImageWidget::saveFlowImage" alt="" coords="1844,320,2116,350"/>
+<area shape="rect" id="node86" href="$classAdvancedImageWidget.html#a0660da1dfe71d556c2c97ca4759404d5" title="AdvancedImageWidget::notifyCenterPointChanged" alt="" coords="2193,214,2535,243"/>
+<area shape="rect" id="node90" href="$classAdvancedImageWidget.html#ab3c658a5e253eeef3929028a1e2e3082" title="AdvancedImageWidget::computeInputRect" alt="" coords="2219,267,2509,296"/>
+<area shape="rect" id="node108" href="$classcorecvs_1_1CamerasCalibrationFunc.html#a3e39e25b1598a2f8221a8dd6cbd19dcc" title="corecvs::CamerasCalibrationFunc::setIsDistored" alt="" coords="1003,850,1328,879"/>
+<area shape="rect" id="node114" href="$classcorecvs_1_1AbstractContiniousBuffer.html#a34af819499a45b5dd52fefdbddefe33d" title="This function template is responsible for applying reverse transformation to the abstract buffer..." alt="" coords="964,175,1367,204"/>
+<area shape="rect" id="node116" href="$classcorecvs_1_1RadialCorrection.html#a2f5fa4ae158f8e68bb31a9179d60c8a1" title="corecvs::RadialCorrection::map" alt="" coords="1056,71,1275,100"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="304,192,536,221"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1RGBColor.html#a83130c46ce753b48015af139184e8da0" title="Helper method that allows to represent the double value in interval 0..1 With a real rainbow color co..." alt="" coords="323,245,517,275"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1RGBColor.html#aae3068666381acbb7db212251ddc094e" title="corecvs::RGBColor::lerpColor" alt="" coords="585,59,788,88"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1RGBColor.html#af8e92dabb52e494e4bd7f55c196b929f" title="corecvs::RGBColor::Red" alt="" coords="601,112,772,141"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1RGBColor.html#ab0f1d1863050a1c275c99deb7a32f09d" title="corecvs::RGBColor::Orange" alt="" coords="589,165,784,195"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1RGBColor.html#a55630daaff0e0ed7ac73f4ea5d6c7281" title="corecvs::RGBColor::Yellow" alt="" coords="596,219,777,248"/>
+<area shape="rect" id="node26" href="$classcorecvs_1_1RGBColor.html#a5391d78bbe11a3fade566933b1185af2" title="corecvs::RGBColor::Green" alt="" coords="593,272,780,301"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1RGBColor.html#a8a874d9d4fa07de64d4665b7f6000906" title="corecvs::RGBColor::Blue" alt="" coords="600,325,773,355"/>
+<area shape="rect" id="node32" href="$classcorecvs_1_1RGBColor.html#a4f3e68b472fcd67ea60497d14b5b488c" title="corecvs::RGBColor::Indigo" alt="" coords="595,379,779,408"/>
+<area shape="rect" id="node35" href="$classcorecvs_1_1RGBColor.html#a75f3e9a6ac76f072493790a0c60e3d12" title="corecvs::RGBColor::Violet" alt="" coords="596,432,777,461"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1RGBColor.html#a551378cc4e40775286d1200a21e3dfbc" title="corecvs::RGBColor::r" alt="" coords="865,5,1017,35"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1RGBColor.html#a61bb42ad3c5af64582ba22408e8bc5c4" title="corecvs::RGBColor::g" alt="" coords="864,59,1019,88"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1RGBColor.html#a28d1778710e5ade8ab275f8ef03cdaec" title="corecvs::RGBColor::b" alt="" coords="864,112,1019,141"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1RGBColor.html#a5e8d5fe160db4c66478a86f84bfc70de" title="corecvs::RGBColor::RGBColor" alt="" coords="839,245,1044,275"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backgroundFilterParameters_8h.html" title="core/xml/generated/backgroundFilterParameters.h" alt="" coords="443,83,784,112"/>
+<area shape="rect" id="node11" href="$binarizeParameters_8h.html" title="core/xml/generated/binarizeParameters.h" alt="" coords="1420,83,1705,112"/>
+<area shape="rect" id="node19" href="$bitSelectorParameters_8h.html" title="core/xml/generated/bitSelectorParameters.h" alt="" coords="2335,83,2641,112"/>
+<area shape="rect" id="node27" href="$cannyParameters_8h.html" title="core/xml/generated/cannyParameters.h" alt="" coords="3233,83,3508,112"/>
+<area shape="rect" id="node35" href="$sobelParameters_8h.html" title="core/xml/generated/sobelParameters.h" alt="" coords="3917,83,4187,112"/>
+<area shape="rect" id="node43" href="$gainOffsetParameters_8h.html" title="core/xml/generated/gainOffsetParameters.h" alt="" coords="4211,83,4512,112"/>
+<area shape="rect" id="node51" href="$inputFilterParameters_8h.html" title="core/xml/generated/inputFilterParameters.h" alt="" coords="4536,83,4835,112"/>
+<area shape="rect" id="node55" href="$outputFilterParameters_8h.html" title="core/xml/generated/outputFilterParameters.h" alt="" coords="4859,83,5168,112"/>
+<area shape="rect" id="node57" href="$thickeningParameters_8h.html" title="core/xml/generated/thickeningParameters.h" alt="" coords="5192,83,5493,112"/>
+<area shape="rect" id="node59" href="$maskingParameters_8h.html" title="core/xml/generated/maskingParameters.h" alt="" coords="5517,83,5808,112"/>
+<area shape="rect" id="node61" href="$defaultSetter_8cpp.html" title="core/reflection/defaultSetter.cpp" alt="" coords="5832,83,6059,112"/>
+<area shape="rect" id="node63" href="$axisAlignedBoxParameters_8h.html" title="core/xml/generated/axisAlignedBoxParameters.h" alt="" coords="6083,83,6416,112"/>
+<area shape="rect" id="node65" href="$headSearchParameters_8h.html" title="core/xml/generated/headSearchParameters.h" alt="" coords="6440,83,6755,112"/>
+<area shape="rect" id="node67" href="$makePreciseParameters_8h.html" title="core/xml/generated/makePreciseParameters.h" alt="" coords="6779,83,7096,112"/>
+<area shape="rect" id="node69" href="$openCVFilterParameters_8h.html" title="core/xml/generated/openCVFilterParameters.h" alt="" coords="7120,83,7437,112"/>
+<area shape="rect" id="node71" href="$operationParameters_8h.html" title="core/xml/generated/operationParameters.h" alt="" coords="7461,83,7760,112"/>
+<area shape="rect" id="node73" href="$rgbColorParameters_8h.html" title="core/xml/generated/rgbColorParameters.h" alt="" coords="7835,83,8125,112"/>
+<area shape="rect" id="node75" href="$draw3dParameters_8h.html" title="utils/3d/generated/draw3dParameters.h" alt="" coords="7735,160,8009,189"/>
+<area shape="rect" id="node77" href="$draw3dCameraParameters_8h.html" title="utils/3d/generated/draw3dCameraParameters.h" alt="" coords="7884,237,8209,267"/>
+<area shape="rect" id="node82" href="$draw3dViMouseParameters_8h.html" title="utils/3d/generated/draw3dViMouseParameters.h" alt="" coords="8200,83,8528,112"/>
+<area shape="rect" id="node84" href="$openCVBMParameters_8h.html" title="utils/corestructs/libWidgets/openCVBMParameters.h" alt="" coords="8552,83,8904,112"/>
+<area shape="rect" id="node86" href="$openCVSGMParameters_8h.html" title="utils/corestructs/libWidgets/openCVSGMParameters.h" alt="" coords="8928,83,9291,112"/>
+<area shape="rect" id="node88" href="$rectifyParameters_8h.html" title="utils/rectifier/rectifyParameters.h" alt="" coords="9315,83,9544,112"/>
+<area shape="rect" id="node90" href="$defaultSetterOld_8cpp.html" title="utils/visitors/defaultSetterOld.cpp" alt="" coords="9568,83,9800,112"/>
+<area shape="rect" id="node92" href="$graphPlotParameters_8h.html" title="utils/widgets/generated/graphPlotParameters.h" alt="" coords="9824,83,10144,112"/>
+<area shape="rect" id="node94" href="$baseParameters_8h.html" title="applications/base/generatedParameters/baseParameters.h" alt="" coords="10168,83,10565,112"/>
+<area shape="rect" id="node96" href="$presentationParameters_8h.html" title="applications/base/generatedParameters/presentationParameters.h" alt="" coords="10589,83,11037,112"/>
+<area shape="rect" id="node98" href="$parametersMapperBase_8h.html" title="applications/base/parametersMapper/parametersMapperBase.h" alt="" coords="11061,83,11491,112"/>
+<area shape="rect" id="node100" href="$recorder_8h.html" title="applications/recorder/generatedParameters/recorder.h" alt="" coords="11515,83,11883,112"/>
+<area shape="rect" id="node102" href="$parametersMapperRecorder_8h.html" title="applications/recorder/parametersMapper/parametersMapperRecorder.h" alt="" coords="11907,83,12384,112"/>
+<area shape="rect" id="node5" href="$backgroundFilter_8h.html" title="Add Comment Here." alt="" coords="5,160,213,189"/>
+<area shape="rect" id="node7" href="$backgroundFilterParameters_8cpp.html" title="core/xml/generated/backgroundFilterParameters.cpp" alt="" coords="237,160,595,189"/>
+<area shape="rect" id="node9" href="$backgroundFilterParametersControlWidget_8h.html" title="utils/filters/ui/backgroundFilterParametersControlWidget.h" alt="" coords="619,160,1005,189"/>
+<area shape="rect" id="node13" href="$binarizeBlock_8h.html" title="Add Comment Here." alt="" coords="1029,160,1219,189"/>
+<area shape="rect" id="node15" href="$binarizeParameters_8cpp.html" title="core/xml/generated/binarizeParameters.cpp" alt="" coords="1243,160,1544,189"/>
+<area shape="rect" id="node17" href="$binarizeParametersControlWidget_8h.html" title="utils/filters/ui/binarizeParametersControlWidget.h" alt="" coords="1568,160,1899,189"/>
+<area shape="rect" id="node21" href="$bitSelectorFilter_8h.html" title="Add Comment Here." alt="" coords="1923,160,2125,189"/>
+<area shape="rect" id="node23" href="$bitSelectorParameters_8cpp.html" title="core/xml/generated/bitSelectorParameters.cpp" alt="" coords="2149,160,2469,189"/>
+<area shape="rect" id="node25" href="$bitSelectorParametersControlWidget_8h.html" title="utils/filters/ui/bitSelectorParametersControlWidget.h" alt="" coords="2493,160,2843,189"/>
+<area shape="rect" id="node29" href="$cannyFilter_8h.html" title="Add Comment Here." alt="" coords="2867,160,3037,189"/>
+<area shape="rect" id="node31" href="$cannyParameters_8cpp.html" title="core/xml/generated/cannyParameters.cpp" alt="" coords="3061,160,3352,189"/>
+<area shape="rect" id="node33" href="$cannyParametersControlWidget_8h.html" title="utils/filters/ui/cannyParametersControlWidget.h" alt="" coords="3376,160,3693,189"/>
+<area shape="rect" id="node37" href="$sobelFilter_8h.html" title="Add Comment Here." alt="" coords="3717,160,3885,189"/>
+<area shape="rect" id="node39" href="$sobelParameters_8cpp.html" title="core/xml/generated/sobelParameters.cpp" alt="" coords="3909,160,4195,189"/>
+<area shape="rect" id="node41" href="$sobelParametersControlWidget_8h.html" title="utils/filters/ui/sobelParametersControlWidget.h" alt="" coords="4219,160,4533,189"/>
+<area shape="rect" id="node45" href="$gainOffsetFilter_8h.html" title="Add Comment Here." alt="" coords="4557,160,4755,189"/>
+<area shape="rect" id="node47" href="$gainOffsetParameters_8cpp.html" title="core/xml/generated/gainOffsetParameters.cpp" alt="" coords="4779,160,5096,189"/>
+<area shape="rect" id="node49" href="$gainOffsetParametersControlWidget_8h.html" title="utils/filters/ui/gainOffsetParametersControlWidget.h" alt="" coords="5120,160,5467,189"/>
+<area shape="rect" id="node53" href="$inputFilter_8h.html" title="core/filters/inputFilter.h" alt="" coords="5491,160,5656,189"/>
+</map>

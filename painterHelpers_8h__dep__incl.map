@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$mesh3DScene_8cpp.html" title="utils/3d/mesh3DScene.cpp" alt="" coords="5,83,197,112"/>
+<area shape="rect" id="node5" href="$painterHelpers_8cpp.html" title="Add Comment Here." alt="" coords="221,83,469,112"/>
+<area shape="rect" id="node7" href="$paintImageWidget_8cpp.html" title="utils/uis/paintImageWidget.cpp" alt="" coords="493,83,709,112"/>
+<area shape="rect" id="node9" href="$pointsRectificationWidget_8cpp.html" title="utils/uis/pointsRectificationWidget.cpp" alt="" coords="733,83,992,112"/>
+<area shape="rect" id="node11" href="$imageResultLayer_8h.html" title="applications/base/layers/imageResultLayer.h" alt="" coords="1016,83,1317,112"/>
+<area shape="rect" id="node19" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="1341,83,1605,112"/>
+<area shape="rect" id="node13" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="675,160,984,189"/>
+<area shape="rect" id="node15" href="$imageResultLayer_8cpp.html" title="applications/base/layers/imageResultLayer.cpp" alt="" coords="1008,160,1325,189"/>
+<area shape="rect" id="node17" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="1349,160,1635,189"/>
+</map>

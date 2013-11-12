@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="1121,315,1215,344"/>
+<area shape="rect" id="node25" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="27,237,144,267"/>
+<area shape="rect" id="node30" href="$baseParametersControlWidget_8h.html" title="baseParametersControlWidget.h" alt="" coords="508,83,735,112"/>
+<area shape="rect" id="node85" href="$presentationParametersControlWidget_8h.html" title="presentationParametersControlWidget.h" alt="" coords="795,83,1072,112"/>
+<area shape="rect" id="node21" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1181,392,1253,421"/>
+<area shape="rect" id="node36" href="$baseParameters_8h.html" title="generatedParameters/baseParameters.h" alt="" coords="107,160,389,189"/>
+<area shape="rect" id="node50" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="1376,160,1605,189"/>
+<area shape="rect" id="node40" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="488,237,603,267"/>
+<area shape="rect" id="node44" href="$rotationPresets_8h.html" title="rotationPresets.h" alt="" coords="168,237,299,267"/>
+<area shape="rect" id="node46" href="$interpolationType_8h.html" title="interpolationType.h" alt="" coords="323,237,464,267"/>
+<area shape="rect" id="node56" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="1925,237,2107,267"/>
+<area shape="rect" id="node66" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="1757,237,1901,267"/>
+<area shape="rect" id="node72" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="1205,237,1389,267"/>
+<area shape="rect" id="node78" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="1536,237,1683,267"/>
+<area shape="rect" id="node60" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="1705,315,1836,344"/>
+<area shape="rect" id="node89" href="$presentationParameters_8h.html" title="generatedParameters/presentationParameters.h" alt="" coords="1019,160,1352,189"/>
+<area shape="rect" id="node94" href="$stereoStyle_8h.html" title="stereoStyle.h" alt="" coords="1024,237,1131,267"/>
+<area shape="rect" id="node96" href="$flowStyle_8h.html" title="flowStyle.h" alt="" coords="779,237,869,267"/>
+<area shape="rect" id="node98" href="$outputStyle_8h.html" title="outputStyle.h" alt="" coords="893,237,1000,267"/>
+</map>

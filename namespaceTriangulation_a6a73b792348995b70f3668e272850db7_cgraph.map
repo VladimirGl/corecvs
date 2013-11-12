@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespaceTriangulation.html#a6bacdcc5b47e8f998db5e880477c5614" title="Triangulation::classify" alt="" coords="220,59,375,88"/>
+<area shape="rect" id="node5" href="$classTriangulation_1_1Point.html#ac51a33cef7462faf25a03a5f8eaa127c" title="Triangulation::Point::length" alt="" coords="425,5,615,35"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="445,59,595,88"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="445,112,595,141"/>
+<area shape="rect" id="node7" href="$algebra_8c.html#ac35612b9ebd9e49d567a4ec9041d998c" title="getLengthStable" alt="" coords="664,5,792,35"/>
+</map>

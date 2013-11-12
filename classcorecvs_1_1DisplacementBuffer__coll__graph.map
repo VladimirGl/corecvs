@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1AbstractContiniousBuffer.html" title="This template class describes a buffer for which it is possible to interpolate the result between cel..." alt="" coords="271,277,449,307"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1AbstractBuffer.html" title="This is a common buffer template." alt="" coords="184,197,536,227"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1AbstractBufferParams.html" title="This is a basis part of the AbstractBuffer template &#45; serializable buffer params." alt="" coords="5,101,224,131"/>
+<area shape="rect" id="node10" href="$classcorecvs_1_1ObjectRef.html" title="corecvs::ObjectRef\&lt; uint8_t \&gt;" alt="" coords="373,101,587,131"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1ObjectBlock.html" title="corecvs::ObjectBlock\&lt; uint8_t \&gt;" alt="" coords="367,5,593,35"/>
+<area shape="rect" id="node16" href="$classcorecvs_1_1DeformMap.html" title="corecvs::DeformMap\&lt; int32_t, double \&gt;" alt="" coords="473,277,751,307"/>
+</map>

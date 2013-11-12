@@ -1,0 +1,32 @@
+<map id="G" name="G">
+<area shape="rect" id="node62" href="$classFilterGraphPresentation.html" title="FilterGraphPresentation" alt="" coords="4260,447,4431,476"/>
+<area shape="rect" id="node2" href="$classFilterBlockPresentation.html" title="FilterBlockPresentation" alt="" coords="3409,180,3575,209"/>
+<area shape="rect" id="node4" href="$classDiagramItem.html" title="[0]" alt="" coords="2167,5,2273,35"/>
+<area shape="rect" id="node8" href="$classFilterPinPresentation.html" title="FilterPinPresentation" alt="" coords="2491,119,2643,148"/>
+<area shape="rect" id="node11" href="$classDiagramScene.html" title="DiagramScene" alt="" coords="2161,261,2279,291"/>
+<area shape="rect" id="node13" href="$classDiagramTextItem.html" title="DiagramTextItem" alt="" coords="1700,180,1831,209"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1FilterGraph.html" title="corecvs::FilterGraph" alt="" coords="1692,447,1839,476"/>
+<area shape="rect" id="node45" href="$classcorecvs_1_1FilterBlock.html" title="corecvs::FilterBlock" alt="" coords="2149,345,2291,375"/>
+<area shape="rect" id="node58" href="$classcorecvs_1_1CompoundFilter.html" title="corecvs::CompoundFilter" alt="" coords="2717,421,2896,451"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1FiltersCollection.html" title="corecvs::FiltersCollection" alt="" coords="1384,567,1563,596"/>
+<area shape="rect" id="node101" href="$classFilterPresentationsCollection.html" title="FilterPresentationsCollection" alt="" coords="1864,575,2067,604"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1FiltersCollection_1_1CompoundFilterType.html" title="corecvs::FiltersCollection::CompoundFilterType" alt="" coords="525,567,840,596"/>
+<area shape="rect" id="node25" title="STL class." alt="" coords="271,489,356,519"/>
+<area shape="rect" id="node29" href="$classcorecvs_1_1Statistics.html" title="corecvs::Statistics" alt="" coords="1025,441,1164,471"/>
+<area shape="rect" id="node27" title="STL class." alt="" coords="5,489,189,519"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1PreciseTimer.html" title="corecvs::PreciseTimer" alt="" coords="603,385,763,415"/>
+<area shape="rect" id="node35" href="$structcorecvs_1_1SingleStat.html" title="corecvs::SingleStat" alt="" coords="241,397,385,427"/>
+<area shape="rect" id="node42" href="$classcorecvs_1_1Pin.html" title="corecvs::Pin" alt="" coords="1045,261,1144,291"/>
+<area shape="rect" id="node53" href="$classFilterParametersControlWidgetBase.html" title="FilterParametersControlWidgetBase" alt="" coords="2928,71,3173,100"/>
+<area shape="rect" id="node64" href="$classtinyxml2_1_1XMLDocument.html" title="A Document binds together all the functionality." alt="" coords="3816,920,3992,949"/>
+<area shape="rect" id="node66" href="$classtinyxml2_1_1XMLNode.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM)..." alt="" coords="4273,1029,4417,1059"/>
+<area shape="rect" id="node69" href="$classtinyxml2_1_1StrPair.html" title="tinyxml2::StrPair" alt="" coords="3841,1120,3967,1149"/>
+<area shape="rect" id="node71" href="$classtinyxml2_1_1MemPool.html" title="tinyxml2::MemPool" alt="" coords="2980,920,3121,949"/>
+<area shape="rect" id="node74" href="$classtinyxml2_1_1MemPoolT.html" title="tinyxml2::MemPoolT\&lt; sizeof(XMLText) \&gt;" alt="" coords="3355,920,3629,949"/>
+<area shape="rect" id="node85" href="$classtinyxml2_1_1MemPoolT.html" title="tinyxml2::MemPoolT\&lt; sizeof(XMLComment) \&gt;" alt="" coords="3333,803,3651,832"/>
+<area shape="rect" id="node90" href="$classtinyxml2_1_1MemPoolT.html" title="tinyxml2::MemPoolT\&lt; sizeof(XMLAttribute) \&gt;" alt="" coords="3337,731,3647,760"/>
+<area shape="rect" id="node95" href="$classtinyxml2_1_1MemPoolT.html" title="tinyxml2::MemPoolT\&lt; sizeof(XMLElement) \&gt;" alt="" coords="3339,987,3645,1016"/>
+<area shape="rect" id="node77" href="$classtinyxml2_1_1DynArray.html" title="tinyxml2::DynArray\&lt; Block *, 10 \&gt;" alt="" coords="2929,813,3172,843"/>
+<area shape="rect" id="node79" href="$structtinyxml2_1_1MemPoolT_1_1Block.html" title="tinyxml2::MemPoolT\&lt; SIZE \&gt;::Block" alt="" coords="2441,813,2692,843"/>
+<area shape="rect" id="node81" href="$uniontinyxml2_1_1MemPoolT_1_1Chunk.html" title="tinyxml2::MemPoolT\&lt; SIZE \&gt;::Chunk" alt="" coords="2091,813,2349,843"/>
+</map>

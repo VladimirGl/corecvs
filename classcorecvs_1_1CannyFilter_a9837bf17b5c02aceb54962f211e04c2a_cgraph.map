@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="672,160,904,190"/>
+<area shape="rect" id="node5" href="$classCannyParameters.html#a3b01f7d59586dc7b6bd5444ec53d3b4f" title="CannyParameters::maximumThreshold" alt="" coords="316,54,585,83"/>
+<area shape="rect" id="node7" href="$classCannyParameters.html#a61953535eaf7aa2076c193ca9316ab8e" title="CannyParameters::minimumThreshold" alt="" coords="317,107,584,136"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1DerivativeBuffer.html#a6898d8e2c1eb1d7c0fb0ac6126a012ae" title="corecvs::DerivativeBuffer::nonMaximalSuppression" alt="" coords="279,160,623,190"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1CannyFilter.html#a77ab802d8a1f815decea71c35dc2b4ea" title="corecvs::CannyFilter::recursiveEdgeProver" alt="" coords="307,214,595,243"/>
+<area shape="rect" id="node15" href="$classCannyParameters.html#a61d10d6375d3f297b9b5395bc78e9de5" title="CannyParameters::shouldEdgeDetect" alt="" coords="320,267,581,296"/>
+</map>

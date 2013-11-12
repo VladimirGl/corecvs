@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1AbstractBuffer.html#ad4c21551df215fd88dc991b7135068ec" title="corecvs::AbstractBuffer::fillLineWithArgs" alt="" coords="517,5,792,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1Line2d.html#a2e5f496ec6b872a40d874a0fb44e29f6" title="Return a normalized copy of vector." alt="" coords="555,59,755,88"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="580,112,729,141"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Vector3d.html#aec83d9ad04107cd9c2bb11abf33128c0" title="Helper functions to access elements." alt="" coords="580,165,729,195"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="580,219,729,248"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1Vector3d.html#a940d88447f20fac800d1fa510c981275" title="corecvs::Vector3d::y" alt="" coords="580,272,729,301"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1Vector3d.html#a4587f5d4984576c5c4c2d44a4140ce3f" title="corecvs::Vector3d::z" alt="" coords="580,325,729,355"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Line2d.html#a2bc37f087a7499fa6b28bc870fb5fd85" title="Normalizes the normal vector without changing the line itself." alt="" coords="840,59,1032,88"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1VectorOperationsBase.html#acfcd4bcc60d1d076b00afcfeba9f9e8b" title="Euclidean distance." alt="" coords="1233,5,1513,35"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1Line2d.html#af2129b77f7bfa024b387a8d958deb1b3" title="corecvs::Line2d::normal" alt="" coords="1287,59,1460,88"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1VectorOperationsBase.html#aab7561ae71642d8763c871ad184b3a53" title="corecvs::VectorOperationsBase\&lt; Vector3d\&lt; ElementType \&gt;, ElementType \&gt;::operator/=" alt="" coords="1080,112,1667,141"/>
+</map>

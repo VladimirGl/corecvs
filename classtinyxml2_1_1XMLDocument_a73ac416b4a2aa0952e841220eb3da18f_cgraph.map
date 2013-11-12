@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLDocument.html#a2e57602756e197341711a4a0b84c52c5" title="Print the Document." alt="" coords="304,59,517,88"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1XMLDocument.html#ae38d194e47336e4c96677ac77e2ac5d4" title="tinyxml2::XMLDocument::SetError" alt="" coords="292,112,529,141"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLDocument.html#aa08503d24898bf9992ae5e5fb8b0cf87" title="Accept a hierarchical visit of the nodes in the TinyXML DOM." alt="" coords="579,59,808,88"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLNode.html#abba1df37581d89dccc45acdc55750ba2" title="Get the next (right) sibling node of this node." alt="" coords="856,5,1080,35"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLVisitor.html#acb3c22fc5f60eb9db98f533f2761f67d" title="Visit a document." alt="" coords="859,59,1077,88"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLVisitor.html#a170e9989cd046ba904f302d087e07086" title="Visit a document." alt="" coords="865,112,1071,141"/>
+</map>

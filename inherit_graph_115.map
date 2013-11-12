@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classcorecvs_1_1EulerAngles.html" title="Inside the project angles are in radians." alt="" coords="5,5,160,35"/>
+<area shape="rect" id="node3" href="$classcorecvs_1_1CameraAngles.html" title="As rotation depends on the order of application of the rotations of Euler angles this class specifies..." alt="" coords="208,5,381,35"/>
+</map>

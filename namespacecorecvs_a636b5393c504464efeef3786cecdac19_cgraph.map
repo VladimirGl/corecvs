@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1LUTable.html#aee9d83bd762e40c0989a7df3c09be0d1" title="corecvs::LUTable::approxF" alt="" coords="541,5,728,35"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1LUTGenerator.html#a833ac8f42db198de65c2cd709c207351" title="corecvs::LUTGenerator::deviations" alt="" coords="197,59,437,88"/>
+<area shape="rect" id="node10" href="$classcorecvs_1_1LUTGenerator.html#adfe31fea810f8b458ea765c800611d18" title="corecvs::LUTGenerator::generate" alt="" coords="201,112,433,141"/>
+<area shape="rect" id="node8" href="$classcorecvs_1_1SpeedupFunction.html#a6dd70c2e91b93d2db807c329e0159d27" title="corecvs::SpeedupFunction::f" alt="" coords="535,59,735,88"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1SpeedupFunction.html#a2dbd40ef05ae3491cdaa88ce9f0d4da3" title="corecvs::SpeedupFunction::getDomainLow" alt="" coords="489,112,780,141"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1SpeedupFunction.html#a2b0e285820c37e82b02c01e9b7817137" title="corecvs::SpeedupFunction::getDomainHigh" alt="" coords="487,165,783,195"/>
+</map>

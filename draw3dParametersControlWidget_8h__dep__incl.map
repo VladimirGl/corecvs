@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$coordinateFrame_8h.html" title="utils/3d/coordinateFrame.h" alt="" coords="617,83,809,112"/>
+<area shape="rect" id="node7" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="628,237,881,267"/>
+<area shape="rect" id="node9" href="$mesh3DScene_8h.html" title="utils/3d/mesh3DScene.h" alt="" coords="843,315,1021,344"/>
+<area shape="rect" id="node30" href="$draw3dParametersControlWidget_8cpp.html" title="utils/3d/generated/draw3dParametersControlWidget.cpp" alt="" coords="963,83,1341,112"/>
+<area shape="rect" id="node5" href="$coordinateFrame_8cpp.html" title="utils/3d/coordinateFrame.cpp" alt="" coords="581,160,787,189"/>
+<area shape="rect" id="node25" href="$treeSceneController_8h.html" title="utils/uis/cloudview/treeSceneController.h" alt="" coords="280,160,557,189"/>
+<area shape="rect" id="node13" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="671,392,940,421"/>
+<area shape="rect" id="node15" href="$scene3D_8cpp.html" title="Add Comment Here." alt="" coords="275,315,429,344"/>
+<area shape="rect" id="node18" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="453,315,717,344"/>
+<area shape="rect" id="node20" href="$scene3DMouse_8h.html" title="Add Comment Here." alt="" coords="5,315,251,344"/>
+<area shape="rect" id="node22" href="$scene3DMouse_8cpp.html" title="applications/base/scene3DMouse.cpp" alt="" coords="192,392,453,421"/>
+<area shape="rect" id="node11" href="$mesh3DScene_8cpp.html" title="utils/3d/mesh3DScene.cpp" alt="" coords="964,392,1156,421"/>
+<area shape="rect" id="node28" href="$treeSceneController_8cpp.html" title="utils/uis/cloudview/treeSceneController.cpp" alt="" coords="272,237,565,267"/>
+</map>

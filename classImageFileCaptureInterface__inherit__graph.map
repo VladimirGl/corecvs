@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$classAbstractFileCapture.html" title="AbstractFileCapture" alt="" coords="83,160,229,189"/>
+<area shape="rect" id="node11" href="$classFileCaptureInterface.html" title="This class implements the capture from a list of files." alt="" coords="253,160,403,189"/>
+<area shape="rect" id="node2" href="$classImageCaptureInterface.html" title="ImageCaptureInterface" alt="" coords="157,5,325,35"/>
+<area shape="rect" id="node7" href="$classFilePreciseCapture.html" title="FilePreciseCapture" alt="" coords="5,237,144,267"/>
+<area shape="rect" id="node9" href="$classOpenCvFileCapture.html" title="Capture video stream from avi file using OpenCV library." alt="" coords="168,237,309,267"/>
+</map>

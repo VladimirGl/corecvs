@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1FiltersCollection.html#a087f7b2eecbd12785f4ee52d2155245d" title="corecvs::FiltersCollection::saveCompoundFilters" alt="" coords="349,191,672,220"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLDocument.html#a3c335a700a43d7c363a393142a23f234" title="Create a new Element associated with this Document." alt="" coords="721,59,985,88"/>
+<area shape="rect" id="node19" href="$classtinyxml2_1_1XMLElement.html#a11943abf2d0831548c3790dd5d9f119c" title="Sets the named attribute to value." alt="" coords="729,164,977,193"/>
+<area shape="rect" id="node32" href="$classtinyxml2_1_1XMLNode.html#ae3b422e98914d6002ca99bb1d2837103" title="Add a child node as the last (right) child." alt="" coords="732,217,975,247"/>
+<area shape="rect" id="node36" href="$classtinyxml2_1_1XMLDocument.html#a73ac416b4a2aa0952e841220eb3da18f" title="Save the XML file to disk." alt="" coords="735,271,972,300"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1MemPoolT.html#aa9d785a48ffe6ea1be679bab13464486" title="tinyxml2::MemPoolT::Alloc" alt="" coords="1428,59,1615,88"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLElement.html#a97712009a530d8cb8a63bf705f02b4f1" title="Set the name of the element." alt="" coords="1075,7,1307,36"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLNode.html#a09dd68cf9eae137579f6e50f36487513" title="Set the Value of an XML node." alt="" coords="1417,5,1625,35"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1StrPair.html#a2baf6230e18333e02ab65d0897ee3941" title="tinyxml2::StrPair::SetInternedStr" alt="" coords="1697,5,1924,35"/>
+<area shape="rect" id="node17" href="$classtinyxml2_1_1StrPair.html#a1f82ec6b5bee35ee7466d8565e43b1de" title="tinyxml2::StrPair::SetStr" alt="" coords="1724,112,1897,141"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1StrPair.html#a80c1b3bd99bf62ae85c94a29ce537125" title="tinyxml2::StrPair::Reset" alt="" coords="1975,5,2143,35"/>
+<area shape="rect" id="node21" href="$classtinyxml2_1_1XMLElement.html#ac9d8fc849ec8acf46678217de011e896" title="tinyxml2::XMLElement::FindOrCreateAttribute" alt="" coords="1036,112,1345,141"/>
+<area shape="rect" id="node29" href="$classtinyxml2_1_1XMLAttribute.html#a406d2c4a13c7af99a65edb59dd9f7581" title="Set the attribute to a string value." alt="" coords="1396,219,1647,248"/>
+<area shape="rect" id="node23" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="1416,165,1627,195"/>
+<area shape="rect" id="node26" href="$classtinyxml2_1_1XMLAttribute.html#a469c2363600007f49e62a8048a362d57" title="tinyxml2::XMLAttribute::SetName" alt="" coords="1404,112,1639,141"/>
+<area shape="rect" id="node34" href="$classtinyxml2_1_1MemPool.html#ac5804dd1387b2e4de5eef710076a0db1" title="tinyxml2::MemPool::SetTracked" alt="" coords="1080,217,1301,247"/>
+<area shape="rect" id="node38" href="$classtinyxml2_1_1XMLDocument.html#ae38d194e47336e4c96677ac77e2ac5d4" title="tinyxml2::XMLDocument::SetError" alt="" coords="1072,324,1309,353"/>
+<area shape="rect" id="node40" href="$classtinyxml2_1_1XMLDocument.html#a2e57602756e197341711a4a0b84c52c5" title="Print the Document." alt="" coords="1084,271,1297,300"/>
+<area shape="rect" id="node42" href="$classtinyxml2_1_1XMLDocument.html#aa08503d24898bf9992ae5e5fb8b0cf87" title="Accept a hierarchical visit of the nodes in the TinyXML DOM." alt="" coords="1407,272,1636,301"/>
+<area shape="rect" id="node44" href="$classtinyxml2_1_1XMLVisitor.html#acb3c22fc5f60eb9db98f533f2761f67d" title="Visit a document." alt="" coords="1701,325,1920,355"/>
+<area shape="rect" id="node46" href="$classtinyxml2_1_1XMLNode.html#abba1df37581d89dccc45acdc55750ba2" title="Get the next (right) sibling node of this node." alt="" coords="1699,219,1923,248"/>
+<area shape="rect" id="node48" href="$classtinyxml2_1_1XMLVisitor.html#a170e9989cd046ba904f302d087e07086" title="Visit a document." alt="" coords="1708,272,1913,301"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classOpenCVSGMParametersControlWidget.html#a17bc5338cff0d2b92c429ed21a0c9466" title="OpenCVSGMParametersControlWidget::createParameters" alt="" coords="441,59,831,88"/>
+<area shape="rect" id="node5" href="$classWidgetLoader.html#af26226b345e783f1a39c28dcdfed26c8" title="WidgetLoader::loadParameters" alt="" coords="527,112,745,141"/>
+<area shape="rect" id="node9" href="$classOpenCVSGMParametersControlWidget.html#ac5c53c386e07db9343b2c75dfe6941a9" title="OpenCVSGMParametersControlWidget::setParameters" alt="" coords="452,299,820,328"/>
+<area shape="rect" id="node7" href="$classSettingsGetter.html#ad816b845b4cfc8323d3d559a0f6a13ae" title="SettingsGetter::settings" alt="" coords="984,5,1157,35"/>
+<area shape="rect" id="node11" href="$classOpenCVSGMParameters.html#ad02e8bd33420f53148c1cc55c752ecb5" title="OpenCVSGMParameters::preFilterCap" alt="" coords="940,59,1201,88"/>
+<area shape="rect" id="node13" href="$classOpenCVSGMParameters.html#a805aac1cc6998078919ddb8744e17a19" title="OpenCVSGMParameters::sADWindowSize" alt="" coords="928,112,1213,141"/>
+<area shape="rect" id="node15" href="$classOpenCVSGMParameters.html#a0030f4dda9ba169d2ccf7c1c6a62ba36" title="OpenCVSGMParameters::p1Multiplier" alt="" coords="941,165,1200,195"/>
+<area shape="rect" id="node17" href="$classOpenCVSGMParameters.html#acfc77bd066105829db5fed08b176d279" title="OpenCVSGMParameters::p2Multiplier" alt="" coords="941,219,1200,248"/>
+<area shape="rect" id="node19" href="$classOpenCVSGMParameters.html#af7ea24e66c7c2fe26948cb98b2a4bd97" title="OpenCVSGMParameters::minDisparity" alt="" coords="937,272,1204,301"/>
+<area shape="rect" id="node21" href="$classOpenCVSGMParameters.html#a1f22b4c1ce5995aa048b4d1b2799d49e" title="OpenCVSGMParameters::uniquenessRatio" alt="" coords="925,325,1216,355"/>
+<area shape="rect" id="node23" href="$classOpenCVSGMParameters.html#a35d59c99a0561bd586a18676276d7d1c" title="OpenCVSGMParameters::speckleWindowSize" alt="" coords="917,379,1224,408"/>
+<area shape="rect" id="node25" href="$classOpenCVSGMParameters.html#a8f777af012df1ce0ed23d9c6f1783a16" title="OpenCVSGMParameters::speckleRange" alt="" coords="933,432,1208,461"/>
+<area shape="rect" id="node27" href="$classOpenCVSGMParameters.html#ac7697b7c957b5f951dc66d785184026f" title="OpenCVSGMParameters::disp12MaxDiff" alt="" coords="933,485,1208,515"/>
+<area shape="rect" id="node29" href="$classOpenCVSGMParameters.html#acc43a1d1cf5b3f8dbb9d161da00e2b80" title="OpenCVSGMParameters::fullDP" alt="" coords="960,539,1181,568"/>
+<area shape="rect" id="node31" href="$classOpenCVSGMParametersControlWidget.html#ae850957bc5e45fd19611c8a3d5201a45" title="OpenCVSGMParametersControlWidget::paramsChanged" alt="" coords="880,592,1261,621"/>
+</map>

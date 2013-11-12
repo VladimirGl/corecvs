@@ -1,0 +1,36 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$filterPresentationsCollection_8h.html" title="filterPresentationsCollection.h" alt="" coords="656,83,867,112"/>
+<area shape="rect" id="node23" href="$filtersCollection_8h.html" title="filtersCollection.h" alt="" coords="71,315,201,344"/>
+<area shape="rect" id="node32" href="$inputBlockPresentation_8h.html" title="inputBlockPresentation.h" alt="" coords="891,83,1072,112"/>
+<area shape="rect" id="node35" href="$outputBlockPresentation_8h.html" title="outputBlockPresentation.h" alt="" coords="1096,83,1285,112"/>
+<area shape="rect" id="node38" href="$sobelParametersControlWidget_8h.html" title="sobelParametersControlWidget.h" alt="" coords="520,237,749,267"/>
+<area shape="rect" id="node47" href="$gainOffsetParametersControlWidget_8h.html" title="gainOffsetParametersControlWidget.h" alt="" coords="1687,83,1948,112"/>
+<area shape="rect" id="node54" href="$bitSelectorParametersControlWidget_8h.html" title="bitSelectorParametersControlWidget.h" alt="" coords="2636,83,2903,112"/>
+<area shape="rect" id="node61" href="$cannyParametersControlWidget_8h.html" title="cannyParametersControlWidget.h" alt="" coords="1219,237,1453,267"/>
+<area shape="rect" id="node69" href="$backgroundFilterParametersControlWidget_8h.html" title="backgroundFilterParametersControlWidget.h" alt="" coords="1656,237,1957,267"/>
+<area shape="rect" id="node77" href="$inputFilterParametersControlWidget_8h.html" title="inputFilterParametersControlWidget.h" alt="" coords="2717,237,2976,267"/>
+<area shape="rect" id="node85" href="$outputFilterParametersControlWidget_8h.html" title="outputFilterParametersControlWidget.h" alt="" coords="2168,83,2437,112"/>
+<area shape="rect" id="node92" href="$operationParametersControlWidget_8h.html" title="operationParametersControlWidget.h" alt="" coords="3003,237,3261,267"/>
+<area shape="rect" id="node101" href="$binarizeParametersControlWidget_8h.html" title="binarizeParametersControlWidget.h" alt="" coords="3285,237,3531,267"/>
+<area shape="rect" id="node109" href="$thickeningParametersControlWidget_8h.html" title="thickeningParametersControlWidget.h" alt="" coords="3555,237,3816,267"/>
+<area shape="rect" id="node117" href="$maskingParametersControlWidget_8h.html" title="maskingParametersControlWidget.h" alt="" coords="3840,237,4091,267"/>
+<area shape="rect" id="node5" href="$filterBlockPresentation_8h.html" title="filterBlockPresentation.h" alt="" coords="855,237,1031,267"/>
+<area shape="rect" id="node13" href="$compoundBlockPresentation_8h.html" title="compoundBlockPresentation.h" alt="" coords="656,160,872,189"/>
+<area shape="rect" id="node7" href="$filterParametersControlWidgetBase_8h.html" title="../filterParametersControlWidgetBase.h" alt="" coords="2137,315,2407,344"/>
+<area shape="rect" id="node11" href="$filterPinPresentation_8h.html" title="filterPinPresentation.h" alt="" coords="783,315,945,344"/>
+<area shape="rect" id="node9" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="2595,392,2824,421"/>
+<area shape="rect" id="node15" href="$compoundFilter_8h.html" title="compoundFilter.h" alt="" coords="173,237,304,267"/>
+<area shape="rect" id="node17" href="$filterBlock_8h.html" title="filterBlock.h" alt="" coords="188,392,284,421"/>
+<area shape="rect" id="node26" href="$tinyxml2_8h.html" title="tinyxml2.h" alt="" coords="5,392,93,421"/>
+<area shape="rect" id="node42" href="$sobelParameters_8h.html" title="generated/sobelParameters.h" alt="" coords="276,315,487,344"/>
+<area shape="rect" id="node50" href="$gainOffsetParameters_8h.html" title="generated/gainOffsetParameters.h" alt="" coords="1411,160,1653,189"/>
+<area shape="rect" id="node58" href="$bitSelectorParameters_8h.html" title="generated/bitSelectorParameters.h" alt="" coords="3024,160,3269,189"/>
+<area shape="rect" id="node64" href="$cannyParameters_8h.html" title="generated/cannyParameters.h" alt="" coords="969,315,1185,344"/>
+<area shape="rect" id="node72" href="$backgroundFilterParameters_8h.html" title="generated/backgroundFilterParameters.h" alt="" coords="1831,315,2113,344"/>
+<area shape="rect" id="node80" href="$inputFilterParameters_8h.html" title="generated/inputFilterParameters.h" alt="" coords="2431,315,2671,344"/>
+<area shape="rect" id="node87" href="$outputFilterParameters_8h.html" title="generated/outputFilterParameters.h" alt="" coords="2032,160,2283,189"/>
+<area shape="rect" id="node95" href="$operationParameters_8h.html" title="generated/operationParameters.h" alt="" coords="3185,315,3423,344"/>
+<area shape="rect" id="node104" href="$binarizeParameters_8h.html" title="generated/binarizeParameters.h" alt="" coords="3745,315,3972,344"/>
+<area shape="rect" id="node112" href="$thickeningParameters_8h.html" title="generated/thickeningParameters.h" alt="" coords="4284,315,4527,344"/>
+<area shape="rect" id="node120" href="$maskingParameters_8h.html" title="generated/maskingParameters.h" alt="" coords="4855,315,5087,344"/>
+</map>

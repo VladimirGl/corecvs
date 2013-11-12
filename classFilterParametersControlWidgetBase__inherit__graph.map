@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBackgroundFilterParametersControlWidget.html" title="BackgroundFilterParametersControlWidget" alt="" coords="301,5,592,35"/>
+<area shape="rect" id="node5" href="$classBinarizeParametersControlWidget.html" title="BinarizeParametersControlWidget" alt="" coords="329,59,564,88"/>
+<area shape="rect" id="node7" href="$classBitSelectorParametersControlWidget.html" title="BitSelectorParametersControlWidget" alt="" coords="320,112,573,141"/>
+<area shape="rect" id="node9" href="$classCannyParametersControlWidget.html" title="CannyParametersControlWidget" alt="" coords="335,165,559,195"/>
+<area shape="rect" id="node11" href="$classGainOffsetParametersControlWidget.html" title="GainOffsetParametersControlWidget" alt="" coords="321,219,572,248"/>
+<area shape="rect" id="node13" href="$classInputFilterParametersControlWidget.html" title="InputFilterParametersControlWidget" alt="" coords="324,272,569,301"/>
+<area shape="rect" id="node15" href="$classMaskingParametersControlWidget.html" title="MaskingParametersControlWidget" alt="" coords="328,325,565,355"/>
+<area shape="rect" id="node17" href="$classOpenCVFilterParametersControlWidget.html" title="OpenCVFilterParametersControlWidget" alt="" coords="313,379,580,408"/>
+<area shape="rect" id="node19" href="$classOperationParametersControlWidget.html" title="OperationParametersControlWidget" alt="" coords="323,432,571,461"/>
+<area shape="rect" id="node21" href="$classOutputFilterParametersControlWidget.html" title="OutputFilterParametersControlWidget" alt="" coords="317,485,576,515"/>
+<area shape="rect" id="node23" href="$classSobelParametersControlWidget.html" title="SobelParametersControlWidget" alt="" coords="336,539,557,568"/>
+<area shape="rect" id="node25" href="$classThickeningParametersControlWidget.html" title="ThickeningParametersControlWidget" alt="" coords="321,592,572,621"/>
+</map>

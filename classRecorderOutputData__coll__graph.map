@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classBaseOutputData.html" title="BaseOutputData" alt="" coords="1016,59,1144,88"/>
+<area shape="rect" id="node4" href="$classAbstractOutputData.html" title="An empty stub for the output data obtained as the result of the calculation." alt="" coords="691,5,840,35"/>
+<area shape="rect" id="node6" href="$classResultImage.html" title="ResultImage" alt="" coords="716,59,815,88"/>
+<area shape="rect" id="node10" href="$classResultLayerBase.html" title="ResultLayerBase" alt="" coords="35,59,160,88"/>
+<area shape="rect" id="node12" href="$classcorecvs_1_1Statistics.html" title="corecvs::Statistics" alt="" coords="1011,155,1149,184"/>
+<area shape="rect" id="node14" href="$classcorecvs_1_1PreciseTimer.html" title="corecvs::PreciseTimer" alt="" coords="685,112,845,141"/>
+<area shape="rect" id="node18" href="$structcorecvs_1_1SingleStat.html" title="corecvs::SingleStat" alt="" coords="351,129,495,159"/>
+<area shape="rect" id="node20" title="STL class." alt="" coords="380,201,465,231"/>
+<area shape="rect" id="node22" title="STL class." alt="" coords="5,201,189,231"/>
+</map>

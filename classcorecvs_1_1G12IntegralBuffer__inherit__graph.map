@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcorecvs_1_1IntegralBuffer.html" title="corecvs::IntegralBuffer\&lt; uint32_t, G12Buffer::InternalElementType, int32_t \&gt;" alt="" coords="5,160,512,189"/>
+<area shape="rect" id="node4" href="$classcorecvs_1_1AbstractBuffer.html" title="corecvs::AbstractBuffer\&lt; uint32_t, int32_t \&gt;" alt="" coords="107,83,411,112"/>
+<area shape="rect" id="node6" href="$classcorecvs_1_1AbstractBufferParams.html" title="This is a basis part of the AbstractBuffer template &#45; serializable buffer params." alt="" coords="149,5,368,35"/>
+</map>

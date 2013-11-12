@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1EllipticalApproximation.html#a2580df242d26a82a26dd73c19de38097" title="corecvs::EllipticalApproximation::addPoint" alt="" coords="349,84,635,114"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1EllipticalApproximation.html#aed6692ea93654d5815338dc0cb641773" title="corecvs::EllipticalApproximation::getCenter" alt="" coords="745,8,1039,38"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1EllipticalApproximation.html#a038a5393a340d98cdf6c7de34cae2c3a" title="This function computes eigenvector corresponding to largest eigenvalue ." alt="" coords="323,188,661,218"/>
+<area shape="rect" id="node18" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="1668,240,1817,270"/>
+<area shape="rect" id="node20" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="1668,368,1817,398"/>
+<area shape="rect" id="node30" href="$classcorecvs_1_1ModelToRadialCorrection.html#a45b9bd26898b785875acbde6beb3fca0" title="corecvs::ModelToRadialCorrection::getRadial" alt="" coords="1175,368,1476,398"/>
+<area shape="rect" id="node34" href="$classcorecvs_1_1Vector2d.html#a8b1b9448eba22543b2d6a405736f4089" title="corecvs::Vector2d::leftNormal" alt="" coords="387,526,597,555"/>
+<area shape="rect" id="node36" href="$classcorecvs_1_1RadialCorrection.html#a2f5fa4ae158f8e68bb31a9179d60c8a1" title="corecvs::RadialCorrection::map" alt="" coords="1216,422,1435,451"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1EllipticalApproximation.html#adb02d31a88acbeca21b8517e9ce059b0" title="Position of input points center." alt="" coords="1600,86,1885,115"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1EllipticalApproximation.html#a919283f3b1bd70699bd26d4814acbc97" title="Length of the axis are in fact square roots of the eigenvalues of the covariance matrix." alt="" coords="711,163,1073,192"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1EllipticalApproximation.html#a742ab54a7a28b619a9dc7639cd8b7937" title="corecvs::EllipticalApproximation::getPerAxisDeviationSquare" alt="" coords="1123,59,1528,88"/>
+<area shape="rect" id="node22" href="$classcorecvs_1_1EllipticalApproximation.html#ab175a05083269eb8e8348d31060cea5a" title="this function computes " alt="" coords="1192,214,1459,243"/>
+<area shape="rect" id="node16" href="$classcorecvs_1_1EllipticalApproximation.html#a1b57876ca04df6425373d909fa6dc2a2" title="corecvs::EllipticalApproximation::getMeanSquare" alt="" coords="1576,32,1909,62"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cannyFilter_8h.html" title="Add Comment Here." alt="" coords="231,83,401,112"/>
+<area shape="rect" id="node11" href="$cannyParameters_8cpp.html" title="core/xml/generated/cannyParameters.cpp" alt="" coords="425,83,716,112"/>
+<area shape="rect" id="node13" href="$cannyParametersControlWidget_8h.html" title="utils/filters/ui/cannyParametersControlWidget.h" alt="" coords="740,83,1057,112"/>
+<area shape="rect" id="node5" href="$cannyFilter_8cpp.html" title="Add Comment Here." alt="" coords="5,160,192,189"/>
+<area shape="rect" id="node7" href="$filtersCollection_8cpp.html" title="core/filters/filtersCollection.cpp" alt="" coords="216,160,432,189"/>
+<area shape="rect" id="node9" href="$filterSelector_8cpp.html" title="utils/filters/filterSelector.cpp" alt="" coords="487,160,684,189"/>
+<area shape="rect" id="node16" href="$filterPresentationsCollection_8cpp.html" title="utils/filters/graph/filterPresentationsCollection.cpp" alt="" coords="723,160,1059,189"/>
+<area shape="rect" id="node18" href="$cannyParametersControlWidget_8cpp.html" title="utils/filters/ui/cannyParametersControlWidget.cpp" alt="" coords="1083,160,1416,189"/>
+</map>

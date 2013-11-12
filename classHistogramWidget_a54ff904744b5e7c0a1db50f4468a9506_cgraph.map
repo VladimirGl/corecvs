@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classHistogramWidget.html#ad514c92171740129fa450649b1e40504" title="HistogramWidget::clickZoneEndChanged" alt="" coords="629,5,912,35"/>
+<area shape="rect" id="node5" href="$classHistogramWidget.html#afcdd018cda85774fbfa6e60c24553342" title="HistogramWidget::getBarByX" alt="" coords="668,60,873,89"/>
+<area shape="rect" id="node7" href="$classHistogramWidget.html#a3147cd79c64bcfcd4766ad7bc766ebe9" title="HistogramWidget::histogramBarClicked" alt="" coords="309,312,581,341"/>
+<area shape="rect" id="node9" href="$classHistogramWidget.html#aecccd9d4fc47a7bd6ac9e0cbc19fe55a" title="HistogramWidget::preZoneChanged" alt="" coords="645,116,896,145"/>
+<area shape="rect" id="node11" href="$classHistogramWidget.html#a647550b001053307b0b5cf385d2e6246" title="HistogramWidget::setZone" alt="" coords="348,107,543,136"/>
+<area shape="rect" id="node15" href="$classHistogramWidget.html#af646f6156f5ecf1e0d762638cdf2acb7" title="HistogramWidget::zoneStartChanged" alt="" coords="641,175,900,204"/>
+<area shape="rect" id="node17" href="$classHistogramWidget.html#a756668487c15603d40fcd657049bbf3c" title="HistogramWidget::zoneEndChanged" alt="" coords="645,239,896,268"/>
+<area shape="rect" id="node20" href="$classHistogramWidget.html#addc53e0ea50fa0624999a9f04e7aa93d" title="HistogramWidget::toAbsolute" alt="" coords="341,365,549,395"/>
+</map>

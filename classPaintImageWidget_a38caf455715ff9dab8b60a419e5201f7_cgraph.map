@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classPaintImageWidget.html#a9b074ac8272391aa314c411f2f5bce76" title="PaintImageWidget::currentPoint" alt="" coords="324,19,545,48"/>
+<area shape="rect" id="node11" href="$classQt2Core.html#a96d54637f9728d7eeee2914edfd09586" title="Qt2Core::Vector2ddFromQPoint" alt="" coords="324,72,545,101"/>
+<area shape="rect" id="node13" href="$classPaintImageWidget.html#a2dda95c20c181e3000f36c12819ad8d1" title="PaintImageWidget::widgetToImageF" alt="" coords="312,125,557,155"/>
+<area shape="rect" id="node5" href="$classCore2Qt.html#aba0bbf0c95a85d0ccaf52ff269d51031" title="Core2Qt::QPointFromVector2dd" alt="" coords="633,32,855,61"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="932,5,1081,35"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="932,59,1081,88"/>
+<area shape="rect" id="node15" href="$classQt2Core.html#a45349571a1266ef9ec95e07b94cab942" title="Qt2Core::Vector2ddFromQPointF" alt="" coords="629,99,859,128"/>
+<area shape="rect" id="node17" href="$classAdvancedImageWidget.html#aad0a7fa94488db2084f9135d3721dfb7" title="AdvancedImageWidget::widgetToImageF" alt="" coords="605,152,883,181"/>
+</map>

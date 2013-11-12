@@ -1,0 +1,35 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classtinyxml2_1_1XMLElement.html#a7bdebdf1888074087237f3dd03912740" title="Given an attribute name, Attribute() returns the value for the attribute of that name, or null if none exists." alt="" coords="761,191,988,220"/>
+<area shape="rect" id="node17" href="$classtinyxml2_1_1XMLNode.html#a60e923d13d7dc01f45ab90a2f948b02a" title="Get the first child node, or null if none exists." alt="" coords="408,755,616,784"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1FiltersCollection.html#a49429c845b634593c6350074e9c9c350" title="corecvs::FiltersCollection::getContainedBlocks" alt="" coords="356,533,668,563"/>
+<area shape="rect" id="node47" href="$classtinyxml2_1_1XMLNode.html#aab516e699567f75cc9ab2ef2eee501e8" title="Safely cast to an Element, or null." alt="" coords="1405,800,1624,829"/>
+<area shape="rect" id="node64" href="$classtinyxml2_1_1XMLElement.html#af86f05771c11a73a2896b662bb589ef5" title="Given an attribute name, IntAttribute() returns the value of the attribute interpreted as an integer..." alt="" coords="391,271,633,300"/>
+<area shape="rect" id="node74" href="$classtinyxml2_1_1XMLDocument.html#a2ebd4647a8af5fc6831b294ac26a150a" title="Load an XML file from disk." alt="" coords="757,612,992,641"/>
+<area shape="rect" id="node82" href="$classtinyxml2_1_1XMLNode.html#abba1df37581d89dccc45acdc55750ba2" title="Get the next (right) sibling node of this node." alt="" coords="400,808,624,837"/>
+<area shape="rect" id="node84" href="$classcorecvs_1_1FiltersCollection.html#a4151900da8dc46da3adede5b3913d932" title="corecvs::FiltersCollection::recalculateDependencies" alt="" coords="339,861,685,891"/>
+<area shape="rect" id="node5" href="$classtinyxml2_1_1XMLElement.html#aaf46b0799ea419e5d070ac9a357de48f" title="Query a specific attribute in the list." alt="" coords="1075,139,1325,168"/>
+<area shape="rect" id="node7" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="1409,165,1620,195"/>
+<area shape="rect" id="node14" href="$classtinyxml2_1_1XMLAttribute.html#adf884db24f469f8a99a14ae786d4ddd7" title="The value of the attribute." alt="" coords="1411,59,1619,88"/>
+<area shape="rect" id="node9" href="$classtinyxml2_1_1XMLAttribute.html#a631990ac0d176e38fc291b17b295a62d" title="The name of the attribute." alt="" coords="1408,112,1621,141"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="1716,245,1892,275"/>
+<area shape="rect" id="node21" href="$classtinyxml2_1_1XMLDocument.html#a1819bd34f540a7304c105a6232d25a1f" title="Parse an XML file from a character string." alt="" coords="765,533,984,563"/>
+<area shape="rect" id="node44" href="$classtinyxml2_1_1XMLDocument.html#abf0f9ac4c3aa5698a785937f71f7a69f" title="Return true if there was an error parsing the document." alt="" coords="1407,325,1623,355"/>
+<area shape="rect" id="node23" href="$classtinyxml2_1_1XMLNode.html#a0360085cc54df5bff85d5c5da13afdce" title="Delete all the children of this node." alt="" coords="1077,377,1323,407"/>
+<area shape="rect" id="node27" href="$classtinyxml2_1_1XMLDocument.html#adfc0e55c21a87d8a03d06b6be66d2172" title="tinyxml2::XMLDocument::InitDocument" alt="" coords="1065,665,1335,695"/>
+<area shape="rect" id="node29" href="$classtinyxml2_1_1XMLDocument.html#ae38d194e47336e4c96677ac77e2ac5d4" title="tinyxml2::XMLDocument::SetError" alt="" coords="1396,747,1633,776"/>
+<area shape="rect" id="node31" href="$classtinyxml2_1_1XMLUtil.html#a9333d20f2a34325b5115ca45849c4b2a" title="tinyxml2::XMLUtil::SkipWhiteSpace" alt="" coords="1080,431,1320,460"/>
+<area shape="rect" id="node35" href="$classtinyxml2_1_1XMLUtil.html#ae9bcb2bc3cd6475fdc644c8c17790555" title="tinyxml2::XMLUtil::ReadBOM" alt="" coords="1101,612,1299,641"/>
+<area shape="rect" id="node37" href="$classtinyxml2_1_1XMLNode.html#a7610d0f603e8b603d2078521811a23c1" title="tinyxml2::XMLNode::ParseDeep" alt="" coords="1089,508,1311,537"/>
+<area shape="rect" id="node25" href="$classtinyxml2_1_1XMLNode.html#a9546e242b6a4f232415befb1cfe0fdd4" title="tinyxml2::XMLNode::Unlink" alt="" coords="1420,219,1609,248"/>
+<area shape="rect" id="node33" href="$classtinyxml2_1_1XMLUtil.html#a24ba87b1d22528167a3d16c4f52096bf" title="tinyxml2::XMLUtil::IsUTF8Continuation" alt="" coords="1384,272,1645,301"/>
+<area shape="rect" id="node39" href="$classtinyxml2_1_1XMLDocument.html#a25827d1bec509ad566a107e5853ed040" title="tinyxml2::XMLDocument::Identify" alt="" coords="1400,536,1629,565"/>
+<area shape="rect" id="node49" href="$classtinyxml2_1_1XMLElement.html#a2e3d9f938307a05963d7c4b8cd55754e" title="tinyxml2::XMLElement::ClosingType" alt="" coords="1392,429,1637,459"/>
+<area shape="rect" id="node51" href="$classtinyxml2_1_1MemPool.html#ac5804dd1387b2e4de5eef710076a0db1" title="tinyxml2::MemPool::SetTracked" alt="" coords="1693,667,1915,696"/>
+<area shape="rect" id="node53" href="$classtinyxml2_1_1StrPair.html#affa1043e73a18f05d5d2faec055725a7" title="tinyxml2::StrPair::Empty" alt="" coords="1428,589,1601,619"/>
+<area shape="rect" id="node55" href="$classtinyxml2_1_1XMLNode.html#a7682be117e3b2b4ebfd517c1acaaadbf" title="The meaning of &#39;value&#39; changes for the specific type." alt="" coords="1421,483,1608,512"/>
+<area shape="rect" id="node60" href="$classtinyxml2_1_1XMLNode.html#ae3b422e98914d6002ca99bb1d2837103" title="Add a child node as the last (right) child." alt="" coords="1393,693,1636,723"/>
+<area shape="rect" id="node41" href="$classtinyxml2_1_1XMLText.html#ad080357d76ab7cc59d7651249949329d" title="Declare whether this should be CDATA or standard text." alt="" coords="1703,536,1905,565"/>
+<area shape="rect" id="node66" href="$classtinyxml2_1_1XMLElement.html#a8b92c729346aa8ea9acd59ed3e9f2378" title="Given an attribute name, QueryIntAttribute() returns XML_NO_ERROR, XML_WRONG_ATTRIBUTE_TYPE if the co..." alt="" coords="735,137,1015,167"/>
+<area shape="rect" id="node69" href="$classtinyxml2_1_1XMLAttribute.html#ad510a83c4ff2755844bb250b125d28ff" title="QueryIntAttribute interprets the attribute as an integer, and returns the value in the provided parem..." alt="" coords="1069,35,1331,64"/>
+<area shape="rect" id="node71" href="$classtinyxml2_1_1XMLUtil.html#ad4df4023d11ee3fca9689c49b9707323" title="tinyxml2::XMLUtil::ToInt" alt="" coords="1432,5,1597,35"/>
+</map>

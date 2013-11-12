@@ -1,0 +1,37 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$paintImageWidget_8h.html" title="paintImageWidget.h" alt="" coords="528,469,677,499"/>
+<area shape="rect" id="node84" href="$frames_8h.html" title="Add Comment Here." alt="" coords="1497,83,1575,112"/>
+<area shape="rect" id="node141" href="$correspondanceList_8h.html" title="Add Comment Here." alt="" coords="3504,315,3661,344"/>
+<area shape="rect" id="node11" href="$advancedImageWidget_8h.html" title="advancedImageWidget.h" alt="" coords="491,547,669,576"/>
+<area shape="rect" id="node57" href="$polygons_8h.html" title="Add Comment Here." alt="" coords="1936,547,2027,576"/>
+<area shape="rect" id="node18" href="$viAreaWidget_8h.html" title="viAreaWidget.h" alt="" coords="92,624,209,653"/>
+<area shape="rect" id="node23" href="$saveFlowSettings_8h.html" title="saveFlowSettings.h" alt="" coords="284,624,428,653"/>
+<area shape="rect" id="node30" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="1137,624,1367,653"/>
+<area shape="rect" id="node33" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="2639,933,2711,963"/>
+<area shape="rect" id="node37" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="2044,779,2137,808"/>
+<area shape="rect" id="node45" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="1493,701,1675,731"/>
+<area shape="rect" id="node48" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="1699,701,1843,731"/>
+<area shape="rect" id="node51" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="1064,701,1248,731"/>
+<area shape="rect" id="node54" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="1272,701,1419,731"/>
+<area shape="rect" id="node60" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="3688,779,3779,808"/>
+<area shape="rect" id="node71" href="$axisAlignedBoxParameters_8h.html" title="generated/axisAlignedBoxParameters.h" alt="" coords="2149,624,2424,653"/>
+<area shape="rect" id="node64" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="3504,856,3595,885"/>
+<area shape="rect" id="node69" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="3819,933,3923,963"/>
+<area shape="rect" id="node74" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="2317,701,2435,731"/>
+<area shape="rect" id="node80" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="2128,701,2243,731"/>
+<area shape="rect" id="node88" href="$g12Buffer_8h.html" title="This file holds the class description for 12 bit grayscale buffer." alt="" coords="2440,547,2533,576"/>
+<area shape="rect" id="node113" href="$imageCaptureInterface_8h.html" title="imageCaptureInterface.h" alt="" coords="2640,160,2821,189"/>
+<area shape="rect" id="node92" href="$abstractBuffer_8h.html" title="a header for AbstractBuffer.cpp" alt="" coords="2864,779,2987,808"/>
+<area shape="rect" id="node98" href="$abstractContiniousBuffer_8h.html" title="a header for AbstractContiniousBuffer.c" alt="" coords="2661,701,2851,731"/>
+<area shape="rect" id="node102" href="$fixedPointDisplace_8h.html" title="A header for fixedPointDisplace.c." alt="" coords="2803,624,2952,653"/>
+<area shape="rect" id="node107" href="$matrix33_8h.html" title="This file holds the header for the commonly used structure &#45; a 3 by 3 matrix." alt="" coords="3605,701,3696,731"/>
+<area shape="rect" id="node119" href="$rgb24Buffer_8h.html" title="a header for GRGB24buffer.cpp" alt="" coords="2677,237,2784,267"/>
+<area shape="rect" id="node125" href="$flowBuffer_8h.html" title="Add Comment Here." alt="" coords="3293,624,3387,653"/>
+<area shape="rect" id="node130" href="$punchedBufferOperations_8h.html" title="Add Comment Here." alt="" coords="3163,779,3360,808"/>
+<area shape="rect" id="node136" href="$flowVector_8h.html" title="a header for FlowVector.c" alt="" coords="3128,701,3227,731"/>
+<area shape="rect" id="node146" href="$floatFlowBuffer_8h.html" title="Add Comment Here." alt="" coords="2677,392,2803,421"/>
+<area shape="rect" id="node169" href="$projectiveTransform_8h.html" title="Add Comment Here." alt="" coords="3605,624,3763,653"/>
+<area shape="rect" id="node154" href="$kltGenerator_8h.html" title="Add Comment Here." alt="" coords="3075,469,3187,499"/>
+<area shape="rect" id="node161" href="$preciseInterpolationType_8h.html" title="preciseInterpolationType.h" alt="" coords="1867,701,2053,731"/>
+<area shape="rect" id="node163" href="$makePreciseParameters_8h.html" title="makePreciseParameters.h" alt="" coords="1936,624,2125,653"/>
+</map>

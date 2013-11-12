@@ -1,0 +1,38 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cloud_8h.html" title="core/clustering3d/cloud.h" alt="" coords="371,83,552,112"/>
+<area shape="rect" id="node84" href="$swarmPoint_8cpp.html" title="core/clustering3d/swarmPoint.cpp" alt="" coords="576,83,813,112"/>
+<area shape="rect" id="node5" href="$buffer3d_8h.html" title="core/buffers/buffer3d.h" alt="" coords="427,237,592,267"/>
+<area shape="rect" id="node9" href="$clustering3d_8h.html" title="core/clustering3d/clustering3d.h" alt="" coords="12,315,239,344"/>
+<area shape="rect" id="node13" href="$cloud_8cpp.html" title="core/clustering3d/cloud.cpp" alt="" coords="363,160,560,189"/>
+<area shape="rect" id="node15" href="$cloudCluster_8h.html" title="core/clustering3d/cloudCluster.h" alt="" coords="112,160,339,189"/>
+<area shape="rect" id="node21" href="$triangulator_8h.html" title="Add Comment Here." alt="" coords="835,160,1051,189"/>
+<area shape="rect" id="node7" href="$buffer3d_8cpp.html" title="core/buffers/buffer3d.cpp" alt="" coords="305,315,487,344"/>
+<area shape="rect" id="node11" href="$clustering3d_8cpp.html" title="core/clustering3d/clustering3d.cpp" alt="" coords="5,392,245,421"/>
+<area shape="rect" id="node17" href="$cloudCluster_8cpp.html" title="core/clustering3d/cloudCluster.cpp" alt="" coords="163,237,403,267"/>
+<area shape="rect" id="node24" href="$g12Buffer3d_8h.html" title="core/buffers/g12Buffer3d.h" alt="" coords="616,237,808,267"/>
+<area shape="rect" id="node28" href="$triangulator_8cpp.html" title="Add Comment Here." alt="" coords="1077,237,1309,267"/>
+<area shape="rect" id="node30" href="$universalRectifier_8h.html" title="Add Comment Here." alt="" coords="832,237,1053,267"/>
+<area shape="rect" id="node66" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="1625,237,1879,267"/>
+<area shape="rect" id="node78" href="$scene3DMouse_8h.html" title="Add Comment Here." alt="" coords="1343,315,1588,344"/>
+<area shape="rect" id="node26" href="$g12Buffer3d_8cpp.html" title="core/buffers/g12Buffer3d.cpp" alt="" coords="511,315,716,344"/>
+<area shape="rect" id="node32" href="$universalRectifier_8cpp.html" title="Add Comment Here." alt="" coords="1081,315,1319,344"/>
+<area shape="rect" id="node34" href="$camerasConfigParameters_8h.html" title="applications/base/camerasConfigParameters.h" alt="" coords="740,315,1057,344"/>
+<area shape="rect" id="node36" href="$baseCalculationThread_8h.html" title="applications/base/baseCalculationThread.h" alt="" coords="833,392,1127,421"/>
+<area shape="rect" id="node40" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="1140,469,1391,499"/>
+<area shape="rect" id="node64" href="$camerasConfigParameters_8cpp.html" title="applications/base/camerasConfigParameters.cpp" alt="" coords="476,392,809,421"/>
+<area shape="rect" id="node38" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="512,469,821,499"/>
+<area shape="rect" id="node58" href="$recorderThread_8h.html" title="applications/recorder/recorderThread.h" alt="" coords="845,469,1115,499"/>
+<area shape="rect" id="node42" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="1721,547,1985,576"/>
+<area shape="rect" id="node44" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="1415,624,1657,653"/>
+<area shape="rect" id="node46" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="1153,547,1380,576"/>
+<area shape="rect" id="node53" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="847,547,1113,576"/>
+<area shape="rect" id="node49" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="1148,624,1391,653"/>
+<area shape="rect" id="node51" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="836,624,1124,653"/>
+<area shape="rect" id="node56" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="532,624,812,653"/>
+<area shape="rect" id="node61" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="537,547,823,576"/>
+<area shape="rect" id="node68" href="$mesh3DScene_8h.html" title="utils/3d/mesh3DScene.h" alt="" coords="1663,315,1841,344"/>
+<area shape="rect" id="node72" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="1836,392,2105,421"/>
+<area shape="rect" id="node74" href="$scene3D_8cpp.html" title="Add Comment Here." alt="" coords="1865,315,2020,344"/>
+<area shape="rect" id="node80" href="$scene3DMouse_8cpp.html" title="applications/base/scene3DMouse.cpp" alt="" coords="1335,392,1596,421"/>
+<area shape="rect" id="node70" href="$mesh3DScene_8cpp.html" title="utils/3d/mesh3DScene.cpp" alt="" coords="1620,392,1812,421"/>
+</map>

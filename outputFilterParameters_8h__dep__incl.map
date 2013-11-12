@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$outputFilter_8h.html" title="core/filters/outputFilter.h" alt="" coords="252,83,428,112"/>
+<area shape="rect" id="node11" href="$outputFilterParameters_8cpp.html" title="core/xml/generated/outputFilterParameters.cpp" alt="" coords="452,83,775,112"/>
+<area shape="rect" id="node13" href="$outputFilterParametersControlWidget_8h.html" title="utils/filters/ui/outputFilterParametersControlWidget.h" alt="" coords="799,83,1151,112"/>
+<area shape="rect" id="node5" href="$filtersCollection_8cpp.html" title="core/filters/filtersCollection.cpp" alt="" coords="5,160,221,189"/>
+<area shape="rect" id="node7" href="$outputFilter_8cpp.html" title="core/filters/outputFilter.cpp" alt="" coords="245,160,435,189"/>
+<area shape="rect" id="node9" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="459,160,768,189"/>
+<area shape="rect" id="node15" href="$filterPresentationsCollection_8cpp.html" title="utils/filters/graph/filterPresentationsCollection.cpp" alt="" coords="800,160,1136,189"/>
+<area shape="rect" id="node17" href="$outputFilterParametersControlWidget_8cpp.html" title="utils/filters/ui/outputFilterParametersControlWidget.cpp" alt="" coords="1160,160,1528,189"/>
+</map>

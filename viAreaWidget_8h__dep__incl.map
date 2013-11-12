@@ -1,0 +1,39 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$g12Image_8h.html" title="utils/corestructs/g12Image.h" alt="" coords="843,160,1045,189"/>
+<area shape="rect" id="node42" href="$advancedImageWidget_8h.html" title="utils/uis/advancedImageWidget.h" alt="" coords="1640,83,1869,112"/>
+<area shape="rect" id="node65" href="$cloudViewDialog_8h.html" title="utils/uis/cloudview/cloudViewDialog.h" alt="" coords="3415,83,3668,112"/>
+<area shape="rect" id="node82" href="$textLabelWidget_8h.html" title="utils/uis/textLabelWidget.h" alt="" coords="2853,83,3040,112"/>
+<area shape="rect" id="node87" href="$viAreaWidget_8cpp.html" title="utils/viAreaWidget.cpp" alt="" coords="3064,83,3227,112"/>
+<area shape="rect" id="node89" href="$statisticsDialog_8h.html" title="applications/base/statistics/statisticsDialog.h" alt="" coords="2523,83,2829,112"/>
+<area shape="rect" id="node5" href="$g12Image_8cpp.html" title="utils/corestructs/g12Image.cpp" alt="" coords="305,237,524,267"/>
+<area shape="rect" id="node7" href="$distortionWidget_8cpp.html" title="utils/distortioncorrector/distortionWidget.cpp" alt="" coords="1751,237,2055,267"/>
+<area shape="rect" id="node9" href="$pointsRectificationWidget_8cpp.html" title="utils/uis/pointsRectificationWidget.cpp" alt="" coords="1441,315,1700,344"/>
+<area shape="rect" id="node11" href="$baseCalculationThread_8cpp.html" title="Implements a basic calculation thread that performs a simple transform on the captured frames and pro..." alt="" coords="5,315,315,344"/>
+<area shape="rect" id="node13" href="$imageResultLayer_8h.html" title="applications/base/layers/imageResultLayer.h" alt="" coords="548,237,849,267"/>
+<area shape="rect" id="node18" href="$recorderThread_8cpp.html" title="Implements a frame recording calculation thread based on BaseCalculationThread." alt="" coords="680,315,965,344"/>
+<area shape="rect" id="node20" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="2045,315,2296,344"/>
+<area shape="rect" id="node22" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="2716,392,2980,421"/>
+<area shape="rect" id="node40" href="$testbedMainWindow_8cpp.html" title="applications/testbed/testbedMainWindow.cpp" alt="" coords="1127,237,1433,267"/>
+<area shape="rect" id="node16" href="$imageResultLayer_8cpp.html" title="applications/base/layers/imageResultLayer.cpp" alt="" coords="339,315,656,344"/>
+<area shape="rect" id="node24" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="1783,469,2025,499"/>
+<area shape="rect" id="node26" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="2057,392,2284,421"/>
+<area shape="rect" id="node33" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="2327,392,2593,421"/>
+<area shape="rect" id="node29" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="2049,469,2292,499"/>
+<area shape="rect" id="node31" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="2316,469,2604,499"/>
+<area shape="rect" id="node36" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="2628,469,2908,499"/>
+<area shape="rect" id="node44" href="$distortionWidget_8h.html" title="utils/distortioncorrector/distortionWidget.h" alt="" coords="1901,160,2189,189"/>
+<area shape="rect" id="node48" href="$advancedImageWidget_8cpp.html" title="utils/uis/advancedImageWidget.cpp" alt="" coords="1632,160,1877,189"/>
+<area shape="rect" id="node50" href="$paintImageWidget_8h.html" title="utils/uis/paintImageWidget.h" alt="" coords="2213,160,2413,189"/>
+<area shape="rect" id="node59" href="$testbedMainWindow_8h.html" title="applications/testbed/testbedMainWindow.h" alt="" coords="1317,160,1608,189"/>
+<area shape="rect" id="node52" href="$paintImageWidget_8cpp.html" title="utils/uis/paintImageWidget.cpp" alt="" coords="2396,237,2612,267"/>
+<area shape="rect" id="node54" href="$pointsRectificationWidget_8h.html" title="utils/uis/pointsRectificationWidget.h" alt="" coords="2129,237,2372,267"/>
+<area shape="rect" id="node61" href="$main__testbed_8cpp.html" title="applications/testbed/main_testbed.cpp" alt="" coords="1457,237,1727,267"/>
+<area shape="rect" id="node67" href="$mesh3DScene_8h.html" title="utils/3d/mesh3DScene.h" alt="" coords="3211,160,3389,189"/>
+<area shape="rect" id="node71" href="$cloudViewDialog_8cpp.html" title="utils/uis/cloudview/cloudViewDialog.cpp" alt="" coords="3292,237,3561,267"/>
+<area shape="rect" id="node73" href="$scene3D_8cpp.html" title="Add Comment Here." alt="" coords="3464,160,3619,189"/>
+<area shape="rect" id="node77" href="$scene3DMouse_8h.html" title="Add Comment Here." alt="" coords="3693,160,3939,189"/>
+<area shape="rect" id="node79" href="$scene3DMouse_8cpp.html" title="applications/base/scene3DMouse.cpp" alt="" coords="3632,237,3893,267"/>
+<area shape="rect" id="node69" href="$mesh3DScene_8cpp.html" title="utils/3d/mesh3DScene.cpp" alt="" coords="3076,237,3268,267"/>
+<area shape="rect" id="node84" href="$textLabelWidget_8cpp.html" title="utils/uis/textLabelWidget.cpp" alt="" coords="2984,160,3187,189"/>
+<area shape="rect" id="node92" href="$statisticsDialog_8cpp.html" title="applications/base/statistics/statisticsDialog.cpp" alt="" coords="2587,160,2909,189"/>
+</map>

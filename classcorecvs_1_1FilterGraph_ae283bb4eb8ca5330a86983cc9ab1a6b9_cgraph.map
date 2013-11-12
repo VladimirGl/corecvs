@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcorecvs_1_1CompoundFilter.html#a1983bf6f2d5b20177ae214b749fab68f" title="corecvs::CompoundFilter::loadGraph" alt="" coords="355,539,608,569"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1FilterGraph.html#ad012b00d04eb4e04dd3b7deb68589498" title="corecvs::FilterGraph::clear" alt="" coords="720,329,907,358"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1CompoundFilter.html#a12f00af0f1f3b3893aafbb009b30298a" title="corecvs::CompoundFilter::deserialize" alt="" coords="687,382,940,411"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1FilterBlock.html#a7acb750ca3cdb060881cc1637fe2eab1" title="corecvs::FilterBlock::deserialize" alt="" coords="704,435,923,465"/>
+<area shape="rect" id="node48" href="$classtinyxml2_1_1XMLNode.html#a60e923d13d7dc01f45ab90a2f948b02a" title="Get the first child node, or null if none exists." alt="" coords="1373,437,1581,466"/>
+<area shape="rect" id="node58" href="$classcorecvs_1_1FilterBlock.html#a1705879f007b5963183d3148f2931c65" title="corecvs::FilterBlock::setInstanceName" alt="" coords="1024,487,1288,517"/>
+<area shape="rect" id="node62" href="$classcorecvs_1_1FilterGraph.html#ab1344a22fc153d0da002cbd1428cec14" title="corecvs::FilterGraph::loadFromFile" alt="" coords="696,591,931,621"/>
+<area shape="rect" id="node92" href="$classcorecvs_1_1CompoundFilter.html#aebec22ada41dfb57e0f08f7ab083c286" title="corecvs::CompoundFilter::serialize" alt="" coords="695,645,932,674"/>
+<area shape="rect" id="node94" href="$classcorecvs_1_1FilterBlock.html#a1034ffbdf38f3f531456aef69d2800d6" title="corecvs::FilterBlock::serialize" alt="" coords="1376,858,1579,887"/>
+<area shape="rect" id="node118" href="$classcorecvs_1_1CompoundFilter.html#a763da0dae69812778a9d93344de5cf16" title="corecvs::CompoundFilter::stealPinsFromGraph" alt="" coords="656,749,971,778"/>
+<area shape="rect" id="node11" href="$classtinyxml2_1_1XMLElement.html#a7bdebdf1888074087237f3dd03912740" title="Given an attribute name, Attribute() returns the value for the attribute of that name, or null if none exists." alt="" coords="2019,334,2245,363"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1FilterBlock.html#a0eb11c4ee962707458130e93862fd58d" title="corecvs::FilterBlock::deserializePins" alt="" coords="1033,230,1279,259"/>
+<area shape="rect" id="node29" href="$classtinyxml2_1_1XMLNode.html#aab516e699567f75cc9ab2ef2eee501e8" title="Safely cast to an Element, or null." alt="" coords="1685,386,1904,415"/>
+<area shape="rect" id="node33" href="$classtinyxml2_1_1XMLElement.html#af86f05771c11a73a2896b662bb589ef5" title="Given an attribute name, IntAttribute() returns the value of the attribute interpreted as an integer..." alt="" coords="1673,21,1916,50"/>
+<area shape="rect" id="node51" href="$classtinyxml2_1_1XMLNode.html#abba1df37581d89dccc45acdc55750ba2" title="Get the next (right) sibling node of this node." alt="" coords="1365,282,1589,311"/>
+<area shape="rect" id="node13" href="$classtinyxml2_1_1XMLElement.html#aaf46b0799ea419e5d070ac9a357de48f" title="Query a specific attribute in the list." alt="" coords="2343,335,2593,365"/>
+<area shape="rect" id="node15" href="$classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602" title="tinyxml2::XMLUtil::StringEqual" alt="" coords="2649,414,2860,443"/>
+<area shape="rect" id="node22" href="$classtinyxml2_1_1XMLAttribute.html#adf884db24f469f8a99a14ae786d4ddd7" title="The value of the attribute." alt="" coords="2651,283,2859,313"/>
+<area shape="rect" id="node17" href="$classtinyxml2_1_1XMLAttribute.html#a631990ac0d176e38fc291b17b295a62d" title="The name of the attribute." alt="" coords="2648,337,2861,366"/>
+<area shape="rect" id="node19" href="$classtinyxml2_1_1StrPair.html#ad87e3d11330f5e689ba1e7e54c023b57" title="tinyxml2::StrPair::GetStr" alt="" coords="2909,337,3085,366"/>
+<area shape="rect" id="node27" href="$classcorecvs_1_1Pin.html#ad65fe18db20910767afc5d2073105ebe" title="corecvs::Pin::deserialize" alt="" coords="1391,178,1564,207"/>
+<area shape="rect" id="node46" href="$classcorecvs_1_1FilterBlock.html#aa39ffac70731ffd26145a534e21c2cfc" title="corecvs::FilterBlock::PinById" alt="" coords="2033,231,2231,261"/>
+<area shape="rect" id="node31" href="$classcorecvs_1_1Pin.html#ab27e6f1da0d20afdecdbc281b8db8fc3" title="corecvs::Pin::setInstanceId" alt="" coords="1700,125,1889,154"/>
+<area shape="rect" id="node42" href="$classcorecvs_1_1FilterGraph.html#a86370ab61c4c1f78c1148ede7ecf786e" title="corecvs::FilterGraph::blockByName" alt="" coords="1673,178,1916,207"/>
+<area shape="rect" id="node44" href="$classcorecvs_1_1FilterBlock.html#aa9bb1d02a2d9789bd5c8b39b60acd807" title="corecvs::FilterBlock::outPinById" alt="" coords="1685,231,1904,261"/>
+<area shape="rect" id="node35" href="$classtinyxml2_1_1XMLElement.html#a8b92c729346aa8ea9acd59ed3e9f2378" title="Given an attribute name, QueryIntAttribute() returns XML_NO_ERROR, XML_WRONG_ATTRIBUTE_TYPE if the co..." alt="" coords="1992,178,2272,207"/>
+<area shape="rect" id="node38" href="$classtinyxml2_1_1XMLAttribute.html#ad510a83c4ff2755844bb250b125d28ff" title="QueryIntAttribute interprets the attribute as an integer, and returns the value in the provided parem..." alt="" coords="2337,205,2599,234"/>
+<area shape="rect" id="node64" href="$classtinyxml2_1_1XMLDocument.html#a2ebd4647a8af5fc6831b294ac26a150a" title="Load an XML file from disk." alt="" coords="1039,621,1273,650"/>
+<area shape="rect" id="node66" href="$classtinyxml2_1_1XMLNode.html#a0360085cc54df5bff85d5c5da13afdce" title="Delete all the children of this node." alt="" coords="1355,621,1600,650"/>
+<area shape="rect" id="node70" href="$classtinyxml2_1_1XMLDocument.html#adfc0e55c21a87d8a03d06b6be66d2172" title="tinyxml2::XMLDocument::InitDocument" alt="" coords="1343,674,1612,703"/>
+<area shape="rect" id="node72" href="$classtinyxml2_1_1XMLDocument.html#ae38d194e47336e4c96677ac77e2ac5d4" title="tinyxml2::XMLDocument::SetError" alt="" coords="1676,645,1913,674"/>
+<area shape="rect" id="node74" href="$classtinyxml2_1_1XMLUtil.html#a9333d20f2a34325b5115ca45849c4b2a" title="tinyxml2::XMLUtil::SkipWhiteSpace" alt="" coords="1357,778,1597,807"/>
+<area shape="rect" id="node78" href="$classtinyxml2_1_1XMLUtil.html#ae9bcb2bc3cd6475fdc644c8c17790555" title="tinyxml2::XMLUtil::ReadBOM" alt="" coords="1379,567,1576,597"/>
+<area shape="rect" id="node80" href="$classtinyxml2_1_1XMLNode.html#a7610d0f603e8b603d2078521811a23c1" title="tinyxml2::XMLNode::ParseDeep" alt="" coords="1367,514,1588,543"/>
+<area shape="rect" id="node68" href="$classtinyxml2_1_1XMLNode.html#a9546e242b6a4f232415befb1cfe0fdd4" title="tinyxml2::XMLNode::Unlink" alt="" coords="1700,591,1889,621"/>
+<area shape="rect" id="node76" href="$classtinyxml2_1_1XMLUtil.html#a24ba87b1d22528167a3d16c4f52096bf" title="tinyxml2::XMLUtil::IsUTF8Continuation" alt="" coords="1664,751,1925,781"/>
+<area shape="rect" id="node85" href="$classtinyxml2_1_1MemPool.html#ac5804dd1387b2e4de5eef710076a0db1" title="tinyxml2::MemPool::SetTracked" alt="" coords="2021,619,2243,649"/>
+<area shape="rect" id="node89" href="$classtinyxml2_1_1XMLNode.html#ae3b422e98914d6002ca99bb1d2837103" title="Add a child node as the last (right) child." alt="" coords="1673,698,1916,727"/>
+<area shape="rect" id="node96" href="$classtinyxml2_1_1XMLNode.html#add244bca368083fa29698db8dcf147ca" title="Get the XMLDocument that owns this XMLNode." alt="" coords="1673,858,1916,887"/>
+<area shape="rect" id="node98" href="$classcorecvs_1_1FilterBlock.html#ad92b1d273b91fd68b9b9b84d5f818df8" title="corecvs::FilterBlock::getTypeName" alt="" coords="1676,911,1913,941"/>
+<area shape="rect" id="node101" href="$classcorecvs_1_1FilterBlock.html#a499a8f55c721720ef6b3888f9765d1de" title="corecvs::FilterBlock::isOuterPin" alt="" coords="1687,965,1903,994"/>
+<area shape="rect" id="node103" href="$classtinyxml2_1_1XMLDocument.html#a3c335a700a43d7c363a393142a23f234" title="Create a new Element associated with this Document." alt="" coords="1663,1018,1927,1047"/>
+<area shape="rect" id="node109" href="$classtinyxml2_1_1XMLElement.html#a11943abf2d0831548c3790dd5d9f119c" title="Sets the named attribute to value." alt="" coords="1671,805,1919,834"/>
+<area shape="rect" id="node105" href="$classtinyxml2_1_1MemPoolT.html#aa9d785a48ffe6ea1be679bab13464486" title="tinyxml2::MemPoolT::Alloc" alt="" coords="2375,878,2561,907"/>
+<area shape="rect" id="node107" href="$classtinyxml2_1_1XMLElement.html#a97712009a530d8cb8a63bf705f02b4f1" title="Set the name of the element." alt="" coords="2016,1018,2248,1047"/>
+<area shape="rect" id="node111" href="$classtinyxml2_1_1XMLElement.html#ac9d8fc849ec8acf46678217de011e896" title="tinyxml2::XMLElement::FindOrCreateAttribute" alt="" coords="1977,831,2287,861"/>
+<area shape="rect" id="node115" href="$classtinyxml2_1_1XMLAttribute.html#a406d2c4a13c7af99a65edb59dd9f7581" title="Set the attribute to a string value." alt="" coords="2007,778,2257,807"/>
+<area shape="rect" id="node120" href="$classcorecvs_1_1CompoundFilter.html#a49fe3e853404605e578e33c267c35131" title="corecvs::CompoundFilter::addInputPin" alt="" coords="1025,749,1287,778"/>
+<area shape="rect" id="node122" href="$classcorecvs_1_1CompoundFilter.html#ad514acdcbefe510d072299d2a1f5521f" title="corecvs::CompoundFilter::addOutputPin" alt="" coords="1019,802,1293,831"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classSobelFilter.html#a860776a351bdf8d96ac5c5c7bf53dc6c" title="SobelFilter::getName" alt="" coords="251,5,405,35"/>
+<area shape="rect" id="node5" href="$classScaleFilter.html#a6051de6f0eda797f394cf9fade58c3de" title="ScaleFilter::getName" alt="" coords="251,59,405,88"/>
+<area shape="rect" id="node7" href="$classBitSelector.html#ad2c8fd1f7a183786ff3b2277d25e6f2c" title="BitSelector::getName" alt="" coords="248,112,408,141"/>
+<area shape="rect" id="node9" href="$classGainOffset.html#a315576efb29ef2a6836af1e934ca6a64" title="GainOffset::getName" alt="" coords="249,165,407,195"/>
+</map>

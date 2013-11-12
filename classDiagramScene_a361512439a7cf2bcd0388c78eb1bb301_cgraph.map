@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDiagramScene.html#ac4ecc61a6914932ec2694857a7e69e1e" title="DiagramScene::addArrow" alt="" coords="349,32,533,61"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1FilterGraph.html#a472f56a5c2d27b4a9782ea7ca758f171" title="corecvs::FilterGraph::breakConnection" alt="" coords="309,85,573,115"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1FilterGraph.html#a49ea6adbac532d8d1c8292ef6f71735e" title="corecvs::FilterGraph::connect" alt="" coords="339,139,544,168"/>
+<area shape="rect" id="node13" href="$classDiagramScene.html#a1f86678ec55e9cdd65befe409659eeb0" title="DiagramScene::graphChanged" alt="" coords="332,192,551,221"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1Pin.html#a12e484fa293b7fd8251a9b5d5ced48b1" title="corecvs::Pin::setPin" alt="" coords="369,245,513,275"/>
+<area shape="rect" id="node5" href="$classDiagramItem.html#a7eea98dfc6ec8956e0fb0e6e440fdcb0" title="DiagramItem::addArrow" alt="" coords="623,5,796,35"/>
+<area shape="rect" id="node7" href="$classArrow.html#ab7e7333a213b0eb310496b6f815e1824" title="Arrow::setColor" alt="" coords="651,59,768,88"/>
+</map>

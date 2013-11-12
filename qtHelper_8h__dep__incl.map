@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$qtHelper_8cpp.html" title="utils/qtHelper.cpp" alt="" coords="15,83,148,112"/>
+<area shape="rect" id="node5" href="$rectifyParametersControlWidget_8h.html" title="utils/rectifier/rectifyParametersControlWidget.h" alt="" coords="172,83,489,112"/>
+<area shape="rect" id="node27" href="$angleEditBox_8cpp.html" title="utils/widgets/angleEditBox.cpp" alt="" coords="513,83,727,112"/>
+<area shape="rect" id="node7" href="$rectifyParametersControlWidget_8cpp.html" title="utils/rectifier/rectifyParametersControlWidget.cpp" alt="" coords="5,160,339,189"/>
+<area shape="rect" id="node9" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="363,160,613,189"/>
+<area shape="rect" id="node11" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="111,237,375,267"/>
+<area shape="rect" id="node13" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="175,315,417,344"/>
+<area shape="rect" id="node15" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="449,237,676,267"/>
+<area shape="rect" id="node22" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="719,237,985,267"/>
+<area shape="rect" id="node18" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="441,315,684,344"/>
+<area shape="rect" id="node20" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="708,315,996,344"/>
+<area shape="rect" id="node25" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="1020,315,1300,344"/>
+</map>

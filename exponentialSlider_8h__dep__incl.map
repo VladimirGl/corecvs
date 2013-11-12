@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$filterGraphPresentation_8h.html" title="utils/filters/graph/filterGraphPresentation.h" alt="" coords="288,83,579,112"/>
+<area shape="rect" id="node27" href="$exponentialSlider_8cpp.html" title="utils/widgets/exponentialSlider.cpp" alt="" coords="603,83,843,112"/>
+<area shape="rect" id="node5" href="$diagramscene_8cpp.html" title="utils/filters/graph/diagramscene.cpp" alt="" coords="5,160,256,189"/>
+<area shape="rect" id="node7" href="$filterGraphPresentation_8cpp.html" title="utils/filters/graph/filterGraphPresentation.cpp" alt="" coords="280,160,587,189"/>
+<area shape="rect" id="node9" href="$baseHostDialog_8h.html" title="applications/base/baseHostDialog.h" alt="" coords="611,160,861,189"/>
+<area shape="rect" id="node11" href="$baseHostDialog_8cpp.html" title="Implements a basic host dialog that uses BaseCalculationThread to process captured data Extend or rei..." alt="" coords="359,237,623,267"/>
+<area shape="rect" id="node13" href="$main__vibase_8cpp.html" title="applications/base/main_vibase.cpp" alt="" coords="423,315,665,344"/>
+<area shape="rect" id="node15" href="$mainWindow_8h.html" title="applications/base/mainWindow.h" alt="" coords="697,237,924,267"/>
+<area shape="rect" id="node22" href="$recorderDialog_8h.html" title="Defines a recorder dialog class derived from BaseHostDialog." alt="" coords="967,237,1233,267"/>
+<area shape="rect" id="node18" href="$mainWindow_8cpp.html" title="applications/base/mainWindow.cpp" alt="" coords="689,315,932,344"/>
+<area shape="rect" id="node20" href="$main__virecorder_8cpp.html" title="applications/recorder/main_virecorder.cpp" alt="" coords="956,315,1244,344"/>
+<area shape="rect" id="node25" href="$recorderDialog_8cpp.html" title="Implements frame recording dialog based on BaseHostDialog." alt="" coords="1268,315,1548,344"/>
+</map>

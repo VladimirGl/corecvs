@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$paintImageWidget_8h.html" title="paintImageWidget.h" alt="" coords="748,83,897,112"/>
+<area shape="rect" id="node114" href="$painterHelpers_8h.html" title="Add Comment Here." alt="" coords="2440,160,2656,189"/>
+<area shape="rect" id="node129" href="$rgbColor_8h.html" title="a header for rgbColor.c" alt="" coords="2085,160,2170,189"/>
+<area shape="rect" id="node7" href="$advancedImageWidget_8h.html" title="advancedImageWidget.h" alt="" coords="410,315,589,344"/>
+<area shape="rect" id="node76" href="$polygons_8h.html" title="Add Comment Here." alt="" coords="928,160,1018,189"/>
+<area shape="rect" id="node14" href="$viAreaWidget_8h.html" title="viAreaWidget.h" alt="" coords="77,392,194,421"/>
+<area shape="rect" id="node19" href="$saveFlowSettings_8h.html" title="saveFlowSettings.h" alt="" coords="490,392,634,421"/>
+<area shape="rect" id="node26" href="$parametersControlWidgetBase_8h.html" title="parametersControlWidgetBase.h" alt="" coords="980,392,1209,421"/>
+<area shape="rect" id="node29" href="$global_8h.html" title="This file holds the global includes, mostly for debuging, tracing and profiling." alt="" coords="1858,624,1930,653"/>
+<area shape="rect" id="node33" href="$reflection_8h.html" title="a header for Reflection.c" alt="" coords="1278,547,1372,576"/>
+<area shape="rect" id="node47" href="$qSettingsSetter_8h.html" title="visitors/qSettingsSetter.h" alt="" coords="1106,469,1288,499"/>
+<area shape="rect" id="node57" href="$xmlSetter_8h.html" title="visitors/xmlSetter.h" alt="" coords="730,469,874,499"/>
+<area shape="rect" id="node63" href="$qSettingsGetter_8h.html" title="visitors/qSettingsGetter.h" alt="" coords="898,469,1082,499"/>
+<area shape="rect" id="node69" href="$xmlGetter_8h.html" title="visitors/xmlGetter.h" alt="" coords="560,469,706,499"/>
+<area shape="rect" id="node51" href="$basePathVisitor_8h.html" title="Add Comment Here." alt="" coords="857,547,988,576"/>
+<area shape="rect" id="node79" href="$vector3d_8h.html" title="A 3 component vector." alt="" coords="2017,237,2108,267"/>
+<area shape="rect" id="node100" href="$axisAlignedBoxParameters_8h.html" title="generated/axisAlignedBoxParameters.h" alt="" coords="1504,392,1778,421"/>
+<area shape="rect" id="node83" href="$vector2d_8h.html" title="Add Comment Here." alt="" coords="2278,315,2369,344"/>
+<area shape="rect" id="node88" href="$fixedVector_8h.html" title="This file holds the description of the commonly used template &#45; a vector with the fixed number of com..." alt="" coords="2154,392,2258,421"/>
+<area shape="rect" id="node91" href="$vectorOperations_8h.html" title="This file holds the operations that are commonly used with continuous linear data structures such as ..." alt="" coords="2088,469,2232,499"/>
+<area shape="rect" id="node103" href="$defaultSetter_8h.html" title="defaultSetter.h" alt="" coords="1586,469,1704,499"/>
+<area shape="rect" id="node108" href="$printerVisitor_8h.html" title="printerVisitor.h" alt="" coords="1728,469,1842,499"/>
+<area shape="rect" id="node125" href="$rectangle_8h.html" title="Add Comment Here." alt="" coords="2277,237,2370,267"/>
+<area shape="rect" id="node134" href="$mathUtils_8h.html" title="Add Comment Here." alt="" coords="1917,469,2013,499"/>
+</map>

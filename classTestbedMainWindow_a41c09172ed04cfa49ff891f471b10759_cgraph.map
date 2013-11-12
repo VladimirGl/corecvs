@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classTestbedMainWindow.html#ad8dc73893e9c50a4113b22a429af6109" title="TestbedMainWindow::updateViewImage" alt="" coords="275,139,544,168"/>
+<area shape="rect" id="node5" href="$classcorecvs_1_1AbstractBuffer.html#af38950daefa219f81a0e89ee186075f1" title="Checks if coordinate lies within the buffer area." alt="" coords="593,5,849,35"/>
+<area shape="rect" id="node7" href="$classcorecvs_1_1AbstractBuffer.html#a98f72526738a0c4ce8a0b72a3b5c28b9" title="The element getter." alt="" coords="605,59,837,88"/>
+<area shape="rect" id="node9" href="$classcorecvs_1_1RGBColor.html#a551378cc4e40775286d1200a21e3dfbc" title="corecvs::RGBColor::r" alt="" coords="645,112,797,141"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1RGBColor.html#a61bb42ad3c5af64582ba22408e8bc5c4" title="corecvs::RGBColor::g" alt="" coords="644,165,799,195"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1RGBColor.html#a28d1778710e5ade8ab275f8ef03cdaec" title="corecvs::RGBColor::b" alt="" coords="644,219,799,248"/>
+<area shape="rect" id="node15" href="$classAdvancedImageWidget.html#a365f213bdb320f2392d2693d6931abdd" title="AdvancedImageWidget::setImage" alt="" coords="604,272,839,301"/>
+<area shape="rect" id="node17" href="$classAdvancedImageWidget.html#aa69ecf8afc2c52de22ef54bef616c92a" title="AdvancedImageWidget::drawResized" alt="" coords="936,192,1189,221"/>
+<area shape="rect" id="node19" href="$classAdvancedImageWidget.html#a94f67b5bfc0bcf0c119c4e6011236faf" title="AdvancedImageWidget::recalculateZoomCenter" alt="" coords="899,245,1227,275"/>
+<area shape="rect" id="node23" href="$classAdvancedImageWidget.html#a09b13f3339f391764bd57dd8d06f3d4f" title="AdvancedImageWidget::recomputeRects" alt="" coords="923,299,1203,328"/>
+<area shape="rect" id="node27" href="$classAdvancedImageWidget.html#a722b91642b8f0f37a390edc76c3e645b" title="AdvancedImageWidget::saveFlowImage" alt="" coords="927,352,1199,381"/>
+<area shape="rect" id="node21" href="$classAdvancedImageWidget.html#a0660da1dfe71d556c2c97ca4759404d5" title="AdvancedImageWidget::notifyCenterPointChanged" alt="" coords="1276,245,1617,275"/>
+<area shape="rect" id="node25" href="$classAdvancedImageWidget.html#ab3c658a5e253eeef3929028a1e2e3082" title="AdvancedImageWidget::computeInputRect" alt="" coords="1301,299,1592,328"/>
+</map>

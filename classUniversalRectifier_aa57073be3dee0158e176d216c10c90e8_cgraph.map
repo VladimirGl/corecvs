@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classRectifyParameters.html#af3f392770679d187afa68d37d7b7cd5b" title="RectifyParameters::autoShift" alt="" coords="351,5,553,35"/>
+<area shape="rect" id="node5" href="$classRectifyParameters.html#a602b704499b3b4131798aed22bc45fd0" title="RectifyParameters::baselineLength" alt="" coords="331,59,573,88"/>
+<area shape="rect" id="node7" href="$classRectifyParameters.html#ac51719132366b3c6ab9023b534eaa6e7" title="RectifyParameters::computeEssential" alt="" coords="709,137,968,167"/>
+<area shape="rect" id="node9" href="$classUniversalRectifier.html#a64f3db97dde2339f8df2d160612728d1" title="UniversalRectifier::decomposeEssential" alt="" coords="317,267,587,296"/>
+<area shape="rect" id="node13" href="$classcorecvs_1_1Matrix33.html#a2a0f69195b6a28f87d39f7b4cb6711ad" title="Returning transposed matrix." alt="" coords="1047,215,1260,244"/>
+<area shape="rect" id="node15" href="$classcorecvs_1_1EssentialDecomposition.html#aa84682ff901ec37153e580a33300317e" title="Triangulation taking as input left and right 2D projective vectors of the pixel in left ( ) and right..." alt="" coords="688,371,989,400"/>
+<area shape="rect" id="node19" href="$classcorecvs_1_1Vector3d.html#aec83d9ad04107cd9c2bb11abf33128c0" title="Helper functions to access elements." alt="" coords="1319,317,1468,347"/>
+<area shape="rect" id="node23" href="$classcorecvs_1_1Vector3d.html#a4587f5d4984576c5c4c2d44a4140ce3f" title="corecvs::Vector3d::z" alt="" coords="1319,472,1468,501"/>
+<area shape="rect" id="node30" href="$classRectifyParameters.html#a50e0eee18bb2d7736204872f3384c07b" title="RectifyParameters::estimationMethod" alt="" coords="321,472,583,501"/>
+<area shape="rect" id="node32" href="$classRectifyParameters.html#a6dcdcd44697da5025660305991107cbc" title="RectifyParameters::filterMinimumLength" alt="" coords="315,525,589,555"/>
+<area shape="rect" id="node34" href="$classcorecvs_1_1EssentialEstimator_1_1CostFunction7to1.html#a8c93a9c214454fb9a2ca826d8709c3ac" title="corecvs::EssentialEstimator::CostFunction7to1::getCost" alt="" coords="265,579,639,608"/>
+<area shape="rect" id="node38" href="$classcorecvs_1_1CameraIntrinsics.html#af6f12d9ac50cb5997e0e680fcfffafb3" title="corecvs::CameraIntrinsics::getInvKMatrix33" alt="" coords="304,683,600,712"/>
+<area shape="rect" id="node40" href="$classcorecvs_1_1Vector2d.html#a944721c41f044c1388d9dc42ca899bce" title="corecvs::Vector2d::x" alt="" coords="764,655,913,684"/>
+<area shape="rect" id="node42" href="$classcorecvs_1_1Vector2d.html#ae1ea2ad4c0821001408bf963cffa8413" title="corecvs::Vector2d::y" alt="" coords="764,708,913,737"/>
+<area shape="rect" id="node44" href="$classcorecvs_1_1CorrespondanceList.html#a422dbd31b68da4ffcfff7b0dd508277d" title="corecvs::CorrespondanceList::getMeanDifference" alt="" coords="285,893,619,923"/>
+<area shape="rect" id="node46" href="$classcorecvs_1_1CorrespondanceList.html#aff61a4c1b2cc8cb6f60919eb799af632" title="corecvs::CorrespondanceList::getNormalizingTransform" alt="" coords="265,840,639,869"/>
+<area shape="rect" id="node55" href="$classcorecvs_1_1CorrespondanceList.html#ab5b0ded086b6cbd337034a5627386b84" title="corecvs::CorrespondanceList::getSize" alt="" coords="708,868,969,897"/>
+<area shape="rect" id="node57" href="$classUniversalRectifier.html#a3e7f47734cece63e1e5c962f83456db4" title="UniversalRectifier::getZ" alt="" coords="367,997,537,1027"/>
+<area shape="rect" id="node70" href="$classRectifyParameters.html#a5e67a107644275c91a14b57c848f0a21" title="RectifyParameters::guessShiftThreshold" alt="" coords="315,1051,589,1080"/>
+<area shape="rect" id="node72" href="$classUniversalRectifier.html#aa798aa7858b73a51af96bf0636a68c28" title="UniversalRectifier::iterativeMethod" alt="" coords="333,1104,571,1133"/>
+<area shape="rect" id="node78" href="$classcorecvs_1_1Matrix33.html#ae38482e004b7670a910628ab650c8141" title="corecvs::Matrix33::print" alt="" coords="753,1295,924,1324"/>
+<area shape="rect" id="node80" href="$classRectifyParameters.html#ac4ba3d2ee3806a82ff999f74c5592707" title="RectifyParameters::priorFocal" alt="" coords="736,1348,941,1377"/>
+<area shape="rect" id="node82" href="$classcorecvs_1_1CorrespondanceList.html#aa6371042dbdbc3efd77ca4a543f36112" title="corecvs::CorrespondanceList::makePrecise" alt="" coords="304,736,600,765"/>
+<area shape="rect" id="node86" href="$classUniversalRectifier.html#a7f0d4e74331f36ccb9b1f458e275e459" title="UniversalRectifier::manualMethod" alt="" coords="335,1208,569,1237"/>
+<area shape="rect" id="node89" href="$classRectifyParameters.html#acac0051b3f3e90da0bf37e3d4c63d0d5" title="RectifyParameters::normalise" alt="" coords="348,1312,556,1341"/>
+<area shape="rect" id="node91" href="$classcorecvs_1_1EssentialMatrix.html#a79d5938b0f4cbcd9607a2f1d1467718b" title="Calculating vectors for left and right nullspaces of the 3 by 3 matrix of rank 2." alt="" coords="327,1365,577,1395"/>
+<area shape="rect" id="node93" href="$classRectifyParameters.html#a8acbf7f1cc988f6ba7eea9201d487a3e" title="RectifyParameters::preShift" alt="" coords="355,1419,549,1448"/>
+<area shape="rect" id="node97" href="$classRectifyParameters.html#a112c65c0d742b8940bf2dc519293e174" title="RectifyParameters::priorFocal2" alt="" coords="345,1472,559,1501"/>
+<area shape="rect" id="node99" href="$classcorecvs_1_1DerivedCorrespondanceList.html#a41d451794361723547403d0e6be2776c" title="corecvs::DerivedCorrespondanceList::propagateData" alt="" coords="272,1525,632,1555"/>
+<area shape="rect" id="node101" href="$namespacecorecvs.html#a319a0d46c2f53180fd1c9c477718d8b1" title="Useful radian to degrees and back conversions." alt="" coords="383,1579,521,1608"/>
+<area shape="rect" id="node103" href="$classUniversalRectifier.html#a7ef2ae7b885732b95159fbf0baf3ad7f" title="UniversalRectifier::ransacMethod" alt="" coords="337,163,567,192"/>
+<area shape="rect" id="node106" href="$classcorecvs_1_1CorrespondanceList.html#a21d3c5896833143e920811b3a7edadb2" title="corecvs::CorrespondanceList::resetFlags" alt="" coords="312,1632,592,1661"/>
+<area shape="rect" id="node108" href="$classcorecvs_1_1DerivedCorrespondanceList.html#aad4c9878c2162a90e5691ff0bf09fa6d" title="corecvs::DerivedCorrespondanceList::toArrayOfPointers" alt="" coords="264,1685,640,1715"/>
+<area shape="rect" id="node110" href="$classcorecvs_1_1CorrespondanceList.html#a19d9c229c197ebf222bc9bb43e162830" title="corecvs::CorrespondanceList::transform" alt="" coords="313,1739,591,1768"/>
+<area shape="rect" id="node113" href="$classRectifyParameters.html#a9e7356bf082c06dc6a65b72b4449df16" title="RectifyParameters::useKLT" alt="" coords="359,1792,545,1821"/>
+<area shape="rect" id="node11" href="$classcorecvs_1_1EssentialMatrix.html#a1d0afd7a529847524e8806c8777d2bef" title="Calculating decomposition of essential matrix E in form ." alt="" coords="709,267,968,296"/>
+<area shape="rect" id="node17" href="$classcorecvs_1_1Matrix33.html#a2c9451edf48d8e58b40ceea8f0f667f0" title="Matrix construction via 3 columns." alt="" coords="1039,369,1268,399"/>
+<area shape="rect" id="node21" href="$classcorecvs_1_1Vector3d.html#a940d88447f20fac800d1fa510c981275" title="corecvs::Vector3d::y" alt="" coords="1319,395,1468,424"/>
+<area shape="rect" id="node25" href="$classcorecvs_1_1Matrix33.html#a303763def6e3cd4a08222e9fa8f6faae" title="This function returns an inverse of the matrix." alt="" coords="1073,524,1233,553"/>
+<area shape="rect" id="node36" href="$classcorecvs_1_1EssentialMatrix.html#ae342cbde213342e31537d48ed0103f93" title="The inliers calculation is as follows: ." alt="" coords="693,579,984,608"/>
+<area shape="rect" id="node50" href="$classcorecvs_1_1Matrix33.html#a594d90bc3706f4d73642faf9315e24b2" title="corecvs::Matrix33::ScaleProj" alt="" coords="739,761,939,791"/>
+<area shape="rect" id="node52" href="$classcorecvs_1_1Matrix33.html#a9848216933d001ad7fea0adb3b7d3212" title="This function returns a matrix with only shift components." alt="" coords="741,815,936,844"/>
+<area shape="rect" id="node59" href="$classRectifyParameters.html#af08dbee830641e8ca751be5527359f93" title="RectifyParameters::autoZ" alt="" coords="747,921,931,951"/>
+<area shape="rect" id="node62" href="$classcorecvs_1_1VectorOperationsBase.html#a7b9c5a3c775f0b9f5cc70bd390c9fd85" title="corecvs::VectorOperationsBase::println" alt="" coords="704,975,973,1004"/>
+<area shape="rect" id="node64" href="$classRectifyParameters.html#abc395455306cee87713722d558fa2647" title="RectifyParameters::zdirX" alt="" coords="751,1028,927,1057"/>
+<area shape="rect" id="node66" href="$classRectifyParameters.html#af40f29d09435f7c9717ab801e62cbe84" title="RectifyParameters::zdirY" alt="" coords="752,1081,925,1111"/>
+<area shape="rect" id="node68" href="$classRectifyParameters.html#a4da9d915231076afe24be3237708632b" title="RectifyParameters::zdirZ" alt="" coords="749,1135,928,1164"/>
+<area shape="rect" id="node74" href="$classcorecvs_1_1RGB24Buffer.html#abc609be3c25e3614285783385e53b7e9" title="This function implements the Bresenham algorithm." alt="" coords="705,1188,972,1217"/>
+<area shape="rect" id="node76" href="$classRectifyParameters.html#a3085bfebc6ff6fed5624db18f6f2d986" title="RectifyParameters::iterativeFactorSigma" alt="" coords="700,1241,977,1271"/>
+</map>
